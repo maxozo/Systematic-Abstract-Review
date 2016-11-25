@@ -1,0 +1,44 @@
+AU Contador-Troca, M
+   Alvarez-Barrientos, A
+   Merino, JM
+   Morales-Hernandez, A
+   Rodriguez, MI
+   Rey-Barroso, J
+   Barrasa, E
+   Cerezo-Guisado, MI
+   Catalina-Fernandez, I
+   Saenz-Santamaria, J
+   Oliver, FJ
+   Fernandez-Salguero, PM
+AF Contador-Troca, Maria
+   Alvarez-Barrientos, Alberto
+   Merino, Jaime M.
+   Morales-Hernandez, Antonio
+   Rodriguez, Maria I.
+   Rey-Barroso, Javier
+   Barrasa, Eva
+   Cerezo-Guisado, Maria I.
+   Catalina-Fernandez, Inmaculada
+   Saenz-Santamaria, Javier
+   Oliver, Francisco J.
+   Fernandez-Salguero, Pedro M.
+TI Dioxin receptor regulates aldehyde dehydrogenase to block melanoma
+   tumorigenesis and metastasis
+SO MOLECULAR CANCER
+AB Background: The dioxin (AhR) receptor can have oncogenic or tumor suppressor activities depending on the phenotype of the target cell. We have shown that AhR knockdown promotes melanoma primary tumorigenesis and lung metastasis in the mouse and that human metastatic melanomas had reduced AhR levels with respect to benign nevi.
+   Methods: Mouse melanoma B16F10 cells were engineered by retroviral transduction to stably downregulate AhR expression, Aldh1a1 expression or both. They were characterized for Aldh1a1 activity, stem cell markers and migration and invasion in vitro. Their tumorigenicity in vivo was analyzed using xenografts and lung metastasis assays as well as in vivo imaging.
+   Results: Depletion of aldehyde dehydrogenase 1a1 (Aldh1a1) impairs the pro-tumorigenic and pro-metastatic advantage of melanoma cells lacking AhR expression (sh-AhR). Thus, Aldh1a1 knockdown in sh-AhR cells (sh-AhR + sh-Aldh1a1) diminished their migration and invasion potentials and blocked tumor growth and metastasis to the lungs in immunocompetent AhR+/+ recipient mice. However, Aldh1a1 downmodulation in AhR-expressing B16F10 cells did not significantly affect tumor growth in vivo. Aldh1a1 knockdown reduced the high levels of CD133(+)/CD29(+)/CD44(+) cells, melanosphere size and the expression of the pluripotency marker Sox2 in sh-AhR cells. Interestingly, Sox2 increased Aldh1a1 expression in sh-AhR but not in sh-AhR + sh-Aldh1a1 cells, suggesting that Aldh1a1 and Sox2 may be co-regulated in melanoma cells. In vivo imaging revealed that mice inoculated with AhR + Aldh1a1 knockdown cells had reduced tumor burden and enhanced survival than those receiving Aldh1a1-expressing sh-AhR cells.
+   Conclusions: Aldh1a1 overactivation in an AhR-deficient background enhances melanoma progression. Since AhR may antagonize the protumoral effects of Aldh1a1, the AhR(low)-Aldh1a1(high) phenotype could be indicative of bad outcome in melanoma.
+RI Fernandez-Salguero, Pedro M./J-8437-2014
+OI Merino, Jaime M./0000-0002-5316-9200; Fernandez-Salguero, Pedro
+   M./0000-0003-2839-5027
+SN 1476-4598
+PD AUG 5
+PY 2015
+VL 14
+AR 148
+DI 10.1186/s12943-015-0419-9
+UT WOS:000358907100001
+PM 26242870
+ER
+

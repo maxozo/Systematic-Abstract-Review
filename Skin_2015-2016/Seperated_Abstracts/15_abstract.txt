@@ -1,0 +1,32 @@
+AU Zappia, KJ
+   Garrison, SR
+   Palygin, O
+   Weyer, AD
+   Barabas, ME
+   Lawlor, MW
+   Staruschenko, A
+   Stucky, CL
+AF Zappia, Katherine J.
+   Garrison, Sheldon R.
+   Palygin, Oleg
+   Weyer, Andy D.
+   Barabas, Marie E.
+   Lawlor, Michael W.
+   Staruschenko, Alexander
+   Stucky, Cheryl L.
+TI Mechanosensory and ATP Release Deficits following Keratin14-Cre-Mediated
+   TRPA1 Deletion Despite Absence of TRPA1 in Murine Keratinocytes
+SO PLOS ONE
+AB Keratinocytes are the first cells that come into direct contact with external tactile stimuli; however, their role in touch transduction in vivo is not clear. The ion channel Transient Receptor Potential Ankyrin 1 (TRPA1) is essential for some mechanically-gated currents in sensory neurons, amplifies mechanical responses after inflammation, and has been reported to be expressed in human and mouse skin. Other reports have not detected Trpa1 mRNA transcripts in human or mouse epidermis. Therefore, we set out to determine whether selective deletion of Trpa1 from keratinocytes would impact mechanosensation. We generated K14Cre-Trpa1(fl/fl) mice lacking TRPA1 in K14-expressing cells, including keratinocytes. Surprisingly, Trpa1 transcripts were very poorly detected in epidermis of these mice or in controls, and detection was minimal enough to preclude observation of Trpa1 mRNA knockdown in the K14Cre-Trpa1(fl/fl) mice. Unexpectedly, these K14Cre-Trpa1(fl/fl) mice nonetheless exhibited a pronounced deficit in mechanosensitivity at the behavioral and primary afferent levels, and decreased mechanically-evoked ATP release from skin. Overall, while these data suggest that the intended targeted deletion of Trpa1 from keratin 14-expressing cells of the epidermis induces functional deficits in mechanotransduction and ATP release, these deficits are in fact likely due to factors other than reduction of Trpa1 expression in adult mouse keratinocytes because they express very little, if any, Trpa1.
+OI Zappia, Katherine/0000-0002-4419-4834
+SN 1932-6203
+PD MAR 15
+PY 2016
+VL 11
+IS 3
+AR e0151602
+DI 10.1371/journal.pone.0151602
+UT WOS:000372572800094
+PM 26978657
+ER
+

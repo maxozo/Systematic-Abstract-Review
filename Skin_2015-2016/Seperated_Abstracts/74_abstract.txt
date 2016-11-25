@@ -1,0 +1,49 @@
+AU Dorgham, K
+   Amoura, Z
+   Parizot, C
+   Arnaud, L
+   Frances, C
+   Pionneau, C
+   Devilliers, H
+   Pinto, S
+   Zoorob, R
+   Miyara, M
+   Larsen, M
+   Yssel, H
+   Gorochov, G
+   Mathian, A
+AF Dorgham, Karim
+   Amoura, Zahir
+   Parizot, Christophe
+   Arnaud, Laurent
+   Frances, Camille
+   Pionneau, Cedric
+   Devilliers, Herve
+   Pinto, Sandra
+   Zoorob, Rima
+   Miyara, Makoto
+   Larsen, Martin
+   Yssel, Hans
+   Gorochov, Guy
+   Mathian, Alexis
+TI Ultraviolet light converts propranolol, a nonselective beta-blocker and
+   potential lupus-inducing drug, into a proinflammatory AhR ligand
+SO EUROPEAN JOURNAL OF IMMUNOLOGY
+AB UV light and some medications are known to trigger lupus erythematosus (LE). A common mechanism underlying the immunopathologic effect, resulting from exposure to these two seemingly unrelated factors, remains unknown. The aryl hydrocarbon receptor (AhR) plays a key role in the regulation of IL-22 production in humans and can be activated by both xenobiotics and naturally occurring photoproducts. A significant expansion of Th17 and Th22 cells was observed in the peripheral blood of active systemic LE (SLE) patients, compared to inactive patients and controls. We also show that propranolol, a potential lupus-inducing drug, induced stronger AhR activation in PBMCs of SLE patients than in those of controls. AhR agonist activity of propranolol was enhanced by UV light exposure. MS analysis of irradiated propranolol revealed the generation of a proinflammatory photoproduct. This compound behaves like the prototypic AhR ligand 6-formylindolo[ 3,2-b] carbazole, a cutaneous UV light-induced tryptophan metabolite, both promoting IL-22, IL-8, and CCL2 secretion by T-cells and macrophages. Finally, LE patients exhibit signs of cutaneous AhR activation that correlate with lesional expression of the same proinflammatory cytokines, suggesting a role for photometabolites in the induction of skin inflammation. The AhR might therefore represent a target for therapeutic intervention in LE.
+RI Dorgham, karim/A-2241-2016; Devilliers, Herve/I-5464-2016; Yssel,
+   Hans/C-6406-2009; LARSEN, Martin/A-7316-2014
+OI Dorgham, karim/0000-0001-9539-3203; Yssel, Hans/0000-0001-7454-1836;
+   LARSEN, Martin/0000-0003-1375-4816
+SN 0014-2980
+EI 1521-4141
+PD NOV
+PY 2015
+VL 45
+IS 11
+BP 3174
+EP 3187
+DI 10.1002/eji.201445144
+UT WOS:000366401000023
+PM 26354876
+ER
+

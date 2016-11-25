@@ -1,0 +1,33 @@
+AU Csosz, E
+   Emri, G
+   Kallo, G
+   Tsaprailis, G
+   Tozser, J
+AF Csosz, E.
+   Emri, G.
+   Kallo, G.
+   Tsaprailis, G.
+   Tozser, J.
+TI Highly abundant defense proteins in human sweat as revealed by targeted
+   proteomics and label-free quantification mass spectrometry
+SO JOURNAL OF THE EUROPEAN ACADEMY OF DERMATOLOGY AND VENEREOLOGY
+AB Background The healthy human skin with its effective antimicrobial defense system forms an efficient barrier against invading pathogens. There is evidence suggesting that the composition of this chemical barrier varies between diseases, making the easily collected sweat an ideal candidate for biomarker discoveries.
+   Objective Our aim was to provide information about the normal composition of the sweat, and to study the chemical barrier found at the surface of skin.
+   Methods Sweat samples from healthy individuals were collected during sauna bathing, and the global protein panel was analysed by label-free mass spectrometry. SRM-based targeted proteomic methods were designed and stable isotope labelled reference peptides were used for method validation.
+   Results Ninety-five sweat proteins were identified, 20 of them were novel proteins. It was shown that dermcidin is the most abundant sweat protein, and along with apolipoprotein D, clusterin, prolactin-inducible protein and serum albumin, they make up 91% of secreted sweat proteins. The roles of these highly abundant proteins were reviewed; all of which have protective functions, highlighting the importance of sweat glands in composing the first line of innate immune defense system, and maintaining the epidermal barrier integrity.
+   Conclusion Our findings with regard to the proteins forming the chemical barrier of the skin as determined by label-free quantification and targeted proteomics methods are in accordance with previous studies, and can be further used as a starting point for non-invasive sweat biomarker research.
+RI Tozser, Jozsef/A-7840-2008
+OI Tozser, Jozsef/0000-0003-0274-0056
+SN 0926-9959
+EI 1468-3083
+PD OCT
+PY 2015
+VL 29
+IS 10
+BP 2024
+EP 2031
+DI 10.1111/jdv.13221
+UT WOS:000363982500022
+PM 26307449
+ER
+

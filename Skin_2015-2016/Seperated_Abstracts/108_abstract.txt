@@ -1,0 +1,40 @@
+AU Verbeek, FPR
+   Tummers, QRJG
+   Rietbergen, DDD
+   Peters, AAW
+   Schaafsma, BE
+   van de Velde, CJH
+   Frangioni, JV
+   van Leeuwen, FWB
+   Gaarenstroom, KN
+   Vahrmeijer, AL
+AF Verbeek, Floris P. R.
+   Tummers, Quirijn R. J. G.
+   Rietbergen, Daphne D. D.
+   Peters, Alexander A. W.
+   Schaafsma, Boudewijn E.
+   van de Velde, Cornelis J. H.
+   Frangioni, John V.
+   van Leeuwen, Fijs W. B.
+   Gaarenstroom, Katja N.
+   Vahrmeijer, Alexander L.
+TI Sentinel Lymph Node Biopsy in Vulvar Cancer Using Combined Radioactive
+   and Fluorescence Guidance
+SO INTERNATIONAL JOURNAL OF GYNECOLOGICAL CANCER
+AB Objective Near-infrared (NIR) fluorescence imaging using indocyanine green (ICG) has recently been introduced to improve the sentinel lymph node (SLN) procedure. Several optical tracers have been successfully tested. However, the optimal tracer formulation is still unknown. This study evaluates the performance of ICG-technetium-99m (Tc-99m)-nanocolloid in relation to 2 most commonly used ICG-based formulas during SLN biopsy in vulvar cancer.
+   Methods and Materials Twelve women who planned to undergo SLN biopsy for stage I vulvar cancer were prospectively included. Sentinel lymph node mapping was performed using the dual-modality radioactive and NIR fluorescence tracer ICG-Tc-99m-nanocolloid. All patients underwent combined SLN localization using NIR fluorescence and the (current) gold standard using blue dye and radioactive guidance.
+   Results In all 12 patients, at least 1 SLN was detected during surgery. A total of 21 lymph nodes (median 2; range, 1-3) were resected. Median time between skin incision and first SLN detection was 8 (range, 1-22) minutes. All resected SLNs were both radioactive and fluorescent, although only 13 (62%) of 21 SLNs stained blue. Median brightness of exposed SLNs, expressed as signal-to-background ratio, was 5.4 (range, 1.8-11.8). Lymph node metastases were found in 3 patients.
+   Conclusions Near-infrared fluorescence-guided SLN mapping is feasible and outperforms blue dye staining. Premixing ICG with Tc-99m-nanocolloid provides real-time intraoperative imaging of the SN and seems to be the optimal tracer combination in terms of intraoperative detection rate of the SN (100%). Moreover, ICG-Tc-99m-nanocolloid allows the administration of a 5-times lower injected dose of ICG (compared with ICG and ICG absorbed to human serum albumin) and can be injected up to 20 hours before surgery.
+SN 1048-891X
+EI 1525-1438
+PD JUL
+PY 2015
+VL 25
+IS 6
+BP 1086
+EP 1093
+DI 10.1097/IGC.0000000000000419
+UT WOS:000357286900021
+PM 25768079
+ER
+

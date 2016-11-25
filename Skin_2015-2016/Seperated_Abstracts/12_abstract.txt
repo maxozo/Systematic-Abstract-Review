@@ -1,0 +1,33 @@
+AU Wang, YW
+   Simanainen, U
+   Cheer, K
+   Suarez, FG
+   Gao, YR
+   Li, Z
+   Handelsman, D
+   Maitz, P
+AF Wang, Yiwei
+   Simanainen, Ulla
+   Cheer, Kenny
+   Suarez, Francia G.
+   Gao, Yan Ru
+   Li, Zhe
+   Handelsman, David
+   Maitz, Peter
+TI Androgen actions in mouse wound healing: Minimal in vivo effects of
+   local antiandrogen delivery
+SO WOUND REPAIR AND REGENERATION
+AB The aims of this work were to define the role of androgens in female wound healing and to develop and characterize a novel wound dressing with antiandrogens. Androgens retard wound healing in males, but their role in female wound healing has not been established. To understand androgen receptor (AR)-mediated androgen actions in male and female wound healing, we utilized the global AR knockout (ARKO) mouse model, with a mutated AR deleting the second zinc finger to disrupt DNA binding and transcriptional activation. AR inactivation enhanced wound healing rate in males by increasing re-epithelialization and collagen deposition even when wound contraction was eliminated. Cell proliferation and migration in ARKO male fibroblasts was significantly increased compared with wild-type (WT) fibroblasts. However, ARKO females showed a similar healing rate compared to WT females. To exploit local antiandrogen effects in wound healing, while minimizing off-target systemic effects, we developed a novel electrospun polycaprolactone (PCL) scaffold wound dressing material for sustained local antiandrogen delivery. Using the antiandrogen hydroxyl flutamide (HF) at 1, 5, and 10 mg/mL in PCL scaffolds, controlled HF delivery over 21 days significantly enhanced in vitro cell proliferation of human dermal fibroblasts and human keratinocytes. HF-PCL scaffolds also promoted in vivo wound healing in mice compared with open wounds but not to PCL scaffolds.
+SN 1067-1927
+EI 1524-475X
+PD MAY-JUN
+PY 2016
+VL 24
+IS 3
+BP 478
+EP 488
+DI 10.1111/wrr.12420
+UT WOS:000377500900002
+PM 26873751
+ER
+

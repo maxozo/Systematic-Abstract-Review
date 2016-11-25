@@ -1,0 +1,22 @@
+AU Myers, JS
+   von Lersner, AK
+   Sang, QXA
+AF Myers, Jennifer S.
+   von Lersner, Ariana K.
+   Sang, Qing-Xiang Amy
+TI Proteomic Upregulation of Fatty Acid Synthase and Fatty Acid Binding
+   Protein 5 and Identification of Cancer- and Race-Specific Pathway
+   Associations in Human Prostate Cancer Tissues
+SO JOURNAL OF CANCER
+AB Protein profiling studies of prostate cancer have been widely used to characterize molecular differences between diseased and non-diseased tissues. When combined with pathway analysis, profiling approaches are able to identify molecular mechanisms of prostate cancer, group patients by cancer subtype, and predict prognosis. This strategy can also be implemented to study prostate cancer in very specific populations, such as African Americans who have higher rates of prostate cancer incidence and mortality than other racial groups in the United States. In this study, age-, stage-, and Gleason score-matched prostate tumor specimen from African American and Caucasian American men, along with non-malignant adjacent prostate tissue from these same patients, were compared. Protein expression changes and altered pathway associations were identified in prostate cancer generally and in African American prostate cancer specifically. In comparing tumor to non-malignant samples, 45 proteins were significantly cancer-associated and 3 proteins were significantly downregulated in tumor samples. Notably, fatty acid synthase (FASN) and epidermal fatty acid-binding protein (FABP5) were upregulated in human prostate cancer tissues, consistent with their known functions in prostate cancer progression. Aldehyde dehydrogenase family 1 member A3 (ALDH1A3) was also upregulated in tumor samples. The Metastasis Associated Protein 3 (MTA3) pathway was significantly enriched in tumor samples compared to non-malignant samples. While the current experiment was unable to detect statistically significant differences in protein expression between African American and Caucasian American samples, differences in overrepresentation and pathway enrichment were found. Structural components (Cytoskeletal Proteins and Extracellular Matrix Protein protein classes, and Biological Adhesion Gene Ontology (GO) annotation) were overrepresented in African American but not Caucasian American tumors. Additionally, 5 pathways were enriched in African American prostate tumors: the Small Cell Lung Cancer, Platelet-Amyloid Precursor Protein, Agrin, Neuroactive Ligand-Receptor Interaction, and Intrinsic pathways. The protein components of these pathways were either basement membrane proteins or coagulation proteins.
+SN 1837-9664
+PY 2016
+VL 7
+IS 11
+BP 1452
+EP 1464
+DI 10.7150/jca.15860
+UT WOS:000380050300010
+PM 27471561
+ER
+

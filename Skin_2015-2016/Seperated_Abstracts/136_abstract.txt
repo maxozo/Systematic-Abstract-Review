@@ -1,0 +1,27 @@
+AU Mushtaq, MA
+   Pan, Q
+   Chen, DZ
+   Zhang, QH
+   Ge, XH
+   Li, ZY
+AF Mushtaq, Muhammad A.
+   Pan, Qi
+   Chen, Daozong
+   Zhang, Qinghua
+   Ge, Xianhong
+   Li, Zaiyun
+TI Comparative Leaves Transcriptome Analysis Emphasizing on Accumulation of
+   Anthocyanins in Brassica: Molecular Regulation and Potential Interaction
+   with Photosynthesis
+SO FRONTIERS IN PLANT SCIENCE
+AB The purple leaf pigmentation mainly associated with anthocyanins accumulation is common in Brassica but the mechanisms of its production and its potential physiological functions are poorly understood. Here, we performed the phenotypic, cytological, physiological, and comparative leaves transcriptome analyses of 11 different varieties belonging to five Brassica species with purple or green leaves. We observed that the anthocyanin was accumulated in most of vegetative tissues in all species and also in reproduction organs of B. carinata. Anthocyanin accumulated in different part of purple leaves including adaxial and abaxial epidermal cells as well as palisade and spongy mesophyll cells. Leave transcriptome analysis showed that almost all late biosynthetic genes (LBGs) of anthocyanin, especially Dihydroflayonol 4-Reductase (DFR), Anthocyanidin Synthase (ANS) and Transparent Testa 19 (TT19), were highly up regulated in all purple leaves. However, only one of transcript factors in anthocyanin biosynthesis pathway, Transparent Testa 8 (TT8), was up regulated along with those genes in all purple leaves, indicating its pivotal role for anthocyanin production in Brassica. Interestingly, with the up-regulation of genes for anthocyanin synthesis, Cytosolic 6-phosphogluconolactonase (PLG5) which involved in the oxidative pentose-phosphate pathway was up-regulated in all purple leaves and three genes FISH PROTEASE 8 (FTS8), GLYCOLATE OXIDASE 1 (GOX1), and GLUTAMINE SYNTHETASE 1;4 (GLN1;4) related to degradation of photo-damaged proteins in photosystem II and light respiration were down-regulated. These results highlighted the potential physiological functions of anthocyanin accumulation related to photosynthesis which might be of great worth in future.
+SN 1664-462X
+PD MAR 18
+PY 2016
+VL 7
+AR 311
+DI 10.3389/fpls.2016.00311
+UT WOS:000372183200001
+PM 27047501
+ER
+

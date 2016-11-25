@@ -1,0 +1,25 @@
+AU O'Leary, AP
+   Fox, JM
+   Pullar, CE
+AF O'Leary, Andrew P.
+   Fox, James M.
+   Pullar, Christine E.
+TI Beta-adrenoceptor Activation Reduces Both Dermal Microvascular
+   Endothelial Cell Migration via a cAMP-dependent Mechanism and Wound
+   Angiogenesis
+SO JOURNAL OF CELLULAR PHYSIOLOGY
+AB Angiogenesis is an essential process during tissue regeneration; however, the amount of angiogenesis directly correlates with the level of wound scarring. Angiogenesis is lower in scar-free foetal wounds while angiogenesis is raised and abnormal in pathophysiological scarring such as hypertrophic scars and keloids. Delineating the mechanisms that modulate angiogenesis and could reduce scarring would be clinically useful. Beta-adrenoceptors (beta-AR) are G protein-coupled receptors (GPCRs) expressed on all skin cell-types. They play a role in wound repair but their specific role in angiogenesis is unknown. In this study, a range of in vitro assays (single cell migration, scratch wound healing, ELISAs for angiogenic growth factors and tubule formation) were performed with human dermal microvascular endothelial cells (HDMEC) to investigate and dissect mechanisms underpinning beta-AR-mediated modulation of angiogenesis in chick chorioallantoic membranes (CAM) and murine excisional skin wounds. beta-AR activation reduced HDMEC migration via cyclic adenosine monophosphate (cAMP)-dependent and protein kinase A (PKA)-independent mechanisms as demonstrated through use of an EPAC agonist that auto-inhibited the cAMP-mediated beta-AR transduced reduction in HDMEC motility; a PKA inhibitor was, conversely, ineffective. ELISA studies demonstrated that beta-AR activation reduced pro-angiogenic growth factor secretion from HDMECs (fibroblast growth factor 2) and keratinocytes (vascular endothelial growth factor A) revealing possible beta-AR-mediated autocrine and paracrine anti-angiogenic mechanisms. In more complex environments, beta-AR activation delayed HDMEC tubule formation and decreased angiogenesis both in the CAM assay and in murine excisional skin wounds in vivo. beta-AR activation reduced HDMEC function in vitro and angiogenesis in vivo; therefore, beta-AR agonists could be promising anti-angiogenic modulators in skin. (C) 2014 The Authors. Journal of Cellular Physiology Published by Wiley Periodicals, Inc.
+OI Fox, James/0000-0002-2473-7029
+SN 0021-9541
+EI 1097-4652
+PD FEB
+PY 2015
+VL 230
+IS 2
+BP 356
+EP 365
+DI 10.1002/jcp.24716
+UT WOS:000344374300014
+PM 24986762
+ER
+

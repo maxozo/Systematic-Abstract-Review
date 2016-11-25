@@ -1,0 +1,39 @@
+AU Stenger, B
+   Zehfuss, F
+   Muckter, H
+   Schmidt, A
+   Balszuweit, F
+   Schafer, E
+   Buch, T
+   Gudermann, T
+   Thiermann, H
+   Steinritz, D
+AF Stenger, Bernhard
+   Zehfuss, Franziska
+   Mueckter, Harald
+   Schmidt, Annette
+   Balszuweit, Frank
+   Schaefer, Eva
+   Buech, Thomas
+   Gudermann, Thomas
+   Thiermann, Horst
+   Steinritz, Dirk
+TI Activation of the chemosensing transient receptor potential channel A1
+   (TRPA1) by alkylating agents
+SO ARCHIVES OF TOXICOLOGY
+AB The transient receptor potential ankyrin 1 (TRPA1) cation channel is expressed in different tissues including skin, lung and neuronal tissue. Recent reports identified TRPA1 as a sensor for noxious substances, implicating a functional role in the molecular toxicology. TRPA1 is activated by various potentially harmful electrophilic substances. The chemical warfare agent sulfur mustard (SM) is a highly reactive alkylating agent that binds to numerous biological targets. Although SM is known for almost 200 years, detailed knowledge about the pathophysiology resulting from exposure is lacking. A specific therapy is not available. In this study, we investigated whether the alkylating agent 2-chloroethyl-ethylsulfide (CEES, a model substance for SM-promoted effects) and SM are able to activate TRPA1 channels. CEES induced a marked increase in the intracellular calcium concentration ([Ca2+](i)) in TRPA1-expressing but not in TRPA1-negative cells. The TRP-channel blocker AP18 diminished the CEES-induced calcium influx. HEK293 cells permanently expressing TRPA1 were more sensitive toward cytotoxic effects of CEES compared with wild-type cells. At low CEES concentrations, CEES-induced cytotoxicity was prevented by AP18. Proof-of-concept experiments using SM resulted in a pronounced increase in [Ca2+](i) in HEK293-A1-E cells. Human A549 lung epithelial cells, which express TRPA1 endogenously, reacted with a transient calcium influx in response to CEES exposure. The CEES-dependent calcium response was diminished by AP18. In summary, our results demonstrate that alkylating agents are able to activate TRPA1. Inhibition of TRPA1 counteracted cellular toxicity and could thus represent a feasible approach to mitigate SM-induced cell damage.
+RI Steinritz, Dirk/F-6075-2012
+OI Steinritz, Dirk/0000-0002-2073-5683
+SN 0340-5761
+EI 1432-0738
+PD SEP
+PY 2015
+VL 89
+IS 9
+BP 1631
+EP 1643
+DI 10.1007/s00204-014-1414-4
+UT WOS:000360412500014
+PM 25395009
+ER
+

@@ -1,0 +1,30 @@
+AU Debeuckelaere, C
+   Berl, V
+   Elbayed, K
+   Moussallieh, FM
+   Namer, IJ
+   Lepoittevin, JP
+AF Debeuckelaere, Camille
+   Berl, Valerie
+   Elbayed, Karim
+   Moussallieh, Francois-Marie
+   Namer, Izzie-Jacques
+   Lepoittevin, J. -P.
+TI Matrix Effect of Human Reconstructed Epidermis on the Chemoselectivity
+   of a Skin Sensitizing alpha-Methylene-gamma-Butyrolactone: Consequences
+   for the Development of in Chemico Alternative Methods
+SO CHEMICAL RESEARCH IN TOXICOLOGY
+AB Adoption of new legislations and social pressure are pushing toward the development of alternative methods to the use of animals for the assessment of most toxicological end-points including skin sensitization. To that respect, much efforts have been put in the first step of the adverse outcome pathway focusing on chemical interactions taking place between sensitizing chemicals or haptens and epidermal proteins. However, these in chemico approaches have been so far only based on the use of model nucleophiles, amino acids, peptides, or proteins in water/buffer solution and focused mainly on thiol reactivity. These studies even if bringing a valuable set of information are very far from reflecting chemical interactions that may happen between a xenobiotic and nudeophiles present in a complex heterogeneous tissue such as the epidermis. Recently, we have shown that using a high-resolution magic angle spinning (HRMAS) nuclear magnetic resonance (NMR) technique it was possible to characterize chemical interactions taking place between a skin sensitizer and nudeophilic amino acids present in a 3-D reconstructed human epidermis (RHE). We have now compared the chemical reactivity and chemoselectivity of a sensitizing alpha-methylene-gamma-butyrolactone toward human serum albumin used as a model protein and RHE. Using this technique, we showed that amino acid modifications by this hapten was different according to the model used and that in RHE histidine residues seem to have an important role in the formation of adducts. Obviously, the role of histidine in the induction of skin sensitization has been so far neglected and should probably be taken into account for the refinement of in chemico approaches for the detection and potency classification of skin sensitizers.
+SN 0893-228X
+EI 1520-5010
+PD NOV
+PY 2015
+VL 28
+IS 11
+BP 2192
+EP 2198
+DI 10.1021/acs.chemrestox.5b00363
+UT WOS:000364980800015
+PM 26496248
+ER
+

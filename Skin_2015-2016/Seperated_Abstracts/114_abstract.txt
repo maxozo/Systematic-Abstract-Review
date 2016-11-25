@@ -1,0 +1,26 @@
+AU Sakurai, K
+   Reon, BJ
+   Anaya, J
+   Dutta, A
+AF Sakurai, Kouhei
+   Reon, Brian J.
+   Anaya, Jordan
+   Dutta, Anindya
+TI The lncRNA DRAIC/PCAT29 Locus Constitutes a Tumor-Suppressive Nexus
+SO MOLECULAR CANCER RESEARCH
+AB Long noncoding RNAs (lncRNA) are emerging as major regulators of cellular phenotypes and implicated as oncogenes or tumor suppressors. Here, we report a novel tumor-suppressive locus on human chromosome 15q23 that contains two multiexonic lncRNA genes of 100 kb each: DRAIC (LOC145837) and the recently reported PCAT29. The DRAIC lncRNA was identified from RNA-seq data and is downregulated as prostate cancer cells progress from an androgen-dependent (AD) to a castration-resistant (CR) state. Prostate cancers persisting in patients after androgen deprivation therapy (ADT) select for decreased DRAIC expression, and higher levels of DRAIC in prostate cancer are associated with longer disease-free survival (DFS). Androgen induced androgen receptor (AR) binding to the DRAIC locus and repressed DRAIC expression. In contrast, FOXA1 and NKX3-1 are recruited to the DRAIC locus to induce DRAIC, and FOXA1 specifically counters the repression of DRAIC by AR. The decrease of FOXA1 and NKX3-1, and aberrant activation of AR, thus accounts for the decrease of DRAIC during prostate cancer progression to the CR state. Consistent with DRAIC being a good prognostic marker, DRAIC prevents the transformation of cuboidal epithelial cells to fibroblast-like morphology and prevents cellular migration and invasion. A second tumor-suppressive lncRNA PCAT29, located 20 kb downstream of DRAIC, is regulated identically by AR and FOXA1 and also suppresses cellular migration and metastasis. Finally, based on TCGA analysis, DRAIC expression predicts good prognosis in a wide range of malignancies, including bladder cancer, low-grade gliomas, lung adenocarcinoma, stomach adenocarcinoma, renal clear cell carcinoma, hepatocellular carcinoma, skin melanoma, and stomach adenocarcinoma. (C)2015 AACR.
+RI Dutta, Anindya/P-3203-2016; 
+OI Anaya, Jordan/0000-0002-6166-4113; Dutta, Anindya/0000-0002-4319-0073
+SN 1541-7786
+EI 1557-3125
+PD MAY
+PY 2015
+VL 13
+IS 5
+BP 828
+EP 838
+DI 10.1158/1541-7786.MCR-15-0016-T
+UT WOS:000358057500003
+PM 25700553
+ER
+

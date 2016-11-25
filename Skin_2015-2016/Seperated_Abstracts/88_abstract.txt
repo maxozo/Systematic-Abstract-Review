@@ -1,0 +1,25 @@
+AU Szoka, L
+   Karna, E
+   Morka, RP
+   Palka, JA
+AF Szoka, Lukasz
+   Karna, Ewa
+   Morka, Renata Pawlak
+   Palka, Jerzy A.
+TI Enalapril stimulates collagen biosynthesis through prolidase-dependent
+   mechanism in cultured fibroblasts
+SO NAUNYN-SCHMIEDEBERGS ARCHIVES OF PHARMACOLOGY
+AB The mechanism of a lower incidence of dermatological manifestations in patients treated with enalapril compared to patients treated with other ACE-inhibitors, e.g., captopril, is not known. The finding that prolidase plays an important role in collagen biosynthesis and that some angiotensin-converting enzyme inhibitors affect prolidase activity led us to evaluate its effect on collagen biosynthesis in cultured human skin fibroblasts. Since insulin-like growth factor (IGF-I) and transforming growth factor beta 1 (TGF-beta 1) are the most potent stimulators of both collagen biosynthesis and prolidase activity, and prolidase is regulated by beta(1) integrin signaling, the effect of enalapril and enalaprilat on IGF-IR, TGF-beta 1, and beta(1) integrin receptor expressions was evaluated. Cells were treated with milimolar concentrations (0.3 and 0.5 mM) of enalapril and enalaprilat for 24 h. The activity of prolidase was determined by colorimetic assay. Collagen biosynthesis was evaluated by radiometric assay. Expression of signaling proteins was evaluated using Western blot. It was found that enalapril- and enalaprilat-dependent increase in prolidase activity and expression was accompanied by parallel increase in collagen biosynthesis. The exposure of the cells to 0.5 mM enalapril and enalaprilat contributed to increase in IGF-IR and alpha(2)beta(1) integrin receptor as well as TGF-beta 1 and NF-kappa B p65 expressions. Enalapril- and enalaprilat-dependent increase of collagen biosynthesis in fibroblasts results from increase of prolidase activity and expression, which may undergo through activation of alpha(2)beta(1) integrin and IGF-IR signaling as well as upregulation of TGF-beta 1 and NF-kappa B p65, the inhibitor of collagen gene expression.
+SN 0028-1298
+EI 1432-1912
+PD JUN
+PY 2015
+VL 388
+IS 6
+BP 677
+EP 683
+DI 10.1007/s00210-015-1114-5
+UT WOS:000354733100009
+PM 25772062
+ER
+

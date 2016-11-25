@@ -1,0 +1,30 @@
+AU Rho, CR
+   Choi, JS
+   Seo, M
+   Lee, SK
+   Joo, CK
+AF Rho, Chang Rae
+   Choi, Jun-Sub
+   Seo, Minkoo
+   Lee, Suk Kyeong
+   Joo, Choun-Ki
+TI Inhibition of Lymphangiogenesis and Hemangiogenesis in Corneal
+   Inflammation by Subconjunctival Prox1 siRNA Injection in Rats
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+AB PURPOSE. Prospero homeobox 1 (Prox1) siRNA is a small interfering RNA that is designed to specifically bind Prox1 mRNA. We determined whether Prox1 siRNA inhibits lymphangiogenesis and hemangiogenesis after acute corneal inflammation.
+   METHODS. Three Prox1 siRNAs were synthesized and investigated for their effects on Prox1 mRNA expression and tube formation in human dermal lymphatic endothelial cells (HDLECs) in vitro. The in vivo effects of Prox1 siRNA were assessed in alkali burn-induced inflammatory corneal neovascularization in rats. Prox1 siRNA was administered via subconjunctival injection. Corneal flat mounts were stained for lymphatic vessel endothelial hyaluronan receptor (LYVE)-1 to show lymphatic vessels. Lymphangiogenesis and hemangiogenesis were analyzed morphometrically using Image J software. Corneal inflammatory cell infiltration was evaluated by immunostaining for F4/80 and CD45. Protein levels of LYVE-1, podoplanin, VEGF receptor 2 (VEGFR2), and VEGFR3 were analyzed by Western blotting.
+   RESULTS. Prox1 siRNA treatment decreased Prox1 mRNA expression and tube formation in cultured HDLECs. Subconjunctival injection of Prox1 siRNA significantly inhibited alkali burn-induced lymphangiogenesis and hemangiogenesis in the cornea compared with those of scrambled siRNA (negative control). This inhibition was comparable to that induced by bevacizumab (positive control). Prospero homeobox 1 knockdown by Prox1 siRNA also inhibited macrophage and leukocyte infiltration into the cornea. Prox1 siRNA downregulated the expression of all four proteins.
+   CONCLUSIONS. Prox1 siRNA is a strong inhibitor of inflammatory corneal lymphangiogenesis and hemangiogenesis in vivo. Prox1 siRNA may be useful in preventing immune rejection after penetrating keratoplasty by suppressing lymphangiogenesis.
+SN 0146-0404
+EI 1552-5783
+PD SEP
+PY 2015
+VL 56
+IS 10
+BP 5871
+EP 5879
+DI 10.1167/iovs.14-14433
+UT WOS:000368426300021
+PM 26348636
+ER
+

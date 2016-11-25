@@ -1,0 +1,25 @@
+AU Kim, M
+   Park, KY
+   Lee, MK
+   Jin, T
+   Seo, SJ
+AF Kim, MinJeong
+   Park, Kui Young
+   Lee, Mi-Kyung
+   Jin, Taewon
+   Seo, Seong Jun
+TI Adiponectin Suppresses UVB-Induced Premature Senescence and hBD2
+   Overexpression in Human Keratinocytes
+SO PLOS ONE
+AB Recent studies have revealed that adiponectin can suppress cellular inflammatory signaling pathways. This study aimed to elucidate the effect of adiponectin on the unregulated production of hBD2 in UVB-induced premature senescent keratinocytes. We constructed an in vitro model of premature senescent keratinocytes through repeated exposure to low energy UVB. After repeated low energy UVB exposure, there was significant generation of reactive oxygen species (ROS) and induction of senescence-associated markers, including senescence associated beta-galactosidase activity and expression of p16(INK4a) and histone H2AX. In addition, the present clinical study showed higher expression of hBD2 in sun-exposed skin of elderly group, and the overexpression of hBD2 was observed by c-Fos activation in vitro. Adiponectin has the ability to scavenge ROS and consequently inhibit MAPKs and SA-markers in UVB-exposed keratinocytes. An inhibitor study demonstrated that adiponectin downregulated hBD2 mRNA expression through suppression of the AP-1 transcription factor components c-Fos via inactivation of p38 MAPK. Collectively, the dysregulated production of hBD2 by the induction of oxidative stress was attenuated by adiponectin through the suppression of p38 and JNK/SAPK MAPK signaling in UVB-mediated premature senescent inducible conditions. These results suggest the feasibility of adiponectin as an anti-photoaging and anti-inflammatory agent in the skin.
+SN 1932-6203
+PD AUG 15
+PY 2016
+VL 11
+IS 8
+AR e0161247
+DI 10.1371/journal.pone.0161247
+UT WOS:000381471100047
+PM 27526049
+ER
+

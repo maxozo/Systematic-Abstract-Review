@@ -1,0 +1,39 @@
+AU Yang, H
+   Jung, EM
+   Ahn, C
+   Lee, GS
+   Lee, SY
+   Kim, SH
+   Choi, IG
+   Park, MJ
+   Lee, SS
+   Choi, DH
+   Jeung, EB
+AF Yang, Hyun
+   Jung, Eui-Man
+   Ahn, Changhwan
+   Lee, Geun-Shik
+   Lee, Su-Yeon
+   Kim, Seon-Hong
+   Choi, In-Gyu
+   Park, Mi-Jin
+   Lee, Sung-Suk
+   Choi, Don-Ha
+   Jeung, Eui-Bae
+TI Elemol from Chamaecyparis obtusa ameliorates
+   2,4-dinitrochlorobenzene-induced atopic dermatitis
+SO INTERNATIONAL JOURNAL OF MOLECULAR MEDICINE
+AB Chamaecyparis obtusa has been traditionally used as an antibiotic agent and in cosmetics for the prevention of microorganism infection and skin troubles. Atopic dermatitis (AD) is a chronic inflammatory skin disease that encompasses immunologic responses, susceptibility factors and compromised skin-barrier function. Use of plant medicines in therapeutic treatment of AD has recently been suggested as an alternative therapeutic option. The present study examined the effect of elemol, an active component of Chamaecyparis obtusa, on AD using in vivo and in vitro models. RBL-2H3 cells were stimulated with concanavalin A and dinitrophenyl human serum albumin, and atopic dermatitis was induced in BALB/c mice by topical application of 2,4-dinitrochlorobenzene (DNCB) prior to elemol treatment. The mRNA expression was evaluated by reverse transcription quantitative polymerase chain reaction, and the levels of beta-hexosaminidase and serum immunoglobulin E (IgE) were examined by ELISA. Histological changes were also performed by microscopy. Elemol attenuated the onset of AD-like skin lesions, reduced serum IgE levels and decreased mast cell infiltration into the dermis and hypodermis. In addition, elemol downregulated the transcriptional expression of several pro-inflammatory cytokines, including TNF-alpha, IL-1 beta, IL-6 and I kappa B alpha, in the skin of the DNCB-induced animal models of AD. In the RBL-2H3 mast cell line, elemol significantly inhibited the mRNA expression of IL-4 and IL-13, and further attenuated the release of beta-hexosaminidase from mast cells. Histological examination revealed that elemol significantly ameliorated the DNCB-induced dermal destruction in mice. The results of the present study suggested that elemol may have therapeutic potential in the treatment of AD due to its immunosuppressive effects.
+SN 1107-3756
+EI 1791-244X
+PD AUG
+PY 2015
+VL 36
+IS 2
+BP 463
+EP 472
+DI 10.3892/ijmm.2015.2228
+UT WOS:000358677000017
+PM 26035417
+ER
+

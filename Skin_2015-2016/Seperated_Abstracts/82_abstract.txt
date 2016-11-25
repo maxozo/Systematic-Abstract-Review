@@ -1,0 +1,27 @@
+AU Xu, YZ
+   Zhang, GA
+   Chang, Y
+   Qiu, YX
+   Wang, C
+AF Xu, Yazhen
+   Zhang, Guoan
+   Chang, Yang
+   Qiu, Yu-xuan
+   Wang, Cheng
+TI The Preparation of Acellular Dermal Matrices by Freeze-Thawing and
+   Ultrasonication Process and the Evaluation of Its Antigenicity
+SO CELL BIOCHEMISTRY AND BIOPHYSICS
+AB Antigenicity is the biggest obstacle of xenogeneic acellular dermal matrices (ADM) as dermal scaffold in treatment of large-area skin defect. We prepared ADM by repeated freezing and thawing and ultrasonic process, and then injected the ADM homogenate and degradation product into porcine skin to evaluate the effectiveness of the decellularized method and the antigenicity of porcine ADM. In this work, chinese miniature pigs (n = 10) were sensitized by subcutaneous injection with human ADM degradation products on days 0, 7, and 14. After 21 days, their abdominal skin was divided into five regions for intradermal injection of porcine ADM homogenate (PADM), PADM degradation products, human ADM homogenate (HADM), HADM degradation products, and physiological saline (negative control). Positive controls (n = 2) were processed with fresh human skin homogenate by the same method. The skin manifestations in related areas were observed at 24 and 48 h and then the skin was subjected to histopathological and immunohistochemical analysis. The results showed that skin erythema and hydroderma were not observed in all groups but in positive control group. The histopathological and immunohistochemical results confirmed that no inflammatory cell infiltration, irregular extracellular matrix, IL-2, and IFN-gamma expression were observed in all four test groups. Our results suggest that the combination with repeated freeze-thawing and ultrasonication can be an effective method to prepare ADM, which has great potential in clinical application.
+SN 1085-9195
+EI 1559-0283
+PD SEP
+PY 2015
+VL 73
+IS 1
+BP 27
+EP 33
+DI 10.1007/s12013-015-0569-9
+UT WOS:000359812500006
+PM 25649614
+ER
+

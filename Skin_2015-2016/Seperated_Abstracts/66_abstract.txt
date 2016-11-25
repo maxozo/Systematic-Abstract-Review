@@ -1,0 +1,35 @@
+AU Ishii, Y
+   Saeki, K
+   Liu, M
+   Sasaki, F
+   Koga, T
+   Kitajima, K
+   Meno, C
+   Okuno, T
+   Yokomizo, T
+AF Ishii, Yumiko
+   Saeki, Kazuko
+   Liu, Min
+   Sasaki, Fumiyuki
+   Koga, Tomoaki
+   Kitajima, Keiko
+   Meno, Chikara
+   Okuno, Toshiaki
+   Yokomizo, Takehiko
+TI Leukotriene B-4 receptor type 2 (BLT2) enhances skin barrier function by
+   regulating tight junction proteins
+SO FASEB JOURNAL
+AB GPCRs are involved in numerous physiologic functions and are important drug targets. Although the epithelial barrier is important for protection from invading pathogens, the correlation between GPCRs and epithelial barrier function remains unknown. Leukotriene B-4 (LTB4) receptor type 2 (BLT2), mainly expressed in epithelial cells, is a GPCR for 12(S)-hydroxyheptadeca-5Z, 8E, 10E-trienoic acid (12-HHT) and LTB4. In our study, BLT2 localized at the lateral membrane in BLT2-overexpressing Madin-Darby canine kidney (MDCK) II cells and in the small intestine of BLT2-transgenic mice. BLT2-deficient mice exhibited higher transepidermal water loss and were more sensitive to epicutaneous sensitization. MDCK-BLT2 cells recovered transepithelial electrical resistance (TER) after a calcium switch faster than did MDCK-Mock cells, and 12-HHT stimulation accelerated TER recovery only in MDCK-BLT2 cells. Quantitative PCR and immunoblot analyses revealed that the 12-HHT/BLT2 axis up-regulated claudin-4 (CLDN4) expression in MDCK-BLT2 cells and human primary keratinocytes, and CLDN4 knockdown abolished 12-HHT-dependent TER recovery. Acceleration of TER recovery and induction of CLDN4 expression by 12-HHT stimulation were abolished by inhibition of G alpha(i) protein or p38 MAPK. These results show that 12-HHT/BLT2 enhances epithelial barrier function by increasing CLDN4 expression via the Gai protein-p38 MAPK pathway.
+SN 0892-6638
+EI 1530-6860
+PD FEB
+PY 2016
+VL 30
+IS 2
+BP 933
+EP 947
+DI 10.1096/fj.15-279653
+UT WOS:000369391900040
+PM 26527063
+ER
+

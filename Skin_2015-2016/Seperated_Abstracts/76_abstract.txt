@@ -1,0 +1,24 @@
+AU Wessler, I
+   Michel-Schmidt, R
+   Kirkpatrick, CJ
+AF Wessler, Ignaz
+   Michel-Schmidt, Rosmarie
+   Kirkpatrick, Charles James
+TI pH-dependent hydrolysis of acetylcholine: Consequences for non-neuronal
+   acetylcholine
+SO INTERNATIONAL IMMUNOPHARMACOLOGY
+AB Acetylcholine is inactivated by acetylcholinesterase and butyrylcholinesterase and thereby its cellular signalling is stopped. One distinguishing difference between the neuronal and non-neuronal cholinergic system is the high expression level of the esterase activity within the former and a considerably lower level within the latter system. Thus, any situation which limits the activity of both esterases will affect the non-neuronal cholinergic system to a much greater extent than the neuronal one. Both esterases are pH-dependent with an optimum at pH above 7, whereas at pH values below 6 particularly the specific acetylcholinesterase is more or less inactive. Thus, acetylcholine is prevented from hydrolysis at such low pH values. The pH of the surface of the human skin is around 5 and therefore non-neuronal acetylcholine released from keratinocytes can be detected in a non-invasive manner. Several clinical conditions like metabolic acidosis, inflammation, fracture-related haematomas, cardiac ischemia and malignant tumours are associated with local or systemic pH values below 7. Thus, the present article describes some consequences of an impaired inactivation of extracellular non-neuronal acetylcholine. (C) 2015 Elsevier B.V. All rights reserved.
+SN 1567-5769
+EI 1878-1705
+PD NOV
+PY 2015
+VL 29
+IS 1
+SI SI
+BP 27
+EP 30
+DI 10.1016/j.intimp.2015.04.039
+UT WOS:000365365500005
+PM 25929445
+ER
+

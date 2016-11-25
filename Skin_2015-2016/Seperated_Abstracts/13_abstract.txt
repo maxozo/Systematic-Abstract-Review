@@ -1,0 +1,29 @@
+AU Wroblewska, B
+   Markiewicz, LH
+   Szyc, AM
+   Dietrich, MA
+   Szymkiewicz, A
+   Fotschki, J
+AF Wroblewska, Barbara
+   Markiewicz, Lidia Hanna
+   Szyc, Anna Maria
+   Dietrich, Mariola Aleksandra
+   Szymkiewicz, Agata
+   Fotschki, Joanna
+TI Lactobacillus casei LcY decreases milk protein immunoreactivity of
+   fermented buttermilk but also contains IgE-reactive proteins
+SO FOOD RESEARCH INTERNATIONAL
+AB This study evaluates Lactobacillus casei LcY protein immunactive properties and assesses its potential to decrease milk protein immunoreactivity in fermented buttermilk before and after simulated digestion. Competitive ELISA analysis of alpha-lactalbumin, beta-lactoglobulin, alpha-casein, beta-casein, kappa-casein, bovine serum albumin and lactoferrin determined significant (P < 0.001) immunoreactivity reduction after fermentation, and even greater decrease after three-stage simulated digestion. Immunoblotting of fermented buttermilk with human allergic sera revealed that a-casein remained the most allergenic milk protein. The LcY cell fractionation and further separation by SDS-PAGE and 2DE, immunoblotting and MALDI-TOF MS/MS identification all highlighted that cyclopropanefatty-acyl-phospholipid synthase and carboxylate-amine ligase in the cell wall/membrane protein fraction reacted with human IgE antibodies. In silico analysis of these proteins' allergenic potential indicated that these are new allergens rather than already known cross-reacting allergens.
+   To our best knowledge, this is the first study providing evidence of human IgE reactive protein presence in lactic add bacteria. (C) 2016 Elsevier Ltd. All rights reserved.
+RI Szyc, Anna/J-2200-2016; Dietrich, Mariola/K-1731-2013
+SN 0963-9969
+EI 1873-7145
+PD MAY
+PY 2016
+VL 83
+BP 95
+EP 101
+DI 10.1016/j.foodres.2016.02.016
+UT WOS:000374801100009
+ER
+

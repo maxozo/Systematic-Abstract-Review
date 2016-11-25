@@ -1,0 +1,32 @@
+AU Fabbrocini, G
+   Kaya, G
+   Silverio, PC
+   De Vita, V
+   Kaya, A
+   Fontao, F
+   Sorg, O
+   Saurat, JH
+AF Fabbrocini, Gabriella
+   Kaya, Giirkan
+   Silverio, Patricia Caseiro
+   De Vita, Valerio
+   Kaya, Aysin
+   Fontao, Fabienne
+   Sorg, Olivier
+   Saurat, Jean-Hilaire
+TI Aryl Hydrocarbon Receptor Activation in Acne Vulgaris Skin: A Case
+   Series from the Region of Naples, Italy
+SO DERMATOLOGY
+AB Background: Dioxins are persistent organic pollutants present in the environment. They exert their biological effects by binding to an intracellular receptor, the aryl hydrocarbon receptor (AhR). Activation of AhR leads to the induction of cytochrome p450 1A1 (CYP1A1). Expression of CYP1A1 in human skin is a key marker for AhR activation, and it may induce comedogenesis resulting in acne-like lesions known as chloracne/metabolising acquired dioxin-induced skin hamartonnas (MADISH). The contribution of this pathway in patients seen in a busy acne clinic is unknown. Materials and Methods: We explored the expression of CYP1A1 by immunohistochemistry in the acne lesions of 16 patients living in the region of Naples, Italy, where epidemiological studies have suggested a possibly increased exposure to environmental dioxins. A composite score to outline potential components of the chloracne/MADISH histological pattern was used. Results: CYP1A1 expression was observed in 11 lesions (69%) and was distributed in sebaceous glands, follicular epithelium, cystic wall and endothelial cells. The histological score for chloracne/MADISH was 'likely' in 3 cases and 'possible' in 11 cases. Compared to current data on CYP1A1 expression in the skin of 67 patients with proven exposure to AhR agonists, these data indicate a high incidence of AhR activation in this series. Conclusion: This is the first study analysing AhR activation in skin in a series of patients from a hospital-based acne clinic. It provides information for future controlled prospective studies. The significance of CYP1A1 expression in terms of AhR ligand exposure is discussed. (C) 2015 S. Karger AG, Basel
+SN 1018-8665
+EI 1421-9832
+PY 2015
+VL 231
+IS 4
+BP 334
+EP 338
+DI 10.1159/000439402
+UT WOS:000364602500012
+PM 26440531
+ER
+

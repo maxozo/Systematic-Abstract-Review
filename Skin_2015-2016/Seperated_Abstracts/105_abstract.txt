@@ -1,0 +1,29 @@
+AU Soares, AS
+   Costa, VM
+   Diniz, C
+   Fresco, P
+AF Soares, Ana Sofia
+   Costa, Vera Marisa
+   Diniz, Carmen
+   Fresco, Paula
+TI Inosine Strongly Enhances Proliferation of Human C32 Melanoma Cells
+   through PLC-PKC-MEK1/2-ERK1/2 and PI3K Pathways
+SO BASIC & CLINICAL PHARMACOLOGY & TOXICOLOGY
+AB Malignant melanoma is the most deadly type of skin cancer. The lack of effective pharmacological approaches for this tumour can be related to the incomplete understanding of the pathophysiological mechanisms involved in melanoma cell proliferation. Adenosine has growth-promoting and growth inhibitory effects on tumour cells. We aimed to investigate effects of adenosine and its metabolic product, inosine, on human C32 melanoma cells and the signalling pathways involved. The 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide (MTT) reduction and bromodeoxyuridine (BrdU) proliferation assays were used to evaluate adenosine, adenosine deaminase and inosine effects, in the absence or presence of adenosine receptor (AR), A(3)AR and P2Y(1)R antagonists and PLC, PKC, MEK1/2 and PI3K inhibitors. ERK1/2 levels were determined using an ELISA kit. Adenosine and inosine levels were quantified using an enzyme-coupled assay. Adenosine caused cell proliferation through AR activation. Adenosine deaminase increased inosine levels (nanomolar concentrations) on the extracellular space, in a time-dependent manner, inducing proliferation through A(3)AR activation. Micromolar concentrations of inosine enhanced proliferation through A(3)AR activation, causing an increase in ERK1/2 levels, and P2Y(1)R activation via ENT-dependent mechanisms. We propose the simultaneous activation of PLC-PKC-MEK1/2-ERK1/2 and PI3K pathways as the main mechanism responsible for the proliferative effect elicited by inosine and its significant role in melanoma cancer progression.
+RI Diniz, Carmen/D-6293-2013; Costa, Vera/D-6284-2013; Fresco,
+   Paula/D-4845-2013; 
+OI Diniz, Carmen/0000-0003-4668-9360; Costa, Vera/0000-0002-0471-2756;
+   Fresco, Paula/0000-0001-6705-7798; Soares, Ana/0000-0002-9577-6498
+SN 1742-7835
+EI 1742-7843
+PD JAN
+PY 2015
+VL 116
+IS 1
+BP 25
+EP 36
+DI 10.1111/bcpt.12280
+UT WOS:000346911100006
+PM 24909096
+ER
+

@@ -1,0 +1,27 @@
+AU Kang, YL
+   Zhu, ZH
+   Zheng, YH
+   Wan, WG
+   Manole, CG
+   Zhang, QQ
+AF Kang, Yuli
+   Zhu, Zaihua
+   Zheng, Yonghua
+   Wan, Weiguo
+   Manole, Catalin G.
+   Zhang, Qiangqiang
+TI Skin telocytes versus fibroblasts: two distinct dermal cell populations
+SO JOURNAL OF CELLULAR AND MOLECULAR MEDICINE
+AB It is already accepted that telocytes (TCs) represent a new type of interstitial cells in human dermis. In normal skin, TCs have particular spatial relations with different dermal structures such as blood vessels, hair follicles, arrector pili muscles or segments of sebaceous and/or eccrine sweat glands. The distribution and the density of TCs is affected in various skin pathological conditions. Previous studies mentioned the particular (ultra)structure of TCs and also their immunophenotype, miR imprint or proteome, genome or secretome features. As fibroblast is the most common intersitital cell (also in human dermis), a dedicated comparison between human skin TCs and fibroblasts (Fbs) was required to be performed. In this study, using different techniques, we document several points of difference between human dermis TCs and Fbs. By transmission electron microscopy (TEM) and scanning electron microscopy (SEM), we demonstrated TCs with their hallmark cellular prolongations - telopodes. Thus, we showed their ultrastructural distinctiveness from Fbs. By RayBio Human Cytokine Antibody Array V analyses performed on the supernatant from separately cultured TCs and Fbs, we detected the cytokine profile of both cell types, individually. Two of 79 detected cytokines - epithelial-derived neutrophil-activating peptide 78 and granulocyte chemotactic protein-2 - were 1.5 times higher in the supernatant of TCs (comparing with Fbs). On the other hand, 37 cytokines were at least 1.5 higher in Fbs supernatant (comparing with TCs), and among them six cytokines - interleukin 5, monocyte chemotactic protein-3 (MCP-3), MCP-4, macrophage inflammatory protein-3, angiogenin, thrombopoietin - being 9.5 times higher (results also confirmed by ELISA testing). In summary, using different techniques, we showed that human dermal TCs and Fbs are different in terms of ultrastructure and cytokine profile.
+SN 1582-4934
+PD NOV
+PY 2015
+VL 19
+IS 11
+BP 2530
+EP 2539
+DI 10.1111/jcmm.12671
+UT WOS:000364650300003
+PM 26414534
+ER
+

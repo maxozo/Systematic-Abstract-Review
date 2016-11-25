@@ -1,0 +1,23 @@
+AU Hua, GQ
+   Paulen, L
+   Chambon, P
+AF Hua, Guoqiang
+   Paulen, Laetitia
+   Chambon, Pierre
+TI GR SUMOylation and formation of an SUMO-SMRT/NCoR1-HDAC3 repressing
+   complex is mandatory for GC-induced IR nGRE-mediated transrepression
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+AB Unique among the nuclear receptor superfamily, the glucocorticoid (GC) receptor (GR) can exert three distinct transcriptional regulatory functions on binding of a single natural (cortisol in human and corticosterone in mice) and synthetic [e.g., dexamethasone (Dex)] hormone. The molecular mechanisms underlying GC-induced positive GC response element [(+)GRE]-mediated activation of transcription are partially understood. In contrast, these mechanisms remain elusive for GC-induced evolutionary conserved inverted repeated negative GC response element (IR nGRE)-mediated direct transrepression and for tethered indirect transrepression that is mediated by DNA-bound NF-kappa B/activator protein 1 (AP1)/STAT3 activators and instrumental in GC-induced anti-inflammatory activity. We demonstrate here that SUMOylation of lysine K293 (mouse K310) located within an evolutionary conserved sequence in the human GR N-terminal domain allows the formation of a GR-small ubiquitin-related modifiers (SUMOs)-NCoR1/SMRT-HDAC3 repressing complex mandatory for GC-induced IR nGRE-mediated direct repression in vitro, but does not affect transactivation. Importantly, these results were validated in vivo: in K310R mutant mice and in mice ablated selectively for nuclear receptor corepressor 1 (NCoR1)/silencing mediator for retinoid or thyroid-hormone receptors (SMRT) corepressors in skin keratinocytes, Dex-induced direct repression and the formation of repressing complexes on IR nGREs were impaired, whereas transactivation was unaffected. In mice selectively ablated for histone deacetylase 3 (HDAC3) in skin keratinocytes, GC-induced direct repression, but not bindings of GR and of corepressors NCoR1/SMRT, was abolished, indicating that HDAC3 is instrumental in IR nGRE-mediated repression. Moreover, we demonstrate that the binding of HDAC3 to IR nGREs in vivo is mediated through interaction with SMRT/NCoR1. We also show that the GR ligand binding domain (LBD) is not required for SMRT-mediated repression, which can be mediated by a LBD-truncated GR, whereas it is mandatory for NCoR1-mediated repression through an interaction with K579 in the LBD.
+SN 0027-8424
+PD FEB 2
+PY 2016
+VL 113
+IS 5
+BP E626
+EP E634
+DI 10.1073/pnas.1522821113
+UT WOS:000369085100019
+PM 26712002
+ER
+

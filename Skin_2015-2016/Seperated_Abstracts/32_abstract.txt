@@ -1,0 +1,39 @@
+AU Jalili-Firoozinezhad, S
+   Rajabi-Zeleti, S
+   Mohammadi, P
+   Gaudiello, E
+   Bonakdar, S
+   Solati-Hashjin, M
+   Marsano, A
+   Aghdami, N
+   Scherberich, A
+   Baharvand, H
+   Martin, I
+AF Jalili-Firoozinezhad, Sasan
+   Rajabi-Zeleti, Sareh
+   Mohammadi, Parvaneh
+   Gaudiello, Emanuele
+   Bonakdar, Shahin
+   Solati-Hashjin, Mehran
+   Marsano, Anna
+   Aghdami, Nasser
+   Scherberich, Arnaud
+   Baharvand, Hossein
+   Martin, Ivan
+TI Facile Fabrication of Egg White Macroporous Sponges for Tissue
+   Regeneration
+SO ADVANCED HEALTHCARE MATERIALS
+AB The availability of 3D sponges combining proper biochemical, biophysical, and biomechanical properties with enhanced capacity of in vivo engraftment and vascularization is crucial in regenerative medicine. A simple process is developed to generate macroporous scaffolds with a well-defined architecture of interconnected pores from chicken egg white (EW), a material with protein-and growth factor-binding features which has not yet been employed in regenerative medicine. The physicomechanical properties and degradation rates of the scaffold are finely tuned by using varying concentrations of the cross-linker, 1-ethyl-3-(3-dimethylaminopropyl) carbodiimide hydrochloride, without alteration of the biochemical traits. In vitro, EW scaffolds supported active metabolism, proliferation, and migration of human dermal fibroblasts, thereby generating uniform cellular constructs. In vivo, subcutaneous implantation in mice reveals negligible immune reaction and efficient cell and tissue ingrowth. Angiogenesis into EW scaffolds is enhanced as compared to standard collagen type I sponges used as reference material, likely due to significantly higher adsorption of the proangiogenic factor vascular endothelial growth factor. In summary, a material is presented derived by facile processing of a highly abundant natural product. Due to the efficient subcutaneous engraftment capacity, the sponges can find utilization for soft tissue regeneration.
+SN 2192-2640
+EI 2192-2659
+PD OCT 28
+PY 2015
+VL 4
+IS 15
+BP 2281
+EP 2290
+DI 10.1002/adhm.201500482
+UT WOS:000368140700010
+PM 26376116
+ER
+

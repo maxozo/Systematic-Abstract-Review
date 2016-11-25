@@ -1,0 +1,36 @@
+AU Saito, M
+   Tanaka, M
+   Misawa, E
+   Yao, RQ
+   Nabeshima, K
+   Yamauchi, K
+   Abe, F
+   Yamamoto, Y
+   Furukawa, F
+AF Saito, Marie
+   Tanaka, Miyuki
+   Misawa, Eriko
+   Yao, Ruiquing
+   Nabeshima, Kazumi
+   Yamauchi, Kouji
+   Abe, Fumiaki
+   Yamamoto, Yuki
+   Furukawa, Fukumi
+TI Oral administration of Aloe vera gel powder prevents UVB-induced
+   decrease in skin elasticity via suppression of overexpression of MMPs in
+   hairless mice
+SO BIOSCIENCE BIOTECHNOLOGY AND BIOCHEMISTRY
+AB This study reports the effects of oral Aloe vera gel powder (AVGP) containing Aloe sterols on skin elasticity and the extracellular matrix in ultraviolet B (UVB)-irradiated hairless mice. Ten-week-old hairless mice were fed diets containing 0.3% AVGP for 8weeks and irradiated UVB for 6weeks. Mice treated with AVGP showed significant prevention of the UVB-induced decrease in skin elasticity. To investigate the mechanism underlying this suppression of skin elasticity loss, we measured the expression of matrix metalloproteinase (MMP)-2, -9, and -13. AVGP prevented both the UVB-induced increases in MMPs expressions. Moreover, we investigated hyaluronic acid (HA) content of mice dorsal skin and gene expression of HA synthase-2 (Has2). In the results, AVGP oral administration prevented UVB-induced decreasing in skin HA content and Has2 expression and attenuates the UVB-induced decrease in serum adiponectin, which promotes Has2 expression. These results suggested that AVGP has the ability to prevent the skin photoaging.
+SN 0916-8451
+EI 1347-6947
+PD JUL
+PY 2016
+VL 80
+IS 7
+BP 1416
+EP 1424
+DI 10.1080/09168451.2016.1156480
+UT WOS:000379186000024
+PM 27045316
+ER
+

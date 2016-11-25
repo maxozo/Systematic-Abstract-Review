@@ -1,0 +1,28 @@
+AU Henry, CM
+   Sullivan, GP
+   Clancy, DM
+   Afonina, IS
+   Kulms, D
+   Martin, SJ
+AF Henry, Conor M.
+   Sullivan, Graeme P.
+   Clancy, Danielle M.
+   Afonina, Inna S.
+   Kulms, Dagmar
+   Martin, Seamus J.
+TI Neutrophil-Derived Proteases Escalate Inflammation through Activation of
+   IL-36 Family Cytokines
+SO CELL REPORTS
+AB Recent evidence has strongly implicated the IL-1 family cytokines IL-36 alpha, IL-36 beta, and IL-36 gamma as key initiators of skin inflammation. Similar to the other members of the IL-1 family, IL-36 cytokines are expressed as inactive precursors and require proteolytic processing for activation; however, the responsible proteases are unknown. Here, we show that IL-36 alpha, IL-36 beta, and IL-36 gamma are activated differentially by the neutrophil granule-derived proteases cathepsin G, elastase, and proteinase-3, increasing their biological activity similar to 500-fold. Active IL-36 promoted a strong pro-inflammatory signature in primary keratinocytes and was sufficient to perturb skin differentiation in a reconstituted 3D human skin model, producing features resembling psoriasis. Furthermore, skin eluates from psoriasis patients displayed significantly elevated cathepsin G-like activity that was sufficient to activate IL-36 beta. These data identify neutrophil granule proteases as potent IL-36-activating enzymes, adding to our understanding of how neutrophils escalate inflammatory reactions. Inhibition of neutrophil-derived proteases may therefore have therapeutic benefits in psoriasis.
+SN 2211-1247
+PD FEB 2
+PY 2016
+VL 14
+IS 4
+BP 708
+EP 722
+DI 10.1016/j.celrep.2015.12.072
+UT WOS:000369104500004
+PM 26776523
+ER
+

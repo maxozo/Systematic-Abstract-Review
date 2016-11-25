@@ -1,0 +1,37 @@
+AU Valente, A
+   Carrillo, AE
+   Tzatzarakis, MN
+   Vakonaki, E
+   Tsatsakis, AM
+   Kenny, GP
+   Koutedakis, Y
+   Jamurtas, AZ
+   Flouris, AD
+AF Valente, Angelica
+   Carrillo, Andres E.
+   Tzatzarakis, Manolis N.
+   Vakonaki, Elena
+   Tsatsakis, Aristidis M.
+   Kenny, Glen P.
+   Koutedakis, Yiannis
+   Jamurtas, Athanasios Z.
+   Flouris, Andreas D.
+TI The absorption and metabolism of a single L-menthol oral versus skin
+   administration: Effects on thermogenesis and metabolic rate
+SO FOOD AND CHEMICAL TOXICOLOGY
+AB We investigated the absorption and metabolism pharmacokinetics of a single L-menthol oral versus skin administration and the effects on human thermogenesis and metabolic rate. Twenty healthy adults were randomly distributed into oral (capsule) and skin (gel) groups and treated with 10 mg kg(-1) L-menthol (ORAL(MENT); SKINMENT) or control (lactose capsule: ORAL(CON); water application: SKINCON) in a random order on two different days. Levels of serum L-menthol increased similarly in ORAL(MENT) and SKINMENT (p > 0.05). L-menthol glucuronidation was greater in ORAL(MENT) than SKINMENT (P < 0.05). Cutaneous vasoconstriction, rectal temperature and body heat storage showed greater increase following SKINMENT compared to ORAL(MENT) and control conditions (p < 0.05). Metabolic rate increased from baseline by 18% in SKINMENT and 10% in ORAL(MENT) and respiratory exchange ratio decreased more in ORAL(MENT) (5.4%) than SKINMENT (4.8%) compared to control conditions (p < 0.05). Levels of plasma adiponectin and leptin as well as heart rate variability were similar to control following either treatment (p > 0.05). Participants reported no cold, shivering, discomfort, stress or skin irritation. We conclude that a single L-menthol skin administration increased thermogenesis and metabolic rate in humans. These effects are minor following L-menthol oral administration probably due to faster glucuronidation and greater blood menthol glucuronide levels. (C) 2015 Published by Elsevier Ltd.
+RI Tsatsakis, Aristidis/H-2890-2013; 
+OI Tsatsakis, Aristidis/0000-0003-3824-2462; Koutedakis,
+   Yiannis/0000-0002-7065-9447
+SN 0278-6915
+EI 1873-6351
+PD DEC
+PY 2015
+VL 86
+BP 262
+EP 273
+DI 10.1016/j.fct.2015.09.018
+UT WOS:000368203200029
+PM 26429629
+ER
+

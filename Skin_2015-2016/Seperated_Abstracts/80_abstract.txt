@@ -1,0 +1,28 @@
+AU Becker, RA
+   Patlewicz, G
+   Simon, TW
+   Rowlands, JC
+   Budinsky, RA
+AF Becker, Richard A.
+   Patlewicz, Grace
+   Simon, Ted W.
+   Rowlands, J. Craig
+   Budinsky, Robert A.
+TI The adverse outcome pathway for rodent liver tumor promotion by
+   sustained activation of the aryl hydrocarbon receptor
+SO REGULATORY TOXICOLOGY AND PHARMACOLOGY
+AB An Adverse Outcome Pathway (AOP) represents the existing knowledge of a biological pathway leading from initial molecular interactions of a toxicant and progressing through a series of key events (KEs), culminating with an apical adverse outcome (AO) that has to be of regulatory relevance. An AOP based on the mode of action (MOA) of rodent liver tumor promotion by dioxin-like compounds (DLCs) has been developed and the weight of evidence (WOE) of lcey event relationships (KERs) evaluated using evolved Bradford Hill considerations. Dioxins and DLCs are potent aryl hydrocarbon receptor (AHR) ligands that cause a range of species-specific adverse outcomes. The occurrence of KEs is necessary for inducing downstream biological responses and KEs may occur at the molecular, cellular, tissue and organ levels. The common convention is that an AOP begins with the toxicant interaction with a biological response element; for this AOP, this initial event is binding of a DLC ligand to the AHR. Data from mechanistic studies, lifetime bioassays and approximately thirty initiation-promotion studies have established dioxin and DLCs as rat liver tumor promoters. Such studies clearly show that sustained AHR activation, weeks or months in duration, is necessary to induce rodent liver tumor promotion hence, sustained AHR activation is deemed the molecular initiating event (MIE). After this MIE, subsequent KEs are I) changes in cellular growth homeostasis likely associated with expression changes in a number of genes and observed as development of hepatic foci and decreases in apoptosis within foci; 2) extensive liver toxicity observed as the constellation of effects called toxic hepatopathy; 3) cellular proliferation and hyperplasia in several hepatic cell types. This progression of KEs culminates in the AO, the development of hepatocellular adenomas and carcinomas and cholangiolar carcinomas. A rich data set provides both qualitative and quantitative knowledge of the progression of this AOP through KEs and the KERs. Thus, the WoE for this AOP is judged to be strong. Species-specific effects of dioxins and DLCs are well known humans are less responsive than rodents and rodent species differ in sensitivity between strains. Consequently, application of this AOP to evaluate potential human health risks must take these differences into account. 0 2015 The Authors. Published by Elsevier Inc.
+OI Patlewicz, Grace/0000-0003-3863-9689
+SN 0273-2300
+EI 1096-0295
+PD OCT
+PY 2015
+VL 73
+IS 1
+BP 172
+EP 190
+DI 10.1016/j.yrtph.2015.06.015
+UT WOS:000361410700018
+PM 26145830
+ER
+

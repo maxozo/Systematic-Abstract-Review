@@ -1,0 +1,26 @@
+AU Vrzal, R
+   Zenata, O
+   Doricakova, A
+   Dvorak, Z
+AF Vrzal, Radim
+   Zenata, Ondrej
+   Doricakova, Aneta
+   Dvorak, Zdenek
+TI Environmental pollutants parathion, paraquat and bisphenol A show
+   distinct effects towards nuclear receptors-mediated induction of
+   xenobiotics-metabolizing cytochromes P450 in human hepatocytes
+SO TOXICOLOGY LETTERS
+AB Environmental pollutants parathion, bisphenol A and paraquat were not systematically studied towards the effects on the expression of phase I xenobiotics-metabolizing cytochromes P450 (CYPs). We monitored their effects on the expression of selected CYPs in primary cultures of human hepatocytes. Moreover, we investigated their effects on the receptors regulating these CYPs, particularly arylhydrocarbon receptor (AhR), pregnane X receptor (PXR) and glucocorticoid receptor (GR) by gene reporter assays. We found that parathion and bisphenol A are the activators of AhR. Moreover, they are the inducers of CYP1A1 mRNA in hepatoma cells HepG2 as well as in human hepatocytes by AhR-dependent mechanism via formation of AhR-DNA-binding complex, as revealed by gel shift assay. All three compounds possessed anti-glucocorticoid action as revealed by GR-dependent gene reporter assay and a decline in tyrosine aminotransferase (TAT) gene expression in human hepatocytes. Moreover, parathion and bisphenol A are the activators of PXR and inducers of CYP3A4 mRNA and protein in the primary cultures of human hepatocytes. In conclusion, the studied compounds displayed distinct activities towards nuclear receptors involved in many biological processes and these findings may help us to better understand their adverse actions in pathological states followed after their exposure. (C) 2015 Elsevier Ireland Ltd. All rights reserved.
+SN 0378-4274
+EI 1879-3169
+PD OCT 1
+PY 2015
+VL 238
+IS 1
+BP 43
+EP 53
+DI 10.1016/j.toxlet.2015.07.008
+UT WOS:000359437800005
+PM 26196221
+ER
+

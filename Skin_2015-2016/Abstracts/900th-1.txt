@@ -1,0 +1,1592 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Chen, JM
+   Yu, XJ
+   Huang, YF
+AF Chen, Jianmin
+   Yu, Xiaojing
+   Huang, Yufeng
+TI Inhibitory mechanisms of glabridin on tyrosinase
+SO SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY
+AB Tyrosinase is an oxidase that is the rate-limiting enzyme for controlling the production of melanin in the human body. Overproduction of melanin could lead to a variety of skin disorders. Glabridin, an isoflavan, isolated from the root of Glycyrrhizaglabra Linn, has exhibited several pharmacological activities, including excellent inhibitory effects on tyrosinase. In this paper, the inhibitory kinetics of glabridin on tyrosinase and their binding mechanisms were determined using spectroscopic, zebrafish model and molecular docking techniques. The results indicate that glabridin reversibly inhibits tyrosinase in a noncompetitive manner through a multiphase kinetic process with the IC50 of 0.43 mu mol/L. It has been shown that glabridin had a strong ability to quench the intrinsic fluorescence of tyrosinase mainly through a static quenching procedure, suggesting a stable glabridin-tyrosinase complex may be generated. The results of molecular docking suggest that glabridin did not directly bind to the active site of tyrosinase. Moreover, according to the results of zebrafish model system, glabridin shows no effects on melanin synthesis in zebrafish but presents toxicity to zebrafish embryo. The possible inhibitory mechanisms, which will help to design and search for tyrosinase inhibitors especially for glabridin analogues, were proposed. (C) 2016 Elsevier B.V. All rights reserved.
+SN 1386-1425
+PD NOV 5
+PY 2016
+VL 168
+BP 111
+EP 117
+DI 10.1016/j.saa.2016.06.008
+UT WOS:000380072400015
+PM 27288962
+ER
+
+PT J
+AU He, ZY
+   Zhu, HD
+   Xu, MZ
+   Zeng, MM
+   Qin, F
+   Chen, J
+AF He, Zhiyong
+   Zhu, Haidong
+   Xu, Mingzhu
+   Zeng, Maomao
+   Qin, Fang
+   Chen, Jie
+TI Complexation of bovine beta-lactoglobulin with malvidin-3-O-glucoside
+   and its effect on the stability of grape skin anthocyanin extracts
+SO FOOD CHEMISTRY
+AB The binding interaction between bovine beta-lactoglobulin and malvidin-3-O-glucoside (MG), the major anthocyanin in grape skin anthocyanin extracts (GSAE), was studied at pH 6.3 using fluorescence, Fourier transform infrared and circular dichroism spectroscopy. The binding constant (K-S), binding force and effect of the interaction on the beta-lactoglobulin conformation and GSAE stability were investigated. The results indicated that beta-lactoglobulin complexed with MG mainly via hydrophobic interaction with K-S of 0.67 x 10(3) M-1 at 297 K. The secondary structure of beta-lactoglobulin was changed by MG binding, with a decrease in a-helix, turn and random coil and an increase in beta-sheet. Bovine whey protein effectively prevented the color fading and degradation of anthocyanin in the GSAE solution during the thermal treatment (80 degrees C/2 h), H2O2 oxidation (0.005% H2O2/1 h) and photo illumination (5000 lx/5 d). The whey protein-anthocyanin complexation appeared to have a positive effect on the thermal, oxidation and photo stability of GSAE. (C) 2016 Elsevier Ltd. All rights reserved.
+SN 0308-8146
+EI 1873-7072
+PD OCT 15
+PY 2016
+VL 209
+BP 234
+EP 240
+DI 10.1016/j.foodchem.2016.04.048
+UT WOS:000375858100018
+PM 27173557
+ER
+
+PT J
+AU Peng, ZL
+   Li, SH
+   Han, X
+   Al-Youbi, AO
+   Bashammakh, AS
+   El-Shahawi, MS
+   Leblanc, RM
+AF Peng, Zhili
+   Li, Shanghao
+   Han, Xu
+   Al-Youbi, Abdulrahman O.
+   Bashammakh, Abdulaziz S.
+   El-Shahawi, Mohammad S.
+   Leblanc, Roger M.
+TI Determination of the composition, encapsulation efficiency and loading
+   capacity in protein drug delivery systems using circular dichroism
+   spectroscopy
+SO ANALYTICA CHIMICA ACTA
+AB Peptides and proteins have become very promising drug candidates in recent decades due to their unique properties. However, the application of these drugs has been limited by their high enzymatic susceptibility, low membrane permeability and poor bioavailability when administered orally. Considerable efforts have been made to design and develop drug delivery systems that could transport peptides and proteins to targeted area. Although it is of great importance to determine the composition after loading a drug to the carrier, the ability to do so is significantly limited by current analytical methods. In this letter, five important proteins, alpha(1)-antitrypsin, hemoglobin human, human serum albumin, human transferrin and r-globulin were chemically conjugated to two model drug carriers, namely carbon dots and polymer O-(2-carboxyethyl)polyethylene glycol. A simple yet convenient method based on circular dichroism spectroscopy was developed to determine the compositions of the various protein-carrier conjugates. (C) 2016 Elsevier B.V. All rights reserved.
+SN 0003-2670
+EI 1873-4324
+PD SEP 21
+PY 2016
+VL 937
+BP 113
+EP 118
+DI 10.1016/j.aca.2016.08.014
+UT WOS:000382252800014
+PM 27590552
+ER
+
+PT J
+AU Samy, RP
+   Sethi, G
+   Lim, LHK
+AF Samy, Ramar Perumal
+   Sethi, Gautam
+   Lim, Lina H. K.
+TI A brief update on potential molecular mechanisms underlying
+   antimicrobial and wound-healing potency of snake venom molecules
+SO BIOCHEMICAL PHARMACOLOGY
+AB Infectious diseases remain a significant cause of morbidity and mortality worldwide. A wide range of diverse, novel classes of natural antibiotics have been isolated from different snake species in the recent past. Snake venoms contain diverse groups of proteins with potent antibacterial activity against a wide range of human pathogens. Some snake venom molecules are pharmacologically attractive, as they possess promising broad-spectrum antibacterial activities. Furthermore, snake venom proteins (SVPs)/peptides also bind to integrins with high affinity, thereby inhibiting cell adhesion and accelerating wound healing in animal models. Thus, SVPs are a potential alternative to chemical antibiotics. The mode of action for many antibacterial peptides involves pore formation and disruption of the plasma membrane. This activity often includes modulation of nuclear factor kappa B (NF-kappa B) activation during skin wound healing. The NF-kappa B pathway negatively regulates the transforming growth factor (TGF)-beta 1/Smad pathway by inducing the expression of Smad7 and eventually reducing in vivo collagen production at the wound sites. In this context, SVPs that regulate the NF-kappa B signaling pathway may serve as potential targets for drug development. (C) 2016 Elsevier Inc. All rights reserved.
+SN 0006-2952
+EI 1873-2968
+PD SEP 1
+PY 2016
+VL 115
+BP 1
+EP 9
+DI 10.1016/j.bcp.2016.03.006
+UT WOS:000381545700001
+PM 26975619
+ER
+
+PT J
+AU Reid, LO
+   Roman, EA
+   Thomas, AH
+   Dantola, ML
+AF Reid, Lara O.
+   Roman, Ernesto A.
+   Thomas, Andres H.
+   Laura Dantola, M.
+TI Photooxidation of Tryptophan and Tyrosine Residues in Human Serum
+   Albumin Sensitized by Pterin: A Model for Globular Protein Photodamage
+   in Skin
+SO BIOCHEMISTRY
+AB Human serum albumin (HSA) is the most abundant protein in the circulatory system. Oxidized albumin was identified'in the skin of patients suffering from vitiligo, a depigmentation disorder in which the protection against ultraviolet (UV) radiation fails because of the lack of melanin. Oxidized pterins, efficient photosensitizers under UV-A irradiation, accumulate in the skin affected by vitiligo. In this work, we have investigated the ability of pterin (Ptr), the parent compound of oxidized pterins, to induce structural and chemical changes in HSA under UV-A irradiation. Our results showed that Ptr is able to photoinduce oxidation of the protein in at least two amino acid residues: tryptophan (Trp) and tyrosine (Tyr). HSA undergoes oligomerization, yielding protein structures whose molecular weight increases with irradiation time. The protein cross-linking, due to the formation of dimers of Tyr, does not significantly affect the secondary and tertiary structures of HSA. Trp is consumed-in the photosensitized process, and N-formylkynurenine was identified as,one of its oxidation products. The photosensitization of HSA takes place via a purely dynamic process, which involves the triplet excited state of Ptr. The results presented in this work suggest that protein photodamage mediated by endogenous,photosensitizers can significantly contribute to the harmful effects of UV-A radiation on the human skin.
+SN 0006-2960
+PD AUG 30
+PY 2016
+VL 55
+IS 34
+BP 4777
+EP 4786
+DI 10.1021/acs.biochem.6b00420
+UT WOS:000382513700005
+PM 27500308
+ER
+
+PT J
+AU Carvalho, KP
+   Martins, NB
+   Ribeiro, ARLP
+   Lopes, TS
+   de Sena, RC
+   Sommer, P
+   Granjeiro, JM
+AF Carvalho, Karina Penedo
+   Martins, Nathalia Balthazar
+   Lopes Pereira Ribeiro, Ana Rosa
+   Lopes, Taliria Silva
+   de Sena, Rodrigo Caciano
+   Sommer, Pascal
+   Granjeiro, Jose Mauro
+TI Optimized method of dispersion of titanium dioxide nanoparticles for
+   evaluation of safety aspects in cosmetics
+SO JOURNAL OF NANOPARTICLE RESEARCH
+AB Nanoparticles agglomerate when in contact with biological solutions, depending on the solutions' nature. The agglomeration state will directly influence cellular response, since free nanoparticles are prone to interact with cells and get absorbed into them. In sunscreens, titanium dioxide nanoparticles (TiO2-NPs) form mainly aggregates between 30 and 150 nm. Until now, no toxicological study with skin cells has reached this range of size distribution. Therefore, in order to reliably evaluate their safety, it is essential to prepare suspensions with reproducibility, irrespective of the biological solution used, representing the above particle size distribution range of NPs (30-150 nm) found on sunscreens. Thus, the aim of this study was to develop a unique protocol of TiO2 dispersion, combining these features after dilution in different skin cell culture media, for in vitro tests. This new protocol was based on physicochemical characteristics of TiO2, which led to the choice of the optimal pH condition for ultrasonication. The next step consisted of stabilization of protein capping with acidified bovine serum albumin, followed by an adjustment of pH to 7.0. At each step, the solutions were analyzed by dynamic light scattering and transmission electron microscopy. The final concentration of NPs was determined by inductively coupled plasma-optical emission spectroscopy. Finally, when diluted in dulbecco's modified eagle medium, melanocytes growth medium, or keratinocytes growth medium, TiO2-NPs displayed a highly reproducible size distribution, within the desired size range and without significant differences among the media. Together, these results demonstrate the consistency achieved by this new methodology and its suitability for in vitro tests involving skin cell cultures.
+SN 1388-0764
+EI 1572-896X
+PD AUG 19
+PY 2016
+VL 18
+IS 8
+AR 244
+DI 10.1007/s11051-016-3542-7
+UT WOS:000382105100001
+ER
+
+PT J
+AU Kuhlenhoelter, AM
+   Kim, K
+   Neff, D
+   Nie, YH
+   Maize, AN
+   Wong, BJ
+   Kuang, SH
+   Stout, J
+   Song, QF
+   Gavin, TP
+   Roseguini, BT
+AF Kuhlenhoelter, Alisha M.
+   Kim, Kyoungrae
+   Neff, Dustin
+   Nie, Yaohui
+   Maize, A. Nicole
+   Wong, Brett J.
+   Kuang, Shihuan
+   Stout, Julianne
+   Song, Qifan
+   Gavin, Timothy P.
+   Roseguini, Bruno T.
+TI Heat therapy promotes the expression of angiogenic regulators in human
+   skeletal muscle
+SO AMERICAN JOURNAL OF PHYSIOLOGY-REGULATORY INTEGRATIVE AND COMPARATIVE
+   PHYSIOLOGY
+AB Heat therapy has been shown to promote capillary growth in skeletal muscle and in the heart in several animal models, but the effects of this therapy on angiogenic signaling in humans are unknown. We evaluated the acute effect of lower body heating (LBH) and unilateral thigh heating (TH) on the expression of angiogenic regulators and heat shock proteins (HSPs) in healthy young individuals. Exposure to LBH (n = 18) increased core temperature (T-c) from 36.9 +/- 0.1 to 37.4 +/- 0.1 degrees C (P < 0.01) and average leg skin temperature (T-leg) from 33.1 +/- 0.1 to 39.6 +/- 0.1 degrees C (P < 0.01), but did not alter the levels of circulating angiogenic cytokines and bone marrow-derived proangiogenic cells (CD34(+)CD133(+)). In skeletal muscle, the change in mRNA expression from baseline of vascular endothelial growth factor (VEGF), angiopoietin 2 (ANGPT2), chemokines CCL2 and CX3CL1, platelet factor-4 (PF4), and several members of the HSP family was higher 30 min after the intervention in the individuals exposed to LBH (n = 11) compared with the control group (n = 12). LBH also reduced the expression of transcription factor FOXO1 (P < 0.03). Exposure to TH (n = 14) increased T-leg from 32.8 +/- 0.2 to 40.3 +/- 0.1 degrees C (P < 0.05) but T-c remained unaltered (36.8 +/- 0.1 degrees C at baseline and 36.9 +/- 0.1 degrees C at 90 min). This intervention upregulated the expression of VEGF, ANGPT1, ANGPT2, CCL2, and HSPs in skeletal muscle but did not affect the levels of CX3CL1, FOXO-1, and PF4. These findings suggest that both LBH and TH increase the expression of factors associated with capillary growth in human skeletal muscle.
+SN 0363-6119
+EI 1522-1490
+PD AUG 1
+PY 2016
+VL 311
+IS 2
+BP R377
+EP R391
+DI 10.1152/ajpregu.00134.2016
+UT WOS:000384770100019
+PM 27357800
+ER
+
+PT J
+AU Edvinsson, ML
+   Ahnstedt, H
+   Edvinsson, L
+   Andersson, SE
+AF Edvinsson, Marie-Louise
+   Ahnstedt, Hilda
+   Edvinsson, Lars
+   Andersson, Sven E.
+TI Characterization of Relaxant Responses to Natriuretic Peptides in the
+   Human Microcirculation In Vitro and InVivo
+SO MICROCIRCULATION
+AB ObjectiveWe characterized the vasodilatory effects of ANP, BNP, and CNP in human subcutaneous arterioles invitro and the cutaneous microcirculation invivo.
+   MethodsThe invitro experiments were performed using wire myography and the responses were characterized by the use of inhibitors for nitric oxide (L-NAME), prostaglandin synthesis (indomethacin), or the endothelium-derived hyperpolarization factor. In vivo, the vasorelaxant effect of iontophoretically administrated BNP or CNP was measured with a noninvasive laser Doppler technique. Involvement of nitric oxide or prostaglandins was assessed by L-NAME or indomethacin given by iontophoresis.
+   ResultsIn vitro all three peptides showed significant vasodilatation with the efficacy order: CNP>BNP=ANP. The BNP-induced vasodilatation, but not that of ANP or CNP, was significantly reduced by pretreatment with indomethacin or L-NAME. In vivo administration of BNP induced a marked vasodilatory response that was attenuated by local pretreatment of L-NAME. Indomethacin by itself resulted in increased cutaneous perfusion.
+   ConclusionsNPs are potent vasodilators in the human subcutaneous circulation. The response to BNP differs from that of the other peptides as it seems dependent on cyclooxygenase products and nitric oxide.
+SN 1073-9688
+EI 1549-8719
+PD AUG
+PY 2016
+VL 23
+IS 6
+BP 438
+EP 446
+DI 10.1111/micc.12290
+UT WOS:000382834400005
+PM 27207741
+ER
+
+PT J
+AU Cousins, FL
+   Kirkwood, PM
+   Murray, AA
+   Collins, F
+   Gibson, DA
+   Saunders, PTK
+AF Cousins, Fiona L.
+   Kirkwood, Phoebe M.
+   Murray, Alison A.
+   Collins, Frances
+   Gibson, Douglas A.
+   Saunders, Philippa T. K.
+TI Androgens regulate scarless repair of the endometrial "wound" in a mouse
+   model of menstruation
+SO FASEB JOURNAL
+AB The human endometrium undergoes regular cycles of synchronous tissue shedding (wounding) and repair that occur during menstruation before estrogen-dependent regeneration. Endometrial repair is normally both rapid and scarless. Androgens regulate cutaneous wound healing, but their role in endometrial repair is unknown. We used a murine model of simulated menses; mice were treated with a single dose of the nonaromatizable androgen dihydrotestosterone (DHT; 200 mu g/mouse) to coincide with initiation of tissue breakdown. DHT altered the duration of vaginal bleeding and delayed restoration of the luminal epithelium. Analysis of uterine mRNAs 24 h after administration of DHT identified significant changes in metalloproteinases (Mmp3 and -9; P < 0.01), a snail family member (Snai3; P < 0.001), and osteopontin (Spp1; P < 0.001). Chromatin immunoprecipitation analysis identified putative androgen receptor (AR) binding sites in the proximal promoters of Mmp9, Snai3, and Spp1. Striking spatial and temporal changes in immunoexpression of matrix metalloproteinase (MMP) 3/9 and caspase 3 were detected after DHT treatment. These data represent a paradigm shift in our understanding of the role of androgens in endometrial repair and suggest that androgens may have direct impacts on endometrial tissue integrity. These studies provide evidence that the AR is a potential target for drug therapy to treat conditions associated with aberrant endometrial repair processes.
+SN 0892-6638
+EI 1530-6860
+PD AUG
+PY 2016
+VL 30
+IS 8
+BP 2802
+EP 2811
+DI 10.1096/fj.201600078R
+UT WOS:000380994000016
+PM 27121597
+ER
+
+PT J
+AU Ribeiro, A
+   Volkov, V
+   Oliveira, MB
+   Padrao, J
+   Mano, JF
+   Gomes, AC
+   Cavaco-Paulo, A
+AF Ribeiro, Artur
+   Volkov, Vadim
+   Oliveira, Mariana B.
+   Padrao, Jorge
+   Mano, Joao F.
+   Gomes, Andreia C.
+   Cavaco-Paulo, Artur
+TI BSA/HSA ratio modulates the properties of Ca2+-induced cold gelation
+   scaffolds
+SO INTERNATIONAL JOURNAL OF BIOLOGICAL MACROMOLECULES
+AB An effective tissue engineering approach requires adjustment according to the target tissue to be engineered. The possibility of obtaining a protein-based formulation for the development of multivalent tunable scaffolds that can be adapted for several types of cells and tissues is explored in this work. The incremental substitution of bovine serum albumin (BSA) by human serum albumin (HSA), changing the scaffolds' hydrophilic/hydrophobic ratio, on a previously optimized scaffold formulation resulted in a set of uniform porous scaffolds with different physical properties and associated cell proliferation profile along time. There was a general trend towards an increase in hydrophilicity, swelling degree and in vitro degradation of the scaffolds with increasing replacement of BSA by HAS. The set of BSA/HSA scaffolds presented distinct values for the storage (elastic) modulus and loss factor which were similar to those described for different native tissues such as bone, cartilage, muscle, skin and neural tissue. The preferential adhesion and proliferation of skin fibroblasts on the BSA25%HSA75% and HSA100% scaffolds, as predicted by their viscoelastic properties, demonstrate that the BSA/HSA scaffold formulation is promising for the development of scaffolds that can be tuned according to the tissue to be repaired and restored. (C) 2016 Elsevier B.V. All rights reserved.
+RI Group, 3Bs/E-4374-2012; Cavaco-Paulo, Artur/N-7898-2013
+OI Group, 3Bs/0000-0002-5195-3456; Cavaco-Paulo, Artur/0000-0001-7204-2064
+SN 0141-8130
+EI 1879-0003
+PD AUG
+PY 2016
+VL 89
+BP 535
+EP 544
+DI 10.1016/j.ijbiomac.2016.05.012
+UT WOS:000378951400063
+PM 27156695
+ER
+
+PT J
+AU Chan, W
+   Ismail, H
+   Mayaki, D
+   Sanchez, V
+   Tiedemann, K
+   Davis, EC
+   Hussain, SNA
+AF Chan, Wilson
+   Ismail, Hodan
+   Mayaki, Dominique
+   Sanchez, Veronica
+   Tiedemann, Kerstin
+   Davis, Elaine C.
+   Hussain, Sabah N. A.
+TI Fibulin-5 Regulates Angiopoietin-1/Tie-2 Receptor Signaling in
+   Endothelial Cells
+SO PLOS ONE
+AB Background
+   Fibulin-5 is an extracellular matrix glycoprotein that plays critical roles in vasculogenesis and embryonic development. Deletion of Fibulin-5 in mice results in enhanced skin vascularization and upregulation of the angiogenesis factor angiopoietin-1 (Ang-1), suggesting that Fibulin-5 functions as an angiogenesis inhibitor. In this study, we investigate the inhibitory effects of Fibulin-5 on Ang-1/TIE-2 receptor pathway signaling and cell survival in human endothelial cells.
+   Methodology/Principal Findings
+   Recombinant wild-type and RGE-mutant Fibulin-5 proteins were generated through stable transfection of HEK293 and CHO cells, respectively. In vitro solid phase binding assays using pure proteins revealed that wild-type Fibulin-5 does not bind to Ang-1 or TIE-2 proteins but strongly binds to heparin. Binding assays using human umbilical vein endothelial cells (HUVECs) indicated that wild-type Fibulin-5 strongly binds to cells but RGE-mutant Fibulin-5, which is incapable of binding to integrins, does not. Pre-incubation of HUVECs for 1 hr with Fibulin-5 significantly increased caspase 3/7 activity, ERK1/2 phosphorylation, and expressions of the transcription factor early growth response 1 (EGR1) and the dual-specificity phosphatase 5 (DUSP5). Fibulin-5 also strongly attenuated Ang-1-induced TIE-2 and AKT phosphorylation, decreased Ang-1-induced expressions of the transcription factors Inhibitor of DNA Binding 1 (ID1) and Kruppel-like Factor 2 (KLF2), and reversed the inhibitory effect of Ang-1 on serum deprivation-induced cytotoxicity and caspase 3/7 activity.
+   Conclusion/Significance
+   We conclude that Fibulin-5 strongly binds to the endothelial cell surface through heparinsulfate proteoglycans and possibly integrins and that it exerts strong anti-angiogenic effects by reducing endothelial cell viability and interfering with the signaling pathways of the Ang1/TIE-2 receptor axis.
+SN 1932-6203
+PD JUN 15
+PY 2016
+VL 11
+IS 6
+AR e0156994
+DI 10.1371/journal.pone.0156994
+UT WOS:000377824800032
+PM 27304216
+ER
+
+PT J
+AU Elbendary, A
+   Cochran, E
+   Xie, Q
+   Kabigting, F
+   Pereira, L
+   Elston, DM
+   Heilman, E
+AF Elbendary, Amira
+   Cochran, Eric
+   Xie, Qiang
+   Kabigting, Filamer
+   Pereira, Leanne
+   Elston, Dirk M.
+   Heilman, Edward
+TI Hidradenoma Papilliferum With Oncocytic Metaplasia: A Histopathological
+   and Immunohistochemical Study
+SO AMERICAN JOURNAL OF DERMATOPATHOLOGY
+AB Hidradenoma papilliferum is a benign cutaneous adnexal neoplasm, commonly occurring in the vulva and perianal region of adult women. It has characteristic histopathological features composed of anastomosing and branching tubules, lined by columnar cells, and a basal layer of myoepithelial cells. A 39-year-old woman was evaluated for 2 asymptomatic labial masses. The histopathological examination revealed a Bartholin's cyst and a hidradenoma papilliferum. The latter contains a distinct area of oncocytic/oxyphilic metaplasia. Immunohistochemical stains revealed positive staining for gross cystic disease fluid protein (GCDFP)-15 and androgen receptor. GATA-3, a protein expressed in sweat glands, highlights a similar positive staining pattern with weaker staining in areas of oncocytic metaplasia. P63 highlighted the myoepithelial differentiation. In situ hybridization for Human Papilloma Virus 6, 11, 16, and 18 was negative. P53 was negative and Ki-67 was low, confirming its benign nature. Oncocytes are enlarged epithelial cells with voluminous eosinophilic granular cytoplasm resulting from staining of nonribosomal cytoplasmic components. Few reports documented it in hidradenoma papilliferum. Our case demonstrated a florid distinct appearance of this metaplasia. The immunoprofiles of this oncocytic metaplasia such as p53 negativity and positivity for androgen receptor and GCDFP-15 demonstrates similarity to apocrine metaplasia in the breast. The authors' case demonstrates the benign nature of oncocytic metaplasia and supports the common origin of oncocytic cells and columnar cells in hidradenoma papilliferum.
+OI Elbendary, Amira/0000-0001-5003-0994
+SN 0193-1091
+EI 1533-0311
+PD JUN
+PY 2016
+VL 38
+IS 6
+BP 444
+EP 447
+UT WOS:000378157600012
+PM 27097337
+ER
+
+PT J
+AU Wang, YW
+   Simanainen, U
+   Cheer, K
+   Suarez, FG
+   Gao, YR
+   Li, Z
+   Handelsman, D
+   Maitz, P
+AF Wang, Yiwei
+   Simanainen, Ulla
+   Cheer, Kenny
+   Suarez, Francia G.
+   Gao, Yan Ru
+   Li, Zhe
+   Handelsman, David
+   Maitz, Peter
+TI Androgen actions in mouse wound healing: Minimal in vivo effects of
+   local antiandrogen delivery
+SO WOUND REPAIR AND REGENERATION
+AB The aims of this work were to define the role of androgens in female wound healing and to develop and characterize a novel wound dressing with antiandrogens. Androgens retard wound healing in males, but their role in female wound healing has not been established. To understand androgen receptor (AR)-mediated androgen actions in male and female wound healing, we utilized the global AR knockout (ARKO) mouse model, with a mutated AR deleting the second zinc finger to disrupt DNA binding and transcriptional activation. AR inactivation enhanced wound healing rate in males by increasing re-epithelialization and collagen deposition even when wound contraction was eliminated. Cell proliferation and migration in ARKO male fibroblasts was significantly increased compared with wild-type (WT) fibroblasts. However, ARKO females showed a similar healing rate compared to WT females. To exploit local antiandrogen effects in wound healing, while minimizing off-target systemic effects, we developed a novel electrospun polycaprolactone (PCL) scaffold wound dressing material for sustained local antiandrogen delivery. Using the antiandrogen hydroxyl flutamide (HF) at 1, 5, and 10 mg/mL in PCL scaffolds, controlled HF delivery over 21 days significantly enhanced in vitro cell proliferation of human dermal fibroblasts and human keratinocytes. HF-PCL scaffolds also promoted in vivo wound healing in mice compared with open wounds but not to PCL scaffolds.
+SN 1067-1927
+EI 1524-475X
+PD MAY-JUN
+PY 2016
+VL 24
+IS 3
+BP 478
+EP 488
+DI 10.1111/wrr.12420
+UT WOS:000377500900002
+PM 26873751
+ER
+
+PT J
+AU Wroblewska, B
+   Markiewicz, LH
+   Szyc, AM
+   Dietrich, MA
+   Szymkiewicz, A
+   Fotschki, J
+AF Wroblewska, Barbara
+   Markiewicz, Lidia Hanna
+   Szyc, Anna Maria
+   Dietrich, Mariola Aleksandra
+   Szymkiewicz, Agata
+   Fotschki, Joanna
+TI Lactobacillus casei LcY decreases milk protein immunoreactivity of
+   fermented buttermilk but also contains IgE-reactive proteins
+SO FOOD RESEARCH INTERNATIONAL
+AB This study evaluates Lactobacillus casei LcY protein immunactive properties and assesses its potential to decrease milk protein immunoreactivity in fermented buttermilk before and after simulated digestion. Competitive ELISA analysis of alpha-lactalbumin, beta-lactoglobulin, alpha-casein, beta-casein, kappa-casein, bovine serum albumin and lactoferrin determined significant (P < 0.001) immunoreactivity reduction after fermentation, and even greater decrease after three-stage simulated digestion. Immunoblotting of fermented buttermilk with human allergic sera revealed that a-casein remained the most allergenic milk protein. The LcY cell fractionation and further separation by SDS-PAGE and 2DE, immunoblotting and MALDI-TOF MS/MS identification all highlighted that cyclopropanefatty-acyl-phospholipid synthase and carboxylate-amine ligase in the cell wall/membrane protein fraction reacted with human IgE antibodies. In silico analysis of these proteins' allergenic potential indicated that these are new allergens rather than already known cross-reacting allergens.
+   To our best knowledge, this is the first study providing evidence of human IgE reactive protein presence in lactic add bacteria. (C) 2016 Elsevier Ltd. All rights reserved.
+RI Szyc, Anna/J-2200-2016; Dietrich, Mariola/K-1731-2013
+SN 0963-9969
+EI 1873-7145
+PD MAY
+PY 2016
+VL 83
+BP 95
+EP 101
+DI 10.1016/j.foodres.2016.02.016
+UT WOS:000374801100009
+ER
+
+PT J
+AU Overland, M
+   Li, Y
+   Cao, M
+   Shen, J
+   Yue, X
+   Botta, S
+   Sinclair, A
+   Cunha, G
+   Baskin, L
+AF Overland, Maya
+   Li, Yi
+   Cao, Mei
+   Shen, Joel
+   Yue, Xuan
+   Botta, Sisir
+   Sinclair, Adriane
+   Cunha, Gerald
+   Baskin, Laurence
+TI Canalization of the Vestibular Plate in the Absence of Urethral Fusion
+   Characterizes Development of the Human Clitoris: The Single Zipper
+   Hypothesis
+SO JOURNAL OF UROLOGY
+CT Joint Meeting of the Society-for-Pediatric-Urology and
+   American-Urological-Association (AUA)
+CY MAY 15-19, 2015
+CL New Orleans, LA
+SP Soc Pediat Urol, Amer Urol Assoc
+AB Purpose: We characterized the early gestation development of the female external genitalia using optical projection tomography to visualize anatomical structures at high resolution. Materials and
+   Methods: First and early second trimester human female fetal external genitalia were collected with consent after voluntary termination. Specimens labeled with anti-E-Cadherin antibody underwent analysis with optical projection tomography. Histological sections were immunostained for androgen receptor, 5 alpha-reductase, Ki67 for proliferation and Caspase 3 for apoptosis.
+   Results: Three-dimensional reconstructions demonstrated proximal to distal canalization of the epithelial vestibular plate and formation of a vestibular groove, which remained open. Ki67 was observed throughout with greatest density in the dorsal vestibular plate at the level of the opening groove. Staining for Caspase 3 was minimal in all sections. Androgen receptor staining was seen throughout the mesenchyme and in the apical epithelium of the dorsal vestibular groove. Throughout the epithelium and epidermis 5 alpha-reductase staining was observed.
+   Conclusions: Early development of the external genitalia in the female is analogous to that in the male, demonstrating a similar opening zipper driving canalization of the vestibular plate with localized epithelial proliferation in the absence of significant apoptosis. Thus we hypothesize that the mechanism underlying the opening zipper must be androgen independent and the absence of androgen driven urethral fusion characterizes the normal development of the human clitoris.
+SN 0022-5347
+EI 1527-3792
+PD APR
+PY 2016
+VL 195
+IS 4
+BP 1275
+EP 1283
+DI 10.1016/j.juro.2015.07.117
+PN 2
+UT WOS:000373402300023
+PM 26926534
+ER
+
+PT J
+AU Zappia, KJ
+   Garrison, SR
+   Palygin, O
+   Weyer, AD
+   Barabas, ME
+   Lawlor, MW
+   Staruschenko, A
+   Stucky, CL
+AF Zappia, Katherine J.
+   Garrison, Sheldon R.
+   Palygin, Oleg
+   Weyer, Andy D.
+   Barabas, Marie E.
+   Lawlor, Michael W.
+   Staruschenko, Alexander
+   Stucky, Cheryl L.
+TI Mechanosensory and ATP Release Deficits following Keratin14-Cre-Mediated
+   TRPA1 Deletion Despite Absence of TRPA1 in Murine Keratinocytes
+SO PLOS ONE
+AB Keratinocytes are the first cells that come into direct contact with external tactile stimuli; however, their role in touch transduction in vivo is not clear. The ion channel Transient Receptor Potential Ankyrin 1 (TRPA1) is essential for some mechanically-gated currents in sensory neurons, amplifies mechanical responses after inflammation, and has been reported to be expressed in human and mouse skin. Other reports have not detected Trpa1 mRNA transcripts in human or mouse epidermis. Therefore, we set out to determine whether selective deletion of Trpa1 from keratinocytes would impact mechanosensation. We generated K14Cre-Trpa1(fl/fl) mice lacking TRPA1 in K14-expressing cells, including keratinocytes. Surprisingly, Trpa1 transcripts were very poorly detected in epidermis of these mice or in controls, and detection was minimal enough to preclude observation of Trpa1 mRNA knockdown in the K14Cre-Trpa1(fl/fl) mice. Unexpectedly, these K14Cre-Trpa1(fl/fl) mice nonetheless exhibited a pronounced deficit in mechanosensitivity at the behavioral and primary afferent levels, and decreased mechanically-evoked ATP release from skin. Overall, while these data suggest that the intended targeted deletion of Trpa1 from keratin 14-expressing cells of the epidermis induces functional deficits in mechanotransduction and ATP release, these deficits are in fact likely due to factors other than reduction of Trpa1 expression in adult mouse keratinocytes because they express very little, if any, Trpa1.
+OI Zappia, Katherine/0000-0002-4419-4834
+SN 1932-6203
+PD MAR 15
+PY 2016
+VL 11
+IS 3
+AR e0151602
+DI 10.1371/journal.pone.0151602
+UT WOS:000372572800094
+PM 26978657
+ER
+
+PT J
+AU Hua, GQ
+   Paulen, L
+   Chambon, P
+AF Hua, Guoqiang
+   Paulen, Laetitia
+   Chambon, Pierre
+TI GR SUMOylation and formation of an SUMO-SMRT/NCoR1-HDAC3 repressing
+   complex is mandatory for GC-induced IR nGRE-mediated transrepression
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+AB Unique among the nuclear receptor superfamily, the glucocorticoid (GC) receptor (GR) can exert three distinct transcriptional regulatory functions on binding of a single natural (cortisol in human and corticosterone in mice) and synthetic [e.g., dexamethasone (Dex)] hormone. The molecular mechanisms underlying GC-induced positive GC response element [(+)GRE]-mediated activation of transcription are partially understood. In contrast, these mechanisms remain elusive for GC-induced evolutionary conserved inverted repeated negative GC response element (IR nGRE)-mediated direct transrepression and for tethered indirect transrepression that is mediated by DNA-bound NF-kappa B/activator protein 1 (AP1)/STAT3 activators and instrumental in GC-induced anti-inflammatory activity. We demonstrate here that SUMOylation of lysine K293 (mouse K310) located within an evolutionary conserved sequence in the human GR N-terminal domain allows the formation of a GR-small ubiquitin-related modifiers (SUMOs)-NCoR1/SMRT-HDAC3 repressing complex mandatory for GC-induced IR nGRE-mediated direct repression in vitro, but does not affect transactivation. Importantly, these results were validated in vivo: in K310R mutant mice and in mice ablated selectively for nuclear receptor corepressor 1 (NCoR1)/silencing mediator for retinoid or thyroid-hormone receptors (SMRT) corepressors in skin keratinocytes, Dex-induced direct repression and the formation of repressing complexes on IR nGREs were impaired, whereas transactivation was unaffected. In mice selectively ablated for histone deacetylase 3 (HDAC3) in skin keratinocytes, GC-induced direct repression, but not bindings of GR and of corepressors NCoR1/SMRT, was abolished, indicating that HDAC3 is instrumental in IR nGRE-mediated repression. Moreover, we demonstrate that the binding of HDAC3 to IR nGREs in vivo is mediated through interaction with SMRT/NCoR1. We also show that the GR ligand binding domain (LBD) is not required for SMRT-mediated repression, which can be mediated by a LBD-truncated GR, whereas it is mandatory for NCoR1-mediated repression through an interaction with K579 in the LBD.
+SN 0027-8424
+PD FEB 2
+PY 2016
+VL 113
+IS 5
+BP E626
+EP E634
+DI 10.1073/pnas.1522821113
+UT WOS:000369085100019
+PM 26712002
+ER
+
+PT J
+AU Teixeira, RAP
+   Mimura, KKO
+   Araujo, LP
+   Greco, KV
+   Oliani, SM
+AF Parra Teixeira, Rodrigo Antonio
+   Oliveira Mimura, Kallyne Kioko
+   Araujo, Leandro Pires
+   Greco, Karin Vicente
+   Oliani, Sonia Maria
+TI The essential role of annexin A1 mimetic peptide in the skin allograft
+   survival
+SO JOURNAL OF TISSUE ENGINEERING AND REGENERATIVE MEDICINE
+AB Immunosuppressive drugs have a critical role in inhibiting tissue damage and allograft rejection. Studies have demonstrated the anti-inflammatory effects of the annexin A1 (AnxA1) in the regulation of transmigration and apoptosis of leucocytes. In the present study, an experimental skin allograft model was used to evaluate a potential protective effect of AnxA1 in transplantation survival. Mice were used for the skin allograft model and pharmacological treatments were carried out using either the AnxA1 mimetic peptide Ac2-26, with or without cyclosporine A (CsA), starting 3days before surgery until rejection. Graft survival, skin histopathology, leucocyte transmigration and expression of AnxA1 and AnxA5 post-transplantation were analysed. Pharmacological treatment with Ac2-26 increased skin allograft survival related with inhibition of neutrophil transmigration and induction of apoptosis, thereby reducing the tissue damage compared with control animals. Moreover, AnxA1 and AnxA5 expression increased after Ac2-26 treatment in neutrophils. Interestingly, the combination of Ac2-26 and cyclosporine A showed similar survival of transplants when compared with the cyclosporine A group, which could be attributed to a synergistic effect of both drugs. Investigations in vitro revealed that cyclosporine A inhibited extracellular-signal-regulated kinase (ERK) phosphorylation induced by Ac2-26 in neutrophils. Overall, the results suggest that AnxA1 has an essential role in augmenting the survival of skin allograft, mainly owing to inhibition of neutrophil transmigration and enhancement of apoptosis. This effect may lead to the development of new therapeutic approaches relevant to transplant rejection. Copyright (c) 2013 John Wiley & Sons, Ltd.
+RI Oliani, Sonia /E-3476-2012
+OI Oliani, Sonia /0000-0003-0918-2130
+SN 1932-6254
+EI 1932-7005
+PD FEB
+PY 2016
+VL 10
+IS 2
+BP E44
+EP E53
+DI 10.1002/term.1773
+UT WOS:000370131300001
+PM 23897745
+ER
+
+PT J
+AU Jain, R
+   Monthakantirat, O
+   Tengamnuay, P
+   De-Eknamkul, W
+AF Jain, Ruchy
+   Monthakantirat, Orawan
+   Tengamnuay, Parkpoom
+   De-Eknamkul, Wanchai
+TI Identification of a new plant extract for androgenic alopecia treatment
+   using a non-radioactive human hair dermal papilla cell-based assay
+SO BMC COMPLEMENTARY AND ALTERNATIVE MEDICINE
+AB Background: Androgenic alopecia (AGA) is a major type of human scalp hair loss, which is caused by two androgens: testosterone (T) and 5 alpha-dihydrotestosterone (5 alpha-DHT). Both androgens bind to the androgen receptor (AR) and induce androgen-sensitive genes within the human hair dermal papilla cells (HHDPCs), but 5 alpha-DHT exhibits much higher binding affinity and potency than T does in inducing the involved androgen-sensitive genes. Changes in the induction of androgen-sensitive genes during AGA are caused by the over-production of 5 alpha-DHT by the 5 alpha-reductase (5 alpha-R) enzyme; therefore, one possible method to treat AGA is to inhibit this enzymatic reaction.
+   Methods: RT-PCR was used to identify the presence of the 5 alpha-R and AR within HHDPCs. A newly developed AGA-relevant HHDPC-based assay combined with non-radioactive thin layer chromatography (TLC) detection was used for screening crude plant extracts for the identification of new 5 alpha-R inhibitors.
+   Results: HHDPCs expressed both 5 alpha-R type 1 isoform of the enzyme (5 alpha-R1) and AR in all of the passages used in this study. Among the thirty tested extracts, Avicennia marina (AM) displayed the highest inhibitory activity at the final concentration of 10 mu g/ml, as the production of 5 alpha-DHT decreased by 52 % (IC50 = 9.21 +/- 0.38 mu g/ml).
+   Conclusions: Avicennia marina (AM) was identified as a potential candidate for the treatment of AGA based on its 5 alpha-R1-inhibitory activity.
+SN 1472-6882
+PD JAN 21
+PY 2016
+VL 16
+AR 18
+DI 10.1186/s12906-016-1004-5
+UT WOS:000368493800001
+PM 26796631
+ER
+
+PT J
+AU Seleit, I
+   Bakry, OA
+   El Repey, HS
+   Ali, R
+AF Seleit, Iman
+   Bakry, Ola Ahmed
+   El Repey, Hala Saed
+   Ali, Raghdaa
+TI Intrinsic versus Extrinsic Aging: A Histopathological, Morphometric and
+   Immunohistochemical Study of Estrogen Receptor beta and Androgen
+   Receptor
+SO SKIN PHARMACOLOGY AND PHYSIOLOGY
+AB Skin is a target organ of sex steroids which play important roles in skin health and disease. The aim of this study is to investigate the expression of estrogen receptor beta (ER beta) and androgen receptor (AR) in human skin from different age groups for a better understanding of the hormonal regulation of skin aging. Using standard immunohistochemical techniques, biopsies of sun-unprotected and sun-protected skin were taken from 60 normal subjects. Sun-protected skin showed significantly higher immunoreactivity for ER beta and AR compared to sun -unprotected skin of all age groups. Significantly higher ER beta H score and percent of expression were associated with the 20-35 years age group compared to the groups that were 35-50 years and >50 years old (p < 0.02, p = 0.03, respectively) in sun-unprotected and sun-protected skin (p < 0.001, p = 0.01, respectively). AR H score showed a negative correlation with age (p = 0.04) with no significant difference in immunoreactivity in different age groups, either in sun-unprotected or sun-protected skin. There was also a significant correlation between ER beta H score and epidermal thickness in sun -unprotected (p = 0.04) and sun-protected skin (p = 0.04) in studied subjects regardless of age. The same relationships did not reach significance with AR expression. However, a significant positive correlation was detected between H scores and percent of expression of ER beta and AR in sun -unprotected (p = 0.01, p = 0.02, respectively) and sun-protected skin (p = 0.005, p = 0.02, respectively) regardless of age. In conclusion, both ER beta and AR decline gradually with intrinsic and extrinsic aging. This decline is more obvious with extrinsic aging. Further large-scaled studies are recommended to expand, validate and translate current findings to clinically significant, diagnostic and therapeutic applications. Molecular studies to investigate the probable ligand-independent action of both receptors are warranted. In addition, their gene expression patterns and associated signaling and metabolic pathways can also be tackled to provide a basis for further interventions in pathological processes that involve their dysregulation. (C) 2016 S. Karger AG, Basel
+SN 1660-5527
+EI 1660-5535
+PY 2016
+VL 29
+IS 4
+BP 178
+EP 189
+DI 10.1159/000446662
+UT WOS:000383215300002
+PM 27399919
+ER
+
+PT J
+AU Carrola, J
+   Bastos, V
+   Jarak, I
+   Oliveira-Silva, R
+   Malheiro, E
+   Daniel-da-Silva, AL
+   Oliveira, H
+   Santos, C
+   Gil, AM
+   Duarte, IF
+AF Carrola, Joana
+   Bastos, Veronica
+   Jarak, Ivana
+   Oliveira-Silva, Rui
+   Malheiro, Eliana
+   Daniel-da-Silva, Ana L.
+   Oliveira, Helena
+   Santos, Conceicao
+   Gil, Ana M.
+   Duarte, Iola F.
+TI Metabolomics of silver nanoparticles toxicity in HaCaT cells:
+   structure-activity relationships and role of ionic silver and oxidative
+   stress
+SO NANOTOXICOLOGY
+AB The widespread use of silver nanoparticles (AgNPs) is accompanied by a growing concern regarding their potential risks to human health, thus calling for an increased understanding of their biological effects. The aim of this work was to systematically study the extent to which changes in cellular metabolism were dependent on the properties of AgNPs, using NMR metabolomics. Human skin keratinocytes (HaCaT cells) were exposed to citrate-coated AgNPs of 10, 30 or 60nm diameter and to 30nm AgNPs coated either with citrate (CIT), polyethylene glycol (PEG) or bovine serum albumin (BSA), to assess the influence of NP size and surface chemistry. Overall, CIT-coated 60nm and PEG-coated 30nm AgNPs had the least impact on cell viability and metabolism. The role of ionic silver and reactive oxygen species (ROS)-mediated effects was also studied, in comparison to CIT-coated 30nm particles. At concentrations causing an equivalent decrease in cell viability, Ag(+)ions produced a change in the metabolic profile that was remarkably similar to that seen for AgNPs, the main difference being the lesser impact on the Krebs cycle and energy metabolism. Finally, this study newly reported that while down-regulated glycolysis and disruption of energy production were common to AgNPs and H2O2, the impact on some metabolic pathways (GSH synthesis, glutaminolysis and the Krebs cycle) was independent of ROS-mediated mechanisms. In conclusion, this study shows the ability of NMR metabolomics to define subtle biochemical changes induced by AgNPs and demonstrates the potential of this approach for rapid, untargeted screening of pre-clinical toxicity of nanomaterials in general.
+RI Oliveira, Helena/M-5068-2013
+OI Oliveira, Helena/0000-0002-4673-0696
+SN 1743-5390
+EI 1743-5404
+PY 2016
+VL 10
+IS 8
+BP 1105
+EP 1117
+DI 10.1080/17435390.2016.1177744
+UT WOS:000382337100009
+PM 27144425
+ER
+
+PT J
+AU Myers, JS
+   von Lersner, AK
+   Sang, QXA
+AF Myers, Jennifer S.
+   von Lersner, Ariana K.
+   Sang, Qing-Xiang Amy
+TI Proteomic Upregulation of Fatty Acid Synthase and Fatty Acid Binding
+   Protein 5 and Identification of Cancer- and Race-Specific Pathway
+   Associations in Human Prostate Cancer Tissues
+SO JOURNAL OF CANCER
+AB Protein profiling studies of prostate cancer have been widely used to characterize molecular differences between diseased and non-diseased tissues. When combined with pathway analysis, profiling approaches are able to identify molecular mechanisms of prostate cancer, group patients by cancer subtype, and predict prognosis. This strategy can also be implemented to study prostate cancer in very specific populations, such as African Americans who have higher rates of prostate cancer incidence and mortality than other racial groups in the United States. In this study, age-, stage-, and Gleason score-matched prostate tumor specimen from African American and Caucasian American men, along with non-malignant adjacent prostate tissue from these same patients, were compared. Protein expression changes and altered pathway associations were identified in prostate cancer generally and in African American prostate cancer specifically. In comparing tumor to non-malignant samples, 45 proteins were significantly cancer-associated and 3 proteins were significantly downregulated in tumor samples. Notably, fatty acid synthase (FASN) and epidermal fatty acid-binding protein (FABP5) were upregulated in human prostate cancer tissues, consistent with their known functions in prostate cancer progression. Aldehyde dehydrogenase family 1 member A3 (ALDH1A3) was also upregulated in tumor samples. The Metastasis Associated Protein 3 (MTA3) pathway was significantly enriched in tumor samples compared to non-malignant samples. While the current experiment was unable to detect statistically significant differences in protein expression between African American and Caucasian American samples, differences in overrepresentation and pathway enrichment were found. Structural components (Cytoskeletal Proteins and Extracellular Matrix Protein protein classes, and Biological Adhesion Gene Ontology (GO) annotation) were overrepresented in African American but not Caucasian American tumors. Additionally, 5 pathways were enriched in African American prostate tumors: the Small Cell Lung Cancer, Platelet-Amyloid Precursor Protein, Agrin, Neuroactive Ligand-Receptor Interaction, and Intrinsic pathways. The protein components of these pathways were either basement membrane proteins or coagulation proteins.
+SN 1837-9664
+PY 2016
+VL 7
+IS 11
+BP 1452
+EP 1464
+DI 10.7150/jca.15860
+UT WOS:000380050300010
+PM 27471561
+ER
+
+PT J
+AU Liao, AH
+   Lu, YJ
+   Lin, YC
+   Chen, HK
+   Sytwu, HK
+   Wang, CH
+AF Liao, Ai-Ho
+   Lu, Ying-Jui
+   Lin, Yi-Chun
+   Chen, Hang-Kang
+   Sytwu, Huey-Kang
+   Wang, Chih-Hung
+TI Effectiveness of a Layer-by-Layer Microbubbles-Based Delivery System for
+   Applying Minoxidil to Enhance Hair Growth
+SO THERANOSTICS
+AB Minoxidil (Mx) is a conventional drug for treating androgenetic alopecia, preventing hair loss, and promoting hair growth. The solubility of Mx has been improved using chemical enhancement methods to increase its skin permeability over the long term. This study created a new ultrasound (US) contrast agent-albumin-shelled microbubbles (MBs) that absorb chitosan oligosaccharide lactate (COL) and Mx- and combined it with sonication by US energy in the water phase to enhance hair growth while shortening the treatment period. COL and Mx grafted with MBs (mean diameter of 1480 nm) were synthesized into self-assembled complexes of COL-MBs and Mx-COL-MBs that had mean diameters of 4150 and 4500 nm, respectively. The US was applied at 3 W/cm(2) for 1 min, and combined with Mx-COL-MBs containing 0.3% Mx. The diffusion of Mx through the dialysis membrane from Mx-COL-MB during US (US+Mx-COL-MB) was more rapid at pH 4 than at pH 7.4, which is favorable given that the environment of the scalp is mildly acidic (pH=4.5-5.5). In Franz diffusion experiments performed in vitro, the release rates at 18 hours in the US+Mx-COL-MBs and US+MBs+Mx groups resulted in 2.3 and 1.7 times the penetration and deposition, respectively, of Mx relative to the group with Mx alone. During 21 days treatment in animal experiments, the growth rates at days 10 and 14 in the US+Mx-COL-MBs group increased by 22.6% and 64.7%, respectively, and there were clear significant differences (p<0.05) between the US+Mx-COL-MBs group and the other four groups. The use of US+Mx-COL-MB in the water phase can increased the effects of Mx so as to shorten the telogen phase, and also increase both the diameter of keratinized hair shafts and the size of hair follicles without causing skin damage.
+SN 1838-7640
+PY 2016
+VL 6
+IS 6
+BP 817
+EP 827
+DI 10.7150/thno.14932
+UT WOS:000377798800005
+PM 27162552
+ER
+
+PT J
+AU Mahendiran, D
+   Kumar, RS
+   Viswanathan, V
+   Velmurugan, D
+   Rahiman, AK
+AF Mahendiran, Dharmasivam
+   Kumar, Raju Senthil
+   Viswanathan, Vijayan
+   Velmurugan, Devadasan
+   Rahiman, Aziz Kalilur
+TI Targeting of DNA molecules, BSA/c-Met tyrosine kinase receptors and
+   anti-proliferative activity of bis(terpyridine)copper(II) complexes
+SO DALTON TRANSACTIONS
+AB A series of homoleptic bis(terpyridine) copper(II) complexes of the type [Cu(L1-5)(2)]Cl-2 (1-5), where L1-5 = 4'-(4-substituted)-2,2': 6', 2 ''-terpyridines, have been synthesized and characterized. The molecular structure of complex 2 was confirmed by the single crystal XRD technique, and the geometry of the complexes is best described as distorted octahedral. Structural parameters from the crystallographic and DFT studies are in good agreement with each other. The small HOMO-LUMO energy gap supports bioefficacy of the complexes. DNA binding studies show high intrinsic binding constant values 1.53 +/- 0.15, 1.62 +/- 0.08 and 3.09 +/- 0.12 x 10(5) M-1 for complexes 1, 2 and 3, respectively, with intercalative mode of binding to CT-DNA. The binding results were further supported by molecular docking studies. The experimental results indicate that the interaction between the complexes and BSA protein involves a static quenching mechanism. The molecular docking studies with c-Met tyrosine kinase receptors show hydrophobic and pi-pi interactions. All the complexes bring about hydroxyl radical mediated DNA cleavage in the presence of H2O2. In vitro cytotoxicities of the complexes (1-3) were tested against three cancerous cell lines, namely human breast adenocarcinoma (MCF-7), epithelioma (Hep-2) and cervical (HeLa) cell lines, and one non-tumorigenic human dermal fibroblast (NHDF) cell line by MTT reduction assay. The morphological assessment data obtained using Hoechst 33258 staining revealed that complex 3 induces apoptosis much more effectively than the other complexes.
+SN 1477-9226
+EI 1477-9234
+PY 2016
+VL 45
+IS 18
+BP 7794
+EP 7814
+DI 10.1039/c5dt03831f
+UT WOS:000375689300028
+PM 27063595
+ER
+
+PT J
+AU Shishodia, S
+   Azu, N
+   Rosenzweig, JA
+   Jackson, DA
+AF Shishodia, Shishir
+   Azu, Nkem
+   Rosenzweig, Jason A.
+   Jackson, Desiree A.
+TI Guggulsterone for Chemoprevention of Cancer
+SO CURRENT PHARMACEUTICAL DESIGN
+AB Guggulsterone [4, 17(20)-pregnadiene-3, 16-dione] is a plant sterol derived from the gum resin of the tree Commiphora wightii. The gum resin of the guggul tree has been used in traditional medicine for centuries to treat obesity, liver disorders, internal tumors, malignant sores, ulcers, urinary complaints, intestinal worms, leucoderma, sinus, edema and sudden paralytic seizures. Guggulsterone has been shown to modulate the nuclear receptors, farnesoid X receptor, pregnane X receptor, CYP 2b10 gene expression, and the bile salt export pump for cholesterol elimination. Recent research indicates that the active components of gum guggul, E-and Z-guggulsterone have the potential to both prevent and treat cancers. Guggulsterone inhibits the growth of a wide variety of tumor cells and induces apoptosis through down regulation of antiapoptotic gene products (IAP1, xIAP, Bfl-1/A1, Bcl-2, cFLIP, and survivin), modulation of cell cycle proteins (cyclin D1 and c-Myc), activation of caspases, inhibition of Akt, and activation of JNK. Guggulsterone modulates the expression of gene products involved in metastasis (MMP-9, COX-2, and VEGF) of tumor cells. Guggulsterone mediates gene expression through the modulation of several transcription factors, including NF-kappa B, STAT3, C/EBP alpha, androgen receptor, and glucocorticoid receptors. This review describes the anti-cancer properties, molecular targets, and the apoptotic effects of guggulsterone.
+SN 1381-6128
+EI 1873-4286
+PY 2016
+VL 22
+IS 3
+BP 294
+EP 306
+DI 10.2174/1381612822666151112153117
+UT WOS:000372070600005
+PM 26561056
+ER
+
+PT J
+AU Zhang, YQ
+   Ji, SZ
+   Fang, H
+   Zheng, YJ
+   Luo, PF
+   Wu, HB
+   Wu, MJ
+   Wang, ZH
+   Xiao, SC
+   Xia, ZF
+AF Zhang, Yun-qing
+   Ji, Shi-zhao
+   Fang, He
+   Zheng, Yong-jun
+   Luo, Peng-fei
+   Wu, Hai-bin
+   Wu, Min-juan
+   Wang, Zhi-hong
+   Xiao, Shi-chu
+   Xia, Zhao-fan
+TI Use of Amniotic Microparticles Coated With Fibroblasts Overexpressing
+   SDF-1 alpha to Create an Environment Conducive to Neovascularization for
+   Repair of Full-Thickness Skin Defects
+SO CELL TRANSPLANTATION
+AB As angiogenesis and vasculogenesis involve the complex network structures of various types of cells, extracellular matrix components, and cytokines, it is still difficult to exactly mimic the microenvironment of vascularization in vivo. In our study, we constructed a complex containing highly proliferative fibroblasts that can secrete extracellular matrix components and growth factors to chemotaxize endothelial progenitor cells (EPCs) in an attempt to create an ideal microenvironment for quick vascularization. Amniotic membrane microparticles (mAM) rich in type IV collagen (COL IV) and laminin (LN) were prepared, and human dermal fibroblasts (HDF) were infected with lentivirus (LV) of overexpression of SDF-1 alpha to construct SDF-1 alpha(HDF)-H-ov. Using the rotary cell culture system (RCCS), mAM was loaded with HDF or SDF-1 alpha(HDF)-H-ov to construct HDF-mAM and SDF-1 alpha(HDF)-H-ov-mAM complexes. The complexes were able to secrete various types of active peptides (IL-6, IL-8, TGF-beta, and bFGF) during in vitro culture. In addition, SDF-1 alpha(HDF)-H-ov-mAM complex highly expressed SDF-1 alpha. Transwell assay showed SDF-1 alpha(HDF)-H-ov-mAM complex had an apparent chemotactic effect on EPCs. Transplantation of complexes onto full-thickness skin defects of C57BL mice further demonstrated that SDF-1 alpha expression and the number of peripheral EPCs at days 3, 5, and 7 in the SDF-1 alpha(HDF)-H-ov-mAM group were significantly higher than that in other groups (p < 0.01). The local microvascular density at day 10 of transplantation showed that the microvascular density in the SDF-1 alpha(HDF)-H-ov-mAM group was significantly higher than that in HDF-mAM group (p < 0.01). In conclusion, HDF-mAM had a strong proliferative activity and could be used to create a sound microenvironment for quick vascularization by secreting multiple cytokines and extracellular matrix components. Overexpression of SDF-1 alpha could chemotaxize EPCs to reach local wounds, thus further accelerating angiogenesis in the transplant site. The technique described may prove to be a new model for accelerating vascularization of tissue and organ transplants and chronic ischemic wounds.
+SN 0963-6897
+EI 1555-3892
+PY 2016
+VL 25
+IS 2
+BP 365
+EP 376
+DI 10.3727/096368915X687930
+UT WOS:000370833700014
+PM 25853481
+ER
+
+PT J
+AU Xie, L
+   Yang, RF
+   Liu, SJ
+   Lyle, S
+   Cotsarelis, G
+   Xiang, LH
+   Zhang, LT
+   Li, B
+   Wan, MJ
+   Xu, XW
+AF Xie, Lin
+   Yang, Ruifeng
+   Liu, Shujing
+   Lyle, Stephen
+   Cotsarelis, George
+   Xiang, Leihong
+   Zhang, Litao
+   Li, Bin
+   Wan, Miaojian
+   Xu, Xiaowei
+TI TR3 is preferentially expressed by bulge epithelial stem cells in human
+   hair follicles
+SO LABORATORY INVESTIGATION
+AB TR3 is an orphan member of the steroid/thyroid/retinoid nuclear receptor superfamily of transcription factors and it plays a pivotal role in regulating cell growth and apoptosis. The expression and function of TR3 in skin have not been well investigated. Using a cDNA expression assay, we discover that TR3 is significantly enriched in human telogen bulge compared with anagen bulb. Immunohistochemical staining confirms that TR3 is highly expressed in the bulge region of human hair follicles and it colocalizes with cytokeratin 15 (K15), an epithelial stem cell marker. To study the function of TR3 in the effect of androgens in keratinocytes, we treat HaCaT keratinocytes and primary human keratinocytes with dihydrotestosterone (DHT) and testosterone (T). The treated keratinocytes show a dose-dependent growth reduction to DHT and T. DHT increases the expression of TR3 in keratinocytes, associated with a concomitant increase of BAD and decrease of Bcl-2 expression. Knockdown TR3 expression by siRNA blocks the inhibitory effect of DHT on keratinocyte proliferation. Our results demonstrate that TR3 is localized to the stem cell compartment in the human hair follicles. Androgen increases TR3 expression in cultured keratinocytes. Our data suggest that TR3 mediates at least part of the inhibitory effect of androgens on keratinocytes.
+SN 0023-6837
+EI 1530-0307
+PD JAN
+PY 2016
+VL 96
+IS 1
+BP 81
+EP 88
+DI 10.1038/labinvest.2015.125
+UT WOS:000367170500009
+PM 26707825
+ER
+
+PT J
+AU Kanemaru, K
+   Noguchi, E
+   Tokunaga, T
+   Nagai, K
+   Hiroyama, T
+   Nakamura, Y
+   Tahara-Hanaoka, S
+   Shibuya, A
+AF Kanemaru, Kazumasa
+   Noguchi, Emiko
+   Tokunaga, Takahiro
+   Nagai, Kei
+   Hiroyama, Takashi
+   Nakamura, Yukio
+   Tahara-Hanaoka, Satoko
+   Shibuya, Akira
+TI Tie2 Signaling Enhances Mast Cell Progenitor Adhesion to Vascular Cell
+   Adhesion Molecule1 (VCAM-1) through alpha 4 beta 1 Integrin
+SO PLOS ONE
+AB Mast cell (MC) activation contributes considerably to immune responses, such as host protection and allergy. Cell surface immunoreceptors expressed on MCs play an important role in MC activation. Although various immunoreceptors on MCs have been identified, the regulatory mechanism of MC activation is not fully understood. To understand the regulatory mechanisms of MC activation, we used gene expression analyses of human and mouse MCs to identify a novel immunoreceptor expressed on MCs. We found that Tek, which encodes Tie2, was preferentially expressed in the MCs of both humans and mice. However, Tie2 was not detected on the cell surface of the mouse MCs of the peritoneal cavity, ear skin, or colon lamina propria. In contrast, it was expressed on mouse bone marrow-derived MCs and bone marrow MC progenitors (BM-MCps). Stimulation of Tie2 by its ligand angiopoietin- 1 induced tyrosine phosphorylation of Tie2 in MEDMC-BRC6, a mouse embryonic stem cell-derived mast cell line, and enhanced MEDMC-BRC6 and mouse BM-MCp adhesion to vascular cell adhesion molecule-1 (VCAM-1) through alpha 4 beta 1 integrin. These results suggest that Tie2 signaling induces alpha 4 beta 1 integrin activation on BM-MCps for adhesion to VCAM-1.
+RI Nakamura, Yukio/A-5263-2016
+SN 1932-6203
+PD DEC 11
+PY 2015
+VL 10
+IS 12
+AR e0144436
+DI 10.1371/journal.pone.0144436
+UT WOS:000366903600046
+PM 26659448
+ER
+
+PT J
+AU Boraldi, F
+   Bartolomeo, A
+   Di Bari, C
+   Cocconi, A
+   Quaglino, D
+AF Boraldi, Federica
+   Bartolomeo, Angelica
+   Di Bari, Caterina
+   Cocconi, Andrea
+   Quaglino, Daniela
+TI Donor's age and replicative senescence favour the in-vitro
+   mineralization potential of human fibroblasts
+SO EXPERIMENTAL GERONTOLOGY
+AB Aberrant mineralization of soft connective tissues (ectopic calcification) may occur as a frequent age-related complication. Still, it remains unclear the role of mesenchymal cell donor's age and of replicative senescence on ectopic calcification. Therefore, the ability of cells to deposit in-vitro hydroxyapatite crystals and the expression of progressive ankylosis protein homolog (ANKH), ectonucleotide pyrophosphatase/phosphodiesterase 1 (ENPP1), tissue non specific alkaline phosphatase (TNAP) and osteopontin (OPN) have been evaluated in human dermal fibroblasts derived from neonatal (nHDF) and adult (aHDF) donors (ex-vivo ageing model) or at low and high cumulative population doublings (CPD) up to replicative senescence (in-vitro ageing model). This study demonstrates that: 1) replicative senescence favours hydroxyapatite formation in cultured fibroblasts; 2) donor's age acts as a major modulator of the mineralizing potential of HDF, since nHDF are less prone than aHDF to induce calcification; 3) donor's age and replicative senescence play in concert synergistically increasing the calcification process; 4) the ANKH + ENPP1/TNAP ratio, being crucial for pyrophosphate/inorganic phosphate balance, is greatly influenced by donor's age, as well as by replicative senescence, and regulates mineral deposition; 5) OPN is only modulated by replicative senescence. (C) 2015 Published by Elsevier Inc.
+RI Boraldi, Federica/D-1263-2015; Quaglino, Daniela/A-9381-2010
+OI Boraldi, Federica/0000-0002-0277-9017; Quaglino,
+   Daniela/0000-0002-4302-5078
+SN 0531-5565
+EI 1873-6815
+PD DEC
+PY 2015
+VL 72
+BP 218
+EP 226
+DI 10.1016/j.exger.2015.10.009
+UT WOS:000364989100027
+PM 26494600
+ER
+
+PT J
+AU Debeuckelaere, C
+   Berl, V
+   Elbayed, K
+   Moussallieh, FM
+   Namer, IJ
+   Lepoittevin, JP
+AF Debeuckelaere, Camille
+   Berl, Valerie
+   Elbayed, Karim
+   Moussallieh, Francois-Marie
+   Namer, Izzie-Jacques
+   Lepoittevin, J. -P.
+TI Matrix Effect of Human Reconstructed Epidermis on the Chemoselectivity
+   of a Skin Sensitizing alpha-Methylene-gamma-Butyrolactone: Consequences
+   for the Development of in Chemico Alternative Methods
+SO CHEMICAL RESEARCH IN TOXICOLOGY
+AB Adoption of new legislations and social pressure are pushing toward the development of alternative methods to the use of animals for the assessment of most toxicological end-points including skin sensitization. To that respect, much efforts have been put in the first step of the adverse outcome pathway focusing on chemical interactions taking place between sensitizing chemicals or haptens and epidermal proteins. However, these in chemico approaches have been so far only based on the use of model nucleophiles, amino acids, peptides, or proteins in water/buffer solution and focused mainly on thiol reactivity. These studies even if bringing a valuable set of information are very far from reflecting chemical interactions that may happen between a xenobiotic and nudeophiles present in a complex heterogeneous tissue such as the epidermis. Recently, we have shown that using a high-resolution magic angle spinning (HRMAS) nuclear magnetic resonance (NMR) technique it was possible to characterize chemical interactions taking place between a skin sensitizer and nudeophilic amino acids present in a 3-D reconstructed human epidermis (RHE). We have now compared the chemical reactivity and chemoselectivity of a sensitizing alpha-methylene-gamma-butyrolactone toward human serum albumin used as a model protein and RHE. Using this technique, we showed that amino acid modifications by this hapten was different according to the model used and that in RHE histidine residues seem to have an important role in the formation of adducts. Obviously, the role of histidine in the induction of skin sensitization has been so far neglected and should probably be taken into account for the refinement of in chemico approaches for the detection and potency classification of skin sensitizers.
+SN 0893-228X
+EI 1520-5010
+PD NOV
+PY 2015
+VL 28
+IS 11
+BP 2192
+EP 2198
+DI 10.1021/acs.chemrestox.5b00363
+UT WOS:000364980800015
+PM 26496248
+ER
+
+PT J
+AU Kang, YL
+   Zhu, ZH
+   Zheng, YH
+   Wan, WG
+   Manole, CG
+   Zhang, QQ
+AF Kang, Yuli
+   Zhu, Zaihua
+   Zheng, Yonghua
+   Wan, Weiguo
+   Manole, Catalin G.
+   Zhang, Qiangqiang
+TI Skin telocytes versus fibroblasts: two distinct dermal cell populations
+SO JOURNAL OF CELLULAR AND MOLECULAR MEDICINE
+AB It is already accepted that telocytes (TCs) represent a new type of interstitial cells in human dermis. In normal skin, TCs have particular spatial relations with different dermal structures such as blood vessels, hair follicles, arrector pili muscles or segments of sebaceous and/or eccrine sweat glands. The distribution and the density of TCs is affected in various skin pathological conditions. Previous studies mentioned the particular (ultra)structure of TCs and also their immunophenotype, miR imprint or proteome, genome or secretome features. As fibroblast is the most common intersitital cell (also in human dermis), a dedicated comparison between human skin TCs and fibroblasts (Fbs) was required to be performed. In this study, using different techniques, we document several points of difference between human dermis TCs and Fbs. By transmission electron microscopy (TEM) and scanning electron microscopy (SEM), we demonstrated TCs with their hallmark cellular prolongations - telopodes. Thus, we showed their ultrastructural distinctiveness from Fbs. By RayBio Human Cytokine Antibody Array V analyses performed on the supernatant from separately cultured TCs and Fbs, we detected the cytokine profile of both cell types, individually. Two of 79 detected cytokines - epithelial-derived neutrophil-activating peptide 78 and granulocyte chemotactic protein-2 - were 1.5 times higher in the supernatant of TCs (comparing with Fbs). On the other hand, 37 cytokines were at least 1.5 higher in Fbs supernatant (comparing with TCs), and among them six cytokines - interleukin 5, monocyte chemotactic protein-3 (MCP-3), MCP-4, macrophage inflammatory protein-3, angiogenin, thrombopoietin - being 9.5 times higher (results also confirmed by ELISA testing). In summary, using different techniques, we showed that human dermal TCs and Fbs are different in terms of ultrastructure and cytokine profile.
+SN 1582-4934
+PD NOV
+PY 2015
+VL 19
+IS 11
+BP 2530
+EP 2539
+DI 10.1111/jcmm.12671
+UT WOS:000364650300003
+PM 26414534
+ER
+
+PT J
+AU Gao, HW
+   Li, SB
+   Sun, WQ
+   Yun, ZM
+   Zhang, X
+   Song, JW
+   Zhang, SK
+   Leng, L
+   Ji, SP
+   Tan, YX
+   Gong, F
+AF Gao, Hong-Wei
+   Li, Su-Bo
+   Sun, Wendell Q.
+   Yun, Zhi-Min
+   Zhang, Xue
+   Song, Jin-Wen
+   Zhang, Shi-Kun
+   Leng, Ling
+   Ji, Shou-Ping
+   Tan, Ying-Xia
+   Gong, Feng
+TI Quantification of alpha-Gal Antigen Removal in the Porcine Dermal Tissue
+   by alpha-Galactosidase
+SO TISSUE ENGINEERING PART C-METHODS
+AB The alpha-Gal (Gal1,3-Gal1-4GlcNAc-R) epitope, the major xenoantigen, is the first barrier in a porcine-to-man tissue and organ xenotransplantation. The elimination or reduction of the -Gal epitopes is therefore an important step for a successful xenotransplantation. The present study is to evaluate the -Gal elimination in the porcine skin with -galactosidase treatment, and to assess two methods (immunohistochemistry and inhibition ELISA) that may be used in quality control for quantifying the extent of the -Gal elimination. Enzymatic cleavage in a single-step process is extremely efficient and affordable at eliminating the -Gal epitope even in a tissue as dense as the porcine dermis. The cost of enzymatic cleavage is found to be less than US$7 for a 10x10cm piece of porcine skin (0.5mm thick) or about US$140 for 100g of 3-dimensional soft tissues. After enzymatic cleavage, the -Gal-positive immunostaining was essentially undetectable in enzyme-treated porcine skin. The inhibition rate constant of the monoclonal anti-Gal antibody M86 binding to -Gal-bovine serum albumin in ELISA was reduced from 15.0 +/- 4.3 (n=10) to 6.1 +/- 2.6 (n=7) after enzyme treatment, in comparison to 4.4 +/- 1.8 (n=9) background inhibition of decellularized human skin (the ultimate negative control), which demonstrates approximate to 84% elimination of -Gal epitopes in treated porcine skin. To examine the suitability of two detection methods for the routine quality control application, comparative studies were made with control and enzyme-treated porcine skin, porcine skin from the -Gal knockout animal, as well as decellularized human skin. The data show that the traditional immunohistochemistry and, to a less extent, the inhibition ELISA with further modifications can be used as quality control tools in the production and selection of biocompatible bioprosthetic devices. The biological evaluation of enzyme-treated porcine skin is ongoing with a small animal model and a nonhuman primate model.
+SN 1937-3384
+EI 1937-3392
+PD NOV 1
+PY 2015
+VL 21
+IS 11
+BP 1197
+EP 1204
+DI 10.1089/ten.tec.2015.0129
+UT WOS:000363893100010
+PM 26140655
+ER
+
+PT J
+AU Jalili-Firoozinezhad, S
+   Rajabi-Zeleti, S
+   Mohammadi, P
+   Gaudiello, E
+   Bonakdar, S
+   Solati-Hashjin, M
+   Marsano, A
+   Aghdami, N
+   Scherberich, A
+   Baharvand, H
+   Martin, I
+AF Jalili-Firoozinezhad, Sasan
+   Rajabi-Zeleti, Sareh
+   Mohammadi, Parvaneh
+   Gaudiello, Emanuele
+   Bonakdar, Shahin
+   Solati-Hashjin, Mehran
+   Marsano, Anna
+   Aghdami, Nasser
+   Scherberich, Arnaud
+   Baharvand, Hossein
+   Martin, Ivan
+TI Facile Fabrication of Egg White Macroporous Sponges for Tissue
+   Regeneration
+SO ADVANCED HEALTHCARE MATERIALS
+AB The availability of 3D sponges combining proper biochemical, biophysical, and biomechanical properties with enhanced capacity of in vivo engraftment and vascularization is crucial in regenerative medicine. A simple process is developed to generate macroporous scaffolds with a well-defined architecture of interconnected pores from chicken egg white (EW), a material with protein-and growth factor-binding features which has not yet been employed in regenerative medicine. The physicomechanical properties and degradation rates of the scaffold are finely tuned by using varying concentrations of the cross-linker, 1-ethyl-3-(3-dimethylaminopropyl) carbodiimide hydrochloride, without alteration of the biochemical traits. In vitro, EW scaffolds supported active metabolism, proliferation, and migration of human dermal fibroblasts, thereby generating uniform cellular constructs. In vivo, subcutaneous implantation in mice reveals negligible immune reaction and efficient cell and tissue ingrowth. Angiogenesis into EW scaffolds is enhanced as compared to standard collagen type I sponges used as reference material, likely due to significantly higher adsorption of the proangiogenic factor vascular endothelial growth factor. In summary, a material is presented derived by facile processing of a highly abundant natural product. Due to the efficient subcutaneous engraftment capacity, the sponges can find utilization for soft tissue regeneration.
+SN 2192-2640
+EI 2192-2659
+PD OCT 28
+PY 2015
+VL 4
+IS 15
+BP 2281
+EP 2290
+DI 10.1002/adhm.201500482
+UT WOS:000368140700010
+PM 26376116
+ER
+
+PT J
+AU Salary, M
+   Hadjmohammadi, M
+AF Salary, Mina
+   Hadjmohammadi, Mohammadreza
+TI Human serum albumin-mimetic chromatography based
+   hexadecyltrimethylammonium bromide as a novel direct probe for protein
+   binding of acidic drugs
+SO JOURNAL OF PHARMACEUTICAL AND BIOMEDICAL ANALYSIS
+AB Human serum albumin (HSA) is the most important drug carrier in humans mainly binding acidic drugs. Negatively charged compounds bind more strongly to HSA than it would be expected from their lipophilicity alone. With the development of new acidic drugs, there is a high need for rapid and simple protein binding screening technologies. Biopartitioning micellar chromatography (BMC) is a mode of micellar liquid chromatography, which can be used as an in vitro system to model the biopartitioning process of drugs when there are no active processes. In this study, a new kind of BMC using hexadecyltrimethylammonium bromide (CTAB) as micellar mobile phases was used for the prediction of protein binding of acidic drugs based on the similar property of CTAB micelles to HSA. The use of BMC is simple, reproducible and can provide key information about the pharmacological behavior of drugs such as protein binding properties of new compounds during the drug discovery process. The relationships between the MLC retention data of a heterogeneous set of 17 acidic and neutral drugs and their plasma protein binding parameter were studied and second-order polynomial models obtained in two different concentrations (0.07 and 0.09 M) of CTAB. However, the developed models are only being able to distinguish between strongly and weakly binding drugs. Also, the developed models were characterized by both the descriptive and predictive ability (R-2=0.885, R-CV(2) = 0.838 and R-2=0.898, R-CV(2) = 0.859 for 0.07 and 0.09 M CTAB, respectively). The application of the developed model to a prediction set demonstrated that the model was also reliable with good predictive accuracy. (C) 2015 Elsevier B.V. All rights reserved.
+SN 0731-7085
+EI 1873-264X
+PD OCT 10
+PY 2015
+VL 114
+BP 1
+EP 7
+DI 10.1016/j.jpba.2015.04
+UT WOS:000360780700001
+PM 25988296
+ER
+
+PT J
+AU Csosz, E
+   Emri, G
+   Kallo, G
+   Tsaprailis, G
+   Tozser, J
+AF Csosz, E.
+   Emri, G.
+   Kallo, G.
+   Tsaprailis, G.
+   Tozser, J.
+TI Highly abundant defense proteins in human sweat as revealed by targeted
+   proteomics and label-free quantification mass spectrometry
+SO JOURNAL OF THE EUROPEAN ACADEMY OF DERMATOLOGY AND VENEREOLOGY
+AB Background The healthy human skin with its effective antimicrobial defense system forms an efficient barrier against invading pathogens. There is evidence suggesting that the composition of this chemical barrier varies between diseases, making the easily collected sweat an ideal candidate for biomarker discoveries.
+   Objective Our aim was to provide information about the normal composition of the sweat, and to study the chemical barrier found at the surface of skin.
+   Methods Sweat samples from healthy individuals were collected during sauna bathing, and the global protein panel was analysed by label-free mass spectrometry. SRM-based targeted proteomic methods were designed and stable isotope labelled reference peptides were used for method validation.
+   Results Ninety-five sweat proteins were identified, 20 of them were novel proteins. It was shown that dermcidin is the most abundant sweat protein, and along with apolipoprotein D, clusterin, prolactin-inducible protein and serum albumin, they make up 91% of secreted sweat proteins. The roles of these highly abundant proteins were reviewed; all of which have protective functions, highlighting the importance of sweat glands in composing the first line of innate immune defense system, and maintaining the epidermal barrier integrity.
+   Conclusion Our findings with regard to the proteins forming the chemical barrier of the skin as determined by label-free quantification and targeted proteomics methods are in accordance with previous studies, and can be further used as a starting point for non-invasive sweat biomarker research.
+RI Tozser, Jozsef/A-7840-2008
+OI Tozser, Jozsef/0000-0003-0274-0056
+SN 0926-9959
+EI 1468-3083
+PD OCT
+PY 2015
+VL 29
+IS 10
+BP 2024
+EP 2031
+DI 10.1111/jdv.13221
+UT WOS:000363982500022
+PM 26307449
+ER
+
+PT J
+AU Guo, JN
+   Xu, QM
+   Zheng, ZQ
+   Zhou, SB
+   Mao, HL
+   Wang, B
+   Yan, F
+AF Guo, Jiangna
+   Xu, Qiming
+   Zheng, Zhiqiang
+   Zhou, Shengbo
+   Mao, Hailei
+   Wang, Bin
+   Yan, Feng
+TI Intrinsically Antibacterial Poly(ionic liquid) Membranes: The
+   Synergistic Effect of Anions
+SO ACS MACRO LETTERS
+AB The development of materials with intrinsically antimicrobial activities has attracted great interest. Herein, we report the synthesis of free-standing and robust poly(ionic liquid) (Pit) membranes with high antibacterial activities by in situ photo-cross-linking of an ionic liquid monomer and followed by anion-exchange with an amino acid (L-proline (Pro) or L-tryptophan (Trp)). The resultant PIL-based membranes with excellent robustness exhibit high antimicrobial properties against both Gram-negative Escherichia coli (E. coli) and Gram-positive Staphylococcus aureus (S. aureus) and present no significant hemolysis and cytotoxicity toward human red blood and skin fibroblast cells, as well as low adsorption of bovine serum albumin. The synthesized PIL-Trp membranes exhibit the highest antibacterial efficiency due to the synergistic attributes of both imidazolium cation and Trp(-) anion. Furthermore, all the PIL-based membranes exhibit long-term antibacterial stability, which demonstrates clinical feasibility in topical applications.
+SN 2161-1653
+PD OCT
+PY 2015
+VL 4
+IS 10
+BP 1094
+EP 1098
+DI 10.1021/acsmacrolett.5b00609
+UT WOS:000363365000008
+ER
+
+PT J
+AU Gouin, O
+   Lebonvallet, N
+   L'Herondelle, K
+   Le Gall-Ianotto, C
+   Buhe, V
+   Plee-Gautier, E
+   Carre, JL
+   Lefeuvre, L
+   Misery, L
+AF Gouin, Olivier
+   Lebonvallet, Nicolas
+   L'Herondelle, Killian
+   Le Gall-Ianotto, Christelle
+   Buhe, Virginie
+   Plee-Gautier, Emmanuelle
+   Carre, Jean-Luc
+   Lefeuvre, Luc
+   Misery, Laurent
+TI Self-maintenance of neurogenic inflammation contributes to a vicious
+   cycle in skin
+SO EXPERIMENTAL DERMATOLOGY
+AB Cutaneous neurogenic inflammation (CNI) is frequently associated with skin disorders. CNI is not limited to the retrograde signalling of nociceptive sensory nerve endings but can instead be regarded as a multicellular phenomenon. Thus, soluble mediators participating in communication among sensory nerves, skin and immune cells are key components of CNI. These interactions induce the self-maintenance of CNI, promoting a vicious cycle. Certain G protein-coupled receptors (GPCRs) play a prominent role in these cell interactions and contribute to self-maintenance. Protease-activated receptors 2 and 4 (PAR-2 and PAR-4, respectively) and Mas-related G protein-coupled receptors (Mrgprs) are implicated in the synthesis and release of neuropeptides, proteases and soluble mediators from most cutaneous cells. Regulation of the expression and release of these mediators contributes to the vicious cycle of CNI. The authors propose certain hypothetical therapeutic options to interrupt this cycle, which might reduce skin symptoms and improve patient quality of life.
+SN 0906-6705
+EI 1600-0625
+PD OCT
+PY 2015
+VL 24
+IS 10
+BP 723
+EP 726
+DI 10.1111/exd.12798
+UT WOS:000363049800001
+PM 26178975
+ER
+
+PT J
+AU Kim, I
+   Choi, JS
+   Lee, S
+   Byeon, HJ
+   Lee, ES
+   Shin, BS
+   Choi, HG
+   Lee, KC
+   Youn, YS
+AF Kim, Insoo
+   Choi, Ji Su
+   Lee, Seunghyun
+   Byeon, Hyeong Jun
+   Lee, Eun Seong
+   Shin, Beom Soo
+   Choi, Han-Gon
+   Lee, Kang Choon
+   Youn, Yu Seok
+TI In situ facile-forming PEG cross-linked albumin hydrogels loaded with an
+   apoptotic TRAIL protein
+SO JOURNAL OF CONTROLLED RELEASE
+AB The key to making a practicable hydrogel for pharmaceutical or medical purposes is to endow it with relevant properties, i.e., facile fabrication, gelation time-controllability, and in situ injectability given a firm basis for safety/biocompatibility. Here, the authors describe an in situ gelling, injectable, albumin-cross-linked polyethylene glycol (PEG) hydrogel that was produced using a thiol-maleimide reaction. This hydrogel consists of two biocompatible components, namely, thiolated human serum albumin and 4-arm PEG(20k)-maleimide, and can be easily fabricated and gelled in situ within 60 s by simply mixing its two components. In addition, the gelation time of this system is controllable in the range 15 s to 5 min. This hydrogel hardly interacted with an apoptotic TRAIL protein, ensuring suitable release profiles that maximize therapeutic efficacy. Specifically, tumors (volume: 278.8 mm(3)) in Mia Paca-2 cell-xenografted BALB/c nu/nu mice treated with the TRAIL-loaded HSA-PEG hydrogel were markedly smaller than mice treated with the hydrogel prepared via an amine-N-hydroxysuccinimide reaction or non-treated mice (1275.5 mm(3) and 1816.5 mm(3), respectively). We believe that this hydrogel would be a new prototype of locally injectable sustained-release type anti-cancer agents, and furthermore offers practical convenience for a doctor and universal applicability for a variety of therapeutic proteins. (C) 2015 Elsevier B.V. All rights reserved.
+SN 0168-3659
+EI 1873-4995
+PD SEP 28
+PY 2015
+VL 214
+BP 30
+EP 39
+DI 10.1016/j.jconrel.2015.07.012
+UT WOS:000360001200004
+PM 26188152
+ER
+
+PT J
+AU Bujard, A
+   Voirol, H
+   Carrupt, PA
+   Schappler, J
+AF Bujard, Alban
+   Voirol, Herve
+   Carrupt, Pierre-Alain
+   Schappler, Julie
+TI Modification of a PAMPA model to predict passive gastrointestinal
+   absorption and plasma protein binding
+SO EUROPEAN JOURNAL OF PHARMACEUTICAL SCIENCES
+AB The Parallel Artificial Membrane Permeability Assay (PAMPA) is a well-known high throughput screening (HTS) technique for predicting in vivo passive absorption. In this technique, two compartments are separated by an artificial membrane that mimics passive permeability through biological membranes such as the dermal layer, the gastrointestinal tract (GIT), and the blood brain barrier (BBB).
+   In the present study, a hexadecane artificial membrane (HDM)-PAMPA was used to predict the binding of compounds towards the human plasma using a mixture of human serum albumin (HSA) and alpha-1-acid glycoprotein (AGP). The ratio of HSA and AGP was equivalent to that found in the human plasma for both proteins (similar to 20:1). A pH gradient (5.0-7.4) was performed to increase the screening capacity and overcome the issue of passive permeability for acidic and amphoteric compounds.
+   With this assay, the prediction of passive GIT absorption was maintained and the compounds were discriminated according to their permeability (on a no-to-high scale). The plasma protein binding (PPB) was estimated via the correlation of the differences between the amount of compound crossing the artificial membrane in assays conducted with and without protein using only a two end-point measurement. The use of a mixture of HSA and AGP to modulate drug permeation was compared to the use of the same concentrations of HSA and AGP used separately. The addition of HSA alone in the acceptor compartment was sufficient for estimating PPB, while it was demonstrated that AGP alone could enable the estimation of AGP binding. (C) 2015 Elsevier B.V. All rights reserved.
+SN 0928-0987
+EI 1879-0720
+PD SEP 18
+PY 2015
+VL 77
+BP 273
+EP 278
+DI 10.1016/j.ejps.2015.06.023
+UT WOS:000358975600030
+PM 26118348
+ER
+
+PT J
+AU Rho, CR
+   Choi, JS
+   Seo, M
+   Lee, SK
+   Joo, CK
+AF Rho, Chang Rae
+   Choi, Jun-Sub
+   Seo, Minkoo
+   Lee, Suk Kyeong
+   Joo, Choun-Ki
+TI Inhibition of Lymphangiogenesis and Hemangiogenesis in Corneal
+   Inflammation by Subconjunctival Prox1 siRNA Injection in Rats
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+AB PURPOSE. Prospero homeobox 1 (Prox1) siRNA is a small interfering RNA that is designed to specifically bind Prox1 mRNA. We determined whether Prox1 siRNA inhibits lymphangiogenesis and hemangiogenesis after acute corneal inflammation.
+   METHODS. Three Prox1 siRNAs were synthesized and investigated for their effects on Prox1 mRNA expression and tube formation in human dermal lymphatic endothelial cells (HDLECs) in vitro. The in vivo effects of Prox1 siRNA were assessed in alkali burn-induced inflammatory corneal neovascularization in rats. Prox1 siRNA was administered via subconjunctival injection. Corneal flat mounts were stained for lymphatic vessel endothelial hyaluronan receptor (LYVE)-1 to show lymphatic vessels. Lymphangiogenesis and hemangiogenesis were analyzed morphometrically using Image J software. Corneal inflammatory cell infiltration was evaluated by immunostaining for F4/80 and CD45. Protein levels of LYVE-1, podoplanin, VEGF receptor 2 (VEGFR2), and VEGFR3 were analyzed by Western blotting.
+   RESULTS. Prox1 siRNA treatment decreased Prox1 mRNA expression and tube formation in cultured HDLECs. Subconjunctival injection of Prox1 siRNA significantly inhibited alkali burn-induced lymphangiogenesis and hemangiogenesis in the cornea compared with those of scrambled siRNA (negative control). This inhibition was comparable to that induced by bevacizumab (positive control). Prospero homeobox 1 knockdown by Prox1 siRNA also inhibited macrophage and leukocyte infiltration into the cornea. Prox1 siRNA downregulated the expression of all four proteins.
+   CONCLUSIONS. Prox1 siRNA is a strong inhibitor of inflammatory corneal lymphangiogenesis and hemangiogenesis in vivo. Prox1 siRNA may be useful in preventing immune rejection after penetrating keratoplasty by suppressing lymphangiogenesis.
+SN 0146-0404
+EI 1552-5783
+PD SEP
+PY 2015
+VL 56
+IS 10
+BP 5871
+EP 5879
+DI 10.1167/iovs.14-14433
+UT WOS:000368426300021
+PM 26348636
+ER
+
+PT J
+AU Al-Shobaili, HA
+   Rasheed, Z
+AF Al-Shobaili, Hani A.
+   Rasheed, Zafar
+TI Oxidized tyrosinase: A possible antigenic stimulus for non-segmental
+   vitiligo autoantibodies
+SO JOURNAL OF DERMATOLOGICAL SCIENCE
+AB Background: Vitiligo is a common pigmentary disorder, the precise etiology of which remains obscure. Tyrosinase, a key enzyme involved in melanin synthesis, has now been implicated as an autoantigen for vitiligo patients, but it is not clear how this prevalent protein becomes antigenic in vitiligo.
+   Objective: To investigate the status and contribution of oxidized tyrosinase in vitiligo and to explore whether oxidized tyrosinase has a role in disease progression.
+   Methods: Tyrosinase was modified by reactive-oxygen-species (ROS). Binding characteristics of antibodies in vitiligo patients (n = 25) with varying disease duration (DD) and disease severity were screened against ROS-modified tyrosinase (ROS-tyrosinase) by immunoassays and their results were compared with healthy controls (n = 23).
+   Results: The ROS caused extensive alterations in conformation and function of tyrosinase. Protein-A purified IgGs from vitiligo patients (Vt-IgG) showed strong binding to ROS-tyrosinase in comparison with IgGs from healthy controls (p < 0.001). Interestingly, not only was there an increased number of subjects positive for anti-ROS-tyrosinase-IgGs, but also the levels of these IgGs were significantly higher among vitiligo patients, whose DD were >= 10 years as compared to patients with short DD (<10 years). In addition, a significant correlation was observed between the levels of anti-ROS-tyrosinase-IgGs and the patients' ages or with disease severity. Experimentally induced anti-ROS-tyrosinase-IgGs show reactivity with tyrosinase from vitiligo patients. Furthermore, vitiligo patients had lower levels of tyrosinase activity compared with healthy controls. Not only these, levels of carbonylation were also higher among vitiligo patients whose DD were >= 10 years as compared to patients with DD < 10 years.
+   Conclusions: This is the first study to demonstrate the role of oxidized tyrosinase in vitiligo. Our novel results support an association between oxidized tyrosinase and vitiligo autoimmunity. The stronger antibodies response to oxidized tyrosinase in vitiligo patients with higher DD or with severe patients suggests that oxidized tyrosinase may be a useful biomarker in evaluating the progression of vitiligo and in elucidating the mechanisms of disease pathogenesis. (C) 2015 Japanese Society for Investigative Dermatology. Published by Elsevier Ireland Ltd. All rights reserved.
+SN 0923-1811
+EI 1873-569X
+PD SEP
+PY 2015
+VL 79
+IS 3
+BP 203
+EP 213
+DI 10.1016/j.jdermsci.2015.06.009
+UT WOS:000364501600003
+PM 26137927
+ER
+
+PT J
+AU Stenger, B
+   Zehfuss, F
+   Muckter, H
+   Schmidt, A
+   Balszuweit, F
+   Schafer, E
+   Buch, T
+   Gudermann, T
+   Thiermann, H
+   Steinritz, D
+AF Stenger, Bernhard
+   Zehfuss, Franziska
+   Mueckter, Harald
+   Schmidt, Annette
+   Balszuweit, Frank
+   Schaefer, Eva
+   Buech, Thomas
+   Gudermann, Thomas
+   Thiermann, Horst
+   Steinritz, Dirk
+TI Activation of the chemosensing transient receptor potential channel A1
+   (TRPA1) by alkylating agents
+SO ARCHIVES OF TOXICOLOGY
+AB The transient receptor potential ankyrin 1 (TRPA1) cation channel is expressed in different tissues including skin, lung and neuronal tissue. Recent reports identified TRPA1 as a sensor for noxious substances, implicating a functional role in the molecular toxicology. TRPA1 is activated by various potentially harmful electrophilic substances. The chemical warfare agent sulfur mustard (SM) is a highly reactive alkylating agent that binds to numerous biological targets. Although SM is known for almost 200 years, detailed knowledge about the pathophysiology resulting from exposure is lacking. A specific therapy is not available. In this study, we investigated whether the alkylating agent 2-chloroethyl-ethylsulfide (CEES, a model substance for SM-promoted effects) and SM are able to activate TRPA1 channels. CEES induced a marked increase in the intracellular calcium concentration ([Ca2+](i)) in TRPA1-expressing but not in TRPA1-negative cells. The TRP-channel blocker AP18 diminished the CEES-induced calcium influx. HEK293 cells permanently expressing TRPA1 were more sensitive toward cytotoxic effects of CEES compared with wild-type cells. At low CEES concentrations, CEES-induced cytotoxicity was prevented by AP18. Proof-of-concept experiments using SM resulted in a pronounced increase in [Ca2+](i) in HEK293-A1-E cells. Human A549 lung epithelial cells, which express TRPA1 endogenously, reacted with a transient calcium influx in response to CEES exposure. The CEES-dependent calcium response was diminished by AP18. In summary, our results demonstrate that alkylating agents are able to activate TRPA1. Inhibition of TRPA1 counteracted cellular toxicity and could thus represent a feasible approach to mitigate SM-induced cell damage.
+RI Steinritz, Dirk/F-6075-2012
+OI Steinritz, Dirk/0000-0002-2073-5683
+SN 0340-5761
+EI 1432-0738
+PD SEP
+PY 2015
+VL 89
+IS 9
+BP 1631
+EP 1643
+DI 10.1007/s00204-014-1414-4
+UT WOS:000360412500014
+PM 25395009
+ER
+
+PT J
+AU Kesler, CT
+   Pereira, ER
+   Cui, CH
+   Nelson, GM
+   Masuck, DJ
+   Baish, JW
+   Padera, TP
+AF Kesler, Cristina T.
+   Pereira, Ethel R.
+   Cui, Cheryl H.
+   Nelson, Gregory M.
+   Masuck, David J.
+   Baish, James W.
+   Padera, Timothy P.
+TI Angiopoietin-4 increases permeability of blood vessels and promotes
+   lymphatic dilation
+SO FASEB JOURNAL
+AB The angiopoietin (Ang) ligands are potential therapeutic targets for lymphatic related diseases, which include lymphedema and cancer. Ang-1 and Ang-2 functions are established, but those of Ang-4 are poorly understood. We used intravital fluorescence microscopy to characterize Ang-4 actions on T241 murine fibrosarcoma-associated vessels in mice. The diameters of lymphatic vessels draining Ang-4- or VEGF-C (positive control)expressing tumors increased to 123 and 135 mu m, respectively, and parental, mock-transduced (negative controls) and tumors expressing Ang-1 or Ang-2 remained at baseline (similar to 60 mu m). Ang-4 decreased human dermal lymphatic endothelial cell (LEC) monolayer permeability by 27% while increasing human dermal blood endothelial cell (BEC) monolayer permeability by 200%. In vivo, Ang-4 stimulated a 4.5-fold increase in tumor-associated blood vessel permeability compared with control when measured using intravital quantitative multiphoton microscopy. Ang-4 activated receptor signaling in both LECs and BECs, evidenced by tyrosine kinase with Ig and endothelial growth factor homology domains-2 (TIE2) receptor, protein kinase B, and Erk1,2 phosphorylation detectable by immunoblotting. These data suggest that Ang-4 actions are mediated through cell-type-specific networks and that lymphatic vessel dilation occurs secondarily to increased vascular leakage. Ang-4 also promoted survival of LECs. Thus, blocking Ang-4 may prune the draining lymphatic vasculature and decrease interstitial fluid pressure (IFP) by reducing vascular permeability.
+RI Nelson, Gregory/H-6315-2011; 
+OI Nelson, Gregory/0000-0002-8382-910X; Pereira, Ethel/0000-0003-0562-4536
+SN 0892-6638
+EI 1530-6860
+PD SEP
+PY 2015
+VL 29
+IS 9
+BP 3668
+EP 3677
+DI 10.1096/fj.14-268920
+UT WOS:000359915600006
+PM 25977256
+ER
+
+PT J
+AU Kamide, Y
+   Ishizuka, T
+   Tobo, M
+   Tsurumaki, H
+   Aoki, H
+   Mogi, C
+   Nakakura, T
+   Yatomi, M
+   Ono, A
+   Koga, Y
+   Sato, K
+   Hisada, T
+   Dobashi, K
+   Yamada, M
+   Okajima, F
+AF Kamide, Yosuke
+   Ishizuka, Tamotsu
+   Tobo, Masayuki
+   Tsurumaki, Hiroaki
+   Aoki, Haruka
+   Mogi, Chihiro
+   Nakakura, Takashi
+   Yatomi, Masakiyo
+   Ono, Akihiro
+   Koga, Yasuhiko
+   Sato, Koichi
+   Hisada, Takeshi
+   Dobashi, Kunio
+   Yamada, Masanobu
+   Okajima, Fumikazu
+TI Acidic environment augments Fc epsilon RI-mediated production of IL-6
+   and IL-13 in mast cells
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+AB Although blood pH is maintained in a narrow range of around pH 7.4 in living organisms, inflammatory loci are characterized by acidic conditions. Mast cells tend to reside close to the surface of the body in areas such as the mucosa and skin where they may be exposed to exogenous acids, and they play an important role in immune responses. However, little is known about the effects of extracellular acidification on the functions of mast cell. Here, we found that extracellular acidification increased the dinitrophenyl-conjugated human serum albumin (DNP-HSA)-induced production of interleukin (IL)-6 and IL-13 in MC/9 cells or bone marrow-derived mouse mast cells sensitized with anti-DNP IgE. Extracellular acidification also inhibited migration of MC/9 cells toward DNP-HSA. In addition, acidic pH stimulated antigen-induced activation of p38 mitogen-activated protein kinase (MAPK) and protein kinase B (Akt). These findings suggest that extracellular acidification augmented antigen/IgE-induced and FceRl-mediated production of IL-6 and IL-13 in mast cells, and that this was associated with the enhancement of p38 MAPK and Akt activation. (C) 2015 Elsevier Inc. All rights reserved.
+SN 0006-291X
+EI 1090-2104
+PD AUG 28
+PY 2015
+VL 464
+IS 3
+BP 949
+EP 955
+DI 10.1016/j.bbrc.2015.07.077
+UT WOS:000359881900042
+PM 26196745
+ER
+
+PT J
+AU Barrault, C
+   Garnier, J
+   Pedretti, N
+   Cordier-Dirikoc, S
+   Ratineau, E
+   Deguercy, A
+   Bernard, FX
+AF Barrault, Christine
+   Garnier, Julien
+   Pedretti, Nathalie
+   Cordier-Dirikoc, Sevda
+   Ratineau, Emeline
+   Deguercy, Alain
+   Bernard, Francois-Xavier
+TI Androgens induce sebaceous differentiation in sebocyte cells expressing
+   a stable functional androgen receptor
+SO JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
+AB Androgens act through non-genomic and androgen receptor (AR)-dependent genomic mechanisms. AR is expressed in the sebaceous gland and the importance of androgens in the sebaceous function is well established. However, the in vitro models used to date have failed to evidence a clear genomic effect (e.g., modification of gene expression profile) of androgens on human sebocyte cells. In order to study the impact of active androgens in sebocytes, we constructed a stable human sebocyte cell line derived from SEB0662 [17] constitutively expressing a fully functional AR In these SEB0662 AR+ cells, dihydrotestosterone (DHT) induced AR nuclear translocation and the strong modulation of a set of transcripts (RASD1, GREB1...) known to be androgen-sensitive in other androgenic cells and tissues. Moreover, we observed that DHT precociously down-regulated markers for immature follicular cells (KRT15, TNC) and for hair lineage (KRT75, FST) and up-regulated the expression of genes potentially related to sebocyte differentiation (MUC1/EMA, AQP3, FADS2). These effects were fully confirmed at the protein level. In addition, DHT-stimulated SEB0662 AR+, cultured in a low-calcium defined keratinocyte medium without serum or any complement, neosynthesize lipids, including sebum lipids, and store increased amounts of triglycerides in lipid droplets. DHT also induces morphological changes, increases cell size, and treatments over 7 days lead to a time-dependent increase in the population of apoptotic DNA-fragmented cells.
+   Taken together, these results show for the first time that active androgens alone can engage immature sebocytes in a clear lipogenic differentiation process (Graphical abstract). These effects depend on the expression of a functional AR in these cells. This model should be of interest for revisiting the mechanisms of the sebaceous function in vitro and for the design of relevant pharmacological models for drug or compound testing. (C) 2015 Elsevier Ltd. All rights reserved.
+SN 0960-0760
+PD AUG
+PY 2015
+VL 152
+BP 34
+EP 44
+DI 10.1016/j.jsbmb.2015.04.005
+UT WOS:000358810100005
+PM 25864624
+ER
+
+PT J
+AU Yang, H
+   Jung, EM
+   Ahn, C
+   Lee, GS
+   Lee, SY
+   Kim, SH
+   Choi, IG
+   Park, MJ
+   Lee, SS
+   Choi, DH
+   Jeung, EB
+AF Yang, Hyun
+   Jung, Eui-Man
+   Ahn, Changhwan
+   Lee, Geun-Shik
+   Lee, Su-Yeon
+   Kim, Seon-Hong
+   Choi, In-Gyu
+   Park, Mi-Jin
+   Lee, Sung-Suk
+   Choi, Don-Ha
+   Jeung, Eui-Bae
+TI Elemol from Chamaecyparis obtusa ameliorates
+   2,4-dinitrochlorobenzene-induced atopic dermatitis
+SO INTERNATIONAL JOURNAL OF MOLECULAR MEDICINE
+AB Chamaecyparis obtusa has been traditionally used as an antibiotic agent and in cosmetics for the prevention of microorganism infection and skin troubles. Atopic dermatitis (AD) is a chronic inflammatory skin disease that encompasses immunologic responses, susceptibility factors and compromised skin-barrier function. Use of plant medicines in therapeutic treatment of AD has recently been suggested as an alternative therapeutic option. The present study examined the effect of elemol, an active component of Chamaecyparis obtusa, on AD using in vivo and in vitro models. RBL-2H3 cells were stimulated with concanavalin A and dinitrophenyl human serum albumin, and atopic dermatitis was induced in BALB/c mice by topical application of 2,4-dinitrochlorobenzene (DNCB) prior to elemol treatment. The mRNA expression was evaluated by reverse transcription quantitative polymerase chain reaction, and the levels of beta-hexosaminidase and serum immunoglobulin E (IgE) were examined by ELISA. Histological changes were also performed by microscopy. Elemol attenuated the onset of AD-like skin lesions, reduced serum IgE levels and decreased mast cell infiltration into the dermis and hypodermis. In addition, elemol downregulated the transcriptional expression of several pro-inflammatory cytokines, including TNF-alpha, IL-1 beta, IL-6 and I kappa B alpha, in the skin of the DNCB-induced animal models of AD. In the RBL-2H3 mast cell line, elemol significantly inhibited the mRNA expression of IL-4 and IL-13, and further attenuated the release of beta-hexosaminidase from mast cells. Histological examination revealed that elemol significantly ameliorated the DNCB-induced dermal destruction in mice. The results of the present study suggested that elemol may have therapeutic potential in the treatment of AD due to its immunosuppressive effects.
+SN 1107-3756
+EI 1791-244X
+PD AUG
+PY 2015
+VL 36
+IS 2
+BP 463
+EP 472
+DI 10.3892/ijmm.2015.2228
+UT WOS:000358677000017
+PM 26035417
+ER
+
+PT J
+AU Mukherjee, S
+   Yang, L
+   Vincent, C
+   Lei, X
+   Ottaviani, MF
+   Ananthapadmanabhan, KP
+AF Mukherjee, S.
+   Yang, L.
+   Vincent, C.
+   Lei, X.
+   Ottaviani, M. F.
+   Ananthapadmanabhan, K. P.
+TI A comparison between interactions of triglyceride oil and mineral oil
+   with proteins and their ability to reduce cleanser surfactant-induced
+   irritation
+SO INTERNATIONAL JOURNAL OF COSMETIC SCIENCE
+AB Synopsis
+   ObjectiveSkin irritation in personal cleansing has been correlated with surfactant binding with stratum corneum proteins. Polar and non-polar oils are increasingly being used in cleansing formulations which contain high (10-15%) level of anionic and non-ionic surfactants. However, the effects of oils in modulating skin damage from a cleansing product have not been studied in any detail. The objectives of this study are to determine whether low-viscosity polar and non-polar oils differ in their ability to reduce surfactant-induced skin irritation and, if so, how it might be related to their interactions with proteins.
+   MethodsSurfactant-induced skin irritation was measured by a 14-day in vivo cumulative patch irritation test. The methodology was similar to the well-known soap chamber test. Surfactant interactions with the water-soluble protein, bovine serum albumin (BSA), in the presence of oils were measured by conductometric titration. The effects of low-viscosity polar and non-polar oils on stratum corneum protein dynamics in the sulfhydryl group region were studied by electron paramagnetic resonance (EPR) using the covalently bound spin-label 3-maleimido-proxyl (5-MSL). EPR measurements were performed with stratum corneums obtained from discarded skins of 3- to 4-week-old female pigs. Simulation of the complex spectra provided insights on the environment and mobility of the protein-bound spin label.
+   ResultsAddition of 1% polar sunflower seed oil (viscosity 42 centipoise) reduced in vivo irritation of 1% sodium lauryl ether sulphate with two ethoxylate/cocamidopropyl betaine (SLES/CAPB) by 20%, whereas 1% non-polar mineral oil (viscosity 15 centipoise) had no effect. Polar oil glyceryl trioleate (a major component in sunflower seed oil) at 10% level reduced surfactant binding to BSA protein in water by 40%, whereas the non-polar oil dodecane (a major component of mineral oil) at a similar level did not have any effect. The mobility of the spin label in a dry corneum was very low and was increased significantly with the addition of water and glycerol trioleate but less so with mineral oil.
+   ConclusionSunflower seed oil reduces surfactant-induced in vivo skin irritation more than mineral oil. This is possibly due to stronger interaction of polar oil with proteins, thus protecting it from surfactant binding.
+   Resume
+   ObjectifL'irritation de la peau dans le nettoyage personnelle a ete correlee a la liaison de l'agent tensioactif aux proteines de la couche cornee. Les huiles polaires et non polaires sont de plus en plus utilisees dans les formulations de nettoyage qui contiennent un niveau elevee (10-15%) de tensioactifs anioniques et non-ioniques. Cependant, les effets des huiles dans la modulation des dommages de la peau d'un produit de nettoyage n'ont pas ete etudies en detail. Les objectifs de cette etude sont de determiner si des huiles polaires et non-polaires a faible viscosite different dans leur capacite a reduire l'irritation de la peau induite par les tensioactifs et, si oui, comment cela pourrait etre lie a leurs interactions avec les proteines.
+   MethodesL'irritation de la peau induite par le tensioactif a ete mesuree par un test d'irritation in vivo cumulatif occlusif (patch) de 14 jours. La methodologie etait similaire au test de la chambre au savon bien connu. Les interactions du surfactant avec la proteine hydrosoluble d'albumine de serum bovin (BSA) en presence d'huiles ont ete mesurees par titrage conductimetrique. Les effets des huiles polaires et non polaires de faible viscosite sur la dynamique des proteines de la couche cornee dans la region du groupe sulfhydryle ont ete etudies par resonance paramagnetique electronique (EPR) en utilisant le spin-label lie de facon covalente 3-maleimido-PROXYL (5 MSL). Les mesures EPR ont ete effectuees avec des echantillons de stratum corneum obtenus a partir de peaux de porcs femelles de 3-4 semaines d'age. La simulation des spectres complexes a donne un apercu sur l'environnement et la mobilite de l'etiquette de spin lie a une proteine.
+   ResultatsL'addition de 1% de l'huile polaire de graines de tournesol (viscosite 42 centipoise) reduit in vivo l'irritation de 1% de lauryl sulfate de sodium ether avec deux ethoxylate/cocamidopropylbetaine (SLES/ACCP) de 20%, tandis que 1% d'huile minerale non polaire (viscosite 15 centipoise) n'a eu aucun effet. L'huile polaire glyceryle trioleate (un composant majeur dans l'huile de graines de tournesol) a 10% reduit la liaison du tensioactif a la proteine BSA dans l'eau de 40%, alors que l'huile non polaire dodecane (une composante majeure de l'huile minerale) a un niveau similaire n'avait aucun effet. La mobilite du marqueur de spin dans une couche seche etait tres faible et est augmentee de facon significative par l'addition d'eau et le trioleate de glycerol, mais moins avec d'huile minerale.
+   Conclusionl'huile de graines de tournesol reduit in vivo l'irritation induite par le tensioactif de la peau plus que l'huile minerale. Ceci est probablement du a l'interaction plus forte de l'huile polaire avec des proteines les protegeant ainsi de la liaison avec les tensioactifs.
+SN 0142-5463
+EI 1468-2494
+PD AUG
+PY 2015
+VL 37
+IS 4
+BP 371
+EP 378
+DI 10.1111/ics.12205
+UT WOS:000357483500003
+PM 25656133
+ER
+
+PT J
+AU Dancik, Y
+   Troutman, JA
+   Jaworska, J
+AF Dancik, Yuri
+   Troutman, John A.
+   Jaworska, Joanna
+TI Estimation of in vivo dose of dermally applied chemicals leading to
+   estrogen/androgen receptor-mediated toxicity from in vitro
+   data-Illustration with four reproductive toxicants
+SO REPRODUCTIVE TOXICOLOGY
+AB We present a quantitative in vitro-in vivo extrapolation framework enabling the estimation of the external dermal exposure dose from in vitro experimental data relevant to a toxicity pathway of interest. The framework adapts elements of the biological pathway altering dose (BPAD) method [Judson et al. Chem Res Toxicol 2011;24:451] to the case of dermal exposure. Dermal doses of four toxicants equivalent to concentrations characterizing their effect on estrogen receptor a or androgen receptor activity in chemical-activated luciferase expression (CALUX) assays are estimated. The analysis shows that dermal BPADs, calculated from one in vitro concentration, can differ by up to a factor of 55, due to the impact applied dose and dermal exposure scenarios can have on skin permeation kinetics. These features should therefore be taken into account in risk assessment of dermally applied chemicals. (C) 2015 Elsevier Inc. All rights reserved.
+SN 0890-6238
+PD AUG 1
+PY 2015
+VL 55
+SI SI
+BP 50
+EP 63
+DI 10.1016/j.reprotox.2015.01.002
+UT WOS:000357360900006
+PM 25597788
+ER
+
+PT J
+AU Beringhelli, T
+   Gianazza, E
+   Maggioni, D
+   Scanu, S
+   Parravicini, C
+   Sensi, C
+   Monaco, HL
+   Eberini, I
+AF Beringhelli, Tiziana
+   Gianazza, Elisabetta
+   Maggioni, Daniela
+   Scanu, Sandra
+   Parravicini, Chiara
+   Sensi, Cristina
+   Monaco, Hugo L.
+   Eberini, Ivano
+TI All-Purpose Containers? Lipid-Binding Protein - Drug Interactions
+SO PLOS ONE
+AB The combined use of in vitro (F-19-NMR) and in silico (molecular docking) procedures demonstrates the affinity of a number of human calycins (lipid-binding proteins from ileum, liver, heart, adipose tissue and epidermis, and retinol-binding protein from intestine) for different drugs (mainly steroids and vastatins). Comparative evaluations on the complexes outline some of the features relevant for interaction (non-polar character of the drugs; amino acids and water molecules in the protein calyx most often involved in binding). Dissociation constants (K-i) for drugs typically lie in the same range as K-i for natural ligands; in most instances (different proteins and docking conditions), vastatins are the strongest interactors, with atorvastatin ranking top in half of the cases. The affinity of some calycins for some of the vastatins is in the order of magnitude of the drug C-max after systemic administration in humans. The possible biological implications of this feature are discussed in connection with drug delivery parameters (route of administration, binding to carrier proteins, distribution to, and accumulation in, human tissues).
+RI MAGGIONI, DANIELA/A-5932-2012; 
+OI MAGGIONI, DANIELA/0000-0001-5201-4824; Monaco, Hugo
+   L./0000-0002-2067-0365
+SN 1932-6203
+PD JUL 13
+PY 2015
+VL 10
+IS 7
+AR e0132096
+DI 10.1371/journal.pone.0132096
+UT WOS:000358193100021
+PM 26167932
+ER
+
+PT J
+AU Furlong, H
+   Smith, R
+   Wang, JX
+   Seymour, C
+   Mothersill, C
+   Howe, O
+AF Furlong, Hayley
+   Smith, Richard
+   Wang, Jiaxi
+   Seymour, Colin
+   Mothersill, Carmel
+   Howe, Orla
+TI Identification of Key Proteins in Human Epithelial Cells Responding to
+   Bystander Signals From Irradiated Trout Skin
+SO DOSE-RESPONSE
+AB Radiation-induced bystander signaling has been found to occur in live rainbow trout fish (Oncorhynchus mykiss). This article reports identification of key proteomic changes in a bystander reporter cell line (HaCaT) grown in low-dose irradiated tissue-conditioned media (ITCM) from rainbow trout fish. In vitro explant cultures were generated from the skin of fish previously exposed to low doses (0.1 and 0.5 Gy) of X-ray radiation in vivo. The ITCM was harvested from all donor explant cultures and placed on recipient HaCaT cells to observe any change in protein expression caused by the bystander signals. Proteomic methods using 2-dimensional (2D) gel electrophoresis and mass spectroscopy were employed to screen for novel proteins expressed. The proteomic changes measured in HaCaT cells receiving the ITCM revealed that exposure to 0.5 Gy induced an upregulation of annexin A2 and cingulin and a downregulation of Rho-GDI2, F-actin-capping protein subunit beta, microtubule-associated protein RP/EB family member, and 14-3-3 proteins. The 0.1 Gy dose also induced a downregulation of Rho-GDI2, hMMS19, F-actin-capping protein subunit beta, and microtubule-associated protein RP/EB family member proteins. The proteins reported may influence apoptotic signaling, as the results were suggestive of an induction of cell communication, repair mechanisms, and dysregulation of growth signals.
+SN 1559-3258
+PD JUL-SEP
+PY 2015
+VL 13
+IS 3
+AR 1559325815597669
+DI 10.1177/1559325815597669
+UT WOS:000362447500001
+ER
+
+EF

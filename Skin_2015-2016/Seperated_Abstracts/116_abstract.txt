@@ -1,0 +1,33 @@
+AU Pan, TL
+   Wang, PW
+   Aljuffali, IA
+   Huang, CT
+   Lee, CW
+   Fang, JY
+AF Pan, Tai-Long
+   Wang, Pei-Wen
+   Aljuffali, Ibrahim A.
+   Huang, Chi-Ting
+   Lee, Chiang-Wen
+   Fang, Jia-You
+TI The impact of urban particulate pollution on skin barrier function and
+   the subsequent drug absorption
+SO JOURNAL OF DERMATOLOGICAL SCIENCE
+AB Background: Ambient particulate matters (PMs) are known as inducers that adversely affect a variety of human organs.
+   Objectives: In this study, we aimed to evaluate the influence of PMs on the permeation of drugs and sunscreens via the skin. The role of skin-barrier properties such as the stratum corneum (SC) and tight junctions (TJs) during the delivery process was explored.
+   Methods: This work was conducted using both in vitro and in vivo experiments in pigs to check the responses of the skin to PMs. PMs primarily containing heavy metals (1648a) and polycyclic aromatic hydrocarbons (PAHs, 1649b) were employed to treat the skin.
+   Results: According to the transepiderrnal water loss (TEWL), 1649b but not 1648a significantly disrupted the SC integrity by 2-fold compared to the PBS control. The immunohistochemistry (IHC) of cytokeratin, filaggrin, and E-cadherin exhibited that 1649b mildly damaged TJs. The cytotoxicity of keratinocytes and skin fibroblasts caused by 1649b was stronger than that caused by 1648a. The 1649b elicited apoptosis via caspase-3 activation. The proteomic profiles showed that PMs upregulated Annexin A2 by >5-fold, which can be a biomarker of PM-induced barrier disruption. We found that the skin uptake of ascorbic acid, an extremely hydrophilic drug, was increased from 74 to 112 mu g/g by 1649b treatment. The extremely lipophilic drug tretinoin also showed a 2.6-fold increase of skin accumulation. Oxybenzone and dextran absorption was not affected by PMs. The in vivo dye distribution visualized by fluorescence microscopy had indicated that 1649b intervention promoted permeant partitioning into SC.
+   Conclusions: Caution should be taken in exposing the skin to airborne dust due to its ability to reduce barrier function and increase the risk of drug overabsorption, although this effect was not very marked. (C) 2015 Japanese Society for Investigative Dermatology. Published by Elsevier Ireland Ltd. All rights reserved.
+SN 0923-1811
+EI 1873-569X
+PD APR
+PY 2015
+VL 78
+IS 1
+BP 51
+EP 60
+DI 10.1016/j.jdermsci.2015.01.011
+UT WOS:000353432600009
+PM 25680853
+ER
+

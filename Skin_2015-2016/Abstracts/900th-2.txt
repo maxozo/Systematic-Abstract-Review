@@ -1,0 +1,846 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Li, WJ
+   Dong, HM
+   Zhao, HJ
+   Song, JF
+   Tang, HX
+   Yao, LH
+   Liu, LY
+   Tong, WC
+   Zou, MC
+   Zou, F
+   Cai, SX
+AF Li, Wenjia
+   Dong, Hangming
+   Zhao, Haijin
+   Song, Jiafu
+   Tang, Haixiong
+   Yao, Lihong
+   Liu, Laiyu
+   Tong, Wancheng
+   Zou, Mengchen
+   Zou, Fei
+   Cai, Shaoxi
+TI 1,25-Dihydroxyvitamin D-3 prevents toluene diisocyanate-induced airway
+   epithelial barrier disruption
+SO INTERNATIONAL JOURNAL OF MOLECULAR MEDICINE
+AB The loss of airway epithelial integrity contributes significantly to asthma pathogenesis. Evidence suggests that vitamin D plays an important role in the prevention and treatment of asthma. However, its role in airway epithelial barrier function remains uncertain. We have previously demonstrated impaired epithelial junctions in a model of toluene diisocyanate (TDI)-induced asthma. In the present study, we hypothesized that 1,25-dihydroxyvitamin D-3 [1,25(OH)(2)D-3] may prevent TDI-induced epithelial barrier disruption. Male BALB/c mice were dermally sensitized and then challenged with TDI. The mice were then administered 1,25(OH)(2)D-3 intraperitoneally prior to challenge with TDI. For in vitro experiments, 16HBE bronchial epithelial cells were cultured and stimulated with TDI-human serum albumin (HSA). The results revealed that the mice treated with 1,25(OH)(2)D-3 displayed decreased airway hyperresponsiveness (AHR), suppressed neutrophil and eosinophil infiltration into the airways, as well as an increased E-cadherin and zonula occludens-1 (ZO-1) expression at the cell-cell contact sites. In vitro, exposure of the cells to TDI-HSA induced a rapid decline in transepithelial electrical resistance (TER) and an increase in cell permeability, followed by a decrease in occludin expression and the redistribution of E-cadherin, accompanied by a significant upregulation in the levels of phosphorylated extracellular signal-regulated kinase (ERK)1/2. These effects were all partly reversed by treatment with either 1,25(OH)(2)D-3 or an ERK1/2 inhibitor. In conclusion, the findings of our study demonstrate that 1,25(OH)(2)D-3 prevents TDI-induced epithelial barrier disruption, and that the ERK1/2 pathway may play a role in this process.
+SN 1107-3756
+EI 1791-244X
+PD JUL
+PY 2015
+VL 36
+IS 1
+BP 263
+EP 270
+DI 10.3892/ijmm.2015.2214
+UT WOS:000358134900029
+PM 25998793
+ER
+
+PT J
+AU Verbeek, FPR
+   Tummers, QRJG
+   Rietbergen, DDD
+   Peters, AAW
+   Schaafsma, BE
+   van de Velde, CJH
+   Frangioni, JV
+   van Leeuwen, FWB
+   Gaarenstroom, KN
+   Vahrmeijer, AL
+AF Verbeek, Floris P. R.
+   Tummers, Quirijn R. J. G.
+   Rietbergen, Daphne D. D.
+   Peters, Alexander A. W.
+   Schaafsma, Boudewijn E.
+   van de Velde, Cornelis J. H.
+   Frangioni, John V.
+   van Leeuwen, Fijs W. B.
+   Gaarenstroom, Katja N.
+   Vahrmeijer, Alexander L.
+TI Sentinel Lymph Node Biopsy in Vulvar Cancer Using Combined Radioactive
+   and Fluorescence Guidance
+SO INTERNATIONAL JOURNAL OF GYNECOLOGICAL CANCER
+AB Objective Near-infrared (NIR) fluorescence imaging using indocyanine green (ICG) has recently been introduced to improve the sentinel lymph node (SLN) procedure. Several optical tracers have been successfully tested. However, the optimal tracer formulation is still unknown. This study evaluates the performance of ICG-technetium-99m (Tc-99m)-nanocolloid in relation to 2 most commonly used ICG-based formulas during SLN biopsy in vulvar cancer.
+   Methods and Materials Twelve women who planned to undergo SLN biopsy for stage I vulvar cancer were prospectively included. Sentinel lymph node mapping was performed using the dual-modality radioactive and NIR fluorescence tracer ICG-Tc-99m-nanocolloid. All patients underwent combined SLN localization using NIR fluorescence and the (current) gold standard using blue dye and radioactive guidance.
+   Results In all 12 patients, at least 1 SLN was detected during surgery. A total of 21 lymph nodes (median 2; range, 1-3) were resected. Median time between skin incision and first SLN detection was 8 (range, 1-22) minutes. All resected SLNs were both radioactive and fluorescent, although only 13 (62%) of 21 SLNs stained blue. Median brightness of exposed SLNs, expressed as signal-to-background ratio, was 5.4 (range, 1.8-11.8). Lymph node metastases were found in 3 patients.
+   Conclusions Near-infrared fluorescence-guided SLN mapping is feasible and outperforms blue dye staining. Premixing ICG with Tc-99m-nanocolloid provides real-time intraoperative imaging of the SN and seems to be the optimal tracer combination in terms of intraoperative detection rate of the SN (100%). Moreover, ICG-Tc-99m-nanocolloid allows the administration of a 5-times lower injected dose of ICG (compared with ICG and ICG absorbed to human serum albumin) and can be injected up to 20 hours before surgery.
+SN 1048-891X
+EI 1525-1438
+PD JUL
+PY 2015
+VL 25
+IS 6
+BP 1086
+EP 1093
+DI 10.1097/IGC.0000000000000419
+UT WOS:000357286900021
+PM 25768079
+ER
+
+PT J
+AU Tansi, F
+   Kallweit, E
+   Kaether, C
+   Kappe, K
+   Schumann, C
+   Hilger, I
+   Reissmann, S
+AF Tansi, Felista
+   Kallweit, Eric
+   Kaether, Christoph
+   Kappe, Katarina
+   Schumann, Christina
+   Hilger, Ingrid
+   Reissmann, Siegmund
+TI Internalization of Near-Infrared Fluorescently Labeled Activatable
+   Cell-Penetrating Peptide and of Proteins into Human Fibrosarcoma Cell
+   Line HT-1080
+SO JOURNAL OF CELLULAR BIOCHEMISTRY
+AB The internalization of near-infrared fluorescently labeled cargos into living cells and tissues allows a highly sensitive detection without interference from skin, porphins or other fluorescent cell and tissue compounds. In this study, the uptake of labeled bovine serum albumin and an antibody, into fibrosarcoma (HT-1080) cells was triggered by the formation of non-covalent complexes with different cell-penetrating peptides; uptake efficiency and intracellular localization were determined. To improve selectivity of internalization into tumor cells, a fluorescent activatable cell-penetrating peptide (ACPP) was synthesized and functionally characterized. This 25-mer peptide was designed to be activatable by Matrix-Metallo-Proteases (MMPs). Its uptake selectivity was estimated using cells with different MMP activities. J. Cell. Biochem. 116: 1222-1231, 2015. (c) 2014 Wiley Periodicals, Inc.
+SN 0730-2312
+EI 1097-4644
+PD JUL
+PY 2015
+VL 116
+IS 7
+BP 1222
+EP 1231
+DI 10.1002/jcb.25075
+UT WOS:000354457900008
+PM 25546737
+ER
+
+PT J
+AU Weinkauf, B
+   Obreja, O
+   Schmelz, M
+   Rukwied, R
+AF Weinkauf, B.
+   Obreja, O.
+   Schmelz, M.
+   Rukwied, R.
+TI Differential time course of NGF-induced hyperalgesia to heat versus
+   mechanical and electrical stimulation in human skin
+SO EUROPEAN JOURNAL OF PAIN
+AB BackgroundNerve growth factor (NGF) causes early heat and delayed mechanical hyperalgesia. Axonal transport might contribute to lasting responses. Temporal hyperalgesia development was investigated by administering NGF in paraspinal skin. Transient receptor potential ankyrin 1 (TRPA1) is up-regulated by NGF and chemical responsiveness to cinnamon aldehyde (TRPA1 agonist) was quantified.
+   MethodsEight healthy volunteers received 1g human recombinant NGF (i.d. 50L) to L4/L5 processi spinosi skin. Mechanical, thermal and electrical sensitization was assessed at 3-6h and at days 1, 2, 3, 5, 7, 10, 14 and 21, and pain upon cinnamon aldehyde (20%, 60L) recorded at days 3 and 21.
+   ResultsHeat hyperalgesia developed with an initial maximum at 3h [heat pain threshold -3.9 degrees; peak pain ratings +22 visual analogue scale (VAS)] that decreased by day 1, subsequently increased to a maximum around day 5 (-50.2 degrees C, +41 +/- 4 VAS), and thereafter declined to approximate to 20% at day 21. Mechanical and electrical hyperexcitability developed within 3 days and gradually increased to peak between days 14 and 21. Pain intensity upon cinnamon aldehyde stimulation was doubled at the NGF site at day 3 and was still increased by about 50% at day 21.
+   ConclusionsNGF causes immediate heat hyperalgesia probably linked to an up-regulation and sensitization of transient receptor potential vanilloid 1 and possibly other proteins involved in heat transduction. The delayed mechanical hyperalgesia is apparently independent of the time required for axonal transport of NGF receptor complexes. Local mRNA translation at axonal terminals and protein accumulation is hypothesized being involved in sustained NGF-evoked hyperalgesia.
+SN 1090-3801
+EI 1532-2149
+PD JUL
+PY 2015
+VL 19
+IS 6
+BP 789
+EP 796
+DI 10.1002/ejp.603
+UT WOS:000354128300008
+PM 25266105
+ER
+
+PT J
+AU Kang, JI
+   Kim, SC
+   Kim, MK
+   Boo, HJ
+   Kim, EJ
+   Im, GJ
+   Kim, YH
+   Hyun, JW
+   Kang, JH
+   Koh, YS
+   Park, DB
+   Yoo, ES
+   Kang, HK
+AF Kang, Jung-Il
+   Kim, Sang-Cheol
+   Kim, Min-Kyoung
+   Boo, Hye-Jin
+   Kim, Eun-Ji
+   Im, Guang-Jin
+   Kim, Young Ho
+   Hyun, Jin-Won
+   Kang, Ji-Hoon
+   Koh, Young-Sang
+   Park, Deok-Bae
+   Yoo, Eun-Sook
+   Kang, Hee-Kyoung
+TI Effects of dihydrotestosterone on rat dermal papilla cells in vitro
+SO EUROPEAN JOURNAL OF PHARMACOLOGY
+AB Androgenetic alopecia involves the action of dihydrotestosterone (DHT) on dermal papilla cells (DPCs) that line the base of the hair follicle. However, the mechanism of DHT action is not completely understood. The effects of DHT on DPCs, regulatory cells that function in follicle growth and the hair cycle, were examined in immortalized cells derived from rat vibrissa follicles. DHT did not affect the proliferation of immortalized DPCs. However, flow cytometry analysis revealed that DHT increased cell-cycle arrest in these cells, which was accompanied by an increase in the p27(kip1) level and by decreases in cyclin E, cyclin D1, and cyclin-dependent kinase 2 levels. DHT treatment resulted in the phosphorylation and nuclear translocation of Smad2/3, a mediator of the transforming growth factor-beta (TGF-beta) signaling pathway, which leads to the catagen phase of the hair cycle. DHT also induced the phosphorylation and nuclear translocation of heat shock protein 27 (HSP27). Moreover, DHT decreased the levels of total and nuclear beta-catenin, an important regulator of hair growth and proliferation, while lithium chloride, a glycogen synthase kinase-3 beta inhibitor, attenuated the DHT-induced downregulation of the P-catenin level. On the other hand, DHT increased the phosphorylation of mammalian target of rapamycin (mTOR), a regulator of proliferation, in immortalized DPCs. These results illustrate that DHT could shorten the duration of the hair growth cycle by initiating cell-cycle arrest, downregulating the beta-catenin level, and upregulating the TGE-beta/Smad and HSP27 level, whereas activation of mTOR by DHT could attenuate the inhibition of hair growth cycle in immortalized DPCs. (C) 2015 Elsevier B.V. All rights reserved.
+SN 0014-2999
+EI 1879-0712
+PD JUN 15
+PY 2015
+VL 757
+BP 74
+EP 83
+DI 10.1016/j.ejphar.2015.03.055
+UT WOS:000353494800010
+PM 25838072
+ER
+
+PT J
+AU Wandu, WS
+   Tan, CY
+   Ogbeifun, O
+   Vistica, BP
+   Shi, GP
+   Hinshaw, SJH
+   Xie, C
+   Chen, X
+   Klinman, DM
+   Cai, HB
+   Gery, I
+AF Wandu, Wambui S.
+   Tan, Cuiyan
+   Ogbeifun, Osato
+   Vistica, Barbara P.
+   Shi, Guangpu
+   Hinshaw, Samuel J. H.
+   Xie, Chengsong
+   Chen, Xi
+   Klinman, Dennis M.
+   Cai, Huaibin
+   Gery, Igal
+TI Leucine-Rich Repeat Kinase 2 (Lrrk2) Deficiency Diminishes the
+   Development of Experimental Autoimmune Uveitis (EAU) and the Adaptive
+   Immune Response
+SO PLOS ONE
+AB Background
+   Mutations in LRRK2 are related to certain forms of Parkinson's disease and, possibly, to the pathogenesis of Crohn's disease. In both these diseases inflammatory processes participate in the pathogenic process. LRRK2 is expressed in lymphoid cells and, interestingly, Lrrk2 (-/-) mice were reported to develop more severe experimental colitis than their wild type (WT) controls. Here, we examined the possible involvement of LRRK2 in the pathogenesis of experimental autoimmune uveitis (EAU), an animal model for human uveitis, by testing Lrrk2 (-/-) mice for their capacity to develop this experimental eye disease and related immune responses.
+   Methods
+   Lrrk2 (-/-) mice and their WT controls (C57Bl/6) were immunized with interphotoreceptor retinoid-binding protein (IRBP) and compared for their development of EAU, delayed type hypersensitivity (DTH) by skin tests, production of cytokines in culture, and expression of interferon (IFN)-gamma, interleukin (IL)-17 and FoxP3 by spleen cells, using flow cytometry. Peritoneal macrophages were examined for their production of cytokines/chemokines in culture following stimulation with LPS or the oligodeoxynucleotide CpG. The Lrrk2 (-/-) and WT mice were also compared for their response to bovine serum albumin (BSA).
+   Results
+   The Lrrk2 (-/-) mice developed lower levels of EAU, DTH responses and cytokine production by lymphocytes than did their WT controls. Intracellular expression of IFN-gamma and IL-17, by spleen cells, and secretion of cytokines/chemokines by activated peritoneal macrophages of Lrrk2 (-/-) mice trended toward diminished levels, although variabilities were noted. The expression levels of FoxP3 by Lrrk2 (-/-) spleen cells, however, were similar to those seen in WT controls. Consistent with their low response to IRBP, Lrrk2 (-/-) mice responded to BSA less vigorously than their WT controls.
+   Conclusions
+   Lrrk2 deficiency in mice diminished the development of EAU and the related adaptive immune responses to IRBP as compared to the WT controls.
+SN 1932-6203
+PD JUN 11
+PY 2015
+VL 10
+IS 6
+AR e0128906
+DI 10.1371/journal.pone.0128906
+UT WOS:000356100900033
+PM 26067490
+ER
+
+PT J
+AU Wright, AT
+   Magnaldo, T
+   Sontag, RL
+   Anderson, LN
+   Sadler, NC
+   Piehowski, PD
+   Gache, Y
+   Weber, TJ
+AF Wright, Aaron T.
+   Magnaldo, Thierry
+   Sontag, Ryan L.
+   Anderson, Lindsey N.
+   Sadler, Natalie C.
+   Piehowski, Paul D.
+   Gache, Yannick
+   Weber, Thomas J.
+TI Deficient Expression of Aldehyde Dehydrogenase 1A1 is Consistent With
+   Increased Sensitivity of Gorlin Syndrome Patients to Radiation
+   Carcinogenesis
+SO MOLECULAR CARCINOGENESIS
+AB Human phenotypes that are highly susceptible to radiation carcinogenesis have been identified. Sensitive phenotypes often display robust regulation of molecular features that modify biological response, which can facilitate identification of the pathways/networks that contribute to pathophysiological outcomes. Here we interrogate primary dermal fibroblasts isolated from Gorlin syndrome patients (GDFs), who display a pronounced inducible tumorigenic response to radiation, in comparison to normal human dermal fibroblasts (NHDFs). Our approach exploits newly developed thiol reactive probes to define changes in protein thiol profiles in live cell studies, which minimizes artifacts associated with cell lysis. Redox probes revealed deficient expression of an apparent 55kDa protein thiol in GDFs from independent Gorlin syndrome patients, compared with NHDFs. Proteomics tentatively identified this protein as aldehyde dehydrogenase 1A1 (ALDH1A1), a key enzyme regulating retinoic acid synthesis, and ALDH1A1 protein deficiency in GDFs was confirmed by Western blot. A number of additional protein thiol differences in GDFs were identified, including radiation responsive annexin family members and lamin A/C. Collectively, candidates identified in our study have plausible implications for radiation health effects and cancer susceptibility. (c) 2013 Wiley Periodicals, Inc.
+OI Piehowski, Paul/0000-0001-5108-2227
+SN 0899-1987
+EI 1098-2744
+PD JUN
+PY 2015
+VL 54
+IS 6
+BP 473
+EP 484
+DI 10.1002/mc.22115
+UT WOS:000352814800006
+PM 24285572
+ER
+
+PT J
+AU Sakurai, K
+   Reon, BJ
+   Anaya, J
+   Dutta, A
+AF Sakurai, Kouhei
+   Reon, Brian J.
+   Anaya, Jordan
+   Dutta, Anindya
+TI The lncRNA DRAIC/PCAT29 Locus Constitutes a Tumor-Suppressive Nexus
+SO MOLECULAR CANCER RESEARCH
+AB Long noncoding RNAs (lncRNA) are emerging as major regulators of cellular phenotypes and implicated as oncogenes or tumor suppressors. Here, we report a novel tumor-suppressive locus on human chromosome 15q23 that contains two multiexonic lncRNA genes of 100 kb each: DRAIC (LOC145837) and the recently reported PCAT29. The DRAIC lncRNA was identified from RNA-seq data and is downregulated as prostate cancer cells progress from an androgen-dependent (AD) to a castration-resistant (CR) state. Prostate cancers persisting in patients after androgen deprivation therapy (ADT) select for decreased DRAIC expression, and higher levels of DRAIC in prostate cancer are associated with longer disease-free survival (DFS). Androgen induced androgen receptor (AR) binding to the DRAIC locus and repressed DRAIC expression. In contrast, FOXA1 and NKX3-1 are recruited to the DRAIC locus to induce DRAIC, and FOXA1 specifically counters the repression of DRAIC by AR. The decrease of FOXA1 and NKX3-1, and aberrant activation of AR, thus accounts for the decrease of DRAIC during prostate cancer progression to the CR state. Consistent with DRAIC being a good prognostic marker, DRAIC prevents the transformation of cuboidal epithelial cells to fibroblast-like morphology and prevents cellular migration and invasion. A second tumor-suppressive lncRNA PCAT29, located 20 kb downstream of DRAIC, is regulated identically by AR and FOXA1 and also suppresses cellular migration and metastasis. Finally, based on TCGA analysis, DRAIC expression predicts good prognosis in a wide range of malignancies, including bladder cancer, low-grade gliomas, lung adenocarcinoma, stomach adenocarcinoma, renal clear cell carcinoma, hepatocellular carcinoma, skin melanoma, and stomach adenocarcinoma. (C)2015 AACR.
+RI Dutta, Anindya/P-3203-2016; 
+OI Anaya, Jordan/0000-0002-6166-4113; Dutta, Anindya/0000-0002-4319-0073
+SN 1541-7786
+EI 1557-3125
+PD MAY
+PY 2015
+VL 13
+IS 5
+BP 828
+EP 838
+DI 10.1158/1541-7786.MCR-15-0016-T
+UT WOS:000358057500003
+PM 25700553
+ER
+
+PT J
+AU Ramos, LD
+   Barbedo, LS
+   Braga-Silva, LA
+   dos Santos, ALS
+   Pinto, MR
+   Sgarbi, DBD
+AF Ramos, Livia de Souza
+   Barbedo, Leonardo Silva
+   Braga-Silva, Lys Adriana
+   Souza dos Santos, Andre Luis
+   Pinto, Marcia Ribeiro
+   da Graca Sgarbi, Diana Bridon
+TI Protease and phospholipase activities of Candida spp. isolated from
+   cutaneous candidiasis
+SO REVISTA IBEROAMERICANA DE MICOLOGIA
+AB Background: Cases of superficial and invasive mycoses caused by emerging species of Candida have been increasingly reported over the last thirty years. The production of hydrolytic enzymes plays a central role in the fungal infective process. In Candida infections the secretion of both proteases and phospholipases are well-known virulence attributes.
+   Aims: To determine the protease and phospholipase production from 58 human clinical isolates of Candida obtained from individuals with cutaneous candidiasis seen in the Human and Veterinary Diagnostic Mycology Sector from Universidade Federal Fluminense (UFF), Brazil, from November 2008 to August 2009.
+   Methods: Fungal identification was performed using biochemical tests. Proteolytic activity was detected on agar plates containing bovine serum albumin, and phospholipase production was determined on egg-yolk plates.
+   Results: The Candida species isolated were Candida parapsilosis (27.59%), Candida famata (18.96%), Candida albicans (15.52%), Candida haemulonii (12.06%), Candida ciferri (8.62%), Candida guilliermondii (6.90%), Candida tropicalis (5.17%) and Candida lipolytica (5.17%). All isolates of C. albicans produced both protease and phospholipase. As regards the isolates of non-C albicans Candida species, 53.06% and 4.08% were able to produce protease and phospholipase, respectively. For example, the majority of isolates of C parapsilosis (15/16) produced protease, while 40% of C ciferri isolates (2/5) were phospholipase producers. This study shows, for the first time, that C ciferri and C haemulonii strains were able to produce protease.
+   Conclusions: Collectively, our results showed that different species of Candida isolated from cutaneous lesions were able to produce proteases and/or phospholipases, which are multifunctional molecules directly involved in the infectious process of these fungi. (C) 2013 Revista Iberoamericana de Micologia. Published by Elsevier Espana, S.L.U. All rights reserved.
+OI Barbedo, Leonardo/0000-0003-1941-4185
+SN 1130-1406
+PD APR 30
+PY 2015
+VL 32
+IS 2
+BP 122
+EP 125
+DI 10.1016/j.riam.2014.01.003
+UT WOS:000355059400013
+ER
+
+PT J
+AU Pan, TL
+   Wang, PW
+   Aljuffali, IA
+   Huang, CT
+   Lee, CW
+   Fang, JY
+AF Pan, Tai-Long
+   Wang, Pei-Wen
+   Aljuffali, Ibrahim A.
+   Huang, Chi-Ting
+   Lee, Chiang-Wen
+   Fang, Jia-You
+TI The impact of urban particulate pollution on skin barrier function and
+   the subsequent drug absorption
+SO JOURNAL OF DERMATOLOGICAL SCIENCE
+AB Background: Ambient particulate matters (PMs) are known as inducers that adversely affect a variety of human organs.
+   Objectives: In this study, we aimed to evaluate the influence of PMs on the permeation of drugs and sunscreens via the skin. The role of skin-barrier properties such as the stratum corneum (SC) and tight junctions (TJs) during the delivery process was explored.
+   Methods: This work was conducted using both in vitro and in vivo experiments in pigs to check the responses of the skin to PMs. PMs primarily containing heavy metals (1648a) and polycyclic aromatic hydrocarbons (PAHs, 1649b) were employed to treat the skin.
+   Results: According to the transepiderrnal water loss (TEWL), 1649b but not 1648a significantly disrupted the SC integrity by 2-fold compared to the PBS control. The immunohistochemistry (IHC) of cytokeratin, filaggrin, and E-cadherin exhibited that 1649b mildly damaged TJs. The cytotoxicity of keratinocytes and skin fibroblasts caused by 1649b was stronger than that caused by 1648a. The 1649b elicited apoptosis via caspase-3 activation. The proteomic profiles showed that PMs upregulated Annexin A2 by >5-fold, which can be a biomarker of PM-induced barrier disruption. We found that the skin uptake of ascorbic acid, an extremely hydrophilic drug, was increased from 74 to 112 mu g/g by 1649b treatment. The extremely lipophilic drug tretinoin also showed a 2.6-fold increase of skin accumulation. Oxybenzone and dextran absorption was not affected by PMs. The in vivo dye distribution visualized by fluorescence microscopy had indicated that 1649b intervention promoted permeant partitioning into SC.
+   Conclusions: Caution should be taken in exposing the skin to airborne dust due to its ability to reduce barrier function and increase the risk of drug overabsorption, although this effect was not very marked. (C) 2015 Japanese Society for Investigative Dermatology. Published by Elsevier Ireland Ltd. All rights reserved.
+SN 0923-1811
+EI 1873-569X
+PD APR
+PY 2015
+VL 78
+IS 1
+BP 51
+EP 60
+DI 10.1016/j.jdermsci.2015.01.011
+UT WOS:000353432600009
+PM 25680853
+ER
+
+PT J
+AU Weng, Z
+   Patel, AB
+   Panagiotidou, S
+   Theoharides, TC
+AF Weng, Zuyi
+   Patel, Arti B.
+   Panagiotidou, Smaro
+   Theoharides, Theoharis C.
+TI The novel flavone tetramethoxyluteolin is a potent inhibitor of human
+   mast cells
+SO JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY
+AB Background: Mast cells (MCs) are hematopoietic cells that mature in tissues and are involved in allergy, immunity, and inflammation by secreting multiple mediators. The natural flavone luteolin has anti-inflammatory actions and inhibits human mast cells (MCs).
+   Objective: We sought to investigate the ability of luteolin and its novel structural analog 39,49,5,7-tetramethoxyluteolin (methlut) to inhibit human MC mediator expression and release in vitro and in vivo.
+   Methods: Human LAD2 cells and umbilical primary human cord blood-derived cultured mast cells were stimulated with substance P (SP) or IgE/anti-IgE with or without preincubation with luteolin, methlut, or cromolyn (1-100 mu mol/L) for 2 or 24 hours, after which mediator secretion was measured. The effect of the compounds on MC intracellular calcium levels and nuclear factor kappa B activation was also investigated. Pretreatment with methlut was also studied in mice passively sensitized with dinitrophenol-human serum albumin and challenged intradermally.
+   Results: Methlut is a more potent inhibitor than luteolin or cromolyn for beta-hexosaminidase and histamine secretion from LAD2 cells stimulated by either SP or IgE/anti-IgE, but only methlut and luteolin significantly inhibit preformed TNF secretion. Methlut is also a more potent inhibitor than luteolin of de novo-synthesized TNF from LAD2 cells and of CCL2 from human cord blood-derived cultured MCs. This mechanism of action for methlut might be due to its ability to inhibit intracellular calcium level increases, as well as nuclear factor kB induction, at both the transcriptional and translational levels in LAD2 cells stimulated by SP without affecting cell viability. Intraperitoneal treatment with methlut significantly decreases skin vascular permeability of Evans blue dye in mice passively sensitized to dinitrophenol-human serum albumin and challenged intradermally.
+   Conclusion: Methlut is a promising MC inhibitor for the treatment of allergic and inflammatory conditions.
+RI weng, zuyi/J-4147-2015
+SN 0091-6749
+EI 1097-6825
+PD APR
+PY 2015
+VL 135
+IS 4
+BP 1044
+EP +
+DI 10.1016/j.jaci.2014.10.032
+UT WOS:000352238600027
+PM 25498791
+ER
+
+PT J
+AU Granato, MQ
+   Massapust, PD
+   Rozental, S
+   Alviano, CS
+   dos Santos, ALS
+   Kneipp, LF
+AF Granato, Marcela Queiroz
+   Massapust, Priscila de Araujo
+   Rozental, Sonia
+   Alviano, Celuta Sales
+   Souza dos Santos, Andre Luis
+   Kneipp, Lucimar Ferreira
+TI 1,10-Phenanthroline Inhibits the Metallopeptidase Secreted by
+   Phialophora verrucosa and Modulates its Growth, Morphology and
+   Differentiation
+SO MYCOPATHOLOGIA
+AB Phialophora verrucosa is one of the etiologic agents of chromoblastomycosis, a fungal infection that affects cutaneous and subcutaneous tissues. This disease is chronic, recurrent and difficult to treat. Several studies have shown that secreted peptidases by fungi are associated with important pathophysiological processes. Herein, we have identified and partially characterized the peptidase activity secreted by P. verrucosa conidial cells. Using human serum albumin as substrate, the best hydrolysis profile was detected at extreme acidic pH (3.0) and at 37 A degrees C. The enzymatic activity was completely blocked by classical metallopeptidase inhibitors/chelating agents as 1,10-phenanthroline and EGTA. Zinc ions stimulated the metallo-type peptidase activity in a dose-dependent manner. Several proteinaceous substrates were cleaved, in different extension, by the P. verrucosa metallopeptidase activity, including immunoglobulin G, fibrinogen, collagen types I and IV, fibronectin, laminin and keratin; however, mucin and hemoglobin were not susceptible to proteolysis. As metallopeptidases participate in different cellular metabolic pathways in fungal cells, we also tested the influence of 1,10-phenanthroline and EGTA on P. verrucosa development. Contrarily to EGTA, 1,10-phenanthroline inhibited the fungal viability (MIC 0.8 A mu g/ml), showing fungistatic effect, and induced profound morphological alterations as visualized by transmission electron microscopy. In addition, 1,10-phenanthroline arrested the filamentation process in P. verrucosa. Our results corroborate the supposition that metallopeptidase inhibitors/chelating agents have potential to control crucial biological events in fungal agents of chromoblastomycosis.
+RI Rozental, Sonia/A-8537-2013
+OI Rozental, Sonia/0000-0002-3659-5945
+SN 0301-486X
+EI 1573-0832
+PD APR
+PY 2015
+VL 179
+IS 3-4
+BP 231
+EP 242
+DI 10.1007/s11046-014-9832-7
+UT WOS:000351168800008
+PM 25502596
+ER
+
+PT J
+AU Kim, SH
+   Hwang, KA
+   Shim, SM
+   Choi, KC
+AF Kim, Seung-Hee
+   Hwang, Kyung-A
+   Shim, Soon-Mi
+   Choi, Kyung-Chul
+TI Growth and migration of LNCaP prostate cancer cells are promoted by
+   triclosan and benzophenone-1 via an androgen receptor signaling pathway
+SO ENVIRONMENTAL TOXICOLOGY AND PHARMACOLOGY
+AB Prostate cancer (PCa) is a global health concern in human males. Recently, it has been known that endocrine-disrupting chemicals (EDCs) may act as an exogenous factor to enhance cancer progression. Triclosan (TCS) and 2,4-dihydroxybenzophenone (BP-1) were reported to bioaccumulate in human bodies through the skin absorption. However, there has been insufficient evidence on the findings that the intervention of EDCs may promote the cancer progression in PCa. In the present study, to verify the risk of TCS and BP-1 to a PCa progression, cancer cell proliferation and migration were investigated in LNCaP PCa cells. TCS and BP-1 increased LNCaP cell proliferative activity and migration as did dihydrotestosterone (DHT). This phenomenon was reversed by the treatment with bicalutamide, a well known AR antagonist, suggesting that TCS and BP-1 acted as a xenoandrogen in LNCaP cells via AR signaling pathway by mimicking the action of DHT. A Western blot assay was performed to identify the alterations in the translational levels of cell growth-and metastasis-related markers, i.e., c-fos, cyclin E, p21, and cathepsin D genes. The expressions of genes related with G1/S transition of cell cycle and metastasis were increased by DHT, TCS, and BP-1, while the expression of p21 protein responsible for cell cycle arrest was reduced by DHT, TCS, and BP-1. Taken together, these results indicated that TCS and BP-1 may enhance the progression of PCa by regulating cell cycle and metastasis-related genes via AR signaling pathway. (C) 2015 Elsevier B.V. All rights reserved.
+SN 1382-6689
+EI 1872-7077
+PD MAR
+PY 2015
+VL 39
+IS 2
+BP 568
+EP 576
+DI 10.1016/j.etap.2015.01.003
+UT WOS:000353929900010
+PM 25682003
+ER
+
+PT J
+AU Noszczyk, BH
+   Kowalczyk, T
+   Lyzniak, M
+   Zembrzycki, K
+   Mikulowski, G
+   Wysocki, J
+   Kawiak, J
+   Pojda, Z
+AF Noszczyk, B. H.
+   Kowalczyk, T.
+   Lyzniak, M.
+   Zembrzycki, K.
+   Mikulowski, G.
+   Wysocki, J.
+   Kawiak, J.
+   Pojda, Z.
+TI Biocompatibility of electrospun human albumin: a pilot study
+SO Biofabrication
+AB Albumin is rarely used for electrospinning because it does not form fibres in its native globular form. This paper presents a novel method for electrospinning human albumin from a solution containing pharmaceutical grade protein and 25% polyethylene oxide (PEO) used as the fibre-forming agent. After spontaneous cross-linking at body temperature, with no further chemicals added, the fibres become insoluble and the excess PEO can be washed out. Albumin deposited along the fibres retains its native characteristics, such as its non-adhesiveness to cells and its susceptibility for degradation by macrophages. To demonstrate this we evaluated the mechanical properties, biocompatibility and biodegradability of this novel product. After subcutaneous implantation in mice, albumin mats were completely resorbable within six days and elicited only a limited local inflammatory response. In vitro, the mats suppressed cell attachment and migration. As this product is inexpensive, produced from human pharmaceutical grade albumin without chemical modifications, retains its native protein properties and fulfils the specific requirements for anti-adhesive dressings, its clinical use can be expedited. We believe that it could specifically be used when treating paediatric patients with epidermolysis bullosa, in whom non-healing wounds occur after minor hand injuries which lead to rapid adhesions and devastating contractures.
+RI Kowalczyk, Tomasz/H-3872-2012
+OI Kowalczyk, Tomasz/0000-0003-2381-4122
+SN 1758-5082
+EI 1758-5090
+PD MAR
+PY 2015
+VL 7
+IS 1
+AR 015011
+DI 10.1088/1758-5090/7/1/015011
+UT WOS:000353341000012
+PM 25727172
+ER
+
+PT J
+AU Mukudai, S
+   Matsuda, KI
+   Nishio, T
+   Sugiyama, Y
+   Bando, H
+   Hirota, R
+   Sakaguchi, H
+   Hisa, Y
+   Kawata, M
+AF Mukudai, Shigeyuki
+   Matsuda, Ken Ichi
+   Nishio, Takeshi
+   Sugiyama, Yoichiro
+   Bando, Hideki
+   Hirota, Ryuichi
+   Sakaguchi, Hirofumi
+   Hisa, Yasuo
+   Kawata, Mitsuhiro
+TI Differential Responses to Steroid Hormones in Fibroblasts From the Vocal
+   Fold, Trachea, and Esophagus
+SO ENDOCRINOLOGY
+AB There is accumulating evidence that fibroblasts are target cells for steroids such as sex hormones and corticoids. The characteristics of fibroblasts vary among tissues and organs. Our aim in this study is to examine differences in responses to steroid hormones among fibroblasts from different cervicothoracic regions. We compared the actions of steroid hormones on cultured fibroblasts from the vocal folds, which are considered to be the primary target of steroid hormones, and the trachea and esophagus in adult male rats. Expression of steroid hormone receptors (androgen receptor, estrogen receptor alpha, and glucocorticoid receptor) was identified by immunofluorescence histochemistry. Androgen receptor was much more frequently expressed in fibroblasts from the vocal fold than in those from the trachea and esophagus. Cell proliferation analysis showed that administration of testosterone, estradiol, or corticosterone suppressed growth of all 3 types of fibroblasts. However, mRNA expression for extracellular matrix-associated genes, including procollagen I and III and elastin, and hyaluronic acid synthase I was elevated only by addition of testosterone to fibroblasts from the vocal fold. These results indicate that each steroid hormone exerts region-specific effects on cervicothoracic fibroblasts with different properties through binding to specific receptors.
+SN 0013-7227
+EI 1945-7170
+PD MAR
+PY 2015
+VL 156
+IS 3
+BP 1000
+EP 1009
+DI 10.1210/en.2014-1605
+UT WOS:000353272000021
+PM 25514085
+ER
+
+PT J
+AU Park, GH
+   Park, KY
+   Cho, HI
+   Lee, SM
+   Han, JS
+   Won, CH
+   Chang, SE
+   Lee, MW
+   Choi, JH
+   Moon, KC
+   Shin, H
+   Kang, YJ
+   Lee, DH
+AF Park, Gyeong-Hun
+   Park, Ki-young
+   Cho, Hong-il
+   Lee, Sang-Min
+   Han, Ji Su
+   Won, Chong Hyun
+   Chang, Sung Eun
+   Lee, Mi Woo
+   Choi, Jee Ho
+   Moon, Kee Chan
+   Shin, Hyoseung
+   Kang, Yong Jung
+   Lee, Dong Hun
+TI Red Ginseng Extract Promotes the Hair Growth in Cultured Human Hair
+   Follicles
+SO JOURNAL OF MEDICINAL FOOD
+AB Ginseng has been shown to promote hair growth in several recent studies. However, its effects on human hair follicles and its mechanisms of action have not been sufficiently elucidated. This study aimed to investigate the hair growth-promoting effects of red ginseng extract (RGE) and its ginsenosides. The proliferative activities of cultured human hair follicles treated with RGE and ginsenoside-Rb1 were assessed using Ki-67 immunostaining. Their effects on isolated human dermal papilla cells (hDPCs) were evaluated using cytotoxicity assays, immunoblot analysis of signaling proteins, and the determination of associated growth factors. We examined the ability of RGE and ginsenosides to protect hair matrix keratinocyte proliferation against dihydrotestosterone (DHT)-induced suppression and their effects on the expression of androgen receptor. The in vivo hair growth-promoting effect of RGE was also investigated in C57BL/6 mice. Both RGE and ginsenoside-Rb1 enhanced the proliferation of hair matrix keratinocytes. hDPCs treated with RGE or ginsenoside-Rb1 exhibited substantial cell proliferation and the associated phosphorylation of ERK and AKT. Moreover, RGE, ginsenoside-Rb1, and ginsenoside-Rg3 abrogated the DHT-induced suppression of hair matrix keratinocyte proliferation and the DHT-induced upregulation of the mRNA expression of androgen receptor in hDPCs. Murine experiments revealed that the subcutaneous injection of 3% RGE resulted in more rapid hair growth than the negative control. In conclusion, RGE and its ginsenosides may enhance hDPC proliferation, activate ERK and AKT signaling pathways in hDPCs, upregulate hair matrix keratinocyte proliferation, and inhibit the DHT-induced androgen receptor transcription. These results suggest that red ginseng may promote hair growth in humans.
+SN 1096-620X
+EI 1557-7600
+PD MAR 1
+PY 2015
+VL 18
+IS 3
+BP 354
+EP 362
+DI 10.1089/jmf.2013.3031
+UT WOS:000350337800012
+PM 25396716
+ER
+
+PT J
+AU Saito, A
+AF Saito, Akio
+TI Heparin cofactor II is degraded by heparan sulfate and dextran sulfate
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+AB Heparan sulfate normally binds to heparin cofactor II and modulates the coagulation pathway by inhibiting thrombin. However, when human heparin cofactor II was incubated with heparan sulfate, heparin cofactor II became degraded. Other glycosaminoglycans were tested, including hyaluronic acid, chondroitin sulfates, dermatan sulfate, and heparin, but only dextran sulfate also degraded heparin cofactor II. Pretreatment of heparan sulfate with heparinase reduced its heparin cofactor II-degrading activity. Heparan sulfate and dextran sulfate diminished the thrombin inhibitory activity of heparin cofactor II. Other serpins, including antithrombin III and pigment epithelium-derived factor, were also degraded by heparan sulfate. This is the first evidence of acidic polysaccharides exhibiting protein-degrading activity without the aid of other proteins. (C) 2015 Elsevier Inc. All rights reserved.
+SN 0006-291X
+EI 1090-2104
+PD FEB 20
+PY 2015
+VL 457
+IS 4
+BP 585
+EP 588
+DI 10.1016/j.bbrc.2015.01.028
+UT WOS:000350838800016
+PM 25600805
+ER
+
+PT J
+AU Zhang, Z
+   Nie, FF
+   Chen, XL
+   Qin, ZL
+   Kang, CF
+   Chen, B
+   Ma, JX
+   Pan, BL
+   Ma, YG
+AF Zhang, Zhe
+   Nie, Fangfei
+   Chen, Xinlei
+   Qin, Zelian
+   Kang, Chunfu
+   Chen, Bin
+   Ma, Jianxun
+   Pan, Bolin
+   Ma, Yongguang
+TI Upregulated periostin promotes angiogenesis in keloids through
+   activation of the ERK 1/2 and focal adhesion kinase pathways, as well as
+   the upregulated expression of VEGF and angiopoietin-1
+SO MOLECULAR MEDICINE REPORTS
+AB Periostin, a secreted extracellular matrix protein, is highly expressed in wound healing and in various types of human cancer and is involved in angiogenesis. Keloids, considered dermal benign tumors, are granulomatous lesions characterized by capillary proliferation. However, the underlying regulatory mechanism of angiogenesis in keloids remains to be elucidated. The present study aimed to examine the effect of periostin on angiogenesis in keloids. The expression of periostin was upregulated and the vessel density was higher in human keloids compared with normal tissue, observed following staining with CD31 and CD105. Periostin demonstrated a markedly positive correlation with blood vessel density, which was assessed using CD31 staining (r=0.711; P<0.01) and a weak correlation was observed using CD105 staining (r=0.251; P<0.01). Conditioned medium from keloid fibroblasts (KFs) promoted the migration and tube formation of human umbilical vein endothelial cells (HUVECs) compared with normal fibroblasts and this effect may have been abrogated by the short hairpin RNA knockdown of periostin. Treatment with recombinant human periostin promoted the migration and tube formation of HUVECs by activating the extracellular signal-regulated kinase 1/2 and focal adhesion kinase signaling pathway. In addition, periostin increased the secretion of vascular endothelial growth factor and angiopoietin-1 in the KFs. In conclusion, these data suggested that upregulation in the level of periostin may promote angiogenesis directly and indirectly in keloids and may be a key factor in keloid development. Periostin may, therefore, be a promising therapeutic target in the treatment of keloids and other angioproliferative diseases.
+SN 1791-2997
+EI 1791-3004
+PD FEB
+PY 2015
+VL 11
+IS 2
+BP 857
+EP 864
+DI 10.3892/mmr.2014.2827
+UT WOS:000349506400014
+PM 25369801
+ER
+
+PT J
+AU Westphal, P
+   Mauch, C
+   Florin, A
+   Czerwitzki, J
+   Olligschlager, N
+   Wodtke, C
+   Schule, R
+   Buttner, R
+   Friedrichs, N
+AF Westphal, Philipp
+   Mauch, Cornelia
+   Florin, Alexandra
+   Czerwitzki, Jacqueline
+   Olligschlaeger, Nina
+   Wodtke, Claudia
+   Schuele, Roland
+   Buettner, Reinhard
+   Friedrichs, Nicolaus
+TI Enhanced FHL2 and TGF-beta 1 Expression Is Associated With Invasive
+   Growth and Poor Survival in Malignant Melanomas
+SO AMERICAN JOURNAL OF CLINICAL PATHOLOGY
+AB Objectives: This study examines the expression and the role offour-and-a-half LIM domains protein 2 (FHL2) and transforming growth factor beta 1 (TGF-beta 1) in human malignant melanoma. It is determined whether both proteins influence melanoma survival time.
+   Methods: We analyzed the immunohistochemical staining intensities of FHL2 and TGF-beta 1 in normal skin and in 50 malignant melanomas with different mutation status (BRAF-V600E, NRAS codon 61 mutation, and wild type). Survival data were available for 45 cases.
+   Results: In melanocytes of nonneoplastic human skin, FHL2 expression was absent. In contrast, 38 (76%) of 50 melanomas showed strong cytoplasmic and partly nuclear FHL2 expression. At the invasion front, cytoplasmic TGF-beta 1 staining was observed in 32 (64%) of 50 melanomas, and a correlation of FHL2 and TGF-beta 1 staining intensities was detectable. In follow-up analyses, enhanced FHL2 and TGF-beta 1 staining intensities in the tumor invasion front were associated with poor survival.
+   Conclusions: Enhanced FHL2 and TGF-beta 1 expression is correlated with poor survival in human malignant melanoma. Protumorigenic effects of autocrine TGF-beta 1 secretion might be exerted by induction of FHL2 expression in melanoma cells. Since melanomas treated with targeted therapies often do not show sufficient response rates, inhibition of FHL2 and/or TGF-beta 1 might be a promising therapeutic approach.
+SN 0002-9173
+EI 1943-7722
+PD FEB
+PY 2015
+VL 143
+IS 2
+BP 248
+EP 256
+DI 10.1309/AJCPXEC6CIT2TXAF
+UT WOS:000348270200012
+PM 25596251
+ER
+
+PT J
+AU Asuthkar, S
+   Demirkhanyan, L
+   Sun, XH
+   Elustondo, PA
+   Krishnan, V
+   Baskaran, P
+   Velpula, KK
+   Thyagarajan, B
+   Pavlov, EV
+   Zakharian, E
+AF Asuthkar, Swapna
+   Demirkhanyan, Lusine
+   Sun, Xiaohui
+   Elustondo, Pia A.
+   Krishnan, Vivek
+   Baskaran, Padmamalini
+   Velpula, Kiran Kumar
+   Thyagarajan, Baskaran
+   Pavlov, Evgeny V.
+   Zakharian, Eleonora
+TI The TRPM8 Protein Is a Testosterone Receptor II. FUNCTIONAL EVIDENCE FOR
+   AN IONOTROPIC EFFECT OF TESTOSTERONE ON TRPM8
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+AB Background: TRPM8 channels are highly expressed in prostate tissues, where the role of this cold receptor is not well understood. Results: Testosterone activates TRPM8 in various cellular systems and in the planar lipid bilayers. Conclusion: TRPM8 is an ionotropic testosterone receptor. Significance: TRPM8 channels may be implicated in various physiological processes regulated by androgens.
+   Testosterone is a key steroid hormone in the development of male reproductive tissues and the regulation of the central nervous system. The rapid signaling mechanism induced by testosterone affects numerous behavioral traits, including sexual drive, aggressiveness, and fear conditioning. However, the currently identified testosterone receptor(s) is not believed to underlie the fast signaling, suggesting an orphan pathway. Here we report that an ion channel from the transient receptor potential family, TRPM8, commonly known as the cold and menthol receptor is the major component of testosterone-induced rapid actions. Using cultured and primary cell lines along with the purified TRPM8 protein, we demonstrate that testosterone directly activates TRPM8 channel at low picomolar range. Specifically, testosterone induced TRPM8 responses in primary human prostate cells, PC3 prostate cancer cells, dorsal root ganglion neurons, and hippocampal neurons. Picomolar concentrations of testosterone resulted in full openings of the purified TRPM8 channel in planar lipid bilayers. Furthermore, acute applications of testosterone on human skin elicited a cooling sensation. Our data conclusively demonstrate that testosterone is an endogenous and highly potent agonist of TRPM8, suggesting a role of TRPM8 channels well beyond their well established function in somatosensory neurons. This discovery may further imply TRPM8 channel function in testosterone-dependent behavioral traits.
+SN 0021-9258
+EI 1083-351X
+PD JAN 30
+PY 2015
+VL 290
+IS 5
+BP 2670
+EP 2688
+DI 10.1074/jbc.M114.610873
+UT WOS:000349310700012
+PM 25480785
+ER
+
+PT J
+AU Han, SY
+   Choi, YJ
+   Kang, MK
+   Park, JHY
+   Kang, YH
+AF Han, Seon-Young
+   Choi, Yean-Jung
+   Kang, Min-Kyung
+   Park, Jung Han Yoon
+   Kang, Young-Hee
+TI Resveratrol Suppresses Cytokine Production Linked to Fc epsilon RI-MAPK
+   Activation in IgE-Antigen Complex-Exposed Basophilic Mast Cells and Mice
+SO AMERICAN JOURNAL OF CHINESE MEDICINE
+AB A complicated interplay between resident mast cells and other recruited inflammatory cells contributes to the development and progression of allergic inflammation entailing the promotion of T helper 2 (Th2) cytokine responses. The current study examined whether resveratrol suppressed the production of inflammatory Th2 cytokines in cultured rat basophilic leukemia RBL-2H3 cells. Cells pre-treated with resveratrol nontoxic at 1-25 mu M were sensitized with anti-dinitrophenyl (anti-DNP), and subsequently stimulated by dinitrophenyl-human serum albumin (DNP-HSA) antigen. Resveratrol dose-dependently diminished the secretion of interleukin (IL)-3, IL-4, IL-13 as well as tumor necrosis factor (TNF)-alpha by the antigen stimulation from sensitized cells. It was found that resveratrol mitigated the phosphorylation of p38 MAPK, ERK, and JNK elevated in mast cells exposed to Fc epsilon receptor I (Fc epsilon RI)-mediated immunoglobulin E (IgE)-antigen complex. The FceRI aggregation was highly enhanced on the surface of mast cells following the HSA stimulation, which was retarded by treatment with 1-25 mu M resveratrol. The IgE-receptor engagement rapidly induced tyrosine phosphorylation of c-Src-related focal adhesion protein paxillin involved in the cytoskeleton rearrangement. The Fc epsilon RI-mediated rapid activation of c-Src and paxillin was attenuated in a dose-dependent manner. In addition, the paxillin activation entailed p38 MAPK and ERK-responsive signaling, but the JNK activation was less involved. Consistently, oral administration of resveratrol reduced the tissue level of phosphorylated paxillin in the dorsal skin of DNP-HSA-challenged mice. The other tyrosine kinase Tyk2-STAT1 signaling was activated in the dorsal epidermis of antigen-exposed mice, which was associated with allergic inflammation. These results showed that resveratrol inhibited Th2 cytokines- and paxillin-linked allergic responses dependent upon MAPK signaling. Therefore, resveratrol may possess the therapeutic potential of targeting mast cells in preventing the development of allergic inflammation.
+SN 0192-415X
+EI 1793-6853
+PY 2015
+VL 43
+IS 8
+BP 1605
+EP 1623
+DI 10.1142/S0192415X15500913
+UT WOS:000367748100007
+PM 26621445
+ER
+
+PT J
+AU Vijayan, P
+   Viswanathamurthi, P
+   Velmurugan, K
+   Nandhakumar, R
+   Balakumaran, MD
+   Kalaichelvan, PT
+   Malecki, JG
+AF Vijayan, Paranthaman
+   Viswanathamurthi, Periasamy
+   Velmurugan, Krishnaswamy
+   Nandhakumar, Raju
+   Balakumaran, Manickam Dakshinamoorthi
+   Kalaichelvan, Pudupalayam Thangavelu
+   Malecki, Jan Grzegorz
+TI Nickel(II) and copper(II) complexes constructed with N2S2 hybrid
+   benzamidine-thiosemicarbazone ligand: synthesis, X-ray crystal
+   structure, DFT, kinetico-catalytic and in vitro biological applications
+SO RSC ADVANCES
+AB With the aim of assessing whether transition metal complexes might be utilized as efficient biocatalysts and biological drugs, new monofunctional nickel(II) and copper(II) complexes of types NiL (1) and CuL (2) [H2L = N-(N',N'-diethylaminothiocarbonyl)benzimidoyl chloride-2-aminoacetophenone-N-methylthiosemicarbazone] were synthesized. The compounds are remarkably stable and were obtained in good yields. Structural elucidation was carried out thoroughly in solid and solution-states by elemental analysis and various spectroscopy techniques (IR, UV-vis, H-1 NMR, and EPR) as well as ESI mass spectrometry. The molecular structure of the compounds was investigated by single-crystal X-ray diffraction. The analyses showed tetradentate coordination of the ligand in nickel(II) and copper(II) complexes, in which the metal atom exhibits a square planar geometry with N2S2 in a donor fashion. Structural optimization, HOMO-LUMO energy calculations and Natural Bond Orbital (NBO) analysis of H2L and its complexes (1 and 2) were investigated by Density Functional Theory (DFT). The trend in binding affinities of the compounds with biomolecules, such as calf thymus DNA (CT-DNA) and bovine serum albumin (BSA) protein, were investigated by different spectrophotometric methods, which revealed an intercalative mode of interaction. Furthermore, enzyme kinetic studies reflected that the square planar complexes (1 and 2) are also effective in mimicking catecholase (3,5-DTBC) and phosphatase (4-NPP) activities over the parent H2L. The high k(cat) values suggested that the selected compounds displayed a high rate of catalytic efficiency. In vitro cytotoxicity of the complexes on human skin cancer melanoma (A375), human cervical cancer (HeLa) and human hepatocellular carcinoma (Hep3B) cancer cell lines demonstrated that the complexes had a broad-spectrum of anti-cancer activity with low IC50 values. The morphological assessment data obtained by acridine orange/ethidium bromide (AO/EB) and diamidino-2-phenylindole (DAPI) staining revealed that complex 2 induces apoptosis much more effectively than 1.
+OI Malecki, Jan Grzegorz/0000-0001-5571-3196
+SN 2046-2069
+PY 2015
+VL 5
+IS 125
+BP 103321
+EP 103342
+DI 10.1039/c5ra18568h
+UT WOS:000366461000044
+ER
+
+PT J
+AU Henseleit, A
+   Pohl, C
+   Bley, T
+   Boschke, E
+AF Henseleit, A.
+   Pohl, C.
+   Bley, Th.
+   Boschke, E.
+TI Monitoring human serum albumin cell cultures using surface plasmon
+   resonance (SPR) spectroscopy
+SO JOURNAL OF SENSORS AND SENSOR SYSTEMS
+AB Continuously monitoring cell cultures is essential for both controlling critical parameters and improving understanding of key processes. An ideal technique in this context is surface plasmon resonance (SPR) spectroscopy, which essentially exploits changes in the angle of incident light that occur when molecules bind to a surface. It provides the ability to monitor real-time changes in small concentrations of various molecules, with no need for additional labels or sample preparation. Here we present an SPR-based immunoassay for monitoring concentrations of human serum albumin (HSA), and compare its sensitivity when used in conjunction with a Bi-acore platform and the cheaper, smaller liSPR system. In conjunction with either system, the immunoassay can detect HSA (a hepatocyte viability marker) at concentrations typically present in three-dimensional hepatocyte cultures mimicking the liver used to evaluate effects of drug candidates before exposure to humans or animals. Furthermore, in conjunction with the liSPR system, it is sufficiently sensitive to measure the much lower HSA levels present in skin-hepatocyte co-cultures.
+SN 2194-8771
+EI 2194-878X
+PY 2015
+VL 4
+IS 1
+BP 77
+EP 83
+DI 10.5194/jsss-4-77-2015
+UT WOS:000364051800010
+ER
+
+PT J
+AU Rotaru, M
+   Totoianu, IG
+   Sin, AI
+   Solovastru, LG
+AF Rotaru, Maria
+   Totoianu, Ioan Gheorghe
+   Sin, Anca Ileana
+   Solovastru, Laura Gheuca
+TI Study regarding the microscopic aspects of pilo-sebaceous units after
+   antiandrogen treatment in hirsute women
+SO ROMANIAN JOURNAL OF MORPHOLOGY AND EMBRYOLOGY
+AB Aim: To analyze the morphological data of pilo-sebaceous units in hirsute women before and 12 months after the antiandrogen treatment with Cyproterone acetate (CPA) 100 mg/day. Materials and Methods: Fourteen female patients with idiopathic hirsutism that followed an antiandrogen treatment with CPA were biopsied from the androgen-dependent area of the chin before and 12 months after the treatment. Routine sections were stained with Hematoxylin-Eosin, Masson, Van Gieson, Sirius red and picric-indigocarmine, while additional sections were immunostained for S100 protein and vimentin. Electron microscopy was performed in two cases with Langerhans cell hyperplasia. Results: On biopsies-stained sections, an increased number of hair follicles, the deeper part of the epithelial sheath of the hair follicle with epithelial buds, hyperplasia of sebaceous glands, and no inflammatory infiltrate were noticed. Langerhans cells identified with S100 protein and vimentin were normal in terms of numbers and distribution. After the administration of the treatment, atrophy of the pilo-sebaceous units was visible in nine (64.2%) cases, while inflammatory infiltrate and cells included in the vacuoles of the basal layer of the epidermis became apparent. In six of the cases treated with antiandrogens, a marked hyperplasia of Langerhans cells was noticed. In conclusion, the benefit of antiandrogen treatments is supported by atrophy of the hair follicle and the sebaceous glands. The activation of Langerhans cells associated with inflammatory infiltrate in the dermis and hair follicles could be considered as a local consequence of the involution process of hair follicles after the administration of the treatment.
+SN 1220-0522
+PY 2015
+VL 56
+IS 1
+BP 63
+EP 69
+UT WOS:000351952600008
+PM 25826488
+ER
+
+PT J
+AU Jung, SK
+   Ha, SJ
+   Kim, YA
+   Lee, JH
+   Lim, TG
+   Kim, YT
+   Lee, NH
+   Park, JS
+   Yeom, MH
+   Lee, HJ
+   Lee, KW
+AF Jung, Sung Keun
+   Ha, Su Jeong
+   Kim, Yeong A.
+   Lee, Jihoon
+   Lim, Tae-Gyu
+   Kim, Yun Tai
+   Lee, Nam Hyouck
+   Park, Jun Seong
+   Yeom, Myeong-Hun
+   Lee, Hyong Joo
+   Lee, Ki Won
+TI MLK3 is a novel target of dehydroglyasperin D for the reduction in
+   UVB-induced COX-2 expression in vitro and in vivo
+SO JOURNAL OF CELLULAR AND MOLECULAR MEDICINE
+AB Dehydroglyasperin D (DHGA-D), a compound present in licorice, has been found to exhibit anti-obesity, antioxidant and anti-aldose reductase effects. However, the direct molecular mechanism and molecular targets of DHGA-D during skin inflammation remain unknown. In the present study, we investigated the effect of DHGA-D on inflammation and its mechanism of action on UVB-induced skin inflammation in HaCaT human keratinocytes and SKH-1 hairless mice. DHGA-D treatment strongly suppressed UVB-induced COX-2 expression, PGE2 generation and AP-1 transactivity in HaCaT cells without affecting cell viability. DHGA-D also inhibited phosphorylation of the mitogen-activated protein kinase kinase (MKK) 3/6/p38, MAPK/Elk-1, MKK4/c-Jun N-terminal kinase (JNK) 1/2/c-Jun/mitogen, and stress-activated protein kinase (MSK), whereas phosphorylation of the mixed-lineage kinase (MLK) 3 remained unaffected. Kinase and co-precipitation assays with DHGA-D Sepharose 4B beads showed that DHGA-D significantly suppressed MLK3 activity through direct binding to MLK3. Knockdown of MLK3 suppressed COX-2 expression as well as phosphorylation of MKK4/p38 and MKK3/6/JNK1/2 in HaCaT cells. Furthermore, Western blot assay and immunohistochemistry results showed that DHGA-D pre-treatment significantly inhibits UVB-induced COX-2 expression in vivo. Taken together, these results indicate that DHGA-D may be a promising anti-inflammatory agent that mediates suppression of both COX-2 expression and the MLK3 signalling pathway through direct binding and inhibition of MLK3.
+SN 1582-4934
+PD JAN
+PY 2015
+VL 19
+IS 1
+BP 135
+EP 142
+DI 10.1111/jcmm.12311
+UT WOS:000346981200014
+PM 25176057
+ER
+
+EF

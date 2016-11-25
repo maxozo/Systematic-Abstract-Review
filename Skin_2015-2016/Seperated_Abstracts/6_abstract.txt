@@ -1,0 +1,40 @@
+AU Kuhlenhoelter, AM
+   Kim, K
+   Neff, D
+   Nie, YH
+   Maize, AN
+   Wong, BJ
+   Kuang, SH
+   Stout, J
+   Song, QF
+   Gavin, TP
+   Roseguini, BT
+AF Kuhlenhoelter, Alisha M.
+   Kim, Kyoungrae
+   Neff, Dustin
+   Nie, Yaohui
+   Maize, A. Nicole
+   Wong, Brett J.
+   Kuang, Shihuan
+   Stout, Julianne
+   Song, Qifan
+   Gavin, Timothy P.
+   Roseguini, Bruno T.
+TI Heat therapy promotes the expression of angiogenic regulators in human
+   skeletal muscle
+SO AMERICAN JOURNAL OF PHYSIOLOGY-REGULATORY INTEGRATIVE AND COMPARATIVE
+   PHYSIOLOGY
+AB Heat therapy has been shown to promote capillary growth in skeletal muscle and in the heart in several animal models, but the effects of this therapy on angiogenic signaling in humans are unknown. We evaluated the acute effect of lower body heating (LBH) and unilateral thigh heating (TH) on the expression of angiogenic regulators and heat shock proteins (HSPs) in healthy young individuals. Exposure to LBH (n = 18) increased core temperature (T-c) from 36.9 +/- 0.1 to 37.4 +/- 0.1 degrees C (P < 0.01) and average leg skin temperature (T-leg) from 33.1 +/- 0.1 to 39.6 +/- 0.1 degrees C (P < 0.01), but did not alter the levels of circulating angiogenic cytokines and bone marrow-derived proangiogenic cells (CD34(+)CD133(+)). In skeletal muscle, the change in mRNA expression from baseline of vascular endothelial growth factor (VEGF), angiopoietin 2 (ANGPT2), chemokines CCL2 and CX3CL1, platelet factor-4 (PF4), and several members of the HSP family was higher 30 min after the intervention in the individuals exposed to LBH (n = 11) compared with the control group (n = 12). LBH also reduced the expression of transcription factor FOXO1 (P < 0.03). Exposure to TH (n = 14) increased T-leg from 32.8 +/- 0.2 to 40.3 +/- 0.1 degrees C (P < 0.05) but T-c remained unaltered (36.8 +/- 0.1 degrees C at baseline and 36.9 +/- 0.1 degrees C at 90 min). This intervention upregulated the expression of VEGF, ANGPT1, ANGPT2, CCL2, and HSPs in skeletal muscle but did not affect the levels of CX3CL1, FOXO-1, and PF4. These findings suggest that both LBH and TH increase the expression of factors associated with capillary growth in human skeletal muscle.
+SN 0363-6119
+EI 1522-1490
+PD AUG 1
+PY 2016
+VL 311
+IS 2
+BP R377
+EP R391
+DI 10.1152/ajpregu.00134.2016
+UT WOS:000384770100019
+PM 27357800
+ER
+

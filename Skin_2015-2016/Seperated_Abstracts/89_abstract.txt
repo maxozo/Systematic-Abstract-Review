@@ -1,0 +1,30 @@
+AU Park, SL
+   Justiniano, R
+   Williams, JD
+   Cabello, CM
+   Qiao, SX
+   Wondrak, GT
+AF Park, Sophia L.
+   Justiniano, Rebecca
+   Williams, Joshua D.
+   Cabello, Christopher M.
+   Qiao, Shuxi
+   Wondrak, Georg T.
+TI The Tryptophan-Derived Endogenous Aryl Hydrocarbon Receptor Ligand
+   6-Formylindolo[3,2-b]Carbazole Is a Nanomolar UVA Photosensitizer in
+   Epidermal Keratinocytes
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+AB Endogenous UVA chromophores may act as sensitizers of oxidative stress underlying cutaneous photoaging and photocarcinogenesis, but the molecular identity of non-DNA key chromophores displaying UVA-driven photodyamic activity in human skin remains largely undefined. Here we report that 6-formylindolo[3,2b] carbazole (FICZ), a tryptophan photoproduct and endogenous high-affinity aryl hydrocarbon receptor (AhR) agonist, acts as a nanomolar photosensitizer potentiating UVA-induced oxidative stress irrespective of AhR ligand activity. In human HaCaT and primary epidermal keratinocytes, photodynamic induction of apoptosis was elicited by the combined action of solar-simulated UVA and FICZ, whereas exposure to the isolated action of UVA or FICZ did not impair viability. In a human epidermal tissue reconstruct, FICZ/UVA cotreatment caused pronounced phototoxicity inducing keratinocyte cell death, and FICZ photodynamic activity was also substantiated in a murine skin exposure model. Array analysis revealed pronounced potentiation of cellular heat shock, endoplasmic reticulum stress, and oxidative stress response gene expression observed only upon FICZ/UVA cotreatment. FICZ photosensitization caused intracellular oxidative stress, and comet analysis revealed introduction of formamidopyrimidine-DNA glycosylase (Fpg)-sensitive oxidative DNA lesions suppressible by antioxidant cotreatment. Taken together, our data demonstrate that the endogenous AhR ligand FICZ displays nanomolar photodynamic activity representing a molecular mechanism of UVA-induced photooxidative stress potentially operative in human skin.
+SN 0022-202X
+EI 1523-1747
+PD JUN
+PY 2015
+VL 135
+IS 6
+BP 1649
+EP 1658
+DI 10.1038/jid.2014.503
+UT WOS:000354389200026
+PM 25431849
+ER
+

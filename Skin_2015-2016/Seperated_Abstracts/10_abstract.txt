@@ -1,0 +1,34 @@
+AU Chan, W
+   Ismail, H
+   Mayaki, D
+   Sanchez, V
+   Tiedemann, K
+   Davis, EC
+   Hussain, SNA
+AF Chan, Wilson
+   Ismail, Hodan
+   Mayaki, Dominique
+   Sanchez, Veronica
+   Tiedemann, Kerstin
+   Davis, Elaine C.
+   Hussain, Sabah N. A.
+TI Fibulin-5 Regulates Angiopoietin-1/Tie-2 Receptor Signaling in
+   Endothelial Cells
+SO PLOS ONE
+AB Background
+   Fibulin-5 is an extracellular matrix glycoprotein that plays critical roles in vasculogenesis and embryonic development. Deletion of Fibulin-5 in mice results in enhanced skin vascularization and upregulation of the angiogenesis factor angiopoietin-1 (Ang-1), suggesting that Fibulin-5 functions as an angiogenesis inhibitor. In this study, we investigate the inhibitory effects of Fibulin-5 on Ang-1/TIE-2 receptor pathway signaling and cell survival in human endothelial cells.
+   Methodology/Principal Findings
+   Recombinant wild-type and RGE-mutant Fibulin-5 proteins were generated through stable transfection of HEK293 and CHO cells, respectively. In vitro solid phase binding assays using pure proteins revealed that wild-type Fibulin-5 does not bind to Ang-1 or TIE-2 proteins but strongly binds to heparin. Binding assays using human umbilical vein endothelial cells (HUVECs) indicated that wild-type Fibulin-5 strongly binds to cells but RGE-mutant Fibulin-5, which is incapable of binding to integrins, does not. Pre-incubation of HUVECs for 1 hr with Fibulin-5 significantly increased caspase 3/7 activity, ERK1/2 phosphorylation, and expressions of the transcription factor early growth response 1 (EGR1) and the dual-specificity phosphatase 5 (DUSP5). Fibulin-5 also strongly attenuated Ang-1-induced TIE-2 and AKT phosphorylation, decreased Ang-1-induced expressions of the transcription factors Inhibitor of DNA Binding 1 (ID1) and Kruppel-like Factor 2 (KLF2), and reversed the inhibitory effect of Ang-1 on serum deprivation-induced cytotoxicity and caspase 3/7 activity.
+   Conclusion/Significance
+   We conclude that Fibulin-5 strongly binds to the endothelial cell surface through heparinsulfate proteoglycans and possibly integrins and that it exerts strong anti-angiogenic effects by reducing endothelial cell viability and interfering with the signaling pathways of the Ang1/TIE-2 receptor axis.
+SN 1932-6203
+PD JUN 15
+PY 2016
+VL 11
+IS 6
+AR e0156994
+DI 10.1371/journal.pone.0156994
+UT WOS:000377824800032
+PM 27304216
+ER
+

@@ -1,0 +1,28 @@
+AU Hong, CH
+   Lee, CH
+   Yu, HS
+   Huang, SK
+AF Hong, Chien-Hui
+   Lee, Chih-Hung
+   Yu, Hsin-Su
+   Huang, Shau-Ku
+TI Benzopyrene, a major polyaromatic hydrocarbon in smoke fume, mobilizes
+   Langerhans cells and polarizes Th2/17 responses in epicutaneous protein
+   sensitization through the aryl hydrocarbon receptor
+SO INTERNATIONAL IMMUNOPHARMACOLOGY
+AB Background: Atopic dermatitis (AD) is a common disease with genetic and environmental interactions. We previously reported lifetime exposure to cigarette smoke is associated with adult-onset AD. Aryl hydrocarbon receptor (AhR) is important in regulating environmental exposure to xenobiotics, including benzopyrenes (BP), a major polycyclic aromatic hydrocarbon (PAH) present in cigarette smoke. However, how AhR regulates immune responses in sensitization phase of AD remained elusive.
+   Methods: We investigated how BP affects epicutaneous sensitization response through AhR axis. We compared AhR expression in skin from AD patients and healthy controls. We measured immune responses (Langerhans cell migration and T cell polarization in epicutaneous Ova sensitization in mice with or without AhR defect.
+   Results: We found AhR and ARNT (AhR nuclear translocator) are upregulated in AD skin. BP exposure increases Langerhans cell migration, and increases IL-5, IL-13, and IL-17 levels when lymph node cells were re-challenged with Ova. The increased cytokine levels were attenuated in AhR defected mice. AhR agonists (BP and ITE) decreased E-cadherin expression, while AhR antagonist (CH223191) increased it in human primary keratinocytes.
+   Conclusions: These results suggested AhR interacts with BP to polarize T cell responses, along with Langerhans cell migration. This study revealed a regulatory mechanism how cigarette smoking affects atopic sensitization through the benzopyrene-AhR interaction. (C) 2016 Elsevier B.V. All rights reserved.
+SN 1567-5769
+EI 1878-1705
+PD JUL
+PY 2016
+VL 36
+BP 111
+EP 117
+DI 10.1016/j.intimp.2016.04.017
+UT WOS:000378453300015
+PM 27129092
+ER
+

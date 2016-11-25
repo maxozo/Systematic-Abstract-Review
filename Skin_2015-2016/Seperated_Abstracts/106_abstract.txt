@@ -1,0 +1,25 @@
+AU Le Provost, GS
+   Pullar, CE
+AF Le Provost, Gabrielle S.
+   Pullar, Christine E.
+TI beta 2-Adrenoceptor Activation Modulates Skin Wound Healing Processes to
+   Reduce Scarring
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+AB During wound healing, excessive inflammation, angiogenesis, and differentiated human dermal fibroblast (HDF) function contribute to scarring, whereas hyperpigmentation negatively affects scar quality. Over 100 million patients heal with a scar every year. To investigate the role of the beta 2 adrenergic receptor (beta 2AR) in wound scarring, the ability of beta 2 adrenergic receptor agonist (beta 2ARag) to alter HDF differentiation and function, wound inflammation, angiogenesis, and wound scarring was explored in HDFs, zebrafish, chick chorioallantoic membrane assay (CAM), and a porcine skin wound model, respectively. Here we identify a PAR-mediated mechanism for scar reduction. beta 2ARag significantly reduced HDF differentiation, via multiple cAMP and/or fibroblast growth factor 2 or basic FGF (FGF2)-dependent mechanisms, in the presence of transforming growth factor beta beta 1, reduced contractile function, and inhibited mRNA expression of a number of profibrotic markers. beta 2ARag also reduced inflammation and angiogenesis in zebrafish and CAMs in vivo, respectively. In Red Duroc pig full-thickness wounds, beta 2ARag reduced both scar area and hyperpigmentation by almost 50% and significantly improved scar quality. Indeed, mechanisms delineated in vitro and in other in vivo models were evident in the beta 2ARag-treated porcine scars in vivo. Both macrophage infiltration and angiogenesis were initially decreased, whereas DF function was impaired in the beta 2ARag-treated porcine wound bed. These data collectively reveal the potential of beta 2ARag to improve skin scarring.
+SN 0022-202X
+EI 1523-1747
+PD JAN
+PY 2015
+VL 135
+IS 1
+BP 279
+EP 288
+DI 10.1038/jid.2014.312
+UT WOS:000346225000034
+PM 25050597
+ER
+
+EF
+
+﻿FN Thomson Reuters Web of Science™
+VR 1.0

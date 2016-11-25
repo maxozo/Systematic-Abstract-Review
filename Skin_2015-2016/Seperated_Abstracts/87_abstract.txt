@@ -1,0 +1,37 @@
+AU Hu, F
+   Feng, AP
+   Liu, XX
+   Zhang, S
+   Xu, JT
+   Wang, X
+   Zhong, XL
+   He, MW
+   Chen, HX
+AF Hu, Feng
+   Feng, Ai-ping
+   Liu, Xin-xin
+   Zhang, Song
+   Xu, Jun-tao
+   Wang, Xin
+   Zhong, Xue-lian
+   He, Meng-wen
+   Chen, Hong-xiang
+TI Lipoxin A4 inhibits lipopolysaccharide-induced production of
+   inflammatory cytokines in keratinocytes by up-regulating SOCS2 and
+   down-regulating TRAF6
+SO JOURNAL OF HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY-MEDICAL
+   SCIENCES
+AB Liopxin A4 (LXA4) is considered to be a crucial modulator in the inflammatory responses. In the present study, we aimed to study the effect of LXA4 on the inflammatory cytokines production induced by lipopolysaccharide (LPS) and the possible mechanism in normal human epidermal keratinocytes (NHEKs). NHEKs were isolated and cultured. The expression of toll-like receptor 4 (TLR4), LXA4 receptor (ALXR) and aryl hydrocarbon receptor (AhR) in NHEKs was detected by reverse transcription polymerase chain reaction (RT-PCR). The mRNA and protein levels of tumor necrosis factor-alpha (TNF-alpha) and interleukin-1 beta (IL-1 beta) were determined in NHEKs stimulated by LPS (10 mu g/mL) with or without preincubation with LXA4 (100 nmol/L) for 30 min by real-time quantitative PCR (real-time qPCR) and enzyme-linked immunosorbent assay (ELISA), respectively. The expression levels of tumor necrosis factor receptor-associated factor 6 (TRAF6) and suppressors of cytokine signaling 2 (SOCS2) mRNAs and proteins, and nuclear translocation of NF-kB-p65 were measured by real-time qPCR and Western blotting, respectively. The results showed that NHEKs expressed TLR4, ALXR and AhR. LXA4 significantly inhibited the mRNA and protein expression levels of TNF-alpha, IL-1 beta and TRAF6 induced by LPS in NHEKs, and LXA4 obviously increased the expression of SOCS2 at mRNA and protein levels. The nuclear NF-kB-p65 protein expression induced by LPS was inhibited after preincubation with LXA4 in NHEKs. It was concluded that LXA4 inhibits the LPS-induced production of TNF-alpha and IL-1 beta in NHEKs by up-regulating SOCS2 and down-regulating TRAF6.
+SN 1672-0733
+EI 1993-1352
+PD JUN
+PY 2015
+VL 35
+IS 3
+BP 426
+EP 431
+DI 10.1007/s11596-015-1448-8
+UT WOS:000356160300018
+PM 26072084
+ER
+

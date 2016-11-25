@@ -1,0 +1,25 @@
+AU Kim, SH
+   Hwang, KA
+   Shim, SM
+   Choi, KC
+AF Kim, Seung-Hee
+   Hwang, Kyung-A
+   Shim, Soon-Mi
+   Choi, Kyung-Chul
+TI Growth and migration of LNCaP prostate cancer cells are promoted by
+   triclosan and benzophenone-1 via an androgen receptor signaling pathway
+SO ENVIRONMENTAL TOXICOLOGY AND PHARMACOLOGY
+AB Prostate cancer (PCa) is a global health concern in human males. Recently, it has been known that endocrine-disrupting chemicals (EDCs) may act as an exogenous factor to enhance cancer progression. Triclosan (TCS) and 2,4-dihydroxybenzophenone (BP-1) were reported to bioaccumulate in human bodies through the skin absorption. However, there has been insufficient evidence on the findings that the intervention of EDCs may promote the cancer progression in PCa. In the present study, to verify the risk of TCS and BP-1 to a PCa progression, cancer cell proliferation and migration were investigated in LNCaP PCa cells. TCS and BP-1 increased LNCaP cell proliferative activity and migration as did dihydrotestosterone (DHT). This phenomenon was reversed by the treatment with bicalutamide, a well known AR antagonist, suggesting that TCS and BP-1 acted as a xenoandrogen in LNCaP cells via AR signaling pathway by mimicking the action of DHT. A Western blot assay was performed to identify the alterations in the translational levels of cell growth-and metastasis-related markers, i.e., c-fos, cyclin E, p21, and cathepsin D genes. The expressions of genes related with G1/S transition of cell cycle and metastasis were increased by DHT, TCS, and BP-1, while the expression of p21 protein responsible for cell cycle arrest was reduced by DHT, TCS, and BP-1. Taken together, these results indicated that TCS and BP-1 may enhance the progression of PCa by regulating cell cycle and metastasis-related genes via AR signaling pathway. (C) 2015 Elsevier B.V. All rights reserved.
+SN 1382-6689
+EI 1872-7077
+PD MAR
+PY 2015
+VL 39
+IS 2
+BP 568
+EP 576
+DI 10.1016/j.etap.2015.01.003
+UT WOS:000353929900010
+PM 25682003
+ER
+

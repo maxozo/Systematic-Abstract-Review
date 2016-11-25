@@ -1,0 +1,28 @@
+AU Kim, EJ
+   Kim, YK
+   Kim, MK
+   Kim, S
+   Kim, JY
+   Lee, DH
+   Chung, JH
+AF Kim, Eun Ju
+   Kim, Yeon Kyung
+   Kim, Min-Kyoung
+   Kim, Sungsoo
+   Kim, Jin Yong
+   Lee, Dong Hun
+   Chung, Jin Ho
+TI UV-induced inhibition of adipokine production in subcutaneous fat
+   aggravates dermal matrix degradation in human skin
+SO SCIENTIFIC REPORTS
+AB Ultraviolet (UV) exposure to the human skin reduces triglycerides contents and lipid synthesis in the subcutaneous (SC) fat. Because adiponectin and leptin are the most abundant adipokines from the SC fat, we aim to investigate how they interact with UV exposure and skin aging. The expressions of adiponectin and leptin were significantly decreased in SC fat of sun-exposed forearm skin, in comparison with that of sun-protected buttock skin of the same elderly individuals, indicating that chronic UV exposure decreases both adipokines. Acute UV irradiation also decreased the expressions of adiponectin and leptin in SC fat. The expressions of adiponectin receptor 1/2 and leptin receptor were significantly decreased in the dermis as well as in SC fat. Moreover, while exogenous adiponectin and leptin administration prevented UV-and TNF-alpha induced matrix metalloproteinase (MMP)-1 expression, they also increased UV-and TNF-alpha induced reduction of type1 procollagen production. Silencing of adiponectin, leptin or their receptors led to an increased MMP-1 and a decreased type1 procollagen expression, which was reversed by treatment with recombinant human adiponectin or leptin. In conclusion, UV exposure decreases the expression of adiponectin and leptin, leading to the exacerbation of photoaging by stimulating MMP-1 expression and inhibiting procollagen synthesis.
+SN 2045-2322
+PD MAY 10
+PY 2016
+VL 6
+AR 25616
+DI 10.1038/srep25616
+UT WOS:000375440100001
+PM 27161953
+ER
+

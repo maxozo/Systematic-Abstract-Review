@@ -1,0 +1,205 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Kizhner, T
+   Azulay, Y
+   Hainrichson, M
+   Tekoah, Y
+   Arvatz, G
+   Shulman, A
+   Ruderfer, I
+   Aviezer, D
+   Shaaltiel, Y
+AF Kizhner, Tali
+   Azulay, Yaniv
+   Hainrichson, Mariana
+   Tekoah, Yoram
+   Arvatz, Gil
+   Shulman, Avidor
+   Ruderfer, Ilya
+   Aviezer, David
+   Shaaltiel, Yoseph
+TI Characterization of a chemically modified plant cell culture expressed
+   human alpha-Galactosidase-A enzyme for treatment of Fabry disease
+SO MOLECULAR GENETICS AND METABOLISM
+AB Fabry disease is an X-linked recessive disorder caused by the loss of function of the lysosomal enzyme alpha-Galactosidase-A. Although two enzyme replacement therapies (ERTs) are commercially available, they may not effectively reverse some of the Fabry pathology. PRX-102 is a novel enzyme for the therapy of Fabry disease expressed in a BY2 Tobacco cell culture. PRX-102 is chemically modified, resulting in a cross-linked homo-dimer. We have characterized the in-vitro and in-vivo properties of PRX-102 and compared the results with the two commercially produced alpha-Galactosidase-A enzymes. Results show that PRX-102 has prolonged in-vitro stability in plasma, after 1 h incubation it retains 30% activity compared with complete inactivation of the commercial enzymes. Under lysosomal-like conditions PRX-102 maintains over 80% activity following 10 days of incubation, while commercial enzymes become inactive after 2 days. Pharmacokinetic profile of PRX-102 measured in male Fabry mice shows a 10 fold increase in t(1/2) in mice (581 min) compared to approved drugs. The enzyme has significantly different kinetic parameters to the alternative ERTs available (p-value <0.05, one way ANOVA), although these differences do not indicate any significant biochemical variations. PRX-102 is uptaken to primary human Fabry fibroblasts. The repeat administration of the enzyme to Fabry mice caused significant reduction (p-value < 0.05) of Gb(3) in various tissues (the measured residual content was 64% in kidney, liver was cleaned, 23% in heart, 5.7% in skin and 16.2% in spleen). PRX-102 has a relatively simple glycosylation pattern, characteristic to plants, having mainly tri-mannose structures with the addition of either alpha(1-3)-linked fucose or beta(1-2)-linked xylose, or both, in addition to various high mannose structures, while agalsidase beta has a mixture of sialylated glycans in addition to high mannose structures. This study concludes that PRX-102 is equivalent in functionality to the current ERTs available, with superior stability and prolonged circulatory half-life. Therefore we propose that PRX-102 is a promising alternative for treatment of Fabry disease. (C) 2014 Protalix Ltd. Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/3.0/).
+SN 1096-7192
+EI 1096-7206
+PD FEB
+PY 2015
+VL 114
+IS 2
+BP 259
+EP 267
+DI 10.1016/j.ymgme.2014.08.002
+UT WOS:000348973100314
+PM 25155442
+ER
+
+PT J
+AU Takei, K
+   Mitoma, C
+   Hashimoto-Hachiya, A
+   Uchi, H
+   Takahara, M
+   Tsuji, G
+   Kido-Nakahara, M
+   Nakahara, T
+   Furue, M
+AF Takei, Kenjiro
+   Mitoma, Chikage
+   Hashimoto-Hachiya, Akiko
+   Uchi, Hiroshi
+   Takahara, Masakazu
+   Tsuji, Gaku
+   Kido-Nakahara, Makiko
+   Nakahara, Takeshi
+   Furue, Masutaka
+TI Antioxidant soybean tar Glyteer rescues T-helper-mediated downregulation
+   of filaggrin expression via aryl hydrocarbon receptor
+SO JOURNAL OF DERMATOLOGY
+AB Soybean tar Glyteer (Gly) has been widely used for the treatment of various inflammatory skin diseases in Japan since 1924 as an alternative to coal tar remedy. Recently, coal tar has been shown to induce barrier repair in atopic dermatitis via aryl hydrocarbon receptor (AhR). In this study, we demonstrated that Gly activated AhR by inducing its cytoplasmic to nuclear translocation in keratinocytes. The AhR ligation by Gly was biologically active, with significant and dose-dependent upregulation of CYP1A1 expression, which is a specific marker for AhR activation. Gly upregulated the expression of filaggrin in an AhR-dependent manner because its enhancing effect was completely abrogated in AhR-knockdown keratinocytes. T-helper (Th)2 cytokines inhibited the expression of filaggrin; however, Gly completely restored the Th2-mediated inhibition of filaggrin expression. Furthermore, Gly coordinately upregulated a series of epidermal differentiation complex genes, including involucrin, loricrin and hornerin. In addition, Gly exhibited potent antioxidant activity through the activation of nuclear factor-erythroid 2-related factor-2 (Nrf2) and downstream antioxidant enzymes such as NAD(P)H:quinone oxidoreductase 1 (Nqo1), which actually inhibited the generation of reactive oxygen species in keratinocytes treated with tumor necrosis factor- or benzo[]pyrene. In conclusion, antioxidant Gly rescues the downregulated expression of filaggrin (and plausibly other barrier proteins) in a Th2-skewed milieu via AhR activation, which may partly explain its empirical anti-inflammatory therapeutic effects.
+RI U-ID, Kyushu/C-5291-2016
+SN 0385-2407
+EI 1346-8138
+PD FEB
+PY 2015
+VL 42
+IS 2
+BP 171
+EP 180
+DI 10.1111/1346-8138.12717
+UT WOS:000348872800008
+PM 25482884
+ER
+
+PT J
+AU O'Leary, AP
+   Fox, JM
+   Pullar, CE
+AF O'Leary, Andrew P.
+   Fox, James M.
+   Pullar, Christine E.
+TI Beta-adrenoceptor Activation Reduces Both Dermal Microvascular
+   Endothelial Cell Migration via a cAMP-dependent Mechanism and Wound
+   Angiogenesis
+SO JOURNAL OF CELLULAR PHYSIOLOGY
+AB Angiogenesis is an essential process during tissue regeneration; however, the amount of angiogenesis directly correlates with the level of wound scarring. Angiogenesis is lower in scar-free foetal wounds while angiogenesis is raised and abnormal in pathophysiological scarring such as hypertrophic scars and keloids. Delineating the mechanisms that modulate angiogenesis and could reduce scarring would be clinically useful. Beta-adrenoceptors (beta-AR) are G protein-coupled receptors (GPCRs) expressed on all skin cell-types. They play a role in wound repair but their specific role in angiogenesis is unknown. In this study, a range of in vitro assays (single cell migration, scratch wound healing, ELISAs for angiogenic growth factors and tubule formation) were performed with human dermal microvascular endothelial cells (HDMEC) to investigate and dissect mechanisms underpinning beta-AR-mediated modulation of angiogenesis in chick chorioallantoic membranes (CAM) and murine excisional skin wounds. beta-AR activation reduced HDMEC migration via cyclic adenosine monophosphate (cAMP)-dependent and protein kinase A (PKA)-independent mechanisms as demonstrated through use of an EPAC agonist that auto-inhibited the cAMP-mediated beta-AR transduced reduction in HDMEC motility; a PKA inhibitor was, conversely, ineffective. ELISA studies demonstrated that beta-AR activation reduced pro-angiogenic growth factor secretion from HDMECs (fibroblast growth factor 2) and keratinocytes (vascular endothelial growth factor A) revealing possible beta-AR-mediated autocrine and paracrine anti-angiogenic mechanisms. In more complex environments, beta-AR activation delayed HDMEC tubule formation and decreased angiogenesis both in the CAM assay and in murine excisional skin wounds in vivo. beta-AR activation reduced HDMEC function in vitro and angiogenesis in vivo; therefore, beta-AR agonists could be promising anti-angiogenic modulators in skin. (C) 2014 The Authors. Journal of Cellular Physiology Published by Wiley Periodicals, Inc.
+OI Fox, James/0000-0002-2473-7029
+SN 0021-9541
+EI 1097-4652
+PD FEB
+PY 2015
+VL 230
+IS 2
+BP 356
+EP 365
+DI 10.1002/jcp.24716
+UT WOS:000344374300014
+PM 24986762
+ER
+
+PT J
+AU Noakes, R
+AF Noakes, Rowland
+TI The Aryl Hydrocarbon Receptor: A Review of Its Role in the Physiology
+   and Pathology of the Integument and Its Relationship to the Tryptophan
+   Metabolism
+SO INTERNATIONAL JOURNAL OF TRYPTOPHAN RESEARCH
+AB The aryl hydrocarbon receptor (AHR) is a cytosolic receptor for low molecular weight molecules, of which the most widely recognized ligand is 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), and the most widely recognized effect, chloracne. Adverse effects of manipulation were most recently and graphically demonstrated by the poisoning of Viktor Yushchenko during the Ukrainian presidential elections of 2004. However, recent research has revealed a receptor with wide ranging, and at times, paradoxical actions. It was arguably among the first biological receptors to be utilized by dermatologists, dating from the time of topical tar preparations as a theraputic agent. I provide a review outlining the role AHR plays in the development, cellular oxidation/antioxidation, responses to ultraviolet light, melanogenesis, epidermal barrier function, and immune regulation and its relationship to tryptophan metabolism. Finally, I will review the role of AHR in diseases of the integument.
+SN 1178-6469
+PY 2015
+VL 8
+BP 7
+EP 18
+DI 10.4137/1JTR.S19985
+UT WOS:000365138900001
+PM 25733915
+ER
+
+PT J
+AU Fabbrocini, G
+   Kaya, G
+   Silverio, PC
+   De Vita, V
+   Kaya, A
+   Fontao, F
+   Sorg, O
+   Saurat, JH
+AF Fabbrocini, Gabriella
+   Kaya, Giirkan
+   Silverio, Patricia Caseiro
+   De Vita, Valerio
+   Kaya, Aysin
+   Fontao, Fabienne
+   Sorg, Olivier
+   Saurat, Jean-Hilaire
+TI Aryl Hydrocarbon Receptor Activation in Acne Vulgaris Skin: A Case
+   Series from the Region of Naples, Italy
+SO DERMATOLOGY
+AB Background: Dioxins are persistent organic pollutants present in the environment. They exert their biological effects by binding to an intracellular receptor, the aryl hydrocarbon receptor (AhR). Activation of AhR leads to the induction of cytochrome p450 1A1 (CYP1A1). Expression of CYP1A1 in human skin is a key marker for AhR activation, and it may induce comedogenesis resulting in acne-like lesions known as chloracne/metabolising acquired dioxin-induced skin hamartonnas (MADISH). The contribution of this pathway in patients seen in a busy acne clinic is unknown. Materials and Methods: We explored the expression of CYP1A1 by immunohistochemistry in the acne lesions of 16 patients living in the region of Naples, Italy, where epidemiological studies have suggested a possibly increased exposure to environmental dioxins. A composite score to outline potential components of the chloracne/MADISH histological pattern was used. Results: CYP1A1 expression was observed in 11 lesions (69%) and was distributed in sebaceous glands, follicular epithelium, cystic wall and endothelial cells. The histological score for chloracne/MADISH was 'likely' in 3 cases and 'possible' in 11 cases. Compared to current data on CYP1A1 expression in the skin of 67 patients with proven exposure to AhR agonists, these data indicate a high incidence of AhR activation in this series. Conclusion: This is the first study analysing AhR activation in skin in a series of patients from a hospital-based acne clinic. It provides information for future controlled prospective studies. The significance of CYP1A1 expression in terms of AhR ligand exposure is discussed. (C) 2015 S. Karger AG, Basel
+SN 1018-8665
+EI 1421-9832
+PY 2015
+VL 231
+IS 4
+BP 334
+EP 338
+DI 10.1159/000439402
+UT WOS:000364602500012
+PM 26440531
+ER
+
+PT J
+AU Soares, AS
+   Costa, VM
+   Diniz, C
+   Fresco, P
+AF Soares, Ana Sofia
+   Costa, Vera Marisa
+   Diniz, Carmen
+   Fresco, Paula
+TI Inosine Strongly Enhances Proliferation of Human C32 Melanoma Cells
+   through PLC-PKC-MEK1/2-ERK1/2 and PI3K Pathways
+SO BASIC & CLINICAL PHARMACOLOGY & TOXICOLOGY
+AB Malignant melanoma is the most deadly type of skin cancer. The lack of effective pharmacological approaches for this tumour can be related to the incomplete understanding of the pathophysiological mechanisms involved in melanoma cell proliferation. Adenosine has growth-promoting and growth inhibitory effects on tumour cells. We aimed to investigate effects of adenosine and its metabolic product, inosine, on human C32 melanoma cells and the signalling pathways involved. The 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide (MTT) reduction and bromodeoxyuridine (BrdU) proliferation assays were used to evaluate adenosine, adenosine deaminase and inosine effects, in the absence or presence of adenosine receptor (AR), A(3)AR and P2Y(1)R antagonists and PLC, PKC, MEK1/2 and PI3K inhibitors. ERK1/2 levels were determined using an ELISA kit. Adenosine and inosine levels were quantified using an enzyme-coupled assay. Adenosine caused cell proliferation through AR activation. Adenosine deaminase increased inosine levels (nanomolar concentrations) on the extracellular space, in a time-dependent manner, inducing proliferation through A(3)AR activation. Micromolar concentrations of inosine enhanced proliferation through A(3)AR activation, causing an increase in ERK1/2 levels, and P2Y(1)R activation via ENT-dependent mechanisms. We propose the simultaneous activation of PLC-PKC-MEK1/2-ERK1/2 and PI3K pathways as the main mechanism responsible for the proliferative effect elicited by inosine and its significant role in melanoma cancer progression.
+RI Diniz, Carmen/D-6293-2013; Costa, Vera/D-6284-2013; Fresco,
+   Paula/D-4845-2013; 
+OI Diniz, Carmen/0000-0003-4668-9360; Costa, Vera/0000-0002-0471-2756;
+   Fresco, Paula/0000-0001-6705-7798; Soares, Ana/0000-0002-9577-6498
+SN 1742-7835
+EI 1742-7843
+PD JAN
+PY 2015
+VL 116
+IS 1
+BP 25
+EP 36
+DI 10.1111/bcpt.12280
+UT WOS:000346911100006
+PM 24909096
+ER
+
+PT J
+AU Le Provost, GS
+   Pullar, CE
+AF Le Provost, Gabrielle S.
+   Pullar, Christine E.
+TI beta 2-Adrenoceptor Activation Modulates Skin Wound Healing Processes to
+   Reduce Scarring
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+AB During wound healing, excessive inflammation, angiogenesis, and differentiated human dermal fibroblast (HDF) function contribute to scarring, whereas hyperpigmentation negatively affects scar quality. Over 100 million patients heal with a scar every year. To investigate the role of the beta 2 adrenergic receptor (beta 2AR) in wound scarring, the ability of beta 2 adrenergic receptor agonist (beta 2ARag) to alter HDF differentiation and function, wound inflammation, angiogenesis, and wound scarring was explored in HDFs, zebrafish, chick chorioallantoic membrane assay (CAM), and a porcine skin wound model, respectively. Here we identify a PAR-mediated mechanism for scar reduction. beta 2ARag significantly reduced HDF differentiation, via multiple cAMP and/or fibroblast growth factor 2 or basic FGF (FGF2)-dependent mechanisms, in the presence of transforming growth factor beta beta 1, reduced contractile function, and inhibited mRNA expression of a number of profibrotic markers. beta 2ARag also reduced inflammation and angiogenesis in zebrafish and CAMs in vivo, respectively. In Red Duroc pig full-thickness wounds, beta 2ARag reduced both scar area and hyperpigmentation by almost 50% and significantly improved scar quality. Indeed, mechanisms delineated in vitro and in other in vivo models were evident in the beta 2ARag-treated porcine scars in vivo. Both macrophage infiltration and angiogenesis were initially decreased, whereas DF function was impaired in the beta 2ARag-treated porcine wound bed. These data collectively reveal the potential of beta 2ARag to improve skin scarring.
+SN 0022-202X
+EI 1523-1747
+PD JAN
+PY 2015
+VL 135
+IS 1
+BP 279
+EP 288
+DI 10.1038/jid.2014.312
+UT WOS:000346225000034
+PM 25050597
+ER
+
+EF

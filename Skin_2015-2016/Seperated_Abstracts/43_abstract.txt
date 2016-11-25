@@ -1,0 +1,47 @@
+AU Kamide, Y
+   Ishizuka, T
+   Tobo, M
+   Tsurumaki, H
+   Aoki, H
+   Mogi, C
+   Nakakura, T
+   Yatomi, M
+   Ono, A
+   Koga, Y
+   Sato, K
+   Hisada, T
+   Dobashi, K
+   Yamada, M
+   Okajima, F
+AF Kamide, Yosuke
+   Ishizuka, Tamotsu
+   Tobo, Masayuki
+   Tsurumaki, Hiroaki
+   Aoki, Haruka
+   Mogi, Chihiro
+   Nakakura, Takashi
+   Yatomi, Masakiyo
+   Ono, Akihiro
+   Koga, Yasuhiko
+   Sato, Koichi
+   Hisada, Takeshi
+   Dobashi, Kunio
+   Yamada, Masanobu
+   Okajima, Fumikazu
+TI Acidic environment augments Fc epsilon RI-mediated production of IL-6
+   and IL-13 in mast cells
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+AB Although blood pH is maintained in a narrow range of around pH 7.4 in living organisms, inflammatory loci are characterized by acidic conditions. Mast cells tend to reside close to the surface of the body in areas such as the mucosa and skin where they may be exposed to exogenous acids, and they play an important role in immune responses. However, little is known about the effects of extracellular acidification on the functions of mast cell. Here, we found that extracellular acidification increased the dinitrophenyl-conjugated human serum albumin (DNP-HSA)-induced production of interleukin (IL)-6 and IL-13 in MC/9 cells or bone marrow-derived mouse mast cells sensitized with anti-DNP IgE. Extracellular acidification also inhibited migration of MC/9 cells toward DNP-HSA. In addition, acidic pH stimulated antigen-induced activation of p38 mitogen-activated protein kinase (MAPK) and protein kinase B (Akt). These findings suggest that extracellular acidification augmented antigen/IgE-induced and FceRl-mediated production of IL-6 and IL-13 in mast cells, and that this was associated with the enhancement of p38 MAPK and Akt activation. (C) 2015 Elsevier Inc. All rights reserved.
+SN 0006-291X
+EI 1090-2104
+PD AUG 28
+PY 2015
+VL 464
+IS 3
+BP 949
+EP 955
+DI 10.1016/j.bbrc.2015.07.077
+UT WOS:000359881900042
+PM 26196745
+ER
+

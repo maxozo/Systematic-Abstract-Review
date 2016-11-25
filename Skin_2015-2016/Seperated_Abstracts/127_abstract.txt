@@ -1,0 +1,26 @@
+AU Han, SY
+   Choi, YJ
+   Kang, MK
+   Park, JHY
+   Kang, YH
+AF Han, Seon-Young
+   Choi, Yean-Jung
+   Kang, Min-Kyung
+   Park, Jung Han Yoon
+   Kang, Young-Hee
+TI Resveratrol Suppresses Cytokine Production Linked to Fc epsilon RI-MAPK
+   Activation in IgE-Antigen Complex-Exposed Basophilic Mast Cells and Mice
+SO AMERICAN JOURNAL OF CHINESE MEDICINE
+AB A complicated interplay between resident mast cells and other recruited inflammatory cells contributes to the development and progression of allergic inflammation entailing the promotion of T helper 2 (Th2) cytokine responses. The current study examined whether resveratrol suppressed the production of inflammatory Th2 cytokines in cultured rat basophilic leukemia RBL-2H3 cells. Cells pre-treated with resveratrol nontoxic at 1-25 mu M were sensitized with anti-dinitrophenyl (anti-DNP), and subsequently stimulated by dinitrophenyl-human serum albumin (DNP-HSA) antigen. Resveratrol dose-dependently diminished the secretion of interleukin (IL)-3, IL-4, IL-13 as well as tumor necrosis factor (TNF)-alpha by the antigen stimulation from sensitized cells. It was found that resveratrol mitigated the phosphorylation of p38 MAPK, ERK, and JNK elevated in mast cells exposed to Fc epsilon receptor I (Fc epsilon RI)-mediated immunoglobulin E (IgE)-antigen complex. The FceRI aggregation was highly enhanced on the surface of mast cells following the HSA stimulation, which was retarded by treatment with 1-25 mu M resveratrol. The IgE-receptor engagement rapidly induced tyrosine phosphorylation of c-Src-related focal adhesion protein paxillin involved in the cytoskeleton rearrangement. The Fc epsilon RI-mediated rapid activation of c-Src and paxillin was attenuated in a dose-dependent manner. In addition, the paxillin activation entailed p38 MAPK and ERK-responsive signaling, but the JNK activation was less involved. Consistently, oral administration of resveratrol reduced the tissue level of phosphorylated paxillin in the dorsal skin of DNP-HSA-challenged mice. The other tyrosine kinase Tyk2-STAT1 signaling was activated in the dorsal epidermis of antigen-exposed mice, which was associated with allergic inflammation. These results showed that resveratrol inhibited Th2 cytokines- and paxillin-linked allergic responses dependent upon MAPK signaling. Therefore, resveratrol may possess the therapeutic potential of targeting mast cells in preventing the development of allergic inflammation.
+SN 0192-415X
+EI 1793-6853
+PY 2015
+VL 43
+IS 8
+BP 1605
+EP 1623
+DI 10.1142/S0192415X15500913
+UT WOS:000367748100007
+PM 26621445
+ER
+

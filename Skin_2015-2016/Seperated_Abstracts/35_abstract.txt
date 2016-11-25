@@ -1,0 +1,29 @@
+AU Guo, JN
+   Xu, QM
+   Zheng, ZQ
+   Zhou, SB
+   Mao, HL
+   Wang, B
+   Yan, F
+AF Guo, Jiangna
+   Xu, Qiming
+   Zheng, Zhiqiang
+   Zhou, Shengbo
+   Mao, Hailei
+   Wang, Bin
+   Yan, Feng
+TI Intrinsically Antibacterial Poly(ionic liquid) Membranes: The
+   Synergistic Effect of Anions
+SO ACS MACRO LETTERS
+AB The development of materials with intrinsically antimicrobial activities has attracted great interest. Herein, we report the synthesis of free-standing and robust poly(ionic liquid) (Pit) membranes with high antibacterial activities by in situ photo-cross-linking of an ionic liquid monomer and followed by anion-exchange with an amino acid (L-proline (Pro) or L-tryptophan (Trp)). The resultant PIL-based membranes with excellent robustness exhibit high antimicrobial properties against both Gram-negative Escherichia coli (E. coli) and Gram-positive Staphylococcus aureus (S. aureus) and present no significant hemolysis and cytotoxicity toward human red blood and skin fibroblast cells, as well as low adsorption of bovine serum albumin. The synthesized PIL-Trp membranes exhibit the highest antibacterial efficiency due to the synergistic attributes of both imidazolium cation and Trp(-) anion. Furthermore, all the PIL-based membranes exhibit long-term antibacterial stability, which demonstrates clinical feasibility in topical applications.
+SN 2161-1653
+PD OCT
+PY 2015
+VL 4
+IS 10
+BP 1094
+EP 1098
+DI 10.1021/acsmacrolett.5b00609
+UT WOS:000363365000008
+ER
+

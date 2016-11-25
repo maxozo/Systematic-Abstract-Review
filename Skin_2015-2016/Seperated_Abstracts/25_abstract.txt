@@ -1,0 +1,37 @@
+AU Zhang, YQ
+   Ji, SZ
+   Fang, H
+   Zheng, YJ
+   Luo, PF
+   Wu, HB
+   Wu, MJ
+   Wang, ZH
+   Xiao, SC
+   Xia, ZF
+AF Zhang, Yun-qing
+   Ji, Shi-zhao
+   Fang, He
+   Zheng, Yong-jun
+   Luo, Peng-fei
+   Wu, Hai-bin
+   Wu, Min-juan
+   Wang, Zhi-hong
+   Xiao, Shi-chu
+   Xia, Zhao-fan
+TI Use of Amniotic Microparticles Coated With Fibroblasts Overexpressing
+   SDF-1 alpha to Create an Environment Conducive to Neovascularization for
+   Repair of Full-Thickness Skin Defects
+SO CELL TRANSPLANTATION
+AB As angiogenesis and vasculogenesis involve the complex network structures of various types of cells, extracellular matrix components, and cytokines, it is still difficult to exactly mimic the microenvironment of vascularization in vivo. In our study, we constructed a complex containing highly proliferative fibroblasts that can secrete extracellular matrix components and growth factors to chemotaxize endothelial progenitor cells (EPCs) in an attempt to create an ideal microenvironment for quick vascularization. Amniotic membrane microparticles (mAM) rich in type IV collagen (COL IV) and laminin (LN) were prepared, and human dermal fibroblasts (HDF) were infected with lentivirus (LV) of overexpression of SDF-1 alpha to construct SDF-1 alpha(HDF)-H-ov. Using the rotary cell culture system (RCCS), mAM was loaded with HDF or SDF-1 alpha(HDF)-H-ov to construct HDF-mAM and SDF-1 alpha(HDF)-H-ov-mAM complexes. The complexes were able to secrete various types of active peptides (IL-6, IL-8, TGF-beta, and bFGF) during in vitro culture. In addition, SDF-1 alpha(HDF)-H-ov-mAM complex highly expressed SDF-1 alpha. Transwell assay showed SDF-1 alpha(HDF)-H-ov-mAM complex had an apparent chemotactic effect on EPCs. Transplantation of complexes onto full-thickness skin defects of C57BL mice further demonstrated that SDF-1 alpha expression and the number of peripheral EPCs at days 3, 5, and 7 in the SDF-1 alpha(HDF)-H-ov-mAM group were significantly higher than that in other groups (p < 0.01). The local microvascular density at day 10 of transplantation showed that the microvascular density in the SDF-1 alpha(HDF)-H-ov-mAM group was significantly higher than that in HDF-mAM group (p < 0.01). In conclusion, HDF-mAM had a strong proliferative activity and could be used to create a sound microenvironment for quick vascularization by secreting multiple cytokines and extracellular matrix components. Overexpression of SDF-1 alpha could chemotaxize EPCs to reach local wounds, thus further accelerating angiogenesis in the transplant site. The technique described may prove to be a new model for accelerating vascularization of tissue and organ transplants and chronic ischemic wounds.
+SN 0963-6897
+EI 1555-3892
+PY 2016
+VL 25
+IS 2
+BP 365
+EP 376
+DI 10.3727/096368915X687930
+UT WOS:000370833700014
+PM 25853481
+ER
+

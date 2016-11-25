@@ -1,0 +1,33 @@
+AU Noszczyk, BH
+   Kowalczyk, T
+   Lyzniak, M
+   Zembrzycki, K
+   Mikulowski, G
+   Wysocki, J
+   Kawiak, J
+   Pojda, Z
+AF Noszczyk, B. H.
+   Kowalczyk, T.
+   Lyzniak, M.
+   Zembrzycki, K.
+   Mikulowski, G.
+   Wysocki, J.
+   Kawiak, J.
+   Pojda, Z.
+TI Biocompatibility of electrospun human albumin: a pilot study
+SO Biofabrication
+AB Albumin is rarely used for electrospinning because it does not form fibres in its native globular form. This paper presents a novel method for electrospinning human albumin from a solution containing pharmaceutical grade protein and 25% polyethylene oxide (PEO) used as the fibre-forming agent. After spontaneous cross-linking at body temperature, with no further chemicals added, the fibres become insoluble and the excess PEO can be washed out. Albumin deposited along the fibres retains its native characteristics, such as its non-adhesiveness to cells and its susceptibility for degradation by macrophages. To demonstrate this we evaluated the mechanical properties, biocompatibility and biodegradability of this novel product. After subcutaneous implantation in mice, albumin mats were completely resorbable within six days and elicited only a limited local inflammatory response. In vitro, the mats suppressed cell attachment and migration. As this product is inexpensive, produced from human pharmaceutical grade albumin without chemical modifications, retains its native protein properties and fulfils the specific requirements for anti-adhesive dressings, its clinical use can be expedited. We believe that it could specifically be used when treating paediatric patients with epidermolysis bullosa, in whom non-healing wounds occur after minor hand injuries which lead to rapid adhesions and devastating contractures.
+RI Kowalczyk, Tomasz/H-3872-2012
+OI Kowalczyk, Tomasz/0000-0003-2381-4122
+SN 1758-5082
+EI 1758-5090
+PD MAR
+PY 2015
+VL 7
+IS 1
+AR 015011
+DI 10.1088/1758-5090/7/1/015011
+UT WOS:000353341000012
+PM 25727172
+ER
+

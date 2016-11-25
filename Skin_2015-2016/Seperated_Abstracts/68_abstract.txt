@@ -1,0 +1,27 @@
+AU Zhou, ZQ
+   Sui, ZF
+   Tian, YL
+   Zhao, ZL
+   Shi, CF
+   Liu, C
+   Yang, RY
+AF Zhou, Zhi-Qiang
+   Sui, Zhi-Fu
+   Tian, Yan-Li
+   Zhao, Zhi-Li
+   Shi, Cheng-Fang
+   Liu, Chang
+   Yang, Rong-Ya
+TI Leptin alleviates ultraviolet-induced skin photoaging in human skin
+   fibroblasts and mice
+SO INTERNATIONAL JOURNAL OF CLINICAL AND EXPERIMENTAL MEDICINE
+AB Background: To investigate effects of leptin on ultraviolet-induced skin photoaging in human skin fibroblasts (HSFs) and mice and the underlying mechanism. Methods: HSFs in 3-5 subcultures and 50 CD-1 (ICR) mice were randomly divided into blank group, model group and leptin-treated groups. Changes of HSFs and HE stained mouse skin tissue structure exposed to UVA/B irradiation were observed. Senescence-associated beta-galactosidase staining of HSFs was determined. Activity of CAT, SOD and GSH-Px and concentrations of MDA, Hyp and LDH were determined by biochemical analysis. Expressions of p67(phox), PKC epsilon and p66Shc were detected by Western blotting. Results: UV-induced photoaging models were successfully established. In HSFs, compared with blank group, significantly decreased SA beta-gal staining rate and concentrations of CAT, SOD, GSH-Px and Hyp but significantly increased concentrations of MDA, LDH and ROS were found in model group; compared with model group, significantly increased concentrations of CAT, SOD, GSH-Px and Hyp and significantly decreased MDA, LDH and ROS were found in leptin-treated groups. Similar trends were observed regarding the concentrations of CAT, SOD, GSH-Px, Hyp, MDA, LDH and ROS in mouse skin tissues. In both HSFs and mouse skin tissues, the expressions of NADPH, p67(phox), PKC epsilon and p66Shc were significantly up-regulated in model group compared with blank group; while the expressions of p67(phox), PKC epsilon and p66Shc were significantly down-regulated in leptin-treated groups in comparison with model group. Conclusion: Leptin may prevent skin photoaging by scavenging free radicals, improving antioxidant capacity and enzyme activity, alleviating oxidative damage and promoting collagen synthesis in HSFs and mouse skin tissues.
+SN 1940-5901
+PY 2016
+VL 9
+IS 2
+BP 1084
+EP 1094
+UT WOS:000374655200062
+ER
+

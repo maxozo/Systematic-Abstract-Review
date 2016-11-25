@@ -1,0 +1,36 @@
+AU Pascarella, S
+   Tiberi, C
+   Sabatino, G
+   Nuti, F
+   Papini, AM
+   Giovannelli, L
+   Rovero, P
+AF Pascarella, Simona
+   Tiberi, Caterina
+   Sabatino, Giuseppina
+   Nuti, Francesca
+   Papini, Anna Maria
+   Giovannelli, Lisa
+   Rovero, Paolo
+TI SerpinA1 C-Terminal Peptides as Collagen Turnover Modulators
+SO CHEMMEDCHEM
+CT 23rd National Meeting of the Medicinal-Chemistry-Division of the
+   Italian-Chemical-Society (DCF-SCI)
+CY 2015
+CL Salerno, ITALY
+SP Italian Chem Soc, Med Chem Div
+AB The modulation of collagen turnover can be a relevant pharmacological target in the context of treating either pathological or pathophysiological conditions, such as collagen-related diseases and skin aging. Our recent work has focused on the search for short-chain peptides as lead compounds for further development of compounds that enhance the production of typeI collagen. In this study we selected and synthesized overlapping peptides of the C-terminal portion of serpinA1 (residues 393-418), the impact of which on collagen production has been reported previously, in order to identify shorter and still active fragments and to provide insight on the mechanisms involved. The biological activity of each fragment was evaluated with cultured normal human dermal fibroblasts, and changes in the amounts of collagen were monitored in collected culture media by a sandwich ELISA technique developed in house. Interestingly, we identified a decapeptide, termed SA1-III (Ac-MGKVVNPTQK-NH2), as a promising candidate for our purposes; it is able to induce a significant increase in typeI collagen levels in the culture medium of treated cells at micromolar concentrations.
+SN 1860-7179
+EI 1860-7187
+PD AUG 19
+PY 2016
+VL 11
+IS 16
+SI SI
+BP 1850
+EP 1855
+DI 10.1002/cmdc.201500472
+UT WOS:000383579700021
+PM 26615979
+ER
+

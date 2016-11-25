@@ -1,0 +1,23 @@
+AU Henseleit, A
+   Pohl, C
+   Bley, T
+   Boschke, E
+AF Henseleit, A.
+   Pohl, C.
+   Bley, Th.
+   Boschke, E.
+TI Monitoring human serum albumin cell cultures using surface plasmon
+   resonance (SPR) spectroscopy
+SO JOURNAL OF SENSORS AND SENSOR SYSTEMS
+AB Continuously monitoring cell cultures is essential for both controlling critical parameters and improving understanding of key processes. An ideal technique in this context is surface plasmon resonance (SPR) spectroscopy, which essentially exploits changes in the angle of incident light that occur when molecules bind to a surface. It provides the ability to monitor real-time changes in small concentrations of various molecules, with no need for additional labels or sample preparation. Here we present an SPR-based immunoassay for monitoring concentrations of human serum albumin (HSA), and compare its sensitivity when used in conjunction with a Bi-acore platform and the cheaper, smaller liSPR system. In conjunction with either system, the immunoassay can detect HSA (a hepatocyte viability marker) at concentrations typically present in three-dimensional hepatocyte cultures mimicking the liver used to evaluate effects of drug candidates before exposure to humans or animals. Furthermore, in conjunction with the liSPR system, it is sufficiently sensitive to measure the much lower HSA levels present in skin-hepatocyte co-cultures.
+SN 2194-8771
+EI 2194-878X
+PY 2015
+VL 4
+IS 1
+BP 77
+EP 83
+DI 10.5194/jsss-4-77-2015
+UT WOS:000364051800010
+ER
+

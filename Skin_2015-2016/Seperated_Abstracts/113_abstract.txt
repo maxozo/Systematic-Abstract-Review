@@ -1,0 +1,35 @@
+AU Wright, AT
+   Magnaldo, T
+   Sontag, RL
+   Anderson, LN
+   Sadler, NC
+   Piehowski, PD
+   Gache, Y
+   Weber, TJ
+AF Wright, Aaron T.
+   Magnaldo, Thierry
+   Sontag, Ryan L.
+   Anderson, Lindsey N.
+   Sadler, Natalie C.
+   Piehowski, Paul D.
+   Gache, Yannick
+   Weber, Thomas J.
+TI Deficient Expression of Aldehyde Dehydrogenase 1A1 is Consistent With
+   Increased Sensitivity of Gorlin Syndrome Patients to Radiation
+   Carcinogenesis
+SO MOLECULAR CARCINOGENESIS
+AB Human phenotypes that are highly susceptible to radiation carcinogenesis have been identified. Sensitive phenotypes often display robust regulation of molecular features that modify biological response, which can facilitate identification of the pathways/networks that contribute to pathophysiological outcomes. Here we interrogate primary dermal fibroblasts isolated from Gorlin syndrome patients (GDFs), who display a pronounced inducible tumorigenic response to radiation, in comparison to normal human dermal fibroblasts (NHDFs). Our approach exploits newly developed thiol reactive probes to define changes in protein thiol profiles in live cell studies, which minimizes artifacts associated with cell lysis. Redox probes revealed deficient expression of an apparent 55kDa protein thiol in GDFs from independent Gorlin syndrome patients, compared with NHDFs. Proteomics tentatively identified this protein as aldehyde dehydrogenase 1A1 (ALDH1A1), a key enzyme regulating retinoic acid synthesis, and ALDH1A1 protein deficiency in GDFs was confirmed by Western blot. A number of additional protein thiol differences in GDFs were identified, including radiation responsive annexin family members and lamin A/C. Collectively, candidates identified in our study have plausible implications for radiation health effects and cancer susceptibility. (c) 2013 Wiley Periodicals, Inc.
+OI Piehowski, Paul/0000-0001-5108-2227
+SN 0899-1987
+EI 1098-2744
+PD JUN
+PY 2015
+VL 54
+IS 6
+BP 473
+EP 484
+DI 10.1002/mc.22115
+UT WOS:000352814800006
+PM 24285572
+ER
+

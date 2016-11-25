@@ -1,0 +1,39 @@
+AU Ming, M
+   Zhao, BZ
+   Shea, CR
+   Shah, P
+   Qiang, L
+   White, SR
+   Sims, DM
+   He, YY
+AF Ming, Mei
+   Zhao, Baozhong
+   Shea, Christopher R.
+   Shah, Palak
+   Qiang, Lei
+   White, Steven R.
+   Sims, Diane M.
+   He, Yu-Ying
+TI Loss of sirtuin 1 (SIRT1) disrupts skin barrier integrity and sensitizes
+   mice to epicutaneous allergen challenge
+SO JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY
+AB Background: Skin barrier integrity requires a highly coordinated molecular system involving the structural protein filaggrin (FLG). Mutational loss of the skin barrier protein FLG predisposes subjects to the development of atopic dermatitis (AD).
+   Objective: We sought to determine the role of sirtuin 1 (SIRT1) in skin barrier function, FLG expression, and development of AD.
+   Methods: Skin histology of mice with skin-specific SIRT1 deletion and wild-type control animals was examined by using hematoxylin and eosin staining. Protein and mRNA abundance was analyzed by means of immunoblotting, immunohistochemistry, immunofluorescence, and RT-PCR. Serum antibody levels were assessed by means of ELISA.
+   Results: Here we show that FLG is regulated by the protein deacetylase SIRT1 and that SIRT1 is critical for skin barrier integrity. Epidermis-specific SIRT1 ablation causes AD-like skin lesions in mice, and mice with epidermal SIRT1 deletion are sensitive to percutaneous challenge by the protein allergen ovalbumin. In normal human keratinocytes and mouse skin SIRT1 knockdown or genetic deletion downregulates FLG, and regulation of FLG expression by SIRT1 requires the deacetylase activity of SIRT1. SIRT1 also promotes activation of the aryl hydrocarbon receptor, and the aryl hydrocarbon receptor ligand restores FLG expression in SIRT1-inhibited cells. Compared with normal human skin, SIRT1 is downregulated in both AD and non-AD lesions.
+   Conclusion: Our findings demonstrate a critical role of SIRT1 in skin barrier maintenance, open up new opportunities to use SIRT1 as a pharmacologic target, and might facilitate the development of mechanism-based agents for AD prevention and therapy.
+RI Qiang, Lei/B-2763-2012
+OI Qiang, Lei/0000-0002-7164-3164
+SN 0091-6749
+EI 1097-6825
+PD APR
+PY 2015
+VL 135
+IS 4
+BP 936
+EP +
+DI 10.1016/j.jaci.2014.09.035
+UT WOS:000352238600015
+PM 25445829
+ER
+

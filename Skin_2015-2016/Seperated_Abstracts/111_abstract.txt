@@ -1,0 +1,41 @@
+AU Kang, JI
+   Kim, SC
+   Kim, MK
+   Boo, HJ
+   Kim, EJ
+   Im, GJ
+   Kim, YH
+   Hyun, JW
+   Kang, JH
+   Koh, YS
+   Park, DB
+   Yoo, ES
+   Kang, HK
+AF Kang, Jung-Il
+   Kim, Sang-Cheol
+   Kim, Min-Kyoung
+   Boo, Hye-Jin
+   Kim, Eun-Ji
+   Im, Guang-Jin
+   Kim, Young Ho
+   Hyun, Jin-Won
+   Kang, Ji-Hoon
+   Koh, Young-Sang
+   Park, Deok-Bae
+   Yoo, Eun-Sook
+   Kang, Hee-Kyoung
+TI Effects of dihydrotestosterone on rat dermal papilla cells in vitro
+SO EUROPEAN JOURNAL OF PHARMACOLOGY
+AB Androgenetic alopecia involves the action of dihydrotestosterone (DHT) on dermal papilla cells (DPCs) that line the base of the hair follicle. However, the mechanism of DHT action is not completely understood. The effects of DHT on DPCs, regulatory cells that function in follicle growth and the hair cycle, were examined in immortalized cells derived from rat vibrissa follicles. DHT did not affect the proliferation of immortalized DPCs. However, flow cytometry analysis revealed that DHT increased cell-cycle arrest in these cells, which was accompanied by an increase in the p27(kip1) level and by decreases in cyclin E, cyclin D1, and cyclin-dependent kinase 2 levels. DHT treatment resulted in the phosphorylation and nuclear translocation of Smad2/3, a mediator of the transforming growth factor-beta (TGF-beta) signaling pathway, which leads to the catagen phase of the hair cycle. DHT also induced the phosphorylation and nuclear translocation of heat shock protein 27 (HSP27). Moreover, DHT decreased the levels of total and nuclear beta-catenin, an important regulator of hair growth and proliferation, while lithium chloride, a glycogen synthase kinase-3 beta inhibitor, attenuated the DHT-induced downregulation of the P-catenin level. On the other hand, DHT increased the phosphorylation of mammalian target of rapamycin (mTOR), a regulator of proliferation, in immortalized DPCs. These results illustrate that DHT could shorten the duration of the hair growth cycle by initiating cell-cycle arrest, downregulating the beta-catenin level, and upregulating the TGE-beta/Smad and HSP27 level, whereas activation of mTOR by DHT could attenuate the inhibition of hair growth cycle in immortalized DPCs. (C) 2015 Elsevier B.V. All rights reserved.
+SN 0014-2999
+EI 1879-0712
+PD JUN 15
+PY 2015
+VL 757
+BP 74
+EP 83
+DI 10.1016/j.ejphar.2015.03.055
+UT WOS:000353494800010
+PM 25838072
+ER
+

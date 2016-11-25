@@ -1,0 +1,25 @@
+AU Jain, R
+   Monthakantirat, O
+   Tengamnuay, P
+   De-Eknamkul, W
+AF Jain, Ruchy
+   Monthakantirat, Orawan
+   Tengamnuay, Parkpoom
+   De-Eknamkul, Wanchai
+TI Identification of a new plant extract for androgenic alopecia treatment
+   using a non-radioactive human hair dermal papilla cell-based assay
+SO BMC COMPLEMENTARY AND ALTERNATIVE MEDICINE
+AB Background: Androgenic alopecia (AGA) is a major type of human scalp hair loss, which is caused by two androgens: testosterone (T) and 5 alpha-dihydrotestosterone (5 alpha-DHT). Both androgens bind to the androgen receptor (AR) and induce androgen-sensitive genes within the human hair dermal papilla cells (HHDPCs), but 5 alpha-DHT exhibits much higher binding affinity and potency than T does in inducing the involved androgen-sensitive genes. Changes in the induction of androgen-sensitive genes during AGA are caused by the over-production of 5 alpha-DHT by the 5 alpha-reductase (5 alpha-R) enzyme; therefore, one possible method to treat AGA is to inhibit this enzymatic reaction.
+   Methods: RT-PCR was used to identify the presence of the 5 alpha-R and AR within HHDPCs. A newly developed AGA-relevant HHDPC-based assay combined with non-radioactive thin layer chromatography (TLC) detection was used for screening crude plant extracts for the identification of new 5 alpha-R inhibitors.
+   Results: HHDPCs expressed both 5 alpha-R type 1 isoform of the enzyme (5 alpha-R1) and AR in all of the passages used in this study. Among the thirty tested extracts, Avicennia marina (AM) displayed the highest inhibitory activity at the final concentration of 10 mu g/ml, as the production of 5 alpha-DHT decreased by 52 % (IC50 = 9.21 +/- 0.38 mu g/ml).
+   Conclusions: Avicennia marina (AM) was identified as a potential candidate for the treatment of AGA based on its 5 alpha-R1-inhibitory activity.
+SN 1472-6882
+PD JAN 21
+PY 2016
+VL 16
+AR 18
+DI 10.1186/s12906-016-1004-5
+UT WOS:000368493800001
+PM 26796631
+ER
+

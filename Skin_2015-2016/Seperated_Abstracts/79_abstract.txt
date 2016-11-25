@@ -1,0 +1,43 @@
+AU Nakahara, T
+   Mitoma, C
+   Hashimoto-Hachiya, A
+   Takahara, M
+   Tsuji, G
+   Uchi, H
+   Yan, XH
+   Hachisuka, J
+   Chiba, T
+   Esaki, H
+   Kido-Nakahara, M
+   Furue, M
+AF Nakahara, Takeshi
+   Mitoma, Chikage
+   Hashimoto-Hachiya, Akiko
+   Takahara, Masakazu
+   Tsuji, Gaku
+   Uchi, Hiroshi
+   Yan, Xianghong
+   Hachisuka, Junichi
+   Chiba, Takahito
+   Esaki, Hitokazu
+   Kido-Nakahara, Makiko
+   Furue, Masutaka
+TI Antioxidant Opuntia ficus-indica Extract Activates AHR-NRF2 Signaling
+   and Upregulates Filaggrin and Loricrin Expression in Human Keratinocytes
+SO JOURNAL OF MEDICINAL FOOD
+AB Opuntia ficus-indica (OFI) is a cactus species widely used as an anti-inflammatory, antilipidemic, and hypoglycemic agent. It has been shown that OFI extract (OFIE) inhibits oxidative stress in animal models of diabetes and hepatic disease; however, its antioxidant mechanism remains largely unknown. In this study, we demonstrated that OFIE exhibited potent antioxidant activity through the activation of nuclear factor erythroid 2-related factor 2 (NRF2) and the downstream antioxidant enzyme NAD(P)H:quinone oxidoreductase 1 (NQO1), which inhibited the generation of reactive oxygen species in keratinocytes challenged with tumor necrosis factor or benzo[]pyrene. The antioxidant capacity of OFIE was canceled in NRF2 knockdown keratinocytes. OFIE exerted this NRF2-NQO1 upregulation through activation of the aryl hydrocarbon receptor (AHR). Moreover, the ligation of AHR by OFIE upregulated the expression of epidermal barrier proteins: filaggrin and loricrin. OFIE also prevented TH2 cytokine-mediated downregulation of filaggrin and loricrin expression in an AHR-dependent manner because it was canceled in AHR knockdown keratinocytes. Antioxidant OFIE is a potent activator of AHR-NRF2-NQO1 signaling and may be beneficial in treating barrier-disrupted skin disorders.
+RI U-ID, Kyushu/C-5291-2016; 
+OI Esaki, Hitokazu/0000-0002-3716-520X
+SN 1096-620X
+EI 1557-7600
+PD OCT 1
+PY 2015
+VL 18
+IS 10
+BP 1143
+EP 1149
+DI 10.1089/jmf.2014.3396
+UT WOS:000362118300010
+PM 26061570
+ER
+

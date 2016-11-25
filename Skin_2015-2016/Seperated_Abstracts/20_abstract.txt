@@ -1,0 +1,39 @@
+AU Carrola, J
+   Bastos, V
+   Jarak, I
+   Oliveira-Silva, R
+   Malheiro, E
+   Daniel-da-Silva, AL
+   Oliveira, H
+   Santos, C
+   Gil, AM
+   Duarte, IF
+AF Carrola, Joana
+   Bastos, Veronica
+   Jarak, Ivana
+   Oliveira-Silva, Rui
+   Malheiro, Eliana
+   Daniel-da-Silva, Ana L.
+   Oliveira, Helena
+   Santos, Conceicao
+   Gil, Ana M.
+   Duarte, Iola F.
+TI Metabolomics of silver nanoparticles toxicity in HaCaT cells:
+   structure-activity relationships and role of ionic silver and oxidative
+   stress
+SO NANOTOXICOLOGY
+AB The widespread use of silver nanoparticles (AgNPs) is accompanied by a growing concern regarding their potential risks to human health, thus calling for an increased understanding of their biological effects. The aim of this work was to systematically study the extent to which changes in cellular metabolism were dependent on the properties of AgNPs, using NMR metabolomics. Human skin keratinocytes (HaCaT cells) were exposed to citrate-coated AgNPs of 10, 30 or 60nm diameter and to 30nm AgNPs coated either with citrate (CIT), polyethylene glycol (PEG) or bovine serum albumin (BSA), to assess the influence of NP size and surface chemistry. Overall, CIT-coated 60nm and PEG-coated 30nm AgNPs had the least impact on cell viability and metabolism. The role of ionic silver and reactive oxygen species (ROS)-mediated effects was also studied, in comparison to CIT-coated 30nm particles. At concentrations causing an equivalent decrease in cell viability, Ag(+)ions produced a change in the metabolic profile that was remarkably similar to that seen for AgNPs, the main difference being the lesser impact on the Krebs cycle and energy metabolism. Finally, this study newly reported that while down-regulated glycolysis and disruption of energy production were common to AgNPs and H2O2, the impact on some metabolic pathways (GSH synthesis, glutaminolysis and the Krebs cycle) was independent of ROS-mediated mechanisms. In conclusion, this study shows the ability of NMR metabolomics to define subtle biochemical changes induced by AgNPs and demonstrates the potential of this approach for rapid, untargeted screening of pre-clinical toxicity of nanomaterials in general.
+RI Oliveira, Helena/M-5068-2013
+OI Oliveira, Helena/0000-0002-4673-0696
+SN 1743-5390
+EI 1743-5404
+PY 2016
+VL 10
+IS 8
+BP 1105
+EP 1117
+DI 10.1080/17435390.2016.1177744
+UT WOS:000382337100009
+PM 27144425
+ER
+

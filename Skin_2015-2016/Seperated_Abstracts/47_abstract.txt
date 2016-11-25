@@ -1,0 +1,23 @@
+AU Dancik, Y
+   Troutman, JA
+   Jaworska, J
+AF Dancik, Yuri
+   Troutman, John A.
+   Jaworska, Joanna
+TI Estimation of in vivo dose of dermally applied chemicals leading to
+   estrogen/androgen receptor-mediated toxicity from in vitro
+   data-Illustration with four reproductive toxicants
+SO REPRODUCTIVE TOXICOLOGY
+AB We present a quantitative in vitro-in vivo extrapolation framework enabling the estimation of the external dermal exposure dose from in vitro experimental data relevant to a toxicity pathway of interest. The framework adapts elements of the biological pathway altering dose (BPAD) method [Judson et al. Chem Res Toxicol 2011;24:451] to the case of dermal exposure. Dermal doses of four toxicants equivalent to concentrations characterizing their effect on estrogen receptor a or androgen receptor activity in chemical-activated luciferase expression (CALUX) assays are estimated. The analysis shows that dermal BPADs, calculated from one in vitro concentration, can differ by up to a factor of 55, due to the impact applied dose and dermal exposure scenarios can have on skin permeation kinetics. These features should therefore be taken into account in risk assessment of dermally applied chemicals. (C) 2015 Elsevier Inc. All rights reserved.
+SN 0890-6238
+PD AUG 1
+PY 2015
+VL 55
+SI SI
+BP 50
+EP 63
+DI 10.1016/j.reprotox.2015.01.002
+UT WOS:000357360900006
+PM 25597788
+ER
+

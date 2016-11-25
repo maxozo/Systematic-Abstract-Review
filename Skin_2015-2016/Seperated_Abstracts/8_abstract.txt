@@ -1,0 +1,29 @@
+AU Cousins, FL
+   Kirkwood, PM
+   Murray, AA
+   Collins, F
+   Gibson, DA
+   Saunders, PTK
+AF Cousins, Fiona L.
+   Kirkwood, Phoebe M.
+   Murray, Alison A.
+   Collins, Frances
+   Gibson, Douglas A.
+   Saunders, Philippa T. K.
+TI Androgens regulate scarless repair of the endometrial "wound" in a mouse
+   model of menstruation
+SO FASEB JOURNAL
+AB The human endometrium undergoes regular cycles of synchronous tissue shedding (wounding) and repair that occur during menstruation before estrogen-dependent regeneration. Endometrial repair is normally both rapid and scarless. Androgens regulate cutaneous wound healing, but their role in endometrial repair is unknown. We used a murine model of simulated menses; mice were treated with a single dose of the nonaromatizable androgen dihydrotestosterone (DHT; 200 mu g/mouse) to coincide with initiation of tissue breakdown. DHT altered the duration of vaginal bleeding and delayed restoration of the luminal epithelium. Analysis of uterine mRNAs 24 h after administration of DHT identified significant changes in metalloproteinases (Mmp3 and -9; P < 0.01), a snail family member (Snai3; P < 0.001), and osteopontin (Spp1; P < 0.001). Chromatin immunoprecipitation analysis identified putative androgen receptor (AR) binding sites in the proximal promoters of Mmp9, Snai3, and Spp1. Striking spatial and temporal changes in immunoexpression of matrix metalloproteinase (MMP) 3/9 and caspase 3 were detected after DHT treatment. These data represent a paradigm shift in our understanding of the role of androgens in endometrial repair and suggest that androgens may have direct impacts on endometrial tissue integrity. These studies provide evidence that the AR is a potential target for drug therapy to treat conditions associated with aberrant endometrial repair processes.
+SN 0892-6638
+EI 1530-6860
+PD AUG
+PY 2016
+VL 30
+IS 8
+BP 2802
+EP 2811
+DI 10.1096/fj.201600078R
+UT WOS:000380994000016
+PM 27121597
+ER
+

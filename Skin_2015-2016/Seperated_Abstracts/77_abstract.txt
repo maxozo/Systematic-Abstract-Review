@@ -1,0 +1,23 @@
+AU Haarmann-Stemmann, T
+   Esser, C
+   Krutmann, J
+AF Haarmann-Stemmann, Thomas
+   Esser, Charlotte
+   Krutmann, Jean
+TI The Janus-Faced Role of Aryl Hydrocarbon Receptor Signaling in the Skin:
+   Consequences for Prevention and Treatment of Skin Disorders
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+AB The aryl hydrocarbon receptor (AHR) is a ligand-activated transcription factor expressed in all skin cell types, which is critically involved in the pathogenesis of a variety of skin diseases and thus represents a potential therapeutic target. Recent studies indicate that blocking AHR activation is desirable in some skin conditions, whereas the opposite, i.e., stimulation of AHR activation, is beneficial in another group of skin disorders. We here propose a model based on qualitative differences in canonical versus non-canonical AHR signaling to reconcile these seemingly contradictory observations.
+SN 0022-202X
+EI 1523-1747
+PD NOV
+PY 2015
+VL 135
+IS 11
+BP 2572
+EP 2576
+DI 10.1038/jid.2015.285
+UT WOS:000363993600007
+PM 26269144
+ER
+

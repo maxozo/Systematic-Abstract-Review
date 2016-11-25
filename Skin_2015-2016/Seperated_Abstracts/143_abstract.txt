@@ -1,0 +1,64 @@
+AU Vissers, LELM
+   Bonetti, M
+   Overman, JP
+   Nillesen, WM
+   Frints, SGM
+   de Ligt, J
+   Zampino, G
+   Justino, A
+   Machado, JC
+   Schepens, M
+   Brunner, HG
+   Veltman, JA
+   Scheffer, H
+   Gros, P
+   Costa, JL
+   Tartaglia, M
+   van der Burgt, I
+   Yntema, HG
+   den Hertog, J
+AF Vissers, Lisenka E. L. M.
+   Bonetti, Monica
+   Overman, Jeroen Paardekooper
+   Nillesen, Willy M.
+   Frints, Suzanna G. M.
+   de Ligt, Joep
+   Zampino, Giuseppe
+   Justino, Ana
+   Machado, Jose C.
+   Schepens, Marga
+   Brunner, Han G.
+   Veltman, Joris A.
+   Scheffer, Hans
+   Gros, Piet
+   Costa, Jose L.
+   Tartaglia, Marco
+   van der Burgt, Ineke
+   Yntema, Helger G.
+   den Hertog, Jeroen
+TI Heterozygous germline mutations in A2ML1 are associated with a disorder
+   clinically related to Noonan syndrome
+SO EUROPEAN JOURNAL OF HUMAN GENETICS
+AB Noonan syndrome (NS) is a developmental disorder characterized by short stature, facial dysmorphisms and congenital heart defects. To date, all mutations known to cause NS are dominant, activating mutations in signal transducers of the RAS/ mitogen-activated protein kinase (MAPK) pathway. In 25% of cases, however, the genetic cause of NS remains elusive, suggesting that factors other than those involved in the canonical RAS/MAPK pathway may also have a role. Here, we used family-based whole exome sequencing of a case-parent trio and identified a de novo mutation, p.(Arg802His), in A2ML1, which encodes the secreted protease inhibitor alpha-2-macroglobulin (A2M)-like-1. Subsequent resequencing of A2ML1 in 155 cases with a clinical diagnosis of NS led to the identification of additional mutations in two families, p.(Arg802Leu) and p.(Arg592Leu). Functional characterization of these human A2ML1 mutations in zebrafish showed NS-like developmental defects, including a broad head, blunted face and cardiac malformations. Using the crystal structure of A2M, which is highly homologous to A2ML1, we identified the intramolecular interaction partner of p.Arg802. Mutation of this residue, p.Glu906, induced similar developmental defects in zebrafish, strengthening our conclusion that mutations in A2ML1 cause a disorder clinically related to NS. This is the first report of the involvement of an extracellular factor in a disorder clinically related to RASopathies, providing potential new leads for better understanding of the molecular basis of this family of developmental diseases.
+RI Vissers, Lisenka/A-2598-2015; Costa, Jose Luis/B-7126-2008; Veltman,
+   Joris/F-5128-2010; Brunner, Han/C-9928-2013; Yntema, H.G./L-4771-2015;
+   Scheffer, Hans/E-4644-2012; Machado, Jose Carlos/C-5907-2009; Gros,
+   Piet/I-5569-2016; 
+OI Costa, Jose Luis/0000-0001-7132-4094; de Ligt, Joep/0000-0002-0348-419X;
+   Tartaglia, Marco/0000-0001-7736-9672; Veltman,
+   Joris/0000-0002-3218-8250; Scheffer, Hans/0000-0002-2986-0915; Machado,
+   Jose Carlos/0000-0003-4741-8415; Gros, Piet/0000-0002-7782-2585;
+   Justino, Ana/0000-0003-4554-7088
+SN 1018-4813
+EI 1476-5438
+PD MAR
+PY 2015
+VL 23
+IS 3
+BP 317
+EP 324
+DI 10.1038/ejhg.2014.115
+UT WOS:000349670900007
+PM 24939586
+ER
+

@@ -1,0 +1,38 @@
+AU Asuthkar, S
+   Demirkhanyan, L
+   Sun, XH
+   Elustondo, PA
+   Krishnan, V
+   Baskaran, P
+   Velpula, KK
+   Thyagarajan, B
+   Pavlov, EV
+   Zakharian, E
+AF Asuthkar, Swapna
+   Demirkhanyan, Lusine
+   Sun, Xiaohui
+   Elustondo, Pia A.
+   Krishnan, Vivek
+   Baskaran, Padmamalini
+   Velpula, Kiran Kumar
+   Thyagarajan, Baskaran
+   Pavlov, Evgeny V.
+   Zakharian, Eleonora
+TI The TRPM8 Protein Is a Testosterone Receptor II. FUNCTIONAL EVIDENCE FOR
+   AN IONOTROPIC EFFECT OF TESTOSTERONE ON TRPM8
+SO JOURNAL OF BIOLOGICAL CHEMISTRY
+AB Background: TRPM8 channels are highly expressed in prostate tissues, where the role of this cold receptor is not well understood. Results: Testosterone activates TRPM8 in various cellular systems and in the planar lipid bilayers. Conclusion: TRPM8 is an ionotropic testosterone receptor. Significance: TRPM8 channels may be implicated in various physiological processes regulated by androgens.
+   Testosterone is a key steroid hormone in the development of male reproductive tissues and the regulation of the central nervous system. The rapid signaling mechanism induced by testosterone affects numerous behavioral traits, including sexual drive, aggressiveness, and fear conditioning. However, the currently identified testosterone receptor(s) is not believed to underlie the fast signaling, suggesting an orphan pathway. Here we report that an ion channel from the transient receptor potential family, TRPM8, commonly known as the cold and menthol receptor is the major component of testosterone-induced rapid actions. Using cultured and primary cell lines along with the purified TRPM8 protein, we demonstrate that testosterone directly activates TRPM8 channel at low picomolar range. Specifically, testosterone induced TRPM8 responses in primary human prostate cells, PC3 prostate cancer cells, dorsal root ganglion neurons, and hippocampal neurons. Picomolar concentrations of testosterone resulted in full openings of the purified TRPM8 channel in planar lipid bilayers. Furthermore, acute applications of testosterone on human skin elicited a cooling sensation. Our data conclusively demonstrate that testosterone is an endogenous and highly potent agonist of TRPM8, suggesting a role of TRPM8 channels well beyond their well established function in somatosensory neurons. This discovery may further imply TRPM8 channel function in testosterone-dependent behavioral traits.
+SN 0021-9258
+EI 1083-351X
+PD JAN 30
+PY 2015
+VL 290
+IS 5
+BP 2670
+EP 2688
+DI 10.1074/jbc.M114.610873
+UT WOS:000349310700012
+PM 25480785
+ER
+

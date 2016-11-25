@@ -1,0 +1,23 @@
+AU Shishodia, S
+   Azu, N
+   Rosenzweig, JA
+   Jackson, DA
+AF Shishodia, Shishir
+   Azu, Nkem
+   Rosenzweig, Jason A.
+   Jackson, Desiree A.
+TI Guggulsterone for Chemoprevention of Cancer
+SO CURRENT PHARMACEUTICAL DESIGN
+AB Guggulsterone [4, 17(20)-pregnadiene-3, 16-dione] is a plant sterol derived from the gum resin of the tree Commiphora wightii. The gum resin of the guggul tree has been used in traditional medicine for centuries to treat obesity, liver disorders, internal tumors, malignant sores, ulcers, urinary complaints, intestinal worms, leucoderma, sinus, edema and sudden paralytic seizures. Guggulsterone has been shown to modulate the nuclear receptors, farnesoid X receptor, pregnane X receptor, CYP 2b10 gene expression, and the bile salt export pump for cholesterol elimination. Recent research indicates that the active components of gum guggul, E-and Z-guggulsterone have the potential to both prevent and treat cancers. Guggulsterone inhibits the growth of a wide variety of tumor cells and induces apoptosis through down regulation of antiapoptotic gene products (IAP1, xIAP, Bfl-1/A1, Bcl-2, cFLIP, and survivin), modulation of cell cycle proteins (cyclin D1 and c-Myc), activation of caspases, inhibition of Akt, and activation of JNK. Guggulsterone modulates the expression of gene products involved in metastasis (MMP-9, COX-2, and VEGF) of tumor cells. Guggulsterone mediates gene expression through the modulation of several transcription factors, including NF-kappa B, STAT3, C/EBP alpha, androgen receptor, and glucocorticoid receptors. This review describes the anti-cancer properties, molecular targets, and the apoptotic effects of guggulsterone.
+SN 1381-6128
+EI 1873-4286
+PY 2016
+VL 22
+IS 3
+BP 294
+EP 306
+DI 10.2174/1381612822666151112153117
+UT WOS:000372070600005
+PM 26561056
+ER
+

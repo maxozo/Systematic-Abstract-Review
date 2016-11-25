@@ -1,0 +1,39 @@
+AU Gao, HW
+   Li, SB
+   Sun, WQ
+   Yun, ZM
+   Zhang, X
+   Song, JW
+   Zhang, SK
+   Leng, L
+   Ji, SP
+   Tan, YX
+   Gong, F
+AF Gao, Hong-Wei
+   Li, Su-Bo
+   Sun, Wendell Q.
+   Yun, Zhi-Min
+   Zhang, Xue
+   Song, Jin-Wen
+   Zhang, Shi-Kun
+   Leng, Ling
+   Ji, Shou-Ping
+   Tan, Ying-Xia
+   Gong, Feng
+TI Quantification of alpha-Gal Antigen Removal in the Porcine Dermal Tissue
+   by alpha-Galactosidase
+SO TISSUE ENGINEERING PART C-METHODS
+AB The alpha-Gal (Gal1,3-Gal1-4GlcNAc-R) epitope, the major xenoantigen, is the first barrier in a porcine-to-man tissue and organ xenotransplantation. The elimination or reduction of the -Gal epitopes is therefore an important step for a successful xenotransplantation. The present study is to evaluate the -Gal elimination in the porcine skin with -galactosidase treatment, and to assess two methods (immunohistochemistry and inhibition ELISA) that may be used in quality control for quantifying the extent of the -Gal elimination. Enzymatic cleavage in a single-step process is extremely efficient and affordable at eliminating the -Gal epitope even in a tissue as dense as the porcine dermis. The cost of enzymatic cleavage is found to be less than US$7 for a 10x10cm piece of porcine skin (0.5mm thick) or about US$140 for 100g of 3-dimensional soft tissues. After enzymatic cleavage, the -Gal-positive immunostaining was essentially undetectable in enzyme-treated porcine skin. The inhibition rate constant of the monoclonal anti-Gal antibody M86 binding to -Gal-bovine serum albumin in ELISA was reduced from 15.0 +/- 4.3 (n=10) to 6.1 +/- 2.6 (n=7) after enzyme treatment, in comparison to 4.4 +/- 1.8 (n=9) background inhibition of decellularized human skin (the ultimate negative control), which demonstrates approximate to 84% elimination of -Gal epitopes in treated porcine skin. To examine the suitability of two detection methods for the routine quality control application, comparative studies were made with control and enzyme-treated porcine skin, porcine skin from the -Gal knockout animal, as well as decellularized human skin. The data show that the traditional immunohistochemistry and, to a less extent, the inhibition ELISA with further modifications can be used as quality control tools in the production and selection of biocompatible bioprosthetic devices. The biological evaluation of enzyme-treated porcine skin is ongoing with a small animal model and a nonhuman primate model.
+SN 1937-3384
+EI 1937-3392
+PD NOV 1
+PY 2015
+VL 21
+IS 11
+BP 1197
+EP 1204
+DI 10.1089/ten.tec.2015.0129
+UT WOS:000363893100010
+PM 26140655
+ER
+

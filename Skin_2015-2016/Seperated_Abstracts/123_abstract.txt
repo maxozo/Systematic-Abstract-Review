@@ -1,0 +1,18 @@
+AU Saito, A
+AF Saito, Akio
+TI Heparin cofactor II is degraded by heparan sulfate and dextran sulfate
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+AB Heparan sulfate normally binds to heparin cofactor II and modulates the coagulation pathway by inhibiting thrombin. However, when human heparin cofactor II was incubated with heparan sulfate, heparin cofactor II became degraded. Other glycosaminoglycans were tested, including hyaluronic acid, chondroitin sulfates, dermatan sulfate, and heparin, but only dextran sulfate also degraded heparin cofactor II. Pretreatment of heparan sulfate with heparinase reduced its heparin cofactor II-degrading activity. Heparan sulfate and dextran sulfate diminished the thrombin inhibitory activity of heparin cofactor II. Other serpins, including antithrombin III and pigment epithelium-derived factor, were also degraded by heparan sulfate. This is the first evidence of acidic polysaccharides exhibiting protein-degrading activity without the aid of other proteins. (C) 2015 Elsevier Inc. All rights reserved.
+SN 0006-291X
+EI 1090-2104
+PD FEB 20
+PY 2015
+VL 457
+IS 4
+BP 585
+EP 588
+DI 10.1016/j.bbrc.2015.01.028
+UT WOS:000350838800016
+PM 25600805
+ER
+

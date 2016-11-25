@@ -1,0 +1,30 @@
+AU Vijayan, P
+   Viswanathamurthi, P
+   Velmurugan, K
+   Nandhakumar, R
+   Balakumaran, MD
+   Kalaichelvan, PT
+   Malecki, JG
+AF Vijayan, Paranthaman
+   Viswanathamurthi, Periasamy
+   Velmurugan, Krishnaswamy
+   Nandhakumar, Raju
+   Balakumaran, Manickam Dakshinamoorthi
+   Kalaichelvan, Pudupalayam Thangavelu
+   Malecki, Jan Grzegorz
+TI Nickel(II) and copper(II) complexes constructed with N2S2 hybrid
+   benzamidine-thiosemicarbazone ligand: synthesis, X-ray crystal
+   structure, DFT, kinetico-catalytic and in vitro biological applications
+SO RSC ADVANCES
+AB With the aim of assessing whether transition metal complexes might be utilized as efficient biocatalysts and biological drugs, new monofunctional nickel(II) and copper(II) complexes of types NiL (1) and CuL (2) [H2L = N-(N',N'-diethylaminothiocarbonyl)benzimidoyl chloride-2-aminoacetophenone-N-methylthiosemicarbazone] were synthesized. The compounds are remarkably stable and were obtained in good yields. Structural elucidation was carried out thoroughly in solid and solution-states by elemental analysis and various spectroscopy techniques (IR, UV-vis, H-1 NMR, and EPR) as well as ESI mass spectrometry. The molecular structure of the compounds was investigated by single-crystal X-ray diffraction. The analyses showed tetradentate coordination of the ligand in nickel(II) and copper(II) complexes, in which the metal atom exhibits a square planar geometry with N2S2 in a donor fashion. Structural optimization, HOMO-LUMO energy calculations and Natural Bond Orbital (NBO) analysis of H2L and its complexes (1 and 2) were investigated by Density Functional Theory (DFT). The trend in binding affinities of the compounds with biomolecules, such as calf thymus DNA (CT-DNA) and bovine serum albumin (BSA) protein, were investigated by different spectrophotometric methods, which revealed an intercalative mode of interaction. Furthermore, enzyme kinetic studies reflected that the square planar complexes (1 and 2) are also effective in mimicking catecholase (3,5-DTBC) and phosphatase (4-NPP) activities over the parent H2L. The high k(cat) values suggested that the selected compounds displayed a high rate of catalytic efficiency. In vitro cytotoxicity of the complexes on human skin cancer melanoma (A375), human cervical cancer (HeLa) and human hepatocellular carcinoma (Hep3B) cancer cell lines demonstrated that the complexes had a broad-spectrum of anti-cancer activity with low IC50 values. The morphological assessment data obtained by acridine orange/ethidium bromide (AO/EB) and diamidino-2-phenylindole (DAPI) staining revealed that complex 2 induces apoptosis much more effectively than 1.
+OI Malecki, Jan Grzegorz/0000-0001-5571-3196
+SN 2046-2069
+PY 2015
+VL 5
+IS 125
+BP 103321
+EP 103342
+DI 10.1039/c5ra18568h
+UT WOS:000366461000044
+ER
+

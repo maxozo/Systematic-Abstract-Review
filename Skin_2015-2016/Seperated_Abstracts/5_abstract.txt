@@ -1,0 +1,29 @@
+AU Carvalho, KP
+   Martins, NB
+   Ribeiro, ARLP
+   Lopes, TS
+   de Sena, RC
+   Sommer, P
+   Granjeiro, JM
+AF Carvalho, Karina Penedo
+   Martins, Nathalia Balthazar
+   Lopes Pereira Ribeiro, Ana Rosa
+   Lopes, Taliria Silva
+   de Sena, Rodrigo Caciano
+   Sommer, Pascal
+   Granjeiro, Jose Mauro
+TI Optimized method of dispersion of titanium dioxide nanoparticles for
+   evaluation of safety aspects in cosmetics
+SO JOURNAL OF NANOPARTICLE RESEARCH
+AB Nanoparticles agglomerate when in contact with biological solutions, depending on the solutions' nature. The agglomeration state will directly influence cellular response, since free nanoparticles are prone to interact with cells and get absorbed into them. In sunscreens, titanium dioxide nanoparticles (TiO2-NPs) form mainly aggregates between 30 and 150 nm. Until now, no toxicological study with skin cells has reached this range of size distribution. Therefore, in order to reliably evaluate their safety, it is essential to prepare suspensions with reproducibility, irrespective of the biological solution used, representing the above particle size distribution range of NPs (30-150 nm) found on sunscreens. Thus, the aim of this study was to develop a unique protocol of TiO2 dispersion, combining these features after dilution in different skin cell culture media, for in vitro tests. This new protocol was based on physicochemical characteristics of TiO2, which led to the choice of the optimal pH condition for ultrasonication. The next step consisted of stabilization of protein capping with acidified bovine serum albumin, followed by an adjustment of pH to 7.0. At each step, the solutions were analyzed by dynamic light scattering and transmission electron microscopy. The final concentration of NPs was determined by inductively coupled plasma-optical emission spectroscopy. Finally, when diluted in dulbecco's modified eagle medium, melanocytes growth medium, or keratinocytes growth medium, TiO2-NPs displayed a highly reproducible size distribution, within the desired size range and without significant differences among the media. Together, these results demonstrate the consistency achieved by this new methodology and its suitability for in vitro tests involving skin cell cultures.
+SN 1388-0764
+EI 1572-896X
+PD AUG 19
+PY 2016
+VL 18
+IS 8
+AR 244
+DI 10.1007/s11051-016-3542-7
+UT WOS:000382105100001
+ER
+

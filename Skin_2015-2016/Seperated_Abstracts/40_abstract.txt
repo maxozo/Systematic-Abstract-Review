@@ -1,0 +1,25 @@
+AU Al-Shobaili, HA
+   Rasheed, Z
+AF Al-Shobaili, Hani A.
+   Rasheed, Zafar
+TI Oxidized tyrosinase: A possible antigenic stimulus for non-segmental
+   vitiligo autoantibodies
+SO JOURNAL OF DERMATOLOGICAL SCIENCE
+AB Background: Vitiligo is a common pigmentary disorder, the precise etiology of which remains obscure. Tyrosinase, a key enzyme involved in melanin synthesis, has now been implicated as an autoantigen for vitiligo patients, but it is not clear how this prevalent protein becomes antigenic in vitiligo.
+   Objective: To investigate the status and contribution of oxidized tyrosinase in vitiligo and to explore whether oxidized tyrosinase has a role in disease progression.
+   Methods: Tyrosinase was modified by reactive-oxygen-species (ROS). Binding characteristics of antibodies in vitiligo patients (n = 25) with varying disease duration (DD) and disease severity were screened against ROS-modified tyrosinase (ROS-tyrosinase) by immunoassays and their results were compared with healthy controls (n = 23).
+   Results: The ROS caused extensive alterations in conformation and function of tyrosinase. Protein-A purified IgGs from vitiligo patients (Vt-IgG) showed strong binding to ROS-tyrosinase in comparison with IgGs from healthy controls (p < 0.001). Interestingly, not only was there an increased number of subjects positive for anti-ROS-tyrosinase-IgGs, but also the levels of these IgGs were significantly higher among vitiligo patients, whose DD were >= 10 years as compared to patients with short DD (<10 years). In addition, a significant correlation was observed between the levels of anti-ROS-tyrosinase-IgGs and the patients' ages or with disease severity. Experimentally induced anti-ROS-tyrosinase-IgGs show reactivity with tyrosinase from vitiligo patients. Furthermore, vitiligo patients had lower levels of tyrosinase activity compared with healthy controls. Not only these, levels of carbonylation were also higher among vitiligo patients whose DD were >= 10 years as compared to patients with DD < 10 years.
+   Conclusions: This is the first study to demonstrate the role of oxidized tyrosinase in vitiligo. Our novel results support an association between oxidized tyrosinase and vitiligo autoimmunity. The stronger antibodies response to oxidized tyrosinase in vitiligo patients with higher DD or with severe patients suggests that oxidized tyrosinase may be a useful biomarker in evaluating the progression of vitiligo and in elucidating the mechanisms of disease pathogenesis. (C) 2015 Japanese Society for Investigative Dermatology. Published by Elsevier Ireland Ltd. All rights reserved.
+SN 0923-1811
+EI 1873-569X
+PD SEP
+PY 2015
+VL 79
+IS 3
+BP 203
+EP 213
+DI 10.1016/j.jdermsci.2015.06.009
+UT WOS:000364501600003
+PM 26137927
+ER
+

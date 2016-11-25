@@ -1,0 +1,29 @@
+AU Wezynfeld, NE
+   Bonna, A
+   Bal, W
+   Fraczyk, T
+AF Wezynfeld, Nina Ewa
+   Bonna, Arkadiusz
+   Bal, Wojciech
+   Fraczyk, Tomasz
+TI Ni(II) ions cleave and inactivate human alpha-1 antitrypsin
+   hydrolytically, implicating nickel exposure as a contributing factor in
+   pathologies related to antitrypsin deficiency
+SO METALLOMICS
+AB Human alpha-1 antitrypsin (AAT) is an abundant serum protein present at a concentration of 1.0-1.5 g L-1. AAT deficiency is a genetic disease that manifests with emphysema and liver cirrhosis due to the accumulation of a misfolded AAT mutant in hepatocytes. Lung AAT amount is inversely correlated with chronic obstructive pulmonary disease (COPD), a serious and often deadly condition, with increasing frequency in the aging population. Exposure to cigarette smoke and products of fossil fuel combustion aggravates AAT deficiency and COPD according to mechanisms that are not fully understood. Taking into account that these fumes contain particles that can release nickel to human airways and skin, we decided to investigate interactions of AAT with Ni(II) ions within the paradigm of Ni(II)-dependent peptide bond hydrolysis. We studied AAT protein derived from human blood using HPLC, SDS-PAGE, and mass spectrometry. These studies were aided by spectroscopic experiments on model peptides. As a result, we identified three hydrolysis sites in AAT. Two of them are present in the N-terminal part of the molecule next to each other (before Thr-13 and Ser-14 residues) and effectively form one N-terminal cleavage site. The single C-terminal cleavage site is located before Ser-285. The N-terminal hydrolysis was more efficient than the C-terminal one, but both abolished the ability of AAT to inhibit trypsin in an additive manner. Nickel ions bound to hydrolysis products demonstrated an ability to generate ROS. These results implicate Ni(II) exposure as a contributing factor in AAT-related pathologies.
+OI Bonna, Arkadiusz/0000-0002-3957-7849; Fraczyk,
+   Tomasz/0000-0003-2084-3446
+SN 1756-5901
+EI 1756-591X
+PY 2015
+VL 7
+IS 4
+BP 596
+EP 604
+DI 10.1039/c4mt00316k
+UT WOS:000352785200003
+PM 25579632
+ER
+
+EF
+

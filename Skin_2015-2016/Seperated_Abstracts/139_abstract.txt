@@ -1,0 +1,25 @@
+AU Edelblute, CM
+   Pakhomova, ON
+   Li, FY
+   Hargrave, BY
+   Heller, LC
+AF Edelblute, Chelsea M.
+   Pakhomova, Olga N.
+   Li, Fanying
+   Hargrave, Barbara Y.
+   Heller, Loree C.
+TI Donor platelet plasma components inactivate sensitive and multidrug
+   resistant Acinetobacter baumannii isolates
+SO PATHOGENS AND DISEASE
+AB Acinetobacter baumannii is an environmentally resilient healthcare-associated opportunistic pathogen responsible for infections at many body sites. In the last 10 years, clinical strains resistant to many or all commonly used antibiotics have emerged globally. With few antimicrobial agents in the pharmaceutical pipeline, new and alternative agents are essential. Platelets secrete a large number of proteins, including proteins with antimicrobial activity. In a previous study, we demonstrated that donor platelet supernatants and plasma significantly inhibited the growth of a reference strain of A. baumannii in broth and on skin. This inhibition appeared to be unrelated to the platelet activation state. In this study, we demonstrate that this growth inhibition extends to clinical multidrug resistant isolates. We also demonstrate that there is no relationship between this activity and selected platelet-derived antimicrobial proteins. Instead, the donor plasma components complement and alpha-2 macroglobulin are implicated.
+SN 2049-632X
+PD DEC
+PY 2015
+VL 73
+IS 9
+AR ftv095
+DI 10.1093/femspd/ftv095
+UT WOS:000368404300015
+PM 26500225
+ER
+

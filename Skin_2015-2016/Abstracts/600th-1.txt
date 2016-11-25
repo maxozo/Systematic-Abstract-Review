@@ -1,0 +1,1715 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Bhattacharyya, S
+   Wang, WX
+   Graham, LV
+   Varga, J
+AF Bhattacharyya, Swati
+   Wang, Wenxia
+   Graham, Lauren Van Duyn
+   Varga, John
+TI A20 suppresses canonical Smad-dependent fibroblast activation: novel
+   function for an endogenous inflammatory modulator
+SO ARTHRITIS RESEARCH & THERAPY
+AB Background: The ubiquitin-editing cytosolic enzyme A20, the major negative regulator of toll-like receptor (TLR)-mediated cellular inflammatory responses, has tight genetic linkage with systemic sclerosis (SSc). Because recent studies implicate endogenous ligand-driven TLR signaling in SSc pathogenesis, we sought to investigate the regulation, role and mechanism of action of A20 in skin fibroblasts.
+   Method: A20 expression and the effects of forced A20 expression or siRNA-mediated A20 knockdown on fibrotic responses induced by transforming growth factor-beta (TGF-beta) were evaluated was evaluated in explanted human skin fibroblasts. Additionally, A20 regulation by TGF-beta, and by adiponectin, a pleiotropic adipokine with anti-fibrotic activity, was evaluated.
+   Results: In normal fibroblasts, TGF-beta induced sustained downregulation of A20, and abrogated its TLR4-dependent induction. Forced expression of A20 aborted the stimulation of collagen gene expression and myofibroblast transformation induced by TGF-beta, and disrupted canonical Smad signaling and Smad-dependent transcriptional responses. Conversely, siRNA-mediated knockdown of A20 enhanced the amplitude of fibrotic responses elicited by TGF-beta. Adiponectin, previously shown to block TLR-dependent fibrotic responses, elicited rapid and sustained increase in A20 accumulation in fibroblasts.
+   Conclusion: These results identify the ubiquitin-editing enzyme A20 as a novel endogenous mechanism for negative regulation of fibrotic response intensity. Systemic sclerosis-associated genetic variants of A20 that cause impaired A20 expression or function, combined with direct suppression of A20 by TGF-beta within the fibrotic milieu, might play a significant functional role in persistence of fibrotic responses, while pharmacological augmentation of A20 inhibitory pathway activity might represent a novel therapeutic strategy.
+SN 1478-6354
+EI 1478-6362
+PD OCT 3
+PY 2016
+VL 18
+AR 216
+DI 10.1186/s13075-016-1118-7
+UT WOS:000384609900003
+ER
+
+PT J
+AU Jin, T
+   Kim, MJ
+   Heo, WI
+   Park, KY
+   Choi, SY
+   Lee, MK
+   Hong, SP
+   Kim, SJ
+   Im, M
+   Moon, NJ
+   Seo, SJ
+AF Jin, Taewon
+   Kim, Min Jeong
+   Heo, Won Il
+   Park, Kui Young
+   Choi, Sun Young
+   Lee, Mi-Kyung
+   Hong, Seung-Phil
+   Kim, Seong-Jin
+   Im, Myung
+   Moon, Nam Ju
+   Seo, Seong Jun
+TI Adiponectin corrects premature cellular senescence and normalizes
+   antimicrobial peptide levels in senescent keratinocytes
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+AB Stress-induced premature senescence or aging causes dysfunction in the human somatic system. Adiponectin (Acrp30) plays a role in functional recovery, especially with adenosine 3',5'-monophosphate (AMP)-activated protein kinase (AMPK) and silent mating type information regulation 2 homolog 1 (SIRT1). Acrp30 stimulation reduced the premature senescence positive ratio induced by hydrogen peroxide (H2O2) and restituted human beta-defensin 2 (hBD-2) levels in senescent keratinocytes. Acrp30 recovered AMPK activity in senescent keratinocytes and increased SIRT1 deacetylation activity. As a result, FoxO1 and FoxO3 transcription activity was recovered. Additionally, Acrp30 stimulation suppresses NF kappa B p65, which induces abnormal expression of hBD-2 induced by H2O2. In the present study, we have shown that Acrp30 reduces premature senescence and recovers cellular function in keratinocytes. These results suggest a role for Acrp30 as an anti-aging agent to improve impaired skin immune barriers. (C) 2016 Elsevier Inc. All rights reserved.
+OI Jin, Taewon/0000-0001-6527-2099
+SN 0006-291X
+EI 1090-2104
+PD SEP 2
+PY 2016
+VL 477
+IS 4
+BP 678
+EP 684
+DI 10.1016/j.bbrc.2016.06.119
+UT WOS:000380969300025
+PM 27349869
+ER
+
+PT J
+AU Kim, M
+   Park, KY
+   Lee, MK
+   Jin, T
+   Seo, SJ
+AF Kim, MinJeong
+   Park, Kui Young
+   Lee, Mi-Kyung
+   Jin, Taewon
+   Seo, Seong Jun
+TI Adiponectin Suppresses UVB-Induced Premature Senescence and hBD2
+   Overexpression in Human Keratinocytes
+SO PLOS ONE
+AB Recent studies have revealed that adiponectin can suppress cellular inflammatory signaling pathways. This study aimed to elucidate the effect of adiponectin on the unregulated production of hBD2 in UVB-induced premature senescent keratinocytes. We constructed an in vitro model of premature senescent keratinocytes through repeated exposure to low energy UVB. After repeated low energy UVB exposure, there was significant generation of reactive oxygen species (ROS) and induction of senescence-associated markers, including senescence associated beta-galactosidase activity and expression of p16(INK4a) and histone H2AX. In addition, the present clinical study showed higher expression of hBD2 in sun-exposed skin of elderly group, and the overexpression of hBD2 was observed by c-Fos activation in vitro. Adiponectin has the ability to scavenge ROS and consequently inhibit MAPKs and SA-markers in UVB-exposed keratinocytes. An inhibitor study demonstrated that adiponectin downregulated hBD2 mRNA expression through suppression of the AP-1 transcription factor components c-Fos via inactivation of p38 MAPK. Collectively, the dysregulated production of hBD2 by the induction of oxidative stress was attenuated by adiponectin through the suppression of p38 and JNK/SAPK MAPK signaling in UVB-mediated premature senescent inducible conditions. These results suggest the feasibility of adiponectin as an anti-photoaging and anti-inflammatory agent in the skin.
+SN 1932-6203
+PD AUG 15
+PY 2016
+VL 11
+IS 8
+AR e0161247
+DI 10.1371/journal.pone.0161247
+UT WOS:000381471100047
+PM 27526049
+ER
+
+PT J
+AU Van Eps, J
+   Fernandez-Moure, J
+   Cabrera, F
+   Wang, X
+   Karim, A
+   Corradetti, B
+   Chan, PG
+   Dunkin, B
+   Tasciotti, E
+   Weiner, B
+   Ellsworth, W
+AF Van Eps, Jeffrey
+   Fernandez-Moure, Joseph
+   Cabrera, Fernando
+   Wang, Xin
+   Karim, Azim
+   Corradetti, Bruna
+   Chan, Paige
+   Dunkin, Brian
+   Tasciotti, Ennio
+   Weiner, Bradley
+   Ellsworth, Warren
+TI Decreased hernia recurrence using autologous platelet-rich plasma (PRP)
+   with Strattice (TM) mesh in a rodent ventral hernia model
+SO SURGICAL ENDOSCOPY AND OTHER INTERVENTIONAL TECHNIQUES
+CT Annual Meeting of the
+   Society-of-American-Gastrointestinal-and-Endoscopic-Surgeons (SAGES)
+CY APR 15-18, 2015
+CL Nashville, TN
+SP Soc Amer Gastrointestinal & Endoscop Surg
+AB Recurrence after ventral hernia repair (VHR) remains a multifactorial problem still plaguing surgeons today. Some of the many contributing factors include mechanical strain, poor tissue-mesh integration, and degradation of matrices. The high recurrence rate witnessed with the use of acellular dermal matrices (ADM) for definitive hernia repair has reduced their use largely to bridging repair and breast reconstruction. Modalities that improve classic cellular metrics of successful VHR could theoretically result in improved rates of hernia recurrence; autologous platelet-rich plasma (PRP) may represent one such tool, but has been underinvestigated for this purpose.
+   Lewis rats (32) had chronic ventral hernias created surgically and then repaired with Strattice (TM) mesh alone (control) or mesh + autologous PRP. Samples were harvested at 3 and 6 months postoperatively and compared for gross, histologic, and molecular outcomes of: neovascularization, tissue incorporation, peritoneal adhesions, hernia recurrence, and residual mesh thickness.
+   Compared to control at 3 months postoperatively, PRP-treated rats displayed significantly more neovascularization of implanted mesh and considerable upregulation of both angiogenic genes (vEGF 2.73-fold, vWF 2.21-fold) and myofibroblastic genes (alpha SMA 9.68-fold, FSP-1 3.61-fold, Col1a1 3.32-fold, Col31a1 3.29-fold). Histologically, they also showed enhanced tissue deposition/ingrowth and diminished chronic immune cell infiltration. Peritoneal adhesions were less severe at both 3 (1.88 vs. 2.94) and 6 months (1.63 vs. 2.75) by Modified Hopkins Adhesion Scoring. PRP-treated rats experienced decreased hernia recurrence at 6 months (0/10 vs. 7/10) and had significantly improved ADM preservation as evidenced by quantification of residual mesh thickness.
+   PRP is an autologous source of pro-regenerative growth factors and chemokines uniquely suited to soft tissue wound healing. When applied to a model of chronic VHR, it incites enhanced angiogenesis, myofibroblast recruitment and tissue ingrowth, ADM preservation, less severe peritoneal adhesions, and diminished hernia recurrence. We advocate further investigation regarding PRP augmentation of human VHR.
+RI Cabrera, Fernando/L-8483-2016; Tasciotti, Ennio/J-8309-2015
+OI Cabrera, Fernando/0000-0002-8651-6790; Tasciotti,
+   Ennio/0000-0003-1187-3205
+SN 0930-2794
+EI 1432-2218
+PD AUG
+PY 2016
+VL 30
+IS 8
+BP 3239
+EP 3249
+DI 10.1007/s00464-015-4645-4
+UT WOS:000381097700010
+PM 26578432
+ER
+
+PT J
+AU Chiantore, MV
+   Mangino, G
+   Iuliano, M
+   Zangrillo, MS
+   De Lillis, I
+   Vaccari, G
+   Accardi, R
+   Tommasino, M
+   Cabezas, SC
+   Federico, M
+   Fiorucci, G
+   Romeo, G
+AF Chiantore, Maria Vincenza
+   Mangino, Giorgio
+   Iuliano, Marco
+   Zangrillo, Maria Simona
+   De Lillis, Ilaria
+   Vaccari, Gabriele
+   Accardi, Rosita
+   Tommasino, Massimo
+   Cabezas, Sandra Columba
+   Federico, Maurizio
+   Fiorucci, Gianna
+   Romeo, Giovanna
+TI Human papillomavirus E6 and E7 oncoproteins affect the expression of
+   cancer-related microRNAs: additional evidence in HPV-induced
+   tumorigenesis
+SO JOURNAL OF CANCER RESEARCH AND CLINICAL ONCOLOGY
+AB Human papillomaviruses (HPVs) are the causative agents of cervical cancer and are also associated with other types of cancers. HPVs can modulate microRNAs (miRNAs) expressed by infected cells. The production of extracellular vesicles is deregulated in cancer, and their cargo delivered to the microenvironment can promote tumorigenesis. The involvement of HPV oncoproteins on miRNA expression in cells and exosomes was analyzed in keratinocytes transduced with E6 and E7 from mucosal HPV-16 or cutaneous HPV-38 (K16 and K38).
+   MiRNAs were investigated through the TaqMan Array Human MicroRNA Cards, followed by real-time RT-PCR assay for specific miRNAs. Selected miRNA targets were analyzed by Western blot and correlated to the HPV oncoproteins by specifically silencing E6 and E7 expression. Exosomes, isolated from K16 and K38 supernatants by differential centrifugations, were quantified through the vesicle-associated acetylcholinesterase activity.
+   MiRNAs deregulated in K16 and K38 cells were identified. HPV-16 and/or HPV-38 E6 and E7 single proteins can modify the expression of selected miRNAs involved in the tumorigenesis, in particular miR-18a, -19a, -34a and -590-5p. The analysis of the content of exosomes isolated from HPV-positive cells revealed the presence of E6 and E7 mRNAs and few miRNAs. MiR-222, a key miRNA deregulated in many cancers, was identified in exosomes from K16 cells.
+   HPV E6 and/or E7 oncoprotein expression can induce the deregulation of some miRNAs. Through the production and function of exosomes, HPV oncogenes as well as HPV-deregulated miRNAs can potentiate the virus oncogenic effects in the tumor cell microenvironment.
+RI Vaccari, Gabriele/A-9597-2010
+OI Vaccari, Gabriele/0000-0003-0215-3521
+SN 0171-5216
+EI 1432-1335
+PD AUG
+PY 2016
+VL 142
+IS 8
+BP 1751
+EP 1763
+DI 10.1007/s00432-016-2189-1
+UT WOS:000380270700008
+PM 27300513
+ER
+
+PT J
+AU Yamane, T
+   Muramatsu, A
+   Shimura, M
+   Kobayashi-Hattori, K
+   Oishi, Y
+AF Yamane, Takumi
+   Muramatsu, Aimi
+   Shimura, Mari
+   Kobayashi-Hattori, Kazuo
+   Oishi, Yuichi
+TI Transforming growth factor-1 induces cholesterol synthesis by increasing
+   HMG-CoA reductase mRNA expression in keratinocytes
+SO BIOSCIENCE BIOTECHNOLOGY AND BIOCHEMISTRY
+AB In this study, we investigated the effect of TGF-1 on cholesterol synthesis in human keratinocytes. TGF-1 increased the level of cholesterol and the mRNA level of 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase in human keratinocytes. These results show that TGF-1 induces cholesterol synthesis by increasing HMG-CoA reductase mRNA expression in human keratinocytes.
+SN 0916-8451
+EI 1347-6947
+PD JUL
+PY 2016
+VL 80
+IS 7
+BP 1379
+EP 1381
+DI 10.1080/09168451.2016.1153960
+UT WOS:000379186000017
+PM 26932266
+ER
+
+PT J
+AU Saito, M
+   Tanaka, M
+   Misawa, E
+   Yao, RQ
+   Nabeshima, K
+   Yamauchi, K
+   Abe, F
+   Yamamoto, Y
+   Furukawa, F
+AF Saito, Marie
+   Tanaka, Miyuki
+   Misawa, Eriko
+   Yao, Ruiquing
+   Nabeshima, Kazumi
+   Yamauchi, Kouji
+   Abe, Fumiaki
+   Yamamoto, Yuki
+   Furukawa, Fukumi
+TI Oral administration of Aloe vera gel powder prevents UVB-induced
+   decrease in skin elasticity via suppression of overexpression of MMPs in
+   hairless mice
+SO BIOSCIENCE BIOTECHNOLOGY AND BIOCHEMISTRY
+AB This study reports the effects of oral Aloe vera gel powder (AVGP) containing Aloe sterols on skin elasticity and the extracellular matrix in ultraviolet B (UVB)-irradiated hairless mice. Ten-week-old hairless mice were fed diets containing 0.3% AVGP for 8weeks and irradiated UVB for 6weeks. Mice treated with AVGP showed significant prevention of the UVB-induced decrease in skin elasticity. To investigate the mechanism underlying this suppression of skin elasticity loss, we measured the expression of matrix metalloproteinase (MMP)-2, -9, and -13. AVGP prevented both the UVB-induced increases in MMPs expressions. Moreover, we investigated hyaluronic acid (HA) content of mice dorsal skin and gene expression of HA synthase-2 (Has2). In the results, AVGP oral administration prevented UVB-induced decreasing in skin HA content and Has2 expression and attenuates the UVB-induced decrease in serum adiponectin, which promotes Has2 expression. These results suggested that AVGP has the ability to prevent the skin photoaging.
+SN 0916-8451
+EI 1347-6947
+PD JUL
+PY 2016
+VL 80
+IS 7
+BP 1416
+EP 1424
+DI 10.1080/09168451.2016.1156480
+UT WOS:000379186000024
+PM 27045316
+ER
+
+PT J
+AU Hong, CH
+   Lee, CH
+   Yu, HS
+   Huang, SK
+AF Hong, Chien-Hui
+   Lee, Chih-Hung
+   Yu, Hsin-Su
+   Huang, Shau-Ku
+TI Benzopyrene, a major polyaromatic hydrocarbon in smoke fume, mobilizes
+   Langerhans cells and polarizes Th2/17 responses in epicutaneous protein
+   sensitization through the aryl hydrocarbon receptor
+SO INTERNATIONAL IMMUNOPHARMACOLOGY
+AB Background: Atopic dermatitis (AD) is a common disease with genetic and environmental interactions. We previously reported lifetime exposure to cigarette smoke is associated with adult-onset AD. Aryl hydrocarbon receptor (AhR) is important in regulating environmental exposure to xenobiotics, including benzopyrenes (BP), a major polycyclic aromatic hydrocarbon (PAH) present in cigarette smoke. However, how AhR regulates immune responses in sensitization phase of AD remained elusive.
+   Methods: We investigated how BP affects epicutaneous sensitization response through AhR axis. We compared AhR expression in skin from AD patients and healthy controls. We measured immune responses (Langerhans cell migration and T cell polarization in epicutaneous Ova sensitization in mice with or without AhR defect.
+   Results: We found AhR and ARNT (AhR nuclear translocator) are upregulated in AD skin. BP exposure increases Langerhans cell migration, and increases IL-5, IL-13, and IL-17 levels when lymph node cells were re-challenged with Ova. The increased cytokine levels were attenuated in AhR defected mice. AhR agonists (BP and ITE) decreased E-cadherin expression, while AhR antagonist (CH223191) increased it in human primary keratinocytes.
+   Conclusions: These results suggested AhR interacts with BP to polarize T cell responses, along with Langerhans cell migration. This study revealed a regulatory mechanism how cigarette smoking affects atopic sensitization through the benzopyrene-AhR interaction. (C) 2016 Elsevier B.V. All rights reserved.
+SN 1567-5769
+EI 1878-1705
+PD JUL
+PY 2016
+VL 36
+BP 111
+EP 117
+DI 10.1016/j.intimp.2016.04.017
+UT WOS:000378453300015
+PM 27129092
+ER
+
+PT J
+AU Composto, GM
+   Laskin, JD
+   Laskin, DL
+   Gerecke, DR
+   Casillas, RP
+   Heindel, ND
+   Joseph, LB
+   Heck, DE
+AF Composto, Gabriella M.
+   Laskin, Jeffrey D.
+   Laskin, Debra L.
+   Gerecke, Donald R.
+   Casillas, Robert P.
+   Heindel, Ned D.
+   Joseph, Laurie B.
+   Heck, Diane E.
+TI Mitigation of nitrogen mustard mediated skin injury by a novel
+   indomethacin bifunctional prodrug
+SO EXPERIMENTAL AND MOLECULAR PATHOLOGY
+AB Nitrogen mustard (NM) is a bifunctional alkylating agent that is highly reactive in the skin causing extensive tissue damage and blistering. In the present studies, a modified cutaneous murine patch model was developed to characterize NM-induced injury and to evaluate the efficacy of an indomethacin pro-drug in mitigating toxicity. NM (20 mol) or vehicle control was applied onto 6 mm glass microfiber filters affixed to the shaved dorsal skin of CD-1 mice for 6 min. This resulted in absorption of approximately 4 mu mol of NM. NM caused localized skin damage within 1 d, progressing to an eschar within 2-3 d, followed by wound healing after 4-5 d. NM-induced injury was associated with increases in skin thickness, inflammatory cell infiltration, reduced numbers of sebocytes, basal keratinocyte double stranded DNA breaks, as measured by phospho-histone 2A.X expression, mast cell degranulation and increases in inducible nitric oxide synthase (iNOS) and cyclooxygenase-2 (COX-2). Wound healing was characterized by epidermal hyperplasia and marked increases in basal cells expressing proliferating cell nuclear antigen. A novel indomethacin-anticholinergic prodrug (4338) designed to target cyclooxygenases and acetylcholinesterase (AChE), was found to markedly suppress NM toxicity, decreasing wound thickness and eschar formation. The prodrug also inhibited mast cell degranulation, suppressed keratinocyte expression of iNOS and COX-2, as well as markers of epidermal proliferation. These findings indicate that a novel bifunctional pro-drug is effective in limiting NM mediated dermal injury. Moreover, our newly developed cutaneous patch model is a sensitive and reproducible method to assess the mechanism of action of countermeasures. (C) 2016 Published by Elsevier Inc.
+SN 0014-4800
+EI 1096-0945
+PD JUN
+PY 2016
+VL 100
+IS 3
+BP 522
+EP 531
+DI 10.1016/j.yexmp.2016.05.008
+UT WOS:000377927000022
+PM 27189522
+ER
+
+PT J
+AU Harden, JL
+   Lewis, SM
+   Lish, SR
+   Suarez-Farinas, M
+   Gareau, D
+   Lentini, T
+   Johnson-Huang, LM
+   Krueger, JG
+   Lowes, MA
+AF Harden, Jamie L.
+   Lewis, Steven M.
+   Lish, Samantha R.
+   Suarez-Farinas, Mayte
+   Gareau, Daniel
+   Lentini, Tim
+   Johnson-Huang, Leanne M.
+   Krueger, James G.
+   Lowes, Michelle A.
+TI The tryptophan metabolism enzyme L-kynureninase is a novel inflammatory
+   factor in psoriasis and other inflammatory diseases
+SO JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY
+AB Background: Many human diseases arise from or have pathogenic contributions from a dysregulated immune response. One pathway with immunomodulatory ability is the tryptophan metabolism pathway, which promotes immune suppression through the enzyme indoleamine 2,3-dioxygenase (IDO) and subsequent production of kynurenine. However, in patients with chronic inflammatory skin disease, such as psoriasis and atopic dermatitis (AD), another tryptophan metabolism enzyme downstream of IDO, L-kynureninase (KYNU), is heavily upregulated. The role of KYNU has not been explored in patients with these skin diseases or in general human immunology.
+   Objective: We sought to explore the expression and potential immunologic function of the tryptophan metabolism enzyme KYNU in inflammatory skin disease and its potential contribution to general human immunology.
+   Methods: Psoriatic skin biopsy specimens, as well as normal human skin, blood, and primary cells, were used to investigate the immunologic role of KYNU and tryptophan metabolites.
+   Results: Here we show that KYNU 1 cells, predominantly of myeloid origin, infiltrate psoriatic lesional skin. KYNU expression positively correlates with disease severity and inflammation and is reduced on successful treatment of psoriasis or AD. Tryptophan metabolites downstream of KYNU upregulate several cytokines, chemokines, and cell adhesions. By mining data on several human diseases, we found that in patients with cancer, IDO is preferentially upregulated compared with KYNU, whereas in patients with inflammatory diseases, such as AD, KYNU is preferentially upregulated compared with IDO.
+   Conclusion: Our results suggest that tryptophan metabolism might dichotomously modulate immune responses, with KYNU as a switch between immunosuppressive versus inflammatory outcomes. Although tryptophan metabolism is increased in many human diseases, how tryptophan metabolism is proceeding might qualitatively affect the immune response in patients with that disease.
+SN 0091-6749
+EI 1097-6825
+PD JUN
+PY 2016
+VL 137
+IS 6
+BP 1830
+EP 1840
+DI 10.1016/j.jaci.2015.09.055
+UT WOS:000377527200025
+PM 26725996
+ER
+
+PT J
+AU Kim, EJ
+   Kim, YK
+   Kim, MK
+   Kim, S
+   Kim, JY
+   Lee, DH
+   Chung, JH
+AF Kim, Eun Ju
+   Kim, Yeon Kyung
+   Kim, Min-Kyoung
+   Kim, Sungsoo
+   Kim, Jin Yong
+   Lee, Dong Hun
+   Chung, Jin Ho
+TI UV-induced inhibition of adipokine production in subcutaneous fat
+   aggravates dermal matrix degradation in human skin
+SO SCIENTIFIC REPORTS
+AB Ultraviolet (UV) exposure to the human skin reduces triglycerides contents and lipid synthesis in the subcutaneous (SC) fat. Because adiponectin and leptin are the most abundant adipokines from the SC fat, we aim to investigate how they interact with UV exposure and skin aging. The expressions of adiponectin and leptin were significantly decreased in SC fat of sun-exposed forearm skin, in comparison with that of sun-protected buttock skin of the same elderly individuals, indicating that chronic UV exposure decreases both adipokines. Acute UV irradiation also decreased the expressions of adiponectin and leptin in SC fat. The expressions of adiponectin receptor 1/2 and leptin receptor were significantly decreased in the dermis as well as in SC fat. Moreover, while exogenous adiponectin and leptin administration prevented UV-and TNF-alpha induced matrix metalloproteinase (MMP)-1 expression, they also increased UV-and TNF-alpha induced reduction of type1 procollagen production. Silencing of adiponectin, leptin or their receptors led to an increased MMP-1 and a decreased type1 procollagen expression, which was reversed by treatment with recombinant human adiponectin or leptin. In conclusion, UV exposure decreases the expression of adiponectin and leptin, leading to the exacerbation of photoaging by stimulating MMP-1 expression and inhibiting procollagen synthesis.
+SN 2045-2322
+PD MAY 10
+PY 2016
+VL 6
+AR 25616
+DI 10.1038/srep25616
+UT WOS:000375440100001
+PM 27161953
+ER
+
+PT J
+AU Shimizu, A
+   Kaira, K
+   Mori, K
+   Kato, M
+   Shimizu, K
+   Yasuda, M
+   Takahashi, A
+   Oyama, T
+   Asao, T
+   Ishikawa, O
+AF Shimizu, Akira
+   Kaira, Kyoichi
+   Mori, Keita
+   Kato, Madoka
+   Shimizu, Kimihiro
+   Yasuda, Masahito
+   Takahashi, Ayumi
+   Oyama, Tetsunari
+   Asao, Takayuki
+   Ishikawa, Osamu
+TI Prognostic significance of beta 2-adrenergic receptor expression in
+   malignant melanoma
+SO TUMOR BIOLOGY
+AB Recent studies cite beta 2-adrenergic receptor (beta 2AR) antagonists as novel therapeutic agents for melanoma, as they may reduce the disease progression. The beta 2AR has shown to be expressed in malignant melanoma. However, it remains unclear whether the beta 2AR expression has a clinical and pathological significance in patients with cutaneous malignant melanoma. We herein conducted a clinicopathological study to investigate the protein expression of beta 2AR in malignant melanoma of the skin and its prognostic significance. One hundred thirty-three patients with surgically resected cutaneous malignant melanoma were evaluated. Tumor sections were stained by immunohistochemistry for beta 2AR, Ki-67, the microvessel density (MVD) determined by CD34, and p53. beta 2AR was highly expressed in 44.4 % (59 out of 133) of the patients. The expression of beta 2AR was significantly associated with the tumor thickness, ulceration, T factor, N factor, disease stage, tumor size, cell proliferation (Ki-67), and MVD (CD34). Using Spearman's rank test, the beta 2AR expression was correlated with Ki-67 (r=0.278; 95 % CI, 0.108 to 0.432; P=0.001), CD34 (r=0.445; 95 % CI, 0.293 to 0.575; P< 0.001), and the tumor size (r=0.226; 95 % CI, 0.053 to 0.386; P=0.008). Using a univariate analysis, the tumor thickness, ulceration, disease stage, beta 2AR, Ki-67, and CD34 had a significant relationship with the overall and progression-free survivals. A multivariable analysis confirmed that beta 2AR was an independent prognostic factor for predicting a poor overall survival (HR 1.730; 95 % CI 1.221-2.515) and progression-free survival (HR 1.576; 95 % CI 1.176-2.143) of malignant melanoma of the skin. beta 2AR can serve as a promising prognostic factor for predicting a worse outcome after surgical treatment and may play an important role in the development and aggressiveness of malignant melanoma.
+SN 1010-4283
+EI 1423-0380
+PD MAY
+PY 2016
+VL 37
+IS 5
+BP 5971
+EP 5978
+DI 10.1007/s13277-015-4420-0
+UT WOS:000376465800036
+PM 26596834
+ER
+
+PT J
+AU Hu, TT
+   Pan, ZY
+   Yu, Q
+   Mo, XH
+   Song, NJ
+   Yan, M
+   Zouboulis, CC
+   Xia, LQ
+   Ju, Q
+AF Hu, Tingting
+   Pan, Zhanyan
+   Yu, Qian
+   Mo, Xiaohui
+   Song, Ningjing
+   Yan, Min
+   Zouboulis, Christos C.
+   Xia, Longqing
+   Ju, Qiang
+TI Benzo(a)pyrene induces interleukin (IL)-6 production and reduces lipid
+   synthesis in human SZ95 sebocytes via the aryl hydrocarbon receptor
+   signaling pathway
+SO ENVIRONMENTAL TOXICOLOGY AND PHARMACOLOGY
+AB In this study, we determined the effects of benzo(a)pyrene (BaP) on the expression of aryl hydrocarbon receptor (AhR) and cytochrome P450 1A1 (CYP1A1), and assessed the action of BaP on inflammatory cytokine expression and lipid synthesis in SZ95 sebocytes in vitro. BaP (10(-8), 10(-7), 10(-6) and 10(-5) M) was not cytotoxic for SZ95 sebocytes after 24 h exposure. Expression of AhR was promoted in mRNA lever, while was inhibited in protein lever after BaP (10(-5) M) exposure. CYP1A1 expression was up-regulated in both mRNA and protein levels. BaP (10(-5) M) exerted a stimulatory action on interleukin (IL)-6 secretion, while a dose-dependently inhibitory effect on lipid synthesis from 10(-8) M to 10(-5) M in SZ95 sebocytes. Both actions were partly antagonized in AhR-knockdowned SZ95 sebocytes. This study demonstrates that BaP can activate AhR signaling pathway, and exhibits pro-inflammatory effects and inhibitory effects on sebum production in human sebocytes. (C) 2016 Elsevier B.V. All rights reserved.
+RI Prof. Dr. Zouboulis, Christos/I-4493-2013
+OI Prof. Dr. Zouboulis, Christos/0000-0003-1646-2608
+SN 1382-6689
+EI 1872-7077
+PD APR
+PY 2016
+VL 43
+BP 54
+EP 60
+DI 10.1016/j.etap.2016.02.011
+UT WOS:000375501700008
+PM 26963242
+ER
+
+PT J
+AU Veettil, MV
+   Kumar, B
+   Ansari, MA
+   Dutta, D
+   Iqbal, J
+   Gjyshi, O
+   Bottero, V
+   Chandran, B
+AF Veettil, Mohanan Valiya
+   Kumar, Binod
+   Ansari, Mairaj Ahmed
+   Dutta, Dipanjan
+   Iqbal, Jawed
+   Gjyshi, Olsi
+   Bottero, Virginie
+   Chandran, Bala
+TI ESCRT-0 Component Hrs Promotes Macropinocytosis of Kaposi's
+   Sarcoma-Associated Herpesvirus in Human Dermal Microvascular Endothelial
+   Cells
+SO JOURNAL OF VIROLOGY
+AB Kaposi's sarcoma-associated herpesvirus (KSHV) enters human dermal microvascular endothelial cells (HMVEC-d), its natural in vivo target cells, by lipid raft-dependent macropinocytosis. The internalized viral envelope fuses with the macropinocytic membrane, and released capsid is transported to the nuclear vicinity, resulting in the nuclear entry of viral DNA. The endosomal sorting complexes required for transport (ESCRT) proteins, which include ESCRT-0, -I, -II, and -III, play a central role in endosomal trafficking and sorting of internalized and ubiquitinated receptors. Here, we examined the role of ESCRT-0 component Hrs (hepatocyte growth factor-regulated tyrosine kinase substrate) in KSHV entry into HMVEC-d by macropinocytosis. Knockdown of Hrs by short hairpin RNA (shRNA) transduction resulted in significant decreases in KSHV entry and viral gene expression. Immunofluorescence analysis (IFA) and plasma membrane isolation and proximity ligation assay (PLA) demonstrated the translocation of Hrs from the cytosol to the plasma membrane of infected cells and association with alpha-actinin-4. In addition, infection induced the plasma membrane translocation and activation of the serine/threonine kinase ROCK1, a downstream target of the RhoA GTPase. Hrs knockdown reduced these associations, suggesting that the recruitment of ROCK1 is an Hrs-mediated event. Interaction between Hrs and ROCK1 is essential for the ROCK1-induced phosphorylation of NHE1 (Na+/H+ exchanger 1), which is involved in the regulation of intracellular pH. Thus, our studies demonstrate the plasma membrane association of ESCRT protein Hrs during macropinocytosis and suggest that KSHV entry requires both Hrs- and ROCK1-dependent mechanisms and that ROCK1-mediated phosphorylation of NHE1 and pH change is an essential event required for the macropinocytosis of KSHV.
+   IMPORTANCE
+   Macropinocytosis is the major entry pathway of KSHV in human dermal microvascular endothelial cells, the natural target cells of KSHV. Although the role of ESCRT protein Hrs has been extensively studied with respect to endosomal movement and sorting of ubiquitinated proteins into lysosomes, its function in macropinocytosis is not known. In the present study, we demonstrate for the first time that upon KSHV infection, the endogenous Hrs localizes to the plasma membrane and the membrane-associated Hrs facilitates assembly of signaling molecules, macropinocytosis, and virus entry. Hrs recruits ROCK1 to the membrane, which is required for the activation of NHE1 and an increase in submembranous intracellular pH occurring during macropinocytosis. These studies demonstrate that the localization of Hrs from the cytosol to the plasma membrane is important for coupling membrane dynamics to the cytosolic signaling events during macropinocytosis of KSHV.
+SN 0022-538X
+EI 1098-5514
+PD APR
+PY 2016
+VL 90
+IS 8
+BP 3860
+EP 3872
+DI 10.1128/JVI.02704-15
+UT WOS:000375123800008
+PM 26819309
+ER
+
+PT J
+AU Kovacs, D
+   Lovaszi, M
+   Poliska, S
+   Olah, A
+   Biro, T
+   Veres, I
+   Zouboulis, CC
+   Stahle, M
+   Ruhl, R
+   Remenyik, E
+   Torocsik, D
+AF Kovacs, Dora
+   Lovaszi, Marianna
+   Poliska, Szilard
+   Olah, Attila
+   Biro, Tamas
+   Veres, Imre
+   Zouboulis, Christos C.
+   Stahle, Mona
+   Ruehl, Ralph
+   Remenyik, Eva
+   Torocsik, Daniel
+TI Sebocytes differentially express and secrete adipokines
+SO EXPERIMENTAL DERMATOLOGY
+AB In addition to producing sebum, sebocytes link lipid metabolism with inflammation at a cellular level and hence, greatly resemble adipocytes. However, so far no analysis was performed to identify and characterize the adipocyte-associated inflammatory proteins, the members of the adipokine family in sebocytes. Therefore, we determined the expression profile of adipokines [ adiponectin, interleukin (IL) 6, resistin, leptin, serpin E1, visfatin, apelin, chemerin, retinol-binding protein 4 (RBP4) and monocyte chemoattractant protein 1 (MCP1)] in sebaceous glands of healthy and various disease-affected (acne, rosacea, melanoma and psoriasis) skin samples. Sebaceous glands in all examined samples expressed adiponectin, IL6, resistin, leptin, serpin E1 and visfatin, but not apelin, chemerin, RBP4 and MCP1. Confirming the presence of the detected adipokines in the human SZ95 sebaceous gland cell line we further characterized their expression and secretion patterns under different stimuli mimicking bacterial invasion [ by using Toll-like receptor (TLR) 2 and 4 activators], or by 13-cis retinoic acid (13CRA; also known as isotretinoin), a key anti-acne agent. With the exception of resistin, the expression of all of the detected adipokines (adiponectin, IL6, leptin, serpin E1 and visfatin) could be further regulated at the level of gene expression, showing a close correlation with the secreted protein levels. Besides providing further evidence on similarities between adipocytes and sebocytes, our results strongly suggest that sebocytes are not simply targets of inflammation but may exhibit initiatory and modulatory roles in the inflammatory processes of the skin through the expression and secretion of adipokines.
+RI Prof. Dr. Zouboulis, Christos/I-4493-2013; 
+OI Prof. Dr. Zouboulis, Christos/0000-0003-1646-2608; Olah,
+   Attila/0000-0003-4122-5639
+SN 0906-6705
+EI 1600-0625
+PD MAR
+PY 2016
+VL 25
+IS 3
+BP 194
+EP 199
+DI 10.1111/exd.12879
+UT WOS:000373072800283
+PM 26476096
+ER
+
+PT J
+AU Reinke, L
+   Lam, AP
+   Flozak, AS
+   Varga, J
+   Gottardi, CJ
+AF Reinke, Lauren
+   Lam, Anna P.
+   Flozak, Annette S.
+   Varga, John
+   Gottardi, Cara J.
+TI Adiponectin inhibits Wnt co-receptor, Lrp6, phosphorylation and
+   beta-catenin signaling
+SO BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+AB Adiponectin is a pleiotropic adipokine implicated in obesity, metabolic syndrome and cardiovascular disease. Recent studies have identified adiponectin as a negative regulator of tissue fibrosis. Wnt/beta-catenin signaling has also been implicated in metabolic syndrome and can promote tissue fibrosis, but the extent to which adiponectin cross-regulates Wnt/beta-catenin signaling is unknown. Using primary human dermal fibroblasts and recombinant purified proteins, we show that adiponectin can limit beta-catenin accumulation and downstream gene activation by inhibiting Lrp6 phosphorylation, a key activation step in canonical Wnt signaling. Inhibition of Wnt3a-mediated Lrp6 phospho-activation is relatively rapid (e.g., by 30 min), and is not dependent on established adiponectin G-protein coupled receptors, AdipoR1 and R2, suggesting a more direct relationship to Lrp6 signaling. In contrast, the ability of adiponectin to limit Wnt-induced and baseline collagen production in fibroblasts requires AdipoR1/R2. These results suggest the possibility that the pleiotropic effects of adiponectin may be mediated through distinct cell surface receptor complexes. Accordingly, we propose that the anti-fibrotic activity of adiponectin may be mediated through AdipoR1/R2 receptors, while the ability of adiponectin to inhibit Lrp6 phospho-activation may be relevant to other recently established roles for Lrp6 signaling in glucose metabolism and metabolic syndrome. Published by Elsevier Inc.
+OI Gottardi, Cara/0000-0003-0912-7617
+SN 0006-291X
+EI 1090-2104
+PD FEB 12
+PY 2016
+VL 470
+IS 3
+BP 606
+EP 612
+DI 10.1016/j.bbrc.2016.01.097
+UT WOS:000370467100022
+PM 26797284
+ER
+
+PT J
+AU Ishii, Y
+   Saeki, K
+   Liu, M
+   Sasaki, F
+   Koga, T
+   Kitajima, K
+   Meno, C
+   Okuno, T
+   Yokomizo, T
+AF Ishii, Yumiko
+   Saeki, Kazuko
+   Liu, Min
+   Sasaki, Fumiyuki
+   Koga, Tomoaki
+   Kitajima, Keiko
+   Meno, Chikara
+   Okuno, Toshiaki
+   Yokomizo, Takehiko
+TI Leukotriene B-4 receptor type 2 (BLT2) enhances skin barrier function by
+   regulating tight junction proteins
+SO FASEB JOURNAL
+AB GPCRs are involved in numerous physiologic functions and are important drug targets. Although the epithelial barrier is important for protection from invading pathogens, the correlation between GPCRs and epithelial barrier function remains unknown. Leukotriene B-4 (LTB4) receptor type 2 (BLT2), mainly expressed in epithelial cells, is a GPCR for 12(S)-hydroxyheptadeca-5Z, 8E, 10E-trienoic acid (12-HHT) and LTB4. In our study, BLT2 localized at the lateral membrane in BLT2-overexpressing Madin-Darby canine kidney (MDCK) II cells and in the small intestine of BLT2-transgenic mice. BLT2-deficient mice exhibited higher transepidermal water loss and were more sensitive to epicutaneous sensitization. MDCK-BLT2 cells recovered transepithelial electrical resistance (TER) after a calcium switch faster than did MDCK-Mock cells, and 12-HHT stimulation accelerated TER recovery only in MDCK-BLT2 cells. Quantitative PCR and immunoblot analyses revealed that the 12-HHT/BLT2 axis up-regulated claudin-4 (CLDN4) expression in MDCK-BLT2 cells and human primary keratinocytes, and CLDN4 knockdown abolished 12-HHT-dependent TER recovery. Acceleration of TER recovery and induction of CLDN4 expression by 12-HHT stimulation were abolished by inhibition of G alpha(i) protein or p38 MAPK. These results show that 12-HHT/BLT2 enhances epithelial barrier function by increasing CLDN4 expression via the Gai protein-p38 MAPK pathway.
+SN 0892-6638
+EI 1530-6860
+PD FEB
+PY 2016
+VL 30
+IS 2
+BP 933
+EP 947
+DI 10.1096/fj.15-279653
+UT WOS:000369391900040
+PM 26527063
+ER
+
+PT J
+AU Myers, JS
+   von Lersner, AK
+   Sang, QXA
+AF Myers, Jennifer S.
+   von Lersner, Ariana K.
+   Sang, Qing-Xiang Amy
+TI Proteomic Upregulation of Fatty Acid Synthase and Fatty Acid Binding
+   Protein 5 and Identification of Cancer- and Race-Specific Pathway
+   Associations in Human Prostate Cancer Tissues
+SO JOURNAL OF CANCER
+AB Protein profiling studies of prostate cancer have been widely used to characterize molecular differences between diseased and non-diseased tissues. When combined with pathway analysis, profiling approaches are able to identify molecular mechanisms of prostate cancer, group patients by cancer subtype, and predict prognosis. This strategy can also be implemented to study prostate cancer in very specific populations, such as African Americans who have higher rates of prostate cancer incidence and mortality than other racial groups in the United States. In this study, age-, stage-, and Gleason score-matched prostate tumor specimen from African American and Caucasian American men, along with non-malignant adjacent prostate tissue from these same patients, were compared. Protein expression changes and altered pathway associations were identified in prostate cancer generally and in African American prostate cancer specifically. In comparing tumor to non-malignant samples, 45 proteins were significantly cancer-associated and 3 proteins were significantly downregulated in tumor samples. Notably, fatty acid synthase (FASN) and epidermal fatty acid-binding protein (FABP5) were upregulated in human prostate cancer tissues, consistent with their known functions in prostate cancer progression. Aldehyde dehydrogenase family 1 member A3 (ALDH1A3) was also upregulated in tumor samples. The Metastasis Associated Protein 3 (MTA3) pathway was significantly enriched in tumor samples compared to non-malignant samples. While the current experiment was unable to detect statistically significant differences in protein expression between African American and Caucasian American samples, differences in overrepresentation and pathway enrichment were found. Structural components (Cytoskeletal Proteins and Extracellular Matrix Protein protein classes, and Biological Adhesion Gene Ontology (GO) annotation) were overrepresented in African American but not Caucasian American tumors. Additionally, 5 pathways were enriched in African American prostate tumors: the Small Cell Lung Cancer, Platelet-Amyloid Precursor Protein, Agrin, Neuroactive Ligand-Receptor Interaction, and Intrinsic pathways. The protein components of these pathways were either basement membrane proteins or coagulation proteins.
+SN 1837-9664
+PY 2016
+VL 7
+IS 11
+BP 1452
+EP 1464
+DI 10.7150/jca.15860
+UT WOS:000380050300010
+PM 27471561
+ER
+
+PT J
+AU Zhou, ZQ
+   Sui, ZF
+   Tian, YL
+   Zhao, ZL
+   Shi, CF
+   Liu, C
+   Yang, RY
+AF Zhou, Zhi-Qiang
+   Sui, Zhi-Fu
+   Tian, Yan-Li
+   Zhao, Zhi-Li
+   Shi, Cheng-Fang
+   Liu, Chang
+   Yang, Rong-Ya
+TI Leptin alleviates ultraviolet-induced skin photoaging in human skin
+   fibroblasts and mice
+SO INTERNATIONAL JOURNAL OF CLINICAL AND EXPERIMENTAL MEDICINE
+AB Background: To investigate effects of leptin on ultraviolet-induced skin photoaging in human skin fibroblasts (HSFs) and mice and the underlying mechanism. Methods: HSFs in 3-5 subcultures and 50 CD-1 (ICR) mice were randomly divided into blank group, model group and leptin-treated groups. Changes of HSFs and HE stained mouse skin tissue structure exposed to UVA/B irradiation were observed. Senescence-associated beta-galactosidase staining of HSFs was determined. Activity of CAT, SOD and GSH-Px and concentrations of MDA, Hyp and LDH were determined by biochemical analysis. Expressions of p67(phox), PKC epsilon and p66Shc were detected by Western blotting. Results: UV-induced photoaging models were successfully established. In HSFs, compared with blank group, significantly decreased SA beta-gal staining rate and concentrations of CAT, SOD, GSH-Px and Hyp but significantly increased concentrations of MDA, LDH and ROS were found in model group; compared with model group, significantly increased concentrations of CAT, SOD, GSH-Px and Hyp and significantly decreased MDA, LDH and ROS were found in leptin-treated groups. Similar trends were observed regarding the concentrations of CAT, SOD, GSH-Px, Hyp, MDA, LDH and ROS in mouse skin tissues. In both HSFs and mouse skin tissues, the expressions of NADPH, p67(phox), PKC epsilon and p66Shc were significantly up-regulated in model group compared with blank group; while the expressions of p67(phox), PKC epsilon and p66Shc were significantly down-regulated in leptin-treated groups in comparison with model group. Conclusion: Leptin may prevent skin photoaging by scavenging free radicals, improving antioxidant capacity and enzyme activity, alleviating oxidative damage and promoting collagen synthesis in HSFs and mouse skin tissues.
+SN 1940-5901
+PY 2016
+VL 9
+IS 2
+BP 1084
+EP 1094
+UT WOS:000374655200062
+ER
+
+PT J
+AU Mukherjee, S
+   Mukhopadhyay, D
+   Ghosh, S
+   Barbhuiya, JN
+   Das, NK
+   Chatterjee, M
+AF Mukherjee, Shibabrata
+   Mukhopadhyay, Debanjan
+   Ghosh, Susmita
+   Barbhuiya, Joyashree N.
+   Das, Nilay K.
+   Chatterjee, Mitali
+TI Decreased Frequency and Secretion of CD26 Promotes Disease Progression
+   in Indian Post Kala-azar Dermal Leishmaniasis
+SO JOURNAL OF CLINICAL IMMUNOLOGY
+AB Purpose Leishmania, the causative organisms for leishmaniasis, reside in host macrophages and survive by modulating the microbicidal pathways via attenuation of the oxidative burst and/or suppression of cell-mediated immunity. As post kala-azar dermal leishmaniasis (PKDL), the dermal sequela of visceral leishmaniasis, has no animal model, the underlying mechanism(s) that nullify the microbicidal effector mechanisms remain poorly understood. This study was aimed at assessing the status of dipeptidyl peptidase CD26, a co-stimulatory molecule that is essential for T-cell signal activation.
+   Methods The frequency/expression of CD26 and CD45RO/RA was evaluated by flow cytometry, while levels of soluble CD26 (sCD26), CXCL-10, RANTES, IL-10 and TGF-beta along with adenosine deaminase (ADA) activity were measured using ELISA.
+   Results In patients with PKDL vis-A -vis healthy individuals, there was a significant decrease in the frequency and expression of CD26 on CD3(+)CD8(+) T-cells, which was accompanied by a significant lowering of plasma levels of sCD26. Furthermore, these patients showed a significant decrease in the frequency of CD45RO(+)/CD8(+) T-cells, concomitant with a significant increase in the proportion of CD45RA(+)/CD8(+) T-cells. This could collectively translate into reduced formation of the immunological synapse of CD26, CD45RO, and ADA, and lead to an attenuation of the Th1 responses. The decreased levels of CD26 and sCD26 correlated negatively with raised levels of Th2 cytokines, IL-10, and TGF-beta along with the lesional parasite load, indicating disease specificity.
+   Conclusions Taken together, the decreased expression and secretion of CD26 in patients with PKDL resulted in impairment of the CD26-ADA interaction, and thereby possibly contributed to T-cell unresponsiveness, emphasizing the need to develop immunomodulatory therapies against PKDL and by extension, the leishmaniases.
+SN 0271-9142
+EI 1573-2592
+PD JAN
+PY 2016
+VL 36
+IS 1
+BP 85
+EP 94
+DI 10.1007/s10875-015-0215-8
+UT WOS:000368726600014
+PM 26644312
+ER
+
+PT J
+AU Grycova, A
+   Doricakova, A
+   Dvorak, Z
+AF Grycova, Aneta
+   Doricakova, Aneta
+   Dvorak, Zdenek
+TI Impurities contained in antifungal drug ketoconazole are potent
+   activators of human aryl hydrocarbon receptor
+SO TOXICOLOGY LETTERS
+AB Antifungal drug ketoconazole is a mixture of (+)/(-) cis-enantiomers, which also contains several impurities. Ketoconazole was identified as an activator of aryl hydrocarbon receptor AhR by three independent research teams. In the current paper we demonstrate that impurities contained in ketoconazole preparations are strong activators of human AhR and inducers of CYP1A1. Impurity IMP-C had similar potency (EC50), but 10-15 times higher efficacy (magnitude of induction) towards AhR, comparing to (+)-ketoconazole, as revealed by gene reporter assay in AZ-AHR stably transfected cells. Impurities IMP-B and IMP-C, and in lesser extent IMP-E, induced a formation of AhR-DNA complex, as demonstrated by electromobility shift assay EMSA. Impurities IMP-C and IMP-E dose-dependently induced CYP1A1 mRNA after 24 h, and their effects were comparable to those by (+)-ketoconazole. The level of CYP1A1 protein in HepG2 cells was strongly increased by IMP-C after 48 h.
+   In conclusion, our data further elucidated molecular effects of ketoconazole towards AhR signaling pathway, with possible implications in ketoconazole role in skin chemoprevention and/or damage, involving AhR. (C) 2015 Elsevier Ireland Ltd. All rights reserved.
+SN 0378-4274
+EI 1879-3169
+PD DEC 3
+PY 2015
+VL 239
+IS 2
+BP 67
+EP 72
+DI 10.1016/j.toxlet.2015.09.004
+UT WOS:000363353600001
+PM 26363502
+ER
+
+PT J
+AU Valente, A
+   Carrillo, AE
+   Tzatzarakis, MN
+   Vakonaki, E
+   Tsatsakis, AM
+   Kenny, GP
+   Koutedakis, Y
+   Jamurtas, AZ
+   Flouris, AD
+AF Valente, Angelica
+   Carrillo, Andres E.
+   Tzatzarakis, Manolis N.
+   Vakonaki, Elena
+   Tsatsakis, Aristidis M.
+   Kenny, Glen P.
+   Koutedakis, Yiannis
+   Jamurtas, Athanasios Z.
+   Flouris, Andreas D.
+TI The absorption and metabolism of a single L-menthol oral versus skin
+   administration: Effects on thermogenesis and metabolic rate
+SO FOOD AND CHEMICAL TOXICOLOGY
+AB We investigated the absorption and metabolism pharmacokinetics of a single L-menthol oral versus skin administration and the effects on human thermogenesis and metabolic rate. Twenty healthy adults were randomly distributed into oral (capsule) and skin (gel) groups and treated with 10 mg kg(-1) L-menthol (ORAL(MENT); SKINMENT) or control (lactose capsule: ORAL(CON); water application: SKINCON) in a random order on two different days. Levels of serum L-menthol increased similarly in ORAL(MENT) and SKINMENT (p > 0.05). L-menthol glucuronidation was greater in ORAL(MENT) than SKINMENT (P < 0.05). Cutaneous vasoconstriction, rectal temperature and body heat storage showed greater increase following SKINMENT compared to ORAL(MENT) and control conditions (p < 0.05). Metabolic rate increased from baseline by 18% in SKINMENT and 10% in ORAL(MENT) and respiratory exchange ratio decreased more in ORAL(MENT) (5.4%) than SKINMENT (4.8%) compared to control conditions (p < 0.05). Levels of plasma adiponectin and leptin as well as heart rate variability were similar to control following either treatment (p > 0.05). Participants reported no cold, shivering, discomfort, stress or skin irritation. We conclude that a single L-menthol skin administration increased thermogenesis and metabolic rate in humans. These effects are minor following L-menthol oral administration probably due to faster glucuronidation and greater blood menthol glucuronide levels. (C) 2015 Published by Elsevier Ltd.
+RI Tsatsakis, Aristidis/H-2890-2013; 
+OI Tsatsakis, Aristidis/0000-0003-3824-2462; Koutedakis,
+   Yiannis/0000-0002-7065-9447
+SN 0278-6915
+EI 1873-6351
+PD DEC
+PY 2015
+VL 86
+BP 262
+EP 273
+DI 10.1016/j.fct.2015.09.018
+UT WOS:000368203200029
+PM 26429629
+ER
+
+PT J
+AU Ramirez, GA
+   Lanzani, C
+   Bozzolo, EP
+   Zagato, L
+   Citterio, L
+   Casamassima, N
+   Canti, V
+   Sabbadini, MG
+   Rovere-Querini, P
+   Manunta, P
+   Manfredi, AA
+AF Ramirez, Giuseppe A.
+   Lanzani, Chiara
+   Bozzolo, Enrica P.
+   Zagato, Laura
+   Citterio, Lorena
+   Casamassima, Nunzia
+   Canti, Valentina
+   Sabbadini, Maria Grazia
+   Rovere-Querini, Patrizia
+   Manunta, Paolo
+   Manfredi, Angelo A.
+TI Beta-adducin and sodium-calcium exchanger 1 gene variants are associated
+   with systemic lupus erythematosus and lupus nephritis
+SO RHEUMATOLOGY INTERNATIONAL
+AB Genetic research in systemic lupus erythematosus (SLE) is rapidly developing, and numerous sets of genes are being associated with specific clinical subphenotypes in the setting of SLE. On the other hand, basic science studies are revealing strong connections between salt-water balance and inflammation. The aim of this study was to evaluate whether variants of genes known to influence the individual susceptibility to hypertension also influence the renal function in a cohort of SLE patients with and without lupus nephritis (LN). This study is a case-control study with candidate gene approach. A total of 111 patients with SLE (50 with SLE without nephritis, 55 with LN and 6 with simple urinary sediment abnormalities) and 62 healthy controls (HC) were genotyped for NCX1 rs11893826 (NCX1a) and rs434082 (NCX1b) and ADD2 rs4984 SNPs. Patients with ADD2 CT genotype were protected from LN and skin involvement; ADD2 CC | NCX1a AA/AG genotypes were associated with the presence of anti-cardiolipin antibodies; NCX1a AA genotype was slightly more frequent in lupus patients than in HC and associated with relapse risk and higher creatinine in patients with LN. NCX1b GG patients with LN had increased chances to reach complete remission. NCX1b GG | NCX1a GG genotype is associated with joint involvement. ADD2 and NCX1 variants influence the risk and the clinical features of SLE and LN, highlighting their potential role in regulating systemic inflammation and/or the local response to immune-mediated injury.
+SN 0172-8172
+EI 1437-160X
+PD DEC
+PY 2015
+VL 35
+IS 12
+BP 1975
+EP 1983
+DI 10.1007/s00296-015-3298-x
+UT WOS:000365291100004
+PM 26045217
+ER
+
+PT J
+AU Nix, MA
+   Kaelin, CB
+   Palomino, R
+   Miller, JL
+   Barsh, GS
+   Millhauser, GL
+AF Nix, Matthew A.
+   Kaelin, Christopher B.
+   Palomino, Rafael
+   Miller, Jillian L.
+   Barsh, Gregory S.
+   Millhauser, Glenn L.
+TI Electrostatic Similarity Analysis of Human beta-Defensin Binding in the
+   Melanocortin System
+SO BIOPHYSICAL JOURNAL
+AB The beta-defensins are a class of small cationic proteins that serve as components of numerous systems in vertebrate biology, including the immune and melanocortin systems. Human, beta-defensin 3 (HBD3), which is produced in the skin, has been found to bind to melanocortin receptors 1 and 4 through complementary electrostatics, a unique mechanism of ligand-receptor interaction. This finding indicates that electrostatics alone, and not specific amino acid contact points, could be sufficient for function in this ligand-receptor system, and further suggests that other small peptide ligands could interact with these receptors in a similar fashion. Here, we conducted molecular-similarity analyses and functional studies of additional members of the human, beta-defensin family, examining their potential as ligands of melanocortin-1 receptor, through selection based on their electrostatic similarity to HBD3. Using Poisson-Boltzmann electrostatic calculations and molecular-similarity analysis, we identified members of the human, beta-defensin family that are both similar and dissimilar to HBD3 in terms of electrostatic potential. Synthesis and functional testing of a subset of these, beta-defensins showed that peptides with an HBD3-like electrostatic character bound to melanocortin receptors with high affinity, whereas those that were anticorrelated to HBD3 showed no binding affinity. These findings expand on the central role of electrostatics in the control of this ligand-receptor system and further demonstrate the utility of employing molecular-similarity analysis. Additionally, we identified several new potential ligands of melanocortin-1 receptor, which may have implications for our understanding of the role defensins play in melanocortin physiology.
+SN 0006-3495
+EI 1542-0086
+PD NOV 3
+PY 2015
+VL 109
+IS 9
+BP 1946
+EP 1958
+DI 10.1016/j.bpj.2015.09.005
+UT WOS:000364009200020
+PM 26536271
+ER
+
+PT J
+AU Dorgham, K
+   Amoura, Z
+   Parizot, C
+   Arnaud, L
+   Frances, C
+   Pionneau, C
+   Devilliers, H
+   Pinto, S
+   Zoorob, R
+   Miyara, M
+   Larsen, M
+   Yssel, H
+   Gorochov, G
+   Mathian, A
+AF Dorgham, Karim
+   Amoura, Zahir
+   Parizot, Christophe
+   Arnaud, Laurent
+   Frances, Camille
+   Pionneau, Cedric
+   Devilliers, Herve
+   Pinto, Sandra
+   Zoorob, Rima
+   Miyara, Makoto
+   Larsen, Martin
+   Yssel, Hans
+   Gorochov, Guy
+   Mathian, Alexis
+TI Ultraviolet light converts propranolol, a nonselective beta-blocker and
+   potential lupus-inducing drug, into a proinflammatory AhR ligand
+SO EUROPEAN JOURNAL OF IMMUNOLOGY
+AB UV light and some medications are known to trigger lupus erythematosus (LE). A common mechanism underlying the immunopathologic effect, resulting from exposure to these two seemingly unrelated factors, remains unknown. The aryl hydrocarbon receptor (AhR) plays a key role in the regulation of IL-22 production in humans and can be activated by both xenobiotics and naturally occurring photoproducts. A significant expansion of Th17 and Th22 cells was observed in the peripheral blood of active systemic LE (SLE) patients, compared to inactive patients and controls. We also show that propranolol, a potential lupus-inducing drug, induced stronger AhR activation in PBMCs of SLE patients than in those of controls. AhR agonist activity of propranolol was enhanced by UV light exposure. MS analysis of irradiated propranolol revealed the generation of a proinflammatory photoproduct. This compound behaves like the prototypic AhR ligand 6-formylindolo[ 3,2-b] carbazole, a cutaneous UV light-induced tryptophan metabolite, both promoting IL-22, IL-8, and CCL2 secretion by T-cells and macrophages. Finally, LE patients exhibit signs of cutaneous AhR activation that correlate with lesional expression of the same proinflammatory cytokines, suggesting a role for photometabolites in the induction of skin inflammation. The AhR might therefore represent a target for therapeutic intervention in LE.
+RI Dorgham, karim/A-2241-2016; Devilliers, Herve/I-5464-2016; Yssel,
+   Hans/C-6406-2009; LARSEN, Martin/A-7316-2014
+OI Dorgham, karim/0000-0001-9539-3203; Yssel, Hans/0000-0001-7454-1836;
+   LARSEN, Martin/0000-0003-1375-4816
+SN 0014-2980
+EI 1521-4141
+PD NOV
+PY 2015
+VL 45
+IS 11
+BP 3174
+EP 3187
+DI 10.1002/eji.201445144
+UT WOS:000366401000023
+PM 26354876
+ER
+
+PT J
+AU Elentner, A
+   Ortner, D
+   Clausen, BE
+   Gonzalez, FJ
+   Fernandez-Salguero, PM
+   Schmuth, M
+   Dubrac, S
+AF Elentner, Andreas
+   Ortner, Daniela
+   Clausen, Bjoern E.
+   Gonzalez, Frank J.
+   Fernandez-Salguero, Pedro M.
+   Schmuth, Matthias
+   Dubrac, Sandrine
+TI Skin response to a carcinogen involves the xenobiotic receptor pregnane
+   X receptor
+SO EXPERIMENTAL DERMATOLOGY
+AB Skin is in daily contact with potentially harmful molecules from the environment such as cigarette smoke, automobile emissions, industrial soot and groundwater. Pregnane X receptor (PXR) is a transcription factor expressed in liver and intestine that is activated by xenobiotic chemicals including drugs and environmental pollutants. Topical application of the tumor initiator 7,12-dimethylbenz(a)anthracene (DMBA) enhances Pxr, Cyp1a1, Cyp1b1 and Cyp3a11, but not Ahr expression in the skin. Surprisingly, DMBA-induced Pxr upregulation is largely impaired in Langerin(+) cell-depleted skin, suggesting that DMBA mainly triggers Pxr in Langerin(+) cells. Furthermore, PXR deficiency protects from DNA damage in epidermal cells but to a lesser extent than aryl hydrocarbon receptor (AHR) deficiency. Interestingly, skin exposure to low doses of DMBA induces migration of PXR-deficient but not of wild-type and AHR-deficient Langerhans cells (LCs). PXR-humanized mice show a marked increase in DNA damage to epidermal cells after topical application of DMBA, demonstrating relevance of these findings in human tissue. This is the first report suggesting that carcinogens might trigger PXR in epidermal cells, particularly in LCs, thus leading to DNA damage. Further studies are required to better delineate the role of PXR in cutaneous carcinogenesis.
+RI CLAUSEN, Bjorn/A-8229-2010; Fernandez-Salguero, Pedro M./J-8437-2014
+OI CLAUSEN, Bjorn/0000-0002-2484-7842; Fernandez-Salguero, Pedro
+   M./0000-0003-2839-5027
+SN 0906-6705
+EI 1600-0625
+PD NOV
+PY 2015
+VL 24
+IS 11
+BP 835
+EP 840
+DI 10.1111/exd.12766
+UT WOS:000365404300006
+PM 26013842
+ER
+
+PT J
+AU Wessler, I
+   Michel-Schmidt, R
+   Kirkpatrick, CJ
+AF Wessler, Ignaz
+   Michel-Schmidt, Rosmarie
+   Kirkpatrick, Charles James
+TI pH-dependent hydrolysis of acetylcholine: Consequences for non-neuronal
+   acetylcholine
+SO INTERNATIONAL IMMUNOPHARMACOLOGY
+AB Acetylcholine is inactivated by acetylcholinesterase and butyrylcholinesterase and thereby its cellular signalling is stopped. One distinguishing difference between the neuronal and non-neuronal cholinergic system is the high expression level of the esterase activity within the former and a considerably lower level within the latter system. Thus, any situation which limits the activity of both esterases will affect the non-neuronal cholinergic system to a much greater extent than the neuronal one. Both esterases are pH-dependent with an optimum at pH above 7, whereas at pH values below 6 particularly the specific acetylcholinesterase is more or less inactive. Thus, acetylcholine is prevented from hydrolysis at such low pH values. The pH of the surface of the human skin is around 5 and therefore non-neuronal acetylcholine released from keratinocytes can be detected in a non-invasive manner. Several clinical conditions like metabolic acidosis, inflammation, fracture-related haematomas, cardiac ischemia and malignant tumours are associated with local or systemic pH values below 7. Thus, the present article describes some consequences of an impaired inactivation of extracellular non-neuronal acetylcholine. (C) 2015 Elsevier B.V. All rights reserved.
+SN 1567-5769
+EI 1878-1705
+PD NOV
+PY 2015
+VL 29
+IS 1
+SI SI
+BP 27
+EP 30
+DI 10.1016/j.intimp.2015.04.039
+UT WOS:000365365500005
+PM 25929445
+ER
+
+PT J
+AU Haarmann-Stemmann, T
+   Esser, C
+   Krutmann, J
+AF Haarmann-Stemmann, Thomas
+   Esser, Charlotte
+   Krutmann, Jean
+TI The Janus-Faced Role of Aryl Hydrocarbon Receptor Signaling in the Skin:
+   Consequences for Prevention and Treatment of Skin Disorders
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+AB The aryl hydrocarbon receptor (AHR) is a ligand-activated transcription factor expressed in all skin cell types, which is critically involved in the pathogenesis of a variety of skin diseases and thus represents a potential therapeutic target. Recent studies indicate that blocking AHR activation is desirable in some skin conditions, whereas the opposite, i.e., stimulation of AHR activation, is beneficial in another group of skin disorders. We here propose a model based on qualitative differences in canonical versus non-canonical AHR signaling to reconcile these seemingly contradictory observations.
+SN 0022-202X
+EI 1523-1747
+PD NOV
+PY 2015
+VL 135
+IS 11
+BP 2572
+EP 2576
+DI 10.1038/jid.2015.285
+UT WOS:000363993600007
+PM 26269144
+ER
+
+PT J
+AU Takei, K
+   Mitoma, C
+   Hashimoto-Hachiya, A
+   Takahara, M
+   Tsuji, G
+   Nakahara, T
+   Furue, M
+AF Takei, K.
+   Mitoma, C.
+   Hashimoto-Hachiya, A.
+   Takahara, M.
+   Tsuji, G.
+   Nakahara, T.
+   Furue, M.
+TI Galactomyces fermentation filtrate prevents T helper 2-mediated
+   reduction of filaggrin in an aryl hydrocarbon receptor-dependent manner
+SO CLINICAL AND EXPERIMENTAL DERMATOLOGY
+AB Background. The aryl hydrocarbon receptor (AhR) recognizes diverse small molecules such as dioxins, tryptophan photoproducts and phytochemicals. It also plays crucial roles in epidermal homeostasis by upregulating epidermal barrier proteins. In preliminary screening, we found that Galactomyces fermentation filtrate (GFF), a cosmetic compound, was capable of activating AhR.
+   Aim. To examine whether GFF upregulates the expression of the filaggrin and loricrin genes, FLG and LOR, in an AhR-dependent manner.
+   Methods. The activation (cytoplasmic to nuclear translocation) of AhR was confirmed by immunofluorescence study and by upregulation of an AhR-specific marker, cytochrome P450-1A1 (CYP1A1). Gene expression levels were compared by quantitative reverse transcription PCR with or without GFF, interleukin (IL)-4 or IL-13 in normal human keratinocytes. AhR or control knockdown was carried out by transfection with AhR or control small interfering RNA. The protein expression of FLG and LOR was examined by immunohistochemistry using a three-dimensional epidermal equivalent treated with or without GFF or T helper (Th) 2 cytokines.
+   Results. GFF induced the nuclear translocation of AhR with significant and dose-dependent upregulation of CYP1A1, FLG and LOR gene expression. The enhancing effects of GFF were abolished in AhR-knockdown keratinocytes. Th2 cytokines decreased expression of genes for FLG and LOR, and this expression was completely restored in the presence of GFF. The downregulated expression of the FLG gene with its restoration by GFF was also evident in the epidermal equivalent. GFF also upregulated the gene expression of genes encoding occludin, claudin-1 and 4, and kallikrein 5 and 7.
+   Conclusions. Use of GFF is feasible to prevent the Th2-mediated reduction of FLG in an AhR-dependent fashion.
+RI U-ID, Kyushu/C-5291-2016
+SN 0307-6938
+EI 1365-2230
+PD OCT
+PY 2015
+VL 40
+IS 7
+BP 786
+EP 793
+DI 10.1111/ced.12635
+UT WOS:000362846300015
+PM 25786502
+ER
+
+PT J
+AU Nakahara, T
+   Mitoma, C
+   Hashimoto-Hachiya, A
+   Takahara, M
+   Tsuji, G
+   Uchi, H
+   Yan, XH
+   Hachisuka, J
+   Chiba, T
+   Esaki, H
+   Kido-Nakahara, M
+   Furue, M
+AF Nakahara, Takeshi
+   Mitoma, Chikage
+   Hashimoto-Hachiya, Akiko
+   Takahara, Masakazu
+   Tsuji, Gaku
+   Uchi, Hiroshi
+   Yan, Xianghong
+   Hachisuka, Junichi
+   Chiba, Takahito
+   Esaki, Hitokazu
+   Kido-Nakahara, Makiko
+   Furue, Masutaka
+TI Antioxidant Opuntia ficus-indica Extract Activates AHR-NRF2 Signaling
+   and Upregulates Filaggrin and Loricrin Expression in Human Keratinocytes
+SO JOURNAL OF MEDICINAL FOOD
+AB Opuntia ficus-indica (OFI) is a cactus species widely used as an anti-inflammatory, antilipidemic, and hypoglycemic agent. It has been shown that OFI extract (OFIE) inhibits oxidative stress in animal models of diabetes and hepatic disease; however, its antioxidant mechanism remains largely unknown. In this study, we demonstrated that OFIE exhibited potent antioxidant activity through the activation of nuclear factor erythroid 2-related factor 2 (NRF2) and the downstream antioxidant enzyme NAD(P)H:quinone oxidoreductase 1 (NQO1), which inhibited the generation of reactive oxygen species in keratinocytes challenged with tumor necrosis factor or benzo[]pyrene. The antioxidant capacity of OFIE was canceled in NRF2 knockdown keratinocytes. OFIE exerted this NRF2-NQO1 upregulation through activation of the aryl hydrocarbon receptor (AHR). Moreover, the ligation of AHR by OFIE upregulated the expression of epidermal barrier proteins: filaggrin and loricrin. OFIE also prevented TH2 cytokine-mediated downregulation of filaggrin and loricrin expression in an AHR-dependent manner because it was canceled in AHR knockdown keratinocytes. Antioxidant OFIE is a potent activator of AHR-NRF2-NQO1 signaling and may be beneficial in treating barrier-disrupted skin disorders.
+RI U-ID, Kyushu/C-5291-2016; 
+OI Esaki, Hitokazu/0000-0002-3716-520X
+SN 1096-620X
+EI 1557-7600
+PD OCT 1
+PY 2015
+VL 18
+IS 10
+BP 1143
+EP 1149
+DI 10.1089/jmf.2014.3396
+UT WOS:000362118300010
+PM 26061570
+ER
+
+PT J
+AU Becker, RA
+   Patlewicz, G
+   Simon, TW
+   Rowlands, JC
+   Budinsky, RA
+AF Becker, Richard A.
+   Patlewicz, Grace
+   Simon, Ted W.
+   Rowlands, J. Craig
+   Budinsky, Robert A.
+TI The adverse outcome pathway for rodent liver tumor promotion by
+   sustained activation of the aryl hydrocarbon receptor
+SO REGULATORY TOXICOLOGY AND PHARMACOLOGY
+AB An Adverse Outcome Pathway (AOP) represents the existing knowledge of a biological pathway leading from initial molecular interactions of a toxicant and progressing through a series of key events (KEs), culminating with an apical adverse outcome (AO) that has to be of regulatory relevance. An AOP based on the mode of action (MOA) of rodent liver tumor promotion by dioxin-like compounds (DLCs) has been developed and the weight of evidence (WOE) of lcey event relationships (KERs) evaluated using evolved Bradford Hill considerations. Dioxins and DLCs are potent aryl hydrocarbon receptor (AHR) ligands that cause a range of species-specific adverse outcomes. The occurrence of KEs is necessary for inducing downstream biological responses and KEs may occur at the molecular, cellular, tissue and organ levels. The common convention is that an AOP begins with the toxicant interaction with a biological response element; for this AOP, this initial event is binding of a DLC ligand to the AHR. Data from mechanistic studies, lifetime bioassays and approximately thirty initiation-promotion studies have established dioxin and DLCs as rat liver tumor promoters. Such studies clearly show that sustained AHR activation, weeks or months in duration, is necessary to induce rodent liver tumor promotion hence, sustained AHR activation is deemed the molecular initiating event (MIE). After this MIE, subsequent KEs are I) changes in cellular growth homeostasis likely associated with expression changes in a number of genes and observed as development of hepatic foci and decreases in apoptosis within foci; 2) extensive liver toxicity observed as the constellation of effects called toxic hepatopathy; 3) cellular proliferation and hyperplasia in several hepatic cell types. This progression of KEs culminates in the AO, the development of hepatocellular adenomas and carcinomas and cholangiolar carcinomas. A rich data set provides both qualitative and quantitative knowledge of the progression of this AOP through KEs and the KERs. Thus, the WoE for this AOP is judged to be strong. Species-specific effects of dioxins and DLCs are well known humans are less responsive than rodents and rodent species differ in sensitivity between strains. Consequently, application of this AOP to evaluate potential human health risks must take these differences into account. 0 2015 The Authors. Published by Elsevier Inc.
+OI Patlewicz, Grace/0000-0003-3863-9689
+SN 0273-2300
+EI 1096-0295
+PD OCT
+PY 2015
+VL 73
+IS 1
+BP 172
+EP 190
+DI 10.1016/j.yrtph.2015.06.015
+UT WOS:000361410700018
+PM 26145830
+ER
+
+PT J
+AU Vrzal, R
+   Zenata, O
+   Doricakova, A
+   Dvorak, Z
+AF Vrzal, Radim
+   Zenata, Ondrej
+   Doricakova, Aneta
+   Dvorak, Zdenek
+TI Environmental pollutants parathion, paraquat and bisphenol A show
+   distinct effects towards nuclear receptors-mediated induction of
+   xenobiotics-metabolizing cytochromes P450 in human hepatocytes
+SO TOXICOLOGY LETTERS
+AB Environmental pollutants parathion, bisphenol A and paraquat were not systematically studied towards the effects on the expression of phase I xenobiotics-metabolizing cytochromes P450 (CYPs). We monitored their effects on the expression of selected CYPs in primary cultures of human hepatocytes. Moreover, we investigated their effects on the receptors regulating these CYPs, particularly arylhydrocarbon receptor (AhR), pregnane X receptor (PXR) and glucocorticoid receptor (GR) by gene reporter assays. We found that parathion and bisphenol A are the activators of AhR. Moreover, they are the inducers of CYP1A1 mRNA in hepatoma cells HepG2 as well as in human hepatocytes by AhR-dependent mechanism via formation of AhR-DNA-binding complex, as revealed by gel shift assay. All three compounds possessed anti-glucocorticoid action as revealed by GR-dependent gene reporter assay and a decline in tyrosine aminotransferase (TAT) gene expression in human hepatocytes. Moreover, parathion and bisphenol A are the activators of PXR and inducers of CYP3A4 mRNA and protein in the primary cultures of human hepatocytes. In conclusion, the studied compounds displayed distinct activities towards nuclear receptors involved in many biological processes and these findings may help us to better understand their adverse actions in pathological states followed after their exposure. (C) 2015 Elsevier Ireland Ltd. All rights reserved.
+SN 0378-4274
+EI 1879-3169
+PD OCT 1
+PY 2015
+VL 238
+IS 1
+BP 43
+EP 53
+DI 10.1016/j.toxlet.2015.07.008
+UT WOS:000359437800005
+PM 26196221
+ER
+
+PT J
+AU Xu, YZ
+   Zhang, GA
+   Chang, Y
+   Qiu, YX
+   Wang, C
+AF Xu, Yazhen
+   Zhang, Guoan
+   Chang, Yang
+   Qiu, Yu-xuan
+   Wang, Cheng
+TI The Preparation of Acellular Dermal Matrices by Freeze-Thawing and
+   Ultrasonication Process and the Evaluation of Its Antigenicity
+SO CELL BIOCHEMISTRY AND BIOPHYSICS
+AB Antigenicity is the biggest obstacle of xenogeneic acellular dermal matrices (ADM) as dermal scaffold in treatment of large-area skin defect. We prepared ADM by repeated freezing and thawing and ultrasonic process, and then injected the ADM homogenate and degradation product into porcine skin to evaluate the effectiveness of the decellularized method and the antigenicity of porcine ADM. In this work, chinese miniature pigs (n = 10) were sensitized by subcutaneous injection with human ADM degradation products on days 0, 7, and 14. After 21 days, their abdominal skin was divided into five regions for intradermal injection of porcine ADM homogenate (PADM), PADM degradation products, human ADM homogenate (HADM), HADM degradation products, and physiological saline (negative control). Positive controls (n = 2) were processed with fresh human skin homogenate by the same method. The skin manifestations in related areas were observed at 24 and 48 h and then the skin was subjected to histopathological and immunohistochemical analysis. The results showed that skin erythema and hydroderma were not observed in all groups but in positive control group. The histopathological and immunohistochemical results confirmed that no inflammatory cell infiltration, irregular extracellular matrix, IL-2, and IFN-gamma expression were observed in all four test groups. Our results suggest that the combination with repeated freeze-thawing and ultrasonication can be an effective method to prepare ADM, which has great potential in clinical application.
+SN 1085-9195
+EI 1559-0283
+PD SEP
+PY 2015
+VL 73
+IS 1
+BP 27
+EP 33
+DI 10.1007/s12013-015-0569-9
+UT WOS:000359812500006
+PM 25649614
+ER
+
+PT J
+AU Contador-Troca, M
+   Alvarez-Barrientos, A
+   Merino, JM
+   Morales-Hernandez, A
+   Rodriguez, MI
+   Rey-Barroso, J
+   Barrasa, E
+   Cerezo-Guisado, MI
+   Catalina-Fernandez, I
+   Saenz-Santamaria, J
+   Oliver, FJ
+   Fernandez-Salguero, PM
+AF Contador-Troca, Maria
+   Alvarez-Barrientos, Alberto
+   Merino, Jaime M.
+   Morales-Hernandez, Antonio
+   Rodriguez, Maria I.
+   Rey-Barroso, Javier
+   Barrasa, Eva
+   Cerezo-Guisado, Maria I.
+   Catalina-Fernandez, Inmaculada
+   Saenz-Santamaria, Javier
+   Oliver, Francisco J.
+   Fernandez-Salguero, Pedro M.
+TI Dioxin receptor regulates aldehyde dehydrogenase to block melanoma
+   tumorigenesis and metastasis
+SO MOLECULAR CANCER
+AB Background: The dioxin (AhR) receptor can have oncogenic or tumor suppressor activities depending on the phenotype of the target cell. We have shown that AhR knockdown promotes melanoma primary tumorigenesis and lung metastasis in the mouse and that human metastatic melanomas had reduced AhR levels with respect to benign nevi.
+   Methods: Mouse melanoma B16F10 cells were engineered by retroviral transduction to stably downregulate AhR expression, Aldh1a1 expression or both. They were characterized for Aldh1a1 activity, stem cell markers and migration and invasion in vitro. Their tumorigenicity in vivo was analyzed using xenografts and lung metastasis assays as well as in vivo imaging.
+   Results: Depletion of aldehyde dehydrogenase 1a1 (Aldh1a1) impairs the pro-tumorigenic and pro-metastatic advantage of melanoma cells lacking AhR expression (sh-AhR). Thus, Aldh1a1 knockdown in sh-AhR cells (sh-AhR + sh-Aldh1a1) diminished their migration and invasion potentials and blocked tumor growth and metastasis to the lungs in immunocompetent AhR+/+ recipient mice. However, Aldh1a1 downmodulation in AhR-expressing B16F10 cells did not significantly affect tumor growth in vivo. Aldh1a1 knockdown reduced the high levels of CD133(+)/CD29(+)/CD44(+) cells, melanosphere size and the expression of the pluripotency marker Sox2 in sh-AhR cells. Interestingly, Sox2 increased Aldh1a1 expression in sh-AhR but not in sh-AhR + sh-Aldh1a1 cells, suggesting that Aldh1a1 and Sox2 may be co-regulated in melanoma cells. In vivo imaging revealed that mice inoculated with AhR + Aldh1a1 knockdown cells had reduced tumor burden and enhanced survival than those receiving Aldh1a1-expressing sh-AhR cells.
+   Conclusions: Aldh1a1 overactivation in an AhR-deficient background enhances melanoma progression. Since AhR may antagonize the protumoral effects of Aldh1a1, the AhR(low)-Aldh1a1(high) phenotype could be indicative of bad outcome in melanoma.
+RI Fernandez-Salguero, Pedro M./J-8437-2014
+OI Merino, Jaime M./0000-0002-5316-9200; Fernandez-Salguero, Pedro
+   M./0000-0003-2839-5027
+SN 1476-4598
+PD AUG 5
+PY 2015
+VL 14
+AR 148
+DI 10.1186/s12943-015-0419-9
+UT WOS:000358907100001
+PM 26242870
+ER
+
+PT J
+AU Hobbs, RP
+   DePianto, DJ
+   Jacob, JT
+   Han, MC
+   Chung, BM
+   Batazzi, AS
+   Poll, BG
+   Guo, YJ
+   Han, JN
+   Ong, SF
+   Zheng, WX
+   Taube, JM
+   Cihakova, D
+   Wan, FY
+   Coulombe, PA
+AF Hobbs, Ryan P.
+   DePianto, Daryle J.
+   Jacob, Justin T.
+   Han, Minerva C.
+   Chung, Byung-Min
+   Batazzi, Adriana S.
+   Poll, Brian G.
+   Guo, Yajuan
+   Han, Jingnan
+   Ong, SuFey
+   Zheng, Wenxin
+   Taube, Janis M.
+   Cihakova, Daniela
+   Wan, Fengyi
+   Coulombe, Pierre A.
+TI Keratin-dependent regulation of Aire and gene expression in skin tumor
+   keratinocytes
+SO NATURE GENETICS
+AB Expression of the intermediate filament protein keratin 17 (K17) is robustly upregulated in inflammatory skin diseases and in many tumors originating in stratified and pseudostratified epithelia(1-3). We report that autoimmune regulator (Aire), a transcriptional regulator, is inducibly expressed in human and mouse tumor keratinocytes in a K17-dependent manner and is required for timely onset of Gli2-induced skin tumorigenesis in mice. The induction of Aire mRNA in keratinocytes depends on a functional interaction between K17 and the heterogeneous nuclear ribonucleoprotein hnRNP K-4. Further, K17 colocalizes with Aire protein in the nucleus of tumor-prone keratinocytes, and each factor is bound to a specific promoter region featuring an NF-kappa B consensus sequence in a relevant subset of K17-and Aire-dependent proinflammatory genes. These findings provide radically new insight into keratin intermediate filament and Aire function, along with a molecular basis for the K17-dependent amplification of inflammatory and immune responses in diseased epithelia.
+SN 1061-4036
+EI 1546-1718
+PD AUG
+PY 2015
+VL 47
+IS 8
+BP 933
+EP U135
+DI 10.1038/ng.3355
+UT WOS:000358674100020
+PM 26168014
+ER
+
+PT J
+AU Shibata, S
+   Tada, Y
+   Hau, CS
+   Mitsui, A
+   Kamata, M
+   Asano, Y
+   Sugaya, M
+   Kadono, T
+   Masamoto, Y
+   Kurokawa, M
+   Yamauchi, T
+   Kubota, N
+   Kadowaki, T
+   Sato, S
+AF Shibata, Sayaka
+   Tada, Yayoi
+   Hau, Carren Sy
+   Mitsui, Aya
+   Kamata, Masahiro
+   Asano, Yoshihide
+   Sugaya, Makoto
+   Kadono, Takafumi
+   Masamoto, Yosuke
+   Kurokawa, Mineo
+   Yamauchi, Toshimasa
+   Kubota, Naoto
+   Kadowaki, Takashi
+   Sato, Shinichi
+TI Adiponectin regulates psoriasiform skin inflammation by suppressing
+   IL-17 production from gamma delta-T cells
+SO NATURE COMMUNICATIONS
+AB Accumulating epidemiologic evidence has revealed that metabolic syndrome is an independent risk factor for psoriasis development and is associated with more severe psoriasis. Adiponectin, primarily recognized as a metabolic mediator of insulin sensitivity, has been newly drawing attention as a mediator of immune responses. Here we demonstrate that adiponectin regulates skin inflammation, especially IL-17-related psoriasiform dermatitis. Mice with adiponectin deficiency show severe psoriasiform skin inflammation with enhanced infiltration of IL-17-producing dermal V gamma 4+gamma delta-T cells. Adiponectin directly acts on murine dermal gamma delta-T cells to suppress IL-17 synthesis via AdipoR1. We furthermore demonstrate here that the adiponectin level of skin tissue as well as subcutaneous fat is decreased in psoriasis patients. IL-17 production from human CD4- or CD8-positive T cells is also suppressed by adiponectin. Our data provide a regulatory role of adiponectin in skin inflammation, which would imply a mechanism underlying the relationship between psoriasis and metabolic disorders.
+RI Kubota, Naoto/N-7892-2015
+SN 2041-1723
+PD JUL
+PY 2015
+VL 6
+AR 7687
+DI 10.1038/ncomms8687
+UT WOS:000358858100031
+PM 26173479
+ER
+
+PT J
+AU Akamata, K
+   Asano, Y
+   Taniguchi, T
+   Yamashita, T
+   Saigusa, R
+   Nakamura, K
+   Noda, S
+   Aozasa, N
+   Toyama, T
+   Takahashi, T
+   Ichimura, Y
+   Sumida, H
+   Tada, Y
+   Sugaya, M
+   Kadono, T
+   Sato, S
+AF Akamata, Kaname
+   Asano, Yoshihide
+   Taniguchi, Takashi
+   Yamashita, Takashi
+   Saigusa, Ryosuke
+   Nakamura, Kouki
+   Noda, Shinji
+   Aozasa, Naohiko
+   Toyama, Tetsuo
+   Takahashi, Takehiro
+   Ichimura, Yohei
+   Sumida, Hayakazu
+   Tada, Yayoi
+   Sugaya, Makoto
+   Kadono, Takafumi
+   Sato, Shinichi
+TI Increased expression of chemerin in endothelial cells due to Fli1
+   deficiency may contribute to the development of digital ulcers in
+   systemic sclerosis
+SO RHEUMATOLOGY
+AB Objectives. Chemerin is a member of adipocytokines with a chemoattractant effect on plasmacytoid dendritic cells and macrophages and pro-angiogenic properties. We investigated the potential role of chemerin in the development of SSc.
+   Methods. Chemerin expression was evaluated by immunostaining and/or real-time quantitative RT-PCR in human and murine skin. The mechanisms regulating chemerin expression in dermal fibroblasts and endothelial cells were examined using the gene silencing technique and chromatin immunoprecipitation. Serum chemerin levels were determined by ELISA in 64 SSc patients and 19 healthy subjects.
+   Results. In SSc lesional skin, chemerin was up-regulated in small blood vessels, while it was down-regulated in fibroblasts surrounded with thickened collagen bundles. The decreased expression of chemerin was significantly reversed by TGF-beta 1 antisense oligonucleotide in cultured SSc dermal fibroblasts and chemerin expression was markedly decreased in dermal fibroblasts of bleomycin-treated mice. Gene silencing of transcription factor Fli1, which binds to the chemerin promoter, induced chemerin expression in human dermal microvascular endothelial cells and Fli1(+/-) mice exhibited elevated chemerin expression in dermal blood vessels. Serum chemerin levels inversely correlated with estimated glomerular filtration rate in SSc patients with renal dysfunction. In SSc patients with normal renal function, patients with digital ulcers had higher serum chemerin levels than those without.
+   Conclusion. Chemerin is down-regulated in SSc dermal fibroblasts by autocrine TGF-beta, while it is up-regulated in SSc dermal blood vessels through endothelial Fli1 deficiency. Increased chemerin expression in dermal blood vessels may be associated with the development of digital ulcers in SSc.
+SN 1462-0324
+EI 1462-0332
+PD JUL
+PY 2015
+VL 54
+IS 7
+BP 1308
+EP 1316
+DI 10.1093/rheumatology/keu479
+UT WOS:000357430500027
+PM 25539827
+ER
+
+PT J
+AU Hu, F
+   Feng, AP
+   Liu, XX
+   Zhang, S
+   Xu, JT
+   Wang, X
+   Zhong, XL
+   He, MW
+   Chen, HX
+AF Hu, Feng
+   Feng, Ai-ping
+   Liu, Xin-xin
+   Zhang, Song
+   Xu, Jun-tao
+   Wang, Xin
+   Zhong, Xue-lian
+   He, Meng-wen
+   Chen, Hong-xiang
+TI Lipoxin A4 inhibits lipopolysaccharide-induced production of
+   inflammatory cytokines in keratinocytes by up-regulating SOCS2 and
+   down-regulating TRAF6
+SO JOURNAL OF HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY-MEDICAL
+   SCIENCES
+AB Liopxin A4 (LXA4) is considered to be a crucial modulator in the inflammatory responses. In the present study, we aimed to study the effect of LXA4 on the inflammatory cytokines production induced by lipopolysaccharide (LPS) and the possible mechanism in normal human epidermal keratinocytes (NHEKs). NHEKs were isolated and cultured. The expression of toll-like receptor 4 (TLR4), LXA4 receptor (ALXR) and aryl hydrocarbon receptor (AhR) in NHEKs was detected by reverse transcription polymerase chain reaction (RT-PCR). The mRNA and protein levels of tumor necrosis factor-alpha (TNF-alpha) and interleukin-1 beta (IL-1 beta) were determined in NHEKs stimulated by LPS (10 mu g/mL) with or without preincubation with LXA4 (100 nmol/L) for 30 min by real-time quantitative PCR (real-time qPCR) and enzyme-linked immunosorbent assay (ELISA), respectively. The expression levels of tumor necrosis factor receptor-associated factor 6 (TRAF6) and suppressors of cytokine signaling 2 (SOCS2) mRNAs and proteins, and nuclear translocation of NF-kB-p65 were measured by real-time qPCR and Western blotting, respectively. The results showed that NHEKs expressed TLR4, ALXR and AhR. LXA4 significantly inhibited the mRNA and protein expression levels of TNF-alpha, IL-1 beta and TRAF6 induced by LPS in NHEKs, and LXA4 obviously increased the expression of SOCS2 at mRNA and protein levels. The nuclear NF-kB-p65 protein expression induced by LPS was inhibited after preincubation with LXA4 in NHEKs. It was concluded that LXA4 inhibits the LPS-induced production of TNF-alpha and IL-1 beta in NHEKs by up-regulating SOCS2 and down-regulating TRAF6.
+SN 1672-0733
+EI 1993-1352
+PD JUN
+PY 2015
+VL 35
+IS 3
+BP 426
+EP 431
+DI 10.1007/s11596-015-1448-8
+UT WOS:000356160300018
+PM 26072084
+ER
+
+PT J
+AU Szoka, L
+   Karna, E
+   Morka, RP
+   Palka, JA
+AF Szoka, Lukasz
+   Karna, Ewa
+   Morka, Renata Pawlak
+   Palka, Jerzy A.
+TI Enalapril stimulates collagen biosynthesis through prolidase-dependent
+   mechanism in cultured fibroblasts
+SO NAUNYN-SCHMIEDEBERGS ARCHIVES OF PHARMACOLOGY
+AB The mechanism of a lower incidence of dermatological manifestations in patients treated with enalapril compared to patients treated with other ACE-inhibitors, e.g., captopril, is not known. The finding that prolidase plays an important role in collagen biosynthesis and that some angiotensin-converting enzyme inhibitors affect prolidase activity led us to evaluate its effect on collagen biosynthesis in cultured human skin fibroblasts. Since insulin-like growth factor (IGF-I) and transforming growth factor beta 1 (TGF-beta 1) are the most potent stimulators of both collagen biosynthesis and prolidase activity, and prolidase is regulated by beta(1) integrin signaling, the effect of enalapril and enalaprilat on IGF-IR, TGF-beta 1, and beta(1) integrin receptor expressions was evaluated. Cells were treated with milimolar concentrations (0.3 and 0.5 mM) of enalapril and enalaprilat for 24 h. The activity of prolidase was determined by colorimetic assay. Collagen biosynthesis was evaluated by radiometric assay. Expression of signaling proteins was evaluated using Western blot. It was found that enalapril- and enalaprilat-dependent increase in prolidase activity and expression was accompanied by parallel increase in collagen biosynthesis. The exposure of the cells to 0.5 mM enalapril and enalaprilat contributed to increase in IGF-IR and alpha(2)beta(1) integrin receptor as well as TGF-beta 1 and NF-kappa B p65 expressions. Enalapril- and enalaprilat-dependent increase of collagen biosynthesis in fibroblasts results from increase of prolidase activity and expression, which may undergo through activation of alpha(2)beta(1) integrin and IGF-IR signaling as well as upregulation of TGF-beta 1 and NF-kappa B p65, the inhibitor of collagen gene expression.
+SN 0028-1298
+EI 1432-1912
+PD JUN
+PY 2015
+VL 388
+IS 6
+BP 677
+EP 683
+DI 10.1007/s00210-015-1114-5
+UT WOS:000354733100009
+PM 25772062
+ER
+
+PT J
+AU Park, SL
+   Justiniano, R
+   Williams, JD
+   Cabello, CM
+   Qiao, SX
+   Wondrak, GT
+AF Park, Sophia L.
+   Justiniano, Rebecca
+   Williams, Joshua D.
+   Cabello, Christopher M.
+   Qiao, Shuxi
+   Wondrak, Georg T.
+TI The Tryptophan-Derived Endogenous Aryl Hydrocarbon Receptor Ligand
+   6-Formylindolo[3,2-b]Carbazole Is a Nanomolar UVA Photosensitizer in
+   Epidermal Keratinocytes
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+AB Endogenous UVA chromophores may act as sensitizers of oxidative stress underlying cutaneous photoaging and photocarcinogenesis, but the molecular identity of non-DNA key chromophores displaying UVA-driven photodyamic activity in human skin remains largely undefined. Here we report that 6-formylindolo[3,2b] carbazole (FICZ), a tryptophan photoproduct and endogenous high-affinity aryl hydrocarbon receptor (AhR) agonist, acts as a nanomolar photosensitizer potentiating UVA-induced oxidative stress irrespective of AhR ligand activity. In human HaCaT and primary epidermal keratinocytes, photodynamic induction of apoptosis was elicited by the combined action of solar-simulated UVA and FICZ, whereas exposure to the isolated action of UVA or FICZ did not impair viability. In a human epidermal tissue reconstruct, FICZ/UVA cotreatment caused pronounced phototoxicity inducing keratinocyte cell death, and FICZ photodynamic activity was also substantiated in a murine skin exposure model. Array analysis revealed pronounced potentiation of cellular heat shock, endoplasmic reticulum stress, and oxidative stress response gene expression observed only upon FICZ/UVA cotreatment. FICZ photosensitization caused intracellular oxidative stress, and comet analysis revealed introduction of formamidopyrimidine-DNA glycosylase (Fpg)-sensitive oxidative DNA lesions suppressible by antioxidant cotreatment. Taken together, our data demonstrate that the endogenous AhR ligand FICZ displays nanomolar photodynamic activity representing a molecular mechanism of UVA-induced photooxidative stress potentially operative in human skin.
+SN 0022-202X
+EI 1523-1747
+PD JUN
+PY 2015
+VL 135
+IS 6
+BP 1649
+EP 1658
+DI 10.1038/jid.2014.503
+UT WOS:000354389200026
+PM 25431849
+ER
+
+PT J
+AU Kugelmann, D
+   Waschke, J
+   Radeva, MY
+AF Kugelmann, Daniela
+   Waschke, Jens
+   Radeva, Mariya Y.
+TI Adducin Is Involved in Endothelial Barrier Stabilization
+SO PLOS ONE
+AB Adducins tightly regulate actin dynamics which is critical for endothelial barrier function. Adducins were reported to regulate epithelial junctional remodeling by controlling the assembly of actin filaments at areas of cell-cell contact. Here, we investigated the role of alpha-adducin for endothelial barrier regulation by using microvascular human dermal and myocardial murine endothelial cells. Parallel transendothelial electrical resistance (TER) measurements and immunofluorescence analysis revealed that siRNA-mediated adducin depletion impaired endothelial barrier formation and led to severe fragmentation of VE-cadherin immunostaining at cell-cell borders. To further test whether the peripheral localization of alpha-adducin is functionally linked with the integrity of endothelial adherens junctions, junctional remodeling was induced by a Ca2+-switch assay. Ca2+-depletion disturbed both linear vascular endothelial (VE)-cadherin and adducin location along cell junctions, whereas their localization was restored following Ca2+-repletion. Similar results were obtained for alpha-adducin phosphorylated at a site typical for PKA (pSer481). To verify that endothelial barrier properties and junction reorganization can be effectively modulated by altering Ca2+-concentration, TER measurements were performed. Thus, Ca2+-depletion drastically reduced TER, whereas Ca2+-repletion led to recovery of endothelial barrier properties resulting in increased TER. Interestingly, the Ca2+-dependent increase in TER was also significantly reduced after efficient alpha-adducin downregulation. Finally, we report that inflammatory mediator-induced endothelial barrier breakdown is associated with loss of alpha-adducin from the cell membrane. Taken together, our results indicate that alpha-adducin is involved in remodeling of endothelial adhesion junctions and thereby contributes to endothelial barrier regulation.
+SN 1932-6203
+PD MAY 15
+PY 2015
+VL 10
+IS 5
+AR e0126213
+DI 10.1371/journal.pone.0126213
+UT WOS:000354916100054
+PM 25978380
+ER
+
+PT J
+AU van den Bogaard, EH
+   Podolsky, MA
+   Smits, JP
+   Cui, X
+   John, C
+   Gowda, K
+   Desai, D
+   Amin, SG
+   Schalkwijk, J
+   Perdew, GH
+   Glick, AB
+AF van den Bogaard, Ellen H.
+   Podolsky, Michael A.
+   Smits, Jos P.
+   Cui, Xiao
+   John, Christian
+   Gowda, Krishne
+   Desai, Dhimant
+   Amin, Shantu G.
+   Schalkwijk, Joost
+   Perdew, Gary H.
+   Glick, Adam B.
+TI Genetic and Pharmacological Analysis Identifies a Physiological Role for
+   the AHR in Epidermal Differentiation
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+AB Stimulation of the aryl hydrocarbon receptor (AHR) by xenobiotics is known to affect epidermal differentiation and skin barrier formation. The physiological role of endogenous AHR signaling in keratinocyte differentiation is not known. We used murine and human skin models to address the hypothesis that AHR activation is required for normal keratinocyte differentiation. Using transcriptome analysis of Ahr(-/-) and Ahr(+/+) murine keratinocytes, we found significant enrichment of differentially expressed genes linked to epidermal differentiation. Primary Ahr(-/-) keratinocytes showed a significant reduction in terminal differentiation gene and protein expression, similar to Ahr(+/+) keratinocytes treated with AHR antagonists GNF351 and CH223191, or the selective AHR modulator (SAhRM) SGA360. In vitro keratinocyte differentiation led to increased AHR levels and subsequent nuclear translocation, followed by induced CYP1A1 gene expression. Mono layer cultured primary human keratinocytes treated with AHR antagonists also showed an impaired terminal differentiation program. Inactivation of AHR activity during human skin equivalent development severely impaired epidermal stratification, terminal differentiation protein expression, and stratum corneum formation. As disturbed epidermal differentiation is a main feature of many skin diseases, pharmacological agents targeting AHR signaling or future identification of endogenous keratinocyte-derived AHR ligands should be considered as potential new drugs in dermatology.
+RI Schalkwijk, Joost/N-1774-2013; Smits, Jos/P-5044-2015; van den Bogaard,
+   ellen/P-6212-2015; 
+OI GOWDA, KRISHNE/0000-0002-6042-0520
+SN 0022-202X
+EI 1523-1747
+PD MAY
+PY 2015
+VL 135
+IS 5
+BP 1320
+EP 1328
+DI 10.1038/jid.2015.6
+UT WOS:000353011000019
+PM 25602157
+ER
+
+PT J
+AU Guo, LD
+   Harnedy, PA
+   Zhang, L
+   Li, BF
+   Zhang, ZH
+   Hou, H
+   Zhao, X
+   FitzGerald, RJ
+AF Guo, Lidong
+   Harnedy, Padraigin A.
+   Zhang, Li
+   Li, Bafang
+   Zhang, Zhaohui
+   Hou, Hu
+   Zhao, Xue
+   FitzGerald, Richard J.
+TI In vitro assessment of the multifunctional bioactive potential of Alaska
+   pollock skin collagen following simulated gastrointestinal digestion
+SO JOURNAL OF THE SCIENCE OF FOOD AND AGRICULTURE
+AB BACKGROUNDDietary mineral deficiency, hypertension and diabetes have become serious human health problems. Dietary approaches are increasingly being investigated to address these issues. Identification of food-derived biological peptides has become an important approach to control such diseases. Peptides generated from aquatic byproducts have been shown to possess biological activities.
+   RESULTSSignificantly higher copper-chelating activity was observed on simulated hydrolysis of intact collagen. The collagen hydrolysate generated in the gastric stage exhibited moderate angiotensin-converting enzyme (ACE)-inhibitory activity with an IC50 value of 2.920.22mgmL(-1), which significantly decreased to 0.49 +/- 0.02mgmL(-1) after intestinal digestion. The dipeptidyl peptidase (DPP) IV-inhibitory potency of the collagen hydrolysate generated directly following simulated gastrointestinal digestion (SGID) (IC50 2.59 +/- 0.04mgmL(-1)) was significantly lower than that of the collagen tryptic hydrolysate (CTH) (IC50 1.53 +/- 0.01mgmL(-1)). The antioxidant activities of collagen and CTH using the ferric-reducing antioxidant power (FRAP) assay were 0.87 +/- 0.10 and 1.27 +/- 0.03 mu mol Trolox equivalent (TE) g(-1) respectively after SGID.
+   CONCLUSION<p id="jsfa6854-para-0003">This study identifies collagen as a good and inexpensive substrate for the generation of biologically active peptides with potential applications as functional ingredients in the management of chronic illness and mineral deficiency problems. (c) 2014 Society of Chemical Industry
+RI FitzGerald, Richard/J-1044-2014
+OI FitzGerald, Richard/0000-0003-3048-0220
+SN 0022-5142
+EI 1097-0010
+PD MAY
+PY 2015
+VL 95
+IS 7
+BP 1514
+EP 1520
+DI 10.1002/jsfa.6854
+UT WOS:000352225200018
+PM 25082083
+ER
+
+PT J
+AU Filipeanu, CM
+   Pullikuth, AK
+   Guidry, JJ
+AF Filipeanu, Catalin M.
+   Pullikuth, Ashok K.
+   Guidry, Jessie J.
+TI Molecular Determinants of the Human alpha(2C)-Adrenergic Receptor
+   Temperature-Sensitive Intracellular Traffic
+SO MOLECULAR PHARMACOLOGY
+AB The human alpha(2C)-adrenergic receptor (alpha(2C)-AR) is localized intracellularly at physiologic temperature. Decreasing the environmental temperature strongly stimulates the receptor transport to the cell surface. In contrast, rat and mouse alpha(2C)-AR plasma membrane levels are less sensitive to decrease in temperature, whereas the opossum alpha(2C)-AR cell surface levels are not changed in these conditions. Structural analysis demonstrated that human alpha(2C)-AR has a high number of arginine residues in the third intracellular loop and in the C-terminus, organized as putative RXR motifs. Although these motifs do not affect the receptor subcellular localization at 37 degrees C, deletion of the arginine clusters significantly enhanced receptor plasma membrane levels at reduced temperature. We found that this exaggerated transport of the human receptor is mediated by two functional arginine clusters, one in the third intracellular loop and one in the C-terminus. This effect is mediated by interactions with COPI vesicles, but not by 14-3-3 proteins. In rat alpha(2C)-AR, the arginine cluster from the third intracellular loop is shifted to the left due to three missing residues. Reinsertion of these residues in the rat alpha(2C)-AR restored the same temperature sensitivity as in the human receptor. Proteomic and coimmunoprecipitation experiments identified pontin as a molecule having stronger interactions with human alpha(2C)-AR compared with rat alpha(2C)-AR. Inhibition of pontin activity enhanced human receptor plasma membrane levels and signaling at 37 degrees C. Our results demonstrate that human alpha(2C)-AR has a unique temperature-sensitive traffic pattern within the G protein-coupled receptor class due to interactions with different molecular chaperones, mediated in part by strict spatial localization of specific arginine residues.
+SN 0026-895X
+EI 1521-0111
+PD MAY
+PY 2015
+VL 87
+IS 5
+BP 792
+EP 802
+DI 10.1124/mol.114.096198
+UT WOS:000352004600004
+PM 25680754
+ER
+
+PT J
+AU Takei, K
+   Hashimoto-Hachiya, A
+   Takahara, M
+   Tsuji, G
+   Nakahara, T
+   Furue, M
+AF Takei, Kenjiro
+   Hashimoto-Hachiya, Akiko
+   Takahara, Masakazu
+   Tsuji, Gaku
+   Nakahara, Takeshi
+   Furue, Masutaka
+TI Cynaropicrin attenuates UVB-induced oxidative stress via the
+   AhR-Nrf2-Nqo1 pathway
+SO TOXICOLOGY LETTERS
+AB Due to its antioxidant and anti-inflammatory activities, artichoke (Cynara scolymus) has been used as folk medicine to treat various diseases. Cynaropicrin (Cyn), a sesquiterpene lactone, is the major bioactive phytochemical in the artichoke; however, its pharmacological mechanism remains unknown. Because some phytochemicals exert their antioxidant activity by activating aryl hydrocarbon receptor (AhR), leading to subsequent induction of the antioxidant pathway including nuclear factor E2-related factor 2 (Nrf2) and NAD(P) H:quinone oxidoreductase 1 (Nqo1), we investigated whether Cyn also activates the AhR-Nrf2-Nqo1 pathway. Cyn indeed induced the activation (nuclear translocation) of AhR, leading to nuclear translocation of Nrf2 and dose-dependent upregulation of Nrf2 and Nqo1 mRNAs in human keratinocytes. The Cyn-induced AhR-Nrf2-Nqo1 activation was AhR-and Nrf2-dependent, as demonstrated by the observation that it was absent in keratinocytes transfected by siRNA against either AhR or Nrf2. In accordance with these findings, Cyn actively inhibited generation of reactive oxygen species from keratinocytes irradiated with ultraviolet B (UVB) in a Nrf2-dependent manner. Cyn also inhibited the production of proinflammatory cytokines such as interleukin 6 and tumor necrosis factor-alpha from UVB-treated keratinocytes. Our findings demonstrate that Cyn is a potent activator of the AhR-Nrf2-Nqo1 pathway, and could therefore be applied to prevention of UVB-induced photo aging. (C) 2015 Elsevier Ireland Ltd. All rights reserved.
+RI U-ID, Kyushu/C-5291-2016
+SN 0378-4274
+EI 1879-3169
+PD APR 16
+PY 2015
+VL 234
+IS 2
+BP 74
+EP 80
+DI 10.1016/j.toxlet.2015.02.007
+UT WOS:000350443900003
+PM 25680693
+ER
+
+PT J
+AU Mexia, N
+   Gaitanis, G
+   Velegrald, A
+   Soshilov, A
+   Denison, MS
+   Magiatis, P
+AF Mexia, Nikitia
+   Gaitanis, Georgios
+   Velegrald, Aristea
+   Soshilov, Anatoly
+   Denison, Michael S.
+   Magiatis, Prokopios
+TI Pityriazepin and other potent AhR ligands isolated from Malassezia
+   furfur yeast
+SO ARCHIVES OF BIOCHEMISTRY AND BIOPHYSICS
+AB Malassezia furfur yeast strains isolated from diseased human skin preferentially biosynthesize indole alkaloids which can be detected in the human skin and are highly potent activators of the aryl hydrocarbon receptor (AhR) and AhR-dependent gene expression. Chemical analysis of an EtOAc extract of a M. furfur strain obtained from diseased human skin and grown on L-tryptophan agar revealed several known AhR active tryptophan metabolites along with a previously unidentified compound, pityriazepin. While its structure resembled that of the known alkaloid pityriacitrin, the comprised pyridine ring had been transformed into an azepinone. The indoloazepinone scaffold of pityriazepin is extremely rare in nature and has only been reported once previously. Pityriazepin, like the other isolated compounds, was found to be a potent activator of the AhR-dependent reporter gene assay in recombinant cell lines derived from four different species, although significant species differences in relative potency were observed. The ability of pityriazepin to competitively bind to the AhR and, directly stimulate AhR DNA binding classified it as a new naturally-occurring potent AhR agonist. M. furfur produces an expanded collection of extremely potent naturally occurring AhR agonists, which produce their biological effects in a species-specific manner. (C) 2015 Elsevier Inc. All rights reserved.
+SN 0003-9861
+EI 1096-0384
+PD APR 1
+PY 2015
+VL 571
+BP 16
+EP 20
+DI 10.1016/j.abb.2015.02.023
+UT WOS:000352926800003
+PM 25721496
+ER
+
+PT J
+AU Patlewicz, G
+   Simon, TW
+   Rowlands, JC
+   Budinsky, RA
+   Becker, RA
+AF Patlewicz, Grace
+   Simon, Ted W.
+   Rowlands, J. Craig
+   Budinsky, Robert A.
+   Becker, Richard A.
+TI Proposing a scientific confidence framework to help support the
+   application of adverse outcome pathways for regulatory purposes
+SO REGULATORY TOXICOLOGY AND PHARMACOLOGY
+AB An adverse outcome pathway (ADP) describes the causal linkage between initial molecular events and an adverse outcome at individual or population levels. Whilst there has been considerable momentum in AOP development, far less attention has been paid to how AOPs might be practically applied for different regulatory purposes. This paper proposes a scientific confidence framework (SCF) for evaluating and applying a given AOP for different regulatory purposes ranging from prioritizing chemicals for further evaluation, to hazard prediction, and ultimately, risk assessment. The framework is illustrated using three different AOPs for several typical regulatory applications. The AOPs chosen are ones that have been recently developed and/or published, namely those for estrogenic effects, skin sensitisation, and rodent liver tumor promotion. The examples confirm how critical the data-richness of an AOP is for driving its practical application. In terms of performing risk assessment, human dosimetry methods are necessary to inform meaningful comparisons with human exposures; dosimetry is applied to effect levels based on non-testing approaches and in vitro data. Such a comparison is presented in the form of an exposure:activity ratio (EAR) to interpret biological activity in the context of exposure and to provide a basis for product stewardship and regulatory decision making. (C) 2015 The Authors. Published by Elsevier Inc.
+OI Patlewicz, Grace/0000-0003-3863-9689
+SN 0273-2300
+EI 1096-0295
+PD APR
+PY 2015
+VL 71
+IS 3
+BP 463
+EP 477
+DI 10.1016/j.yrtph.2015.02.011
+UT WOS:000352823800012
+PM 25707856
+ER
+
+PT J
+AU Ming, M
+   Zhao, BZ
+   Shea, CR
+   Shah, P
+   Qiang, L
+   White, SR
+   Sims, DM
+   He, YY
+AF Ming, Mei
+   Zhao, Baozhong
+   Shea, Christopher R.
+   Shah, Palak
+   Qiang, Lei
+   White, Steven R.
+   Sims, Diane M.
+   He, Yu-Ying
+TI Loss of sirtuin 1 (SIRT1) disrupts skin barrier integrity and sensitizes
+   mice to epicutaneous allergen challenge
+SO JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY
+AB Background: Skin barrier integrity requires a highly coordinated molecular system involving the structural protein filaggrin (FLG). Mutational loss of the skin barrier protein FLG predisposes subjects to the development of atopic dermatitis (AD).
+   Objective: We sought to determine the role of sirtuin 1 (SIRT1) in skin barrier function, FLG expression, and development of AD.
+   Methods: Skin histology of mice with skin-specific SIRT1 deletion and wild-type control animals was examined by using hematoxylin and eosin staining. Protein and mRNA abundance was analyzed by means of immunoblotting, immunohistochemistry, immunofluorescence, and RT-PCR. Serum antibody levels were assessed by means of ELISA.
+   Results: Here we show that FLG is regulated by the protein deacetylase SIRT1 and that SIRT1 is critical for skin barrier integrity. Epidermis-specific SIRT1 ablation causes AD-like skin lesions in mice, and mice with epidermal SIRT1 deletion are sensitive to percutaneous challenge by the protein allergen ovalbumin. In normal human keratinocytes and mouse skin SIRT1 knockdown or genetic deletion downregulates FLG, and regulation of FLG expression by SIRT1 requires the deacetylase activity of SIRT1. SIRT1 also promotes activation of the aryl hydrocarbon receptor, and the aryl hydrocarbon receptor ligand restores FLG expression in SIRT1-inhibited cells. Compared with normal human skin, SIRT1 is downregulated in both AD and non-AD lesions.
+   Conclusion: Our findings demonstrate a critical role of SIRT1 in skin barrier maintenance, open up new opportunities to use SIRT1 as a pharmacologic target, and might facilitate the development of mechanism-based agents for AD prevention and therapy.
+RI Qiang, Lei/B-2763-2012
+OI Qiang, Lei/0000-0002-7164-3164
+SN 0091-6749
+EI 1097-6825
+PD APR
+PY 2015
+VL 135
+IS 4
+BP 936
+EP +
+DI 10.1016/j.jaci.2014.09.035
+UT WOS:000352238600015
+PM 25445829
+ER
+
+PT J
+AU Guo, XY
+   Xu, YM
+   Zhao, ZM
+AF Guo, Xingyi
+   Xu, Yaomin
+   Zhao, Zhongming
+TI In-depth genomic data analyses revealed complex transcriptional and
+   epigenetic dysregulations of BRAF(V600E) in melanoma
+SO MOLECULAR CANCER
+AB Background: The recurrent BRAF driver mutation V600E (BRAF(V600E)) is currently one of the most clinically relevant mutations in melanoma. However, the genome-wide transcriptional and epigenetic dysregulations induced by BRAF(V600E) are still unclear. The investigation of this driver mutation's functional consequences is critical to the understanding of tumorigenesis and the development of therapeutic strategies.
+   Methods and results: We performed an integrative analysis of transcriptomic and epigenomic changes disturbed by BRAF(V600E) by comparing the gene expression and methylation profiles of 34 primary cutaneous melanoma tumors harboring BRAF(V600E) with those of 27 BRAF(WT) samples available from The Cancer Genome Atlas (TCGA). A total of 711 significantly differentially expressed genes were identified as putative BRAF(V600E) target genes. Functional enrichment analyses revealed the transcription factor MITF (p < 3.6 x 10(-16)) and growth factor TGFB1 (p < 3.1 x 10(-9)) were themost significantly enriched up-regulators, with MITF being significantly up-regulated, whereas TGFB1 was significantly down-regulated in BRAF(V600E), suggesting that they may mediate tumorigenesis driven by BRAF(V600E). Further investigation using the MITF ChIP-Seq data confirmed that BRAF(V600E) led to an overall increased level of gene expression for the MITF targets. Furthermore, DNA methylation analysis revealed a global DNA methylation loss in BRAF(V600E) relative to BRAFWT. This might be due to BRAF dysregulation of DNMT3A, which was identified as a potential target with significant down-regulation in BRAF(V600E). Finally, we demonstrated that BRAF(V600E) targets may play essential functional roles in cell growth and proliferation, measured by their effects on melanoma tumor growth using a short hairpin RNA silencing experimental dataset.
+   Conclusions: Our integrative analysis identified a set of BRAF(V600E) target genes. Further analyses suggested a complex mechanism driven by mutation BRAF(V600E) on melanoma tumorigenesis that disturbs specific cancer-related genes, pathways, and methylation modifications.
+SN 1476-4598
+PD MAR 14
+PY 2015
+VL 14
+AR 60
+DI 10.1186/s12943-015-0328-y
+UT WOS:000351994300001
+PM 25890285
+ER
+
+PT J
+AU Lee, JH
+   Kim, HG
+   Lee, JW
+AF Lee, Ju Hee
+   Kim, Hyung Goo
+   Lee, Won Jai
+TI Characterization and tissue incorporation of cross-linked human
+   acellular dermal matrix
+SO BIOMATERIALS
+AB Here, we describe a novel human acellular dermal matrix (ADM) cross-linked using electron beam irradiation. Structural and biomechanical characteristics of the human ADM were assessed by infrared spectrometry and uni-axial tensile testing. Electron beam irradiation affects collagen secondary structure, which can be detected in the amide I spectral region (1660 cm(-1) and 1690 cm(-1)). At doses exceeding 25 kGy, cross-linking of the collagen matrix results in a denser, more stratified appearance and parallel arrangement, with significantly increased tensile strength and elastic modulus. In a micropig model, the implanted ADM elicits rapid host cell infiltration and extracellular matrix deposition; however, the delayed remodeling resulted in long-term structural integrity. Furthermore, mean densities of collagen and elastin, expression of extracellular matrix proteins, and microvessel formation within the implanted ADM increased significantly, whereas the thickness of the implanted ADM did not decrease during the course of the study. Compared with normal adjacent tissue, type I collagen mRNA levels in the ADM increased 12-fold at 3 months after implantation, and transforming growth factor-beta mRNA levels increased 3.3-fold at 2 months. Matrix metalloproteinase (MMP)-1 and MMP-9 mRNA levels were also elevated. Collectively, these results demonstrate that the structural and biomechanical properties of this novel cross-linked human ADM are adequate for use as a biologic tissue substitute. (C) 2014 Elsevier Ltd. All rights reserved.
+SN 0142-9612
+EI 1878-5905
+PD MAR
+PY 2015
+VL 44
+BP 195
+EP 205
+DI 10.1016/j.biomaterials.2014.12.004
+UT WOS:000349723800018
+PM 25617138
+ER
+
+EF

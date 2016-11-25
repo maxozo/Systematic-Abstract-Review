@@ -1,0 +1,20 @@
+#This perl Script is extracting DOIs from abstracts downloaded from web of knowladge and arranges them according to the protein names they contain.
+#Written by Matiss Ozols, University of Manchester, Cell Matrix & Regenerative Medicine.
+
+This outpust 2 Files:
+
+#1 Protein_Based_output: so the first column is a protein name and it shows which abstracts (DOI) these proteins can be found at.
+#2 DOI_Based_Abstracts_END: contains DOI first and shows which proteins can be found in abstract.
+
+
+
+To Run:
+
+1)	Install Perl and any required packages.
+2)	Put all the abstracts downloaded in Abstracts folder in a folowing showed in an Abstracts.tar.gz example folder. Can be As many files as necessary.
+3)	Run Exe_Combine.pl
+
+
+Any issues: contact Matiss Ozols on (matiss.ozols@manchester.ac.uk)
+
+
