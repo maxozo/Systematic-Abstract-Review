@@ -1,0 +1,1816 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Zhang, J
+   Qiao, CZ
+   Chang, L
+   Guo, YH
+   Fan, YB
+   Villacorta, L
+   Chen, YE
+   Zhang, JF
+AF Zhang, Ji
+   Qiao, Congzhen
+   Chang, Lin
+   Guo, Yanhong
+   Fan, Yanbo
+   Villacorta, Luis
+   Chen, Y. Eugene
+   Zhang, Jifeng
+TI Cardiomyocyte Overexpression of FABP4 Aggravates Pressure
+   Overload-Induced Heart Hypertrophy
+SO PLOS ONE
+AB Fatty acid binding protein 4 (FABP4) is a member of the intracellular lipid-binding protein family, responsible for the transportation of fatty acids. It is considered to express mainly in adipose tissues, and be strongly associated with inflammation, obesity, diabetes and cardiovasculardiseases. Here we report that FABP4 is also expressed in cardiomyocytes and plays an important role in regulating heart function under pressure overload. We generated heart-specific transgenic FABP4 (FABP4-TG) mice using a myosin-heavy chain (alpha-MHC) promoter and human FABP4 sequence, resulting in over-expression of FABP4 in cardiomyocytes. The FABP4-TG mice displayed normal cardiac morphology and contractile function. When they were subjected to the transverse aorta constriction (TAC) procedure, the FABP4-TG mice developed more cardiac hypertrophy correlated with significantly increased ERK phosphorylation, compared with wild type controls. FABP4 over-expression in cardiomyocytes activated phosphor-ERK signal and up-regulate the expression of cardiac hypertrophic marker genes. Conversely, FABP4 induced phosphor-ERK signal and hypertrophic gene expressions can be markedly inhibited by an ERK inhibitor PD098059 as well as the FABP4 inhibitor BMS309403. These results suggest that FABP4 over-expression in cardiomyocytes can aggravate the development of cardiac hypertrophy through the activation of ERK signal pathway.
+RI Villacorta, Luis/E-8937-2011
+OI Villacorta, Luis/0000-0001-7824-7028
+SN 1932-6203
+PD JUN 13
+PY 2016
+VL 11
+IS 6
+AR e0157372
+DI 10.1371/journal.pone.0157372
+UT WOS:000377821300037
+PM 27294862
+ER
+
+PT J
+AU Furuhashi, M
+   Fuseya, T
+   Murata, M
+   Hoshina, K
+   Ishimura, S
+   Mita, T
+   Watanabe, Y
+   Omori, A
+   Matsumoto, M
+   Sugaya, T
+   Oikawa, T
+   Nishida, J
+   Kokubu, N
+   Tanaka, M
+   Moniwa, N
+   Yoshida, H
+   Sawada, N
+   Shimamoto, K
+   Miura, T
+AF Furuhashi, Masato
+   Fuseya, Takahiro
+   Murata, Masaki
+   Hoshina, Kyoko
+   Ishimura, Shutaro
+   Mita, Tomohiro
+   Watanabe, Yuki
+   Omori, Akina
+   Matsumoto, Megumi
+   Sugaya, Takeshi
+   Oikawa, Tsuyoshi
+   Nishida, Junichi
+   Kokubu, Nobuaki
+   Tanaka, Marenao
+   Moniwa, Norihito
+   Yoshida, Hideaki
+   Sawada, Norimasa
+   Shimamoto, Kazuaki
+   Miura, Tetsuji
+TI Local Production of Fatty Acid-Binding Protein 4 in
+   Epicardial/Perivascular Fat and Macrophages Is Linked to Coronary
+   Atherosclerosis
+SO ARTERIOSCLEROSIS THROMBOSIS AND VASCULAR BIOLOGY
+AB Objective-Fatty acid-binding protein 4 (FABP4) is expressed in adipocytes and macrophages, and elevated circulating FABP4 level is associated with obesity-mediated metabolic phenotype. We systematically investigated roles of FABP4 in the development of coronary artery atherosclerosis.
+   Approach and Results-First, by immunohistochemical analyses, we found that FABP4 was expressed in macrophages within coronary atherosclerotic plaques and epicardial/perivascular fat in autopsy cases and macrophages within thrombi covering ruptured coronary plaques in thrombectomy samples from patients with acute myocardial infarction. Second, we confirmed that FABP4 was secreted from macrophages and adipocytes cultured in vitro. Third, we investigated the effect of exogenous FABP4 on macrophages and human coronary artery-derived smooth muscle cells and endothelial cells in vitro. Treatment of the cells with recombinant FABP4 significantly increased gene expression of inflammatory markers in a dose-dependent manner. Finally, we measured serum FABP4 level in the aortic root (Ao-FABP4) and coronary sinus (CS-FABP4) of 34 patients with suspected or known coronary artery disease. Coronary stenosis score assessed by the modified Gensini score was weakly correlated with CS-FABP4 but was not correlated with Ao-FABP4. A stronger correlation (r=0.59, P<0.01) was observed for the relationship between coronary stenosis score and coronary veno-arterial difference in FABP4 level, (CS-Ao)-FABP4, indicating local production of FABP4 during coronary circulation in the heart. Multivariate analysis indicated that (CS-Ao)-FABP4 was an independent predictor of the severity of coronary stenosis after adjustment of conventional risk factors.
+   Conclusions-FABP4 locally produced by epicardial/perivascular fat and macrophages in vascular plaques contributes to the development of coronary atherosclerosis.
+SN 1079-5642
+EI 1524-4636
+PD MAY
+PY 2016
+VL 36
+IS 5
+BP 825
+EP 834
+DI 10.1161/ATVBAHA.116.307225
+UT WOS:000375230000013
+PM 27013610
+ER
+
+PT J
+AU Gkatzis, K
+   Thalgott, J
+   Dos-Santos-Luis, D
+   Martin, S
+   Lamande, N
+   Carette, MF
+   Disch, F
+   Snijder, RJ
+   Westermann, CJ
+   Mager, JJ
+   Oh, SP
+   Miquerol, L
+   Arthur, HM
+   Mummery, CL
+   Lebrin, F
+AF Gkatzis, Konstantinos
+   Thalgott, Jeremy
+   Dos-Santos-Luis, Damien
+   Martin, Sabrina
+   Lamande, Noel
+   Carette, Marie France
+   Disch, Frans
+   Snijder, Repke J.
+   Westermann, Cornelius J.
+   Mager, Johannes J.
+   Oh, S. Paul
+   Miquerol, Lucile
+   Arthur, Helen M.
+   Mummery, Christine L.
+   Lebrin, Franck
+TI Interaction Between ALK1 Signaling and Connexin40 in the Development of
+   Arteriovenous Malformations
+SO ARTERIOSCLEROSIS THROMBOSIS AND VASCULAR BIOLOGY
+AB Objective To determine the role of Gja5 that encodes for the gap junction protein connexin40 in the generation of arteriovenous malformations in the hereditary hemorrhagic telangiectasia type 2 (HHT2) mouse model.
+   Approach and Results We identified GJA5 as a target gene of the bone morphogenetic protein-9/activin receptor-like kinase 1 signaling pathway in human aortic endothelial cells and importantly found that connexin40 levels were particularly low in a small group of patients with HHT2. We next took advantage of the Acvrl1(+/-) mutant mice that develop lesions similar to those in patients with HHT2 and generated Acvrl1(+/-); Gja5(EGFP/+) mice. Gja5 haploinsufficiency led to vasodilation of the arteries and rarefaction of the capillary bed in Acvrl1(+/-) mice. At the molecular level, we found that reduced Gja5 in Acvrl1(+/-) mice stimulated the production of reactive oxygen species, an important mediator of vessel remodeling. To normalize the altered hemodynamic forces in Acvrl1(+/-); Gja5(EGFP/+) mice, capillaries formed transient arteriovenous shunts that could develop into large malformations when exposed to environmental insults.
+   Conclusions We identified GJA5 as a potential modifier gene for HHT2. Our findings demonstrate that Acvrl1 haploinsufficiency combined with the effects of modifier genes that regulate vessel caliber is responsible for the heterogeneity and severity of the disease. The mouse models of HHT have led to the proposal that 3 eventsheterozygosity, loss of heterozygosity, and angiogenic stimulationare necessary for arteriovenous malformation formation. Here, we present a novel 3-step model in which pathological vessel caliber and consequent altered blood flow are necessary events for arteriovenous malformation development.
+OI lebrin, franck/0000-0002-1650-6757
+SN 1079-5642
+EI 1524-4636
+PD APR
+PY 2016
+VL 36
+IS 4
+BP 707
+EP 717
+DI 10.1161/ATVBAHA.115.306719
+UT WOS:000373454700018
+PM 26821948
+ER
+
+PT J
+AU Obata, Y
+   Kamijo-Ikemori, A
+   Ichikawa, D
+   Sugaya, T
+   Kimura, K
+   Shibagaki, Y
+   Tateda, T
+AF Obata, Yumi
+   Kamijo-Ikemori, Atsuko
+   Ichikawa, Daisuke
+   Sugaya, Takeshi
+   Kimura, Kenjiro
+   Shibagaki, Yugo
+   Tateda, Takeshi
+TI Clinical usefulness of urinary liver-type fatty-acid-binding protein as
+   a perioperative marker of acute kidney injury in patients undergoing
+   endovascular or open-abdominal aortic aneurysm repair
+SO JOURNAL OF ANESTHESIA
+AB Acute kidney injury (AKI) is common after cardiovascular surgery and is usually diagnosed on the basis of the serum creatinine (SCr) level and urinary output. However, SCr is of low sensitivity in patients with poor renal function. Because urinary liver-type fatty-acid-binding protein (L-FABP) reflects renal tubular injury, we evaluated whether perioperative changes in urinary L-FABP predict AKI in the context of abdominal aortic repair.
+   Study participants were 95 patients who underwent endovascular abdominal aortic aneurysm repair (EVAR) and 42 who underwent open repair. We obtained urine samples before surgery, after anesthesia induction, upon stent placement, before aortic cross-clamping (AXC), 1 and 2 h after AXC, at the end of surgery, 4 h after surgery, and on postoperative days (PODs) 1, 2, and 3, for measurement of L-FABP. We obtained serum samples before surgery, immediately after surgery, and on PODs 1, 2, and 3, for measurement of SCr. We also plotted receiver-operating characteristic (ROC) curves to identify cutoff laboratory values for predicting the onset of AKI.
+   With EVAR, urinary L-FABP was significantly increased 4 h after the procedure (P = 0.014). With open repair, urinary L-FABP increased significantly to its maximum by 2 h after AXC (P = 0.007). With AKI, SCr significantly increased (P < 0.001, P = 0.001) by POD 2. ROC analysis showed urinary L-FABP to be more sensitive than SCr for early detection of AKI.
+   Urinary L-FABP appears to be a sensitive biomarker of AKI in patients undergoing abdominal aortic repair.
+SN 0913-8668
+EI 1438-8359
+PD FEB
+PY 2016
+VL 30
+IS 1
+BP 89
+EP 99
+DI 10.1007/s00540-015-2095-8
+UT WOS:000369545600013
+PM 26585768
+ER
+
+PT J
+AU Zachariah, JP
+   Hwang, S
+   Hamburg, NM
+   Benjamin, EJ
+   Larson, MG
+   Levy, D
+   Vita, JA
+   Sullivan, LM
+   Mitchell, GF
+   Vasan, RS
+AF Zachariah, Justin P.
+   Hwang, Susan
+   Hamburg, Naomi M.
+   Benjamin, Emelia J.
+   Larson, Martin G.
+   Levy, Daniel
+   Vita, Joseph A.
+   Sullivan, Lisa M.
+   Mitchell, Gary F.
+   Vasan, Ramachandran S.
+TI Circulating Adipokines and Vascular Function Cross-Sectional
+   Associations in a Community-Based Cohort
+SO HYPERTENSION
+AB Adipokines may be potential mediators of the association between excess adiposity and vascular dysfunction. We assessed the cross-sectional associations of circulating adipokines with vascular stiffness in a community-based cohort of younger adults. We related circulating concentrations of leptin and leptin receptor, adiponectin, retinol-binding protein 4, and fatty acid-binding protein 4 to vascular stiffness measured by arterial tonometry in 3505 Framingham Third Generation cohort participants free of cardiovascular disease (mean age 40 years, 53% women). Separate regression models estimated the relations of each adipokine to mean arterial pressure and aortic stiffness, as carotid femoral pulse wave velocity, adjusting for age, sex, smoking, heart rate, height, antihypertensive treatment, total and high-density lipoprotein cholesterol, diabetes mellitus, alcohol consumption, estimated glomerular filtration rate, glucose, and C-reactive protein. Models evaluating aortic stiffness also were adjusted for mean arterial pressure. Mean arterial pressure was positively associated with blood retinol-binding protein 4, fatty acid-binding protein 4, and leptin concentrations (all P<0.001) and inversely with adiponectin (P=0.002). In fully adjusted models, mean arterial pressure was positively associated with retinol-binding protein 4 and leptin receptor levels (P<0.002 both). In fully adjusted models, aortic stiffness was positively associated with fatty acid-binding protein 4 concentrations (P=0.02), but inversely with leptin and leptin receptor levels (P0.03 both). In our large community-based sample, circulating concentrations of select adipokines were associated with vascular stiffness measures, consistent with the hypothesis that adipokines may influence vascular function and may contribute to the relation between obesity and hypertension.
+SN 0194-911X
+EI 1524-4563
+PD FEB
+PY 2016
+VL 67
+IS 2
+BP 294
+EP 300
+DI 10.1161/HYPERTENSIONAHA.115.05949
+UT WOS:000368454500014
+PM 26628673
+ER
+
+PT J
+AU Paapstel, K
+   Zilmer, M
+   Eha, J
+   Tootsi, K
+   Piir, A
+   Kals, J
+AF Paapstel, Kaido
+   Zilmer, Mihkel
+   Eha, Jaan
+   Tootsi, Kaspar
+   Piir, Anneli
+   Kals, Jaak
+TI Early Biomarkers of Renal Damage in Relation to Arterial Stiffness and
+   Inflammation in Male Coronary Artery Disease Patients
+SO KIDNEY & BLOOD PRESSURE RESEARCH
+AB Background/Aims: Plasma neutrophil gelatinase-associated lipocalin (NGAL), urinary livertype fatty acid-binding protein (L-FABP) and urinary kidney injury molecule-1 (KIM-1) have emerged as promising biomarkers for both acute and chronic kidney injury that also provide prognostic value for cardiovascular morbidity and mortality. Our aim was to evaluate their relationships with arterial stiffness and inflammation in coronary artery disease (CAD) patients and in clinically healthy controls. Methods: We studied 52 patients with CAD (age 63.2 +/- 9.2 years) and 41 healthy controls (age 60.1 +/- 7.2 years). Urinary L-FABP and KIM-1 as well as serum NGAL, adiponectin and resistin levels were measured using the enzyme-linked immunosorbent assay method. The technique of applanation tonometry was used for non-invasive pulse wave analysis and pulse wave velocity assessments. Results: Urinary L-FABP and KIM-1 were independent determinants of cf-PWV for the CAD patients (R-2=0.584, P<0.001) but not for the controls. Adiponectin correlated with log-KIM-1 (r=0.31, P=0.028) only for the patients, while NGAL correlated with WBC count (rho=0.29, P=0.038; r=0.35, P=0.029) and resistin (rho=0.60, P<0.001; r=0.57, P<0.001) for both the CAD and control groups, respectively. Conclusion: Our findings suggest that urinary L-FABP and KIM-1 may be independently associated with aortic stiffness in individuals with CAD. (C) 2016 The Author(s) Published by S. Karger AG, Basel
+SN 1420-4096
+EI 1423-0143
+PY 2016
+VL 41
+IS 4
+BP 488
+EP 497
+DI 10.1159/000443450
+UT WOS:000382740300014
+PM 27433796
+ER
+
+PT J
+AU Valero-Munoz, M
+   Li, SP
+   Wilson, RM
+   Hulsmans, M
+   Aprahamian, T
+   Fuster, JJ
+   Nahrendorf, M
+   Scherer, PE
+   Sam, F
+AF Valero-Munoz, Maria
+   Li, Shanpeng
+   Wilson, Richard M.
+   Hulsmans, Maarten
+   Aprahamian, Tamar
+   Fuster, Jose J.
+   Nahrendorf, Matthias
+   Scherer, Philipp E.
+   Sam, Flora
+TI Heart Failure With Preserved Ejection Fraction Induces Beiging in
+   Adipose Tissue
+SO CIRCULATION-HEART FAILURE
+AB Background Despite the increasing prevalence of heart failure with preserved ejection fraction (HFpEF) in humans, there are no evidence-based therapies for HFpEF. Clinical studies suggest a relationship between obesity-associated dysfunctional adipose tissue (AT) and HFpEF. However, an apparent obesity paradox exists in some HF populations with a higher body mass index. We sought to determine whether HFpEF exerted effects on AT and investigated the involved mechanisms.
+   Methods and Results Mice underwent d-aldosterone infusion, uninephrectomy, and were given 1% saline for 4 weeks. HFpEF mice developed hypertension, left ventricular hypertrophy, and diastolic dysfunction and had higher myocardial natriuretic peptide expression. Although body weights were similar in HFpEF and sham-operated mice, white AT was significantly smaller in HFpEF than in sham (epididymal AT, 7.59 versus 10.67 mg/g; inguinal AT, 6.34 versus 8.38 mg/g). These changes were associated with smaller adipocyte size and increased beiging markers (ucp-1, cidea, and eva) in white AT. Similar findings were seen in HFpEF induced by transverse aortic constriction. Increased activation of natriuretic peptide signaling was seen in white AT of HFpEF mice. The ratio of the signaling receptor, natriuretic peptide receptor type A, to the clearance receptor, nprc, was increased as was p38 mitogen-activated protein kinase activation. However, HFpEF mice failed to regulate body temperature during cold temperature exposure. In HFpEF, despite a larger brown AT mass (5.96 versus 4.50 mg/g), brown AT showed reduced activity with decreased uncoupling protein 1 (ucp-1), cell death-inducing DFFA-like effector a (cidea), and epithelial V-like antigen (eva) expression and decreased expression of lipolytic enzymes (hormone-sensitive lipase, lipoprotein lipase, and fatty acid binding protein 4) versus sham.
+   Conclusions These findings show that HFpEF is associated with beiging in white AT and with dysfunctional brown AT.
+OI Sam, Flora/0000-0001-8442-9362
+SN 1941-3289
+EI 1941-3297
+PD JAN
+PY 2016
+VL 9
+IS 1
+AR e002724
+DI 10.1161/CIRCHEARTFAILURE.115.002724
+UT WOS:000368625000001
+PM 26721917
+ER
+
+PT J
+AU Zhang, WW
+   Wang, X
+   Hu, WQ
+   Liu, LP
+   Li, XJ
+   Han, JH
+   Chen, YL
+   Duan, YJ
+AF Zhang, Wenwen
+   Wang, Xue
+   Hu, Wenquan
+   Liu, Lipei
+   Li, Xiaoju
+   Han, Jihong
+   Chen, Yuanli
+   Duan, Yajun
+TI Co-treatment of Pitavastatin and Dexamethasone Exacerbates the High-fat
+   Diet-induced Atherosclerosis in apoE-deficient Mice
+SO JOURNAL OF CARDIOVASCULAR PHARMACOLOGY
+AB Activation of macrophage adipocyte fatty acid-binding protein (FABP4) induces development of atherosclerosis in animal models. We previously reported that statin inhibited while dexamethasone activated macrophage FABP4 expression. However, co-treatment of macrophages with statin and dexamethasone induced FABP4 expression in a synergistic manner, which implies that this co-treatment may exacerbate high-fat diet (HFD)-induced atherosclerosis. In this study, we fed apoE-deficient (apoE(-/-)) mice with HFD or HFD containing dexamethasone or pitavastatin or both for 16 weeks. Compared with HFD alone, pitavastatin or dexamethasone had little effect on lesions in both en face aortas and aortic root cross sections. However, the co-treatment exacerbated HFD-induced lesions. In addition, the co-treatment decreased collagen content and disturbed the integrity of lesion caps. Both serum total cholesterol and LDL cholesterol levels were reduced by pitavastatin and increased by dexamethasone, respectively. However, the co-treatment had little effect on both total cholesterol and LDL cholesterol levels, indicating that the exacerbation of lesions is independent of total cholesterol or LDL cholesterol levels. FABP4 expression in aortic lesion area was significantly induced by the co-treatment, suggesting that activation of FABP4 expression is a main contributor to lesions. In conclusion, our study demonstrates that co-treatment of pitavastatin and dexamethasone exacerbates HFD-induced atherosclerosis and defines a potential risk to use the dual treatment for patients in clinics.
+SN 0160-2446
+EI 1533-4023
+PD AUG
+PY 2015
+VL 66
+IS 2
+BP 189
+EP 195
+DI 10.1097/FJC.0000000000000264
+UT WOS:000359668300009
+PM 25874855
+ER
+
+PT J
+AU Tsai, JP
+   Wang, JH
+   Lee, CJ
+   Chen, YC
+   Hsu, BG
+AF Tsai, Jen-Pi
+   Wang, Ji-Hung
+   Lee, Chung-Jen
+   Chen, Yu-Chih
+   Hsu, Bang-Gee
+TI Positive correlation of serum adipocyte fatty acid binding protein
+   levels with carotid-femoral pulse wave velocity in geriatric population
+SO BMC GERIATRICS
+AB Background: Adipocyte fatty acid binding protein (A-FABP) is a novel fat-derived circulating protein, which is independently and positively associated with atherosclerosis. The present study evaluated the relationship between fasting serum A-FABP and central arterial stiffness in geriatric adults.
+   Methods: Fasting blood samples were obtained from 87 geriatric patients and the serum A-FABP levels were measured using an enzyme immunoassay. Carotid-femoral pulse wave velocity (cfPWV) was determined using the SphygmoCor system. cfPWV values of > 10 m/s represented the high arterial stiffness group, while values <= 10 m/s defined the low arterial stiffness group.
+   Results: High arterial stiffness group comprised of 42 geriatric adults (48.3 %). When compared to those in the low arterial stiffness group, the high arterial stiffness group had a higher rate of diabetes mellitus (P = 0.044) and hypertension (P = 0.043). Body weight (P = 0.027), waist circumference (P = 0.035), body mass index (P = 0.001), systolic blood pressure (P = 0.005), diastolic blood pressure (P = 0.045), pulse pressure (P = 0.038), and serum A-FABP level (P < 0.001) were also higher in the high arterial stiffness group than in the low arterial stiffness group. Multivariate logistic regression analysis of the factors significantly associated with arterial stiffness revealed that A-FABP (odds ratio: 1.833, 95 % confidence interval 1.123-2.993, P = 0.015) was an independent predictor of arterial stiffness in geriatric adults.
+   Conclusions: Serum A-FABP levels constitute a major risk factor in the development of central arterial stiffness in the geriatric population.
+SN 1471-2318
+PD JUL 24
+PY 2015
+VL 15
+AR 88
+DI 10.1186/s12877-015-0089-x
+UT WOS:000358428200001
+PM 26205896
+ER
+
+PT J
+AU Jalota-Badhwar, A
+   Bhatia, DR
+   Boreddy, S
+   Joshi, A
+   Venkatraman, M
+   Desai, N
+   Chaudhari, S
+   Bose, J
+   Kolla, LS
+   Deore, V
+   Yewalkar, N
+   Kumar, S
+   Sharma, R
+   Damre, A
+   More, A
+   Sharma, S
+   Agarwal, VR
+AF Jalota-Badhwar, Archana
+   Bhatia, Dimple R.
+   Boreddy, Srinivas
+   Joshi, Asavari
+   Venkatraman, Magesh
+   Desai, Nikesh
+   Chaudhari, Sarika
+   Bose, Julie
+   Kolla, Lakshmi S.
+   Deore, Vijaykumar
+   Yewalkar, Nilambari
+   Kumar, Sanjay
+   Sharma, Rajiv
+   Damre, Anagha
+   More, Avinash
+   Sharma, Somesh
+   Agarwal, Veena R.
+TI P7170: A Novel Molecule with Unique Profile of mTORC1/C2 and Activin
+   Receptor-like Kinase 1 Inhibition Leading to Antitumor and
+   Antiangiogenic Activity
+SO MOLECULAR CANCER THERAPEUTICS
+AB The mTOR pathway is often upregulated in cancer and thus intensively pursued as a target to design novel anticancer therapies. Approved and emerging drugs targeting the mTOR pathway have positively affected the clinical landscape. Recently, activin receptor-like kinase 1 (ALK1), belonging to the TGF beta receptor family, has been reported as an emerging target for antiangiogenic cancer therapy. Here, we describe a novel orally efficacious compound, P7170, that inhibits mTORC1/mTORC2/ALK1 activity with a potent cell growth inhibition. In cell-based assays, P7170 strongly inhibited (IC50 < 10 nmol/L) the phosphorylation of p70S6K (T389) and pAKT (S473). In many cancer cell lines, such as prostate, ovarian, colon, and renal, P7170 treatment resulted in marked cell growth inhibition. Furthermore, it induced G(1)-S cell-cycle arrest and autophagy. In vitro HUVEC tube formation, in vivo Matrigel plug, and rat aorta ring assays demonstrated that P7170 exhibited significant antiangiogenic activity. In addition, ALK1 knockdown studies in HUVEC confirmed that the antiangiogenic activity of P7170 was primarily due to ALK1 inhibition. Strong inhibition of ALK1 in addition to mTORC1/mTORC2 differentiates P7170 in its mechanism of action in comparison with existing inhibitors. In vivo mouse xenograft studies revealed P7170 to exhibit a significant dose-dependent tumor growth inhibition in a broad range of human tumor types when administered orally at 10 to 20 mg/kg doses. The distinctive pharmacological profile with favorable pharmacokinetic parameters and in vivo efficacy makes P7170 an attractive candidate for clinical development. It is currently being tested in phase I clinical studies. (C) 2015 AACR.
+SN 1535-7163
+EI 1538-8514
+PD MAY
+PY 2015
+VL 14
+IS 5
+BP 1095
+EP 1106
+DI 10.1158/1535-7163.MCT-14-0486
+UT WOS:000358053000002
+PM 25700704
+ER
+
+PT J
+AU Khodyuchenko, T
+   Zlotina, A
+   Pervunina, T
+   Zverev, D
+   Malashicheva, A
+   Kostareva, A
+AF Khodyuchenko, Tatiana
+   Zlotina, Anna
+   Pervunina, Tatiana
+   Zverev, Dmitry
+   Malashicheva, Anna
+   Kostareva, Anna
+TI Congenital Heart Defects Are Rarely Caused by Mutations in Cardiac and
+   Smooth Muscle Actin Genes
+SO BIOMED RESEARCH INTERNATIONAL
+AB Background. Congenital heart defects (CHDs) often have genetic background due to missense mutations in cardiomyocyte-specific genes. For example, cardiac actin was shown to be involved in pathogenesis of cardiac septum defects and smooth muscle actin in pathogenesis of aortic aneurysm in combination with patent ductus arteriosus (PDA). In the present study, we further searched for mutations in human alpha-cardiac actin (ACTC1) and smooth muscle alpha-actin (ACTA2) genes as a possible cause of atrial septum defect type II (ASDII) and PDA. Findings. Total genomic DNA was extracted from peripheral blood of 86 individuals with ASDs and 100 individuals with PDA. Coding exons and flanking intron regions of ACTC1 (NM_005159.4) and ACTA2 (NM_001613) were amplified by PCR with specific primers designed according to the corresponding gene reference sequences. PCR fragments were directly sequenced and analyzed. Sequence analysis of ACTC1 and ACTA2 did not identify any nucleotide changes that altered the coding sense of the genes. In ACTC1 gene, we were able to detect one previously described nucleotide polymorphism (rs2307493) resulting in a synonymous substitution. The frequency of this SNP was similar in the study and control group, thus excluding it from the possible disease-associated variants. Conclusions. Our results confirmed that the mutations in ACTC1 gene are rare (at least <1%) cause of ASDII. Mutations in ACTA2 gene were not detected in patients with PDA, thus being excluded from the list of frequent PDA-associated genetic defects.
+RI Zlotina, Anna/J-2531-2013; Khodyuchenko, Tatiana/H-8330-2013;
+   Malashicheva, Anna/K-2649-2014; 
+OI Zlotina, Anna/0000-0002-2029-1197; Khodyuchenko,
+   Tatiana/0000-0001-8882-8168; Kostareva, Anna/0000-0002-9349-6257;
+   Malashicheva, Anna/0000-0002-0820-2913
+SN 2314-6133
+EI 2314-6141
+PY 2015
+AR 127807
+DI 10.1155/2015/127807
+UT WOS:000351546200001
+ER
+
+PT J
+AU Nagaya, H
+   Kosugi, T
+   Maeda-Hori, M
+   Maeda, K
+   Sato, Y
+   Kojima, H
+   Hayashi, H
+   Kato, N
+   Ishimoto, T
+   Sato, W
+   Yuzawa, Y
+   Matsuo, S
+   Kadomatsu, K
+   Maruyama, S
+AF Nagaya, Hiroshi
+   Kosugi, Tomoki
+   Maeda-Hori, Mayuko
+   Maeda, Kayaho
+   Sato, Yuka
+   Kojima, Hiroshi
+   Hayashi, Hiroki
+   Kato, Noritoshi
+   Ishimoto, Takuji
+   Sato, Waichi
+   Yuzawa, Yukio
+   Matsuo, Seiichi
+   Kadomatsu, Kenji
+   Maruyama, Shoichi
+TI CD147/basigin reflects renal dysfunction in patients with acute kidney
+   injury
+SO CLINICAL AND EXPERIMENTAL NEPHROLOGY
+AB Acute tubular necrosis (ATN) describes a form of intrinsic acute kidney injury (AKI) that results from persistent hypoperfusion and subsequent activation of the immune system. A glycosylated transmembrane protein, CD147/basigin, is involved in the pathogenesis of renal ischemia and fibrosis. The present study investigated whether CD147 can reflect pathological features and renal dysfunction in patients with AKI.
+   Plasma and spot urine samples were collected from 24 patients (12 controls and 12 with ATN) who underwent renal biopsy between 2008 and 2012. In another study, patients undergoing open surgery to treat abdominal aortic aneurysms (AAAs) were enrolled in 2004. We collected urine and plasma samples from seven patients with AKI and 33 patients without AKI, respectively. In these experiments, plasma and urinary CD147, and urinary l-fatty acid-binding protein (l-FABP) levels were measured, and the former expression in kidneys was examined by immunostaining.
+   In biopsy tissues of ATN with severe histological features, CD147 induction was strikingly present in inflammatory cells such as macrophages and lymphocytes in the injured interstitium, but not in damaged tubules representing atrophy. Both plasma and urinary CD147 levels were strikingly increased in ATN patients; both values showed greater correlations with renal dysfunction compared to urinary l-FABP. In patients who had undergone open AAA surgery, urinary and plasma CD147 values in AKI patients were significantly higher than in non-AKI patients at post-operative day 1, similar to the profile of urinary l-FABP.
+   CD147 was prominent in its ability to detect AKI and may allow the start of preemptive medication.
+RI Kadomatsu, Kenji/G-8083-2012
+SN 1342-1751
+EI 1437-7799
+PD OCT
+PY 2014
+VL 18
+IS 5
+BP 746
+EP 754
+DI 10.1007/s10157-013-0916-3
+UT WOS:000343719300010
+PM 24306233
+ER
+
+PT J
+AU Windsant, ICV
+   de Wit, NCJ
+   Sertorio, JTC
+   van Bijnen, AA
+   Ganushchak, YM
+   Heijmans, JH
+   Tanus-Santos, JE
+   Jacobs, MJ
+   Maessen, JG
+   Buurman, WA
+AF Windsant, Iris C. Vermeulen
+   de Wit, Norbert C. J.
+   Sertorio, Jonas T. C.
+   van Bijnen, Annemarie A.
+   Ganushchak, Yuri M.
+   Heijmans, John H.
+   Tanus-Santos, Jose E.
+   Jacobs, Michael J.
+   Maessen, Jos G.
+   Buurman, Wim A.
+TI Hemolysis during cardiac surgery is associated with increased
+   intravascular nitric oxide consumption and perioperative kidney and
+   intestinal tissue damage
+SO FRONTIERS IN PHYSIOLOGY
+AB Introduction: Acute kidney injury (AKI) and intestinal injury negatively impact patient outcome after cardiac surgery. Enhanced nitric oxide (NO) consumption due to intraoperative intravascular hemolysis, may play an important role in this setting. This study investigated the impact of hemolysis on plasma NO consumption, AKI, and intestinal tissue damage, after cardiac surgery.
+   Methods: Hemolysis (by plasma extracellular (free) hemoglobin; fHb), plasma NO-consumption, plasma fHb-binding capacity by haptoglobin (Hp), renal tubular injury (using urinary N-Acetyl-beta-D-glucosaminidase; NAG), intestinal mucosal injury (through plasma intestinal fatty acid binding protein; IFABP), and AKI were studied in patients undergoing off-pump cardiac surgery (OPCAB, N = 7), on-pump coronary artery bypass grafting (CABG, N = 30), or combined CABG and valve surgery (CABG+Valve, N = 30).
+   Results: FHb plasma levels and NO-consumption significantly increased, while plasma Hp concentrations significantly decreased in CABG and CABG+Valve patients (p < 0.0001) during surgery. The extent of hemolysis and NO-consumption correlated significantly (r(2) = 0.75, p < 0.0001). Also, NAG and IFABP increased in both groups (p < 0.0001, and p < 0.001, respectively), and both were significantly associated with hemolysis (R-s = 0.70, p < 0.0001, and R-s = 0.26, p = 0.04, respectively) and NO-consumption (R-s = 0.55, p = 0.002, and R-s = 0.41, p = 0.03, respectively), also after multivariable logistic regression analysis. OPCAB patients did not show increased fHb, NO-consumption, NAG, or IFABP levels. Patients suffering from AKI (N = 9, 13.4%) displayed significantly higher fHb and NAG levels already during surgery compared to non-AKI patients.
+   Conclusions: Hemolysis appears to be an important contributor to postoperative kidney injury and intestinal mucosal damage, potentially by limiting NO-bioavailability. This observation offers a novel diagnostic and therapeutic target to improve patient outcome after cardiothoracic surgery.
+RI Tanus-Santos, Jose/A-4451-2008
+SN 1664-042X
+PD SEP 8
+PY 2014
+VL 5
+AR 340
+DI 10.3389/fphys.2014.00340
+UT WOS:000347087100001
+ER
+
+PT J
+AU Sohrabi, S
+   Wheatcroft, S
+   Barth, JH
+   Bailey, MA
+   Johnson, A
+   Bridge, K
+   Griffin, K
+   Baxter, PD
+   Scott, DJA
+AF Sohrabi, S.
+   Wheatcroft, S.
+   Barth, J. H.
+   Bailey, M. A.
+   Johnson, A.
+   Bridge, K.
+   Griffin, K.
+   Baxter, P. D.
+   Scott, D. J. A.
+TI Cardiovascular risk in patients with small and medium abdominal aortic
+   aneurysms, and no history of cardiovascular disease
+SO BRITISH JOURNAL OF SURGERY
+AB Background: Cardiovascular disease (CVD) is the main cause of death in people with abdominal aortic aneurysm (AAA). There is little evidence that screening for AAA reduces all-cause or cardiovascular mortality. The aim of the study was to assess whether subjects with a small or medium AAA (3.0-5.4 cm), without previous history of clinical CVD, had raised levels of CVD biomarkers or increased total mortality.
+   Methods: This prospective study included subjects with a small or medium AAA and controls, all without a history of clinical CVD. CVD biomarkers (high-sensitivity C-reactive protein, hs-CRP; heart-type fatty acid-binding protein, H-FABP) were measured, and survival was recorded.
+   Results: Of a total of 815 people, 476 with an AAA and 339 controls, a cohort of 86 with small or medium AAA (3-5.4 cm) and 158 controls, all with no clinical history of CVD, were identified. The groups were matched for age and sex. The AAA group had higher median (i.q.r.) levels of hs-CRP (2.8 (1.2-6.0) versus 1.3 (0.5-3.5) mg/l; P < 0.001) and H-FABP (4.6 (3.5-6.0) versus 4.0 (3.3-5.1) mu g/l; P = 0.011) than controls. Smoking was more common in the AAA group; however, hs-CRP and H-FABP levels were not related to smoking. Mean survival was lower in the AAA group: 6.3 (95 per cent confidence interval (c.i.) 5.6 to 6.9) years versus 8.0 (7.6 to 8.1) years in controls (P < 0.001). Adjusted mortality was higher in the AAA group (hazard ratio 3 41, 95 per cent c.i. 2.11 to 9.19; P < 0.001).
+   Conclusion: People with small or medium AAA and no clinical symptoms of CVD have higher levels of hs-CRP and H-FABP, and higher mortality compared with controls. They should continue to receive secondary prevention against CVD.
+SN 0007-1323
+EI 1365-2168
+PD SEP
+PY 2014
+VL 101
+IS 10
+BP 1238
+EP 1243
+DI 10.1002/bjs.9567
+UT WOS:000340606800006
+PM 24975961
+ER
+
+PT J
+AU Schellekens, DHSM
+   Grootjans, J
+   Dello, SAWG
+   van Bijnen, AA
+   van Dam, RM
+   Dejong, CHC
+   Derikx, JPM
+   Buurman, WA
+AF Schellekens, Dirk H. S. M.
+   Grootjans, Joep
+   Dello, Simon A. W. G.
+   van Bijnen, Annemarie A.
+   van Dam, Ronald M.
+   Dejong, Cornelis H. C.
+   Derikx, Joep P. M.
+   Buurman, Wim A.
+TI Plasma Intestinal Fatty Acid-Binding Protein Levels Correlate With
+   Morphologic Epithelial Intestinal Damage in a Human Translational
+   Ischemia-reperfusion Model
+SO JOURNAL OF CLINICAL GASTROENTEROLOGY
+AB Background and Aim:Intestinal fatty acid-binding protein (I-FABP) is a useful marker in the detection of intestinal ischemia. However, more insight into the test characteristics of I-FABP release is needed. This study aimed to investigate the relationship between plasma I-FABP levels and the severity of ischemic mucosal injury, and define the clinical usefulness of systemic I-FABP following ischemia.Methods:In a human experimental model, 6 cm of the jejunum, to be removed for surgical reasons, was selectively exposed to either 15, 30, or 60 minutes of ischemia (I) followed by 30 and 120 minutes of reperfusion (R). Blood and tissue was sampled at all time points. Arteriovenous (V-A) concentration differences of I-FABP were measured. Tissue sections were stained with hematoxylin/eosin, and villus height was measured to score epithelial damage.Results:Histologic analysis showed only minor reversible intestinal damage following 15I and 30I; however, severe irreversible epithelial damage was observed in the jejunum exposed to 60I. I-FABP V-A differences paralleled the degree of tissue damage over time [7.79 (1.8) ng/mL, 128.6 (+/- 44.2) ng/mL, 463.3 (+/- 139.8) ng/mL for 15I, 30I and 60I, respectively]. A good correlation was found between histologic epithelial damage and V-A I-FABP (r=-0.82, P<0.001). Interestingly, systemic I-FABP levels were significantly increased after 60I of this short small intestinal segment.Conclusions:This study demonstrates the relationship between the duration of ischemia and the extent of tissue damage, which is reflected by I-FABP V-A plasma levels. In addition, systemic I-FABP levels appear valuable in detecting irreversible intestinal ischemia-reperfusion damage.
+SN 0192-0790
+EI 1539-2031
+PD MAR
+PY 2014
+VL 48
+IS 3
+BP 253
+EP 260
+DI 10.1097/MCG.0b013e3182a87e3e
+UT WOS:000334921100010
+PM 24100750
+ER
+
+PT J
+AU Mori, Y
+   Sato, N
+   Kobayashi, Y
+   Ochiai, R
+AF Mori, Yosuke
+   Sato, Nobukazu
+   Kobayashi, Yoshiro
+   Ochiai, Ryoichi
+TI Low levels of urinary liver-type fatty acid-binding protein may indicate
+   a lack of kidney protection during aortic arch surgery requiring
+   hypothermic circulatory arrest
+SO JOURNAL OF CLINICAL ANESTHESIA
+AB Study Objective: To examine the change in liver-type fatty acid-binding protein (L-FABP) levels in patients undergoing aortic arch surgery and the correlation between L-FABP and postoperative acute kidney injury.
+   Design: Prospective observational study.
+   Setting: Operating room of a general hospital.
+   Patients: 36 adult patients.
+   Interventions and Measurements: Urine samples were obtained to measure urinary L-FABP at initiation of cardiopulmonary bypass (CPB) and 5 minutes after termination of hypothermic circulatory arrest.
+   Main Results: 22(61.1%) patients developed acute kidney injury within a 48-hour period. L-FABP increases more than a thousand-fold were found. In patients who subsequently developed acute kidney injury, significant increases in L-FABP were noted from 2.9 (3.6) ng/mg of creatinine before CPB to 62.1 (995.6) ng/mg of creatinine 5 minutes after termination of circulatory arrest. Values in patients who did not develop acute kidney injury increased from 1.1 (5.7) ng/mg before CPB to 1133.0 (6358.8) ng/mg of creatinine showing a significant mean difference (P = 0.011). The area under the L-FABP receiver operating characteristic curve at 5 minutes after termination of circulatory arrest was 0.758. A cutoff value of 75.13 ng/mg of creatinine yielded both good sensitivity (1.000) and specificity (0.546) for detecting non-acute kidney injury. Patients who developed acute kidney injury after aortic arch surgery demonstrated lower levels of urinary L-FABP.
+   Conclusions: Low levels of urinary L-FABP may indicate kidney injury and lack of renal protection. (C) 2014 Elsevier Inc. All rights reserved.
+SN 0952-8180
+EI 1873-4529
+PD MAR
+PY 2014
+VL 26
+IS 2
+BP 118
+EP 124
+DI 10.1016/j.jclinane.2013.07.014
+UT WOS:000334981200004
+PM 24582841
+ER
+
+PT J
+AU Kokot, M
+   Biolik, G
+   Ziaja, D
+   Fojt, T
+   Kedzierski, L
+   Antoniak, K
+   Janowska, M
+   Pawlicki, K
+   Ziaja, K
+   Dulawa, J
+AF Kokot, Michal
+   Biolik, Grzegorz
+   Ziaja, Damian
+   Fojt, Tadeusz
+   Kedzierski, Leszek
+   Antoniak, Katarzyna
+   Janowska, Miroslawa
+   Pawlicki, Krzysztof
+   Ziaja, Krzysztof
+   Dulawa, Jan
+TI Assessment of subclinical acute kidney injury after abdominal aortic
+   aneurysm surgery using novel markers: L-FABP and H-FABP
+SO NEFROLOGIA
+AB Background: One of the most severe complications of repair surgery for abdominal aortic aneurysms (AAA) is acute kidney injury (AKI). Even small rises in serum creatinine are associated with increased mortality. The aim of this study was to assess the dynamics of AKI after elective AAA surgery using novel markers. Methods: The study group consisted of 22 patients with AAA. We measured urinary liver-(u-L-FABP) and heart-type fatty acid-binding proteins (u-H-FABP) before, during and within 3 days after surgery. Results: We found an abrupt and significant elevation of both urine FABPs normalized to urinary creatinine; u-L-FABP reached its peak value 2 hours after aortic clamp release {137.79 (38.57-451.79) vs. 9.94 (6.82-12.42) ng/mg baseline value, p<0.05; values are medians (lower-upper quartile)}. The peak value of u-H-FABP was reported 72 hours after aortic clamp release {16.462 (4.182-37.595) vs. 0.141 (0.014-0.927) ng/mg baseline value, p<0.05}. The serum creatinine level did not changed significantly during the investigation period. Conclusions: The significant rise of both u-L-FABP and u-H-FABP after AAA surgery indicates renal proximal and distal tubule injury in this population. Our results suggest that, after AAA surgery, the distal tubules could be more affected than the proximal ones. u-FABPs could serve as sensitive biomarkers of kidney tubular injury and may allow to detect the very early phases of AKI.
+SN 0211-6995
+EI 1989-2284
+PY 2014
+VL 34
+IS 5
+BP 628
+EP 636
+DI 10.3265/Nefrologia.pre2014.Jul.11953
+UT WOS:000344025900015
+PM 25259818
+ER
+
+PT J
+AU Peco-Antic, A
+   Ivanisevic, I
+   Vulicevic, I
+   Kotur-Stevuljevic, J
+   Ilic, S
+   Ivanisevic, J
+   Miljkovic, M
+   Kocev, N
+AF Peco-Antic, Amira
+   Ivanisevic, Ivana
+   Vulicevic, Irena
+   Kotur-Stevuljevic, Jelena
+   Ilic, Slobodan
+   Ivanisevic, Jasmina
+   Miljkovic, Milica
+   Kocev, Nikola
+TI Biomarkers of acute kidney injury in pediatric cardiac surgery
+SO CLINICAL BIOCHEMISTRY
+AB Objectives: Acute kidney injury (AKI) is a significant problem in children undergoing cardiopulmonary bypass (CPB). The aims of this study were to assess the diagnostic validity of serum CysC (sCysC), serum neutrophil gelatinase lipocalin (sNGAL), urine neutrophil gelatinase lipocalin (uNGAL), urine kidney injury molecule (uKIM)-1, and urine liver fatty acid-binding protein (uL-FABP) to predict AKI presence and severity in children undergoing CPB.
+   Design and methods: We performed a prospective single-center evaluation of sCysC, sNGAL, uNGAL, uKIM-1 and uL-FABP at 0, 2, 6, 24 and 48 h postoperatively in children undergoing CPB during cardiac surgery. AKI was defined as >= 25% decrease in the estimated creatinine clearance (eCCl) from pre-operative baseline at 48 h after surgery.
+   Results: Of the 112 patients, 18 patients (16.1%) developed AKI; four of them needed acute dialysis treatment and three AKI patients died. In the AKI compared to the non-AM group, sCysC at 2 h, and uNGAL and uL-FABP at 2-48 h were significantly increased, as well as CPB, aortic cross clamp time and length of hospital stay. Biomarkers increased with worsening AKI severity. At 2 h after CPB the best accuracy for diagnosis of AKI had uL-FABP and sCysC with area under the receiver operator curve (AUC) of 0.89 and 0.73, respectively. At 6 and 24 h after CPB the best AUC was found for uL-FABP (0.75 and 0.87 respectively) and for uNGAL (0.70 and 0.93, respectively).
+   Conclusions: sCysC, uNGAL and uL-FABP are reliable early predictors for AKI after CPB. By allowing earlier timing of injury and earlier intervention, they could improve AKI outcome. (c) 2013 The Canadian Society of Clinical Chemists. Published by Elsevier Inc. All rights reserved.
+SN 0009-9120
+PD SEP
+PY 2013
+VL 46
+IS 13-14
+SI SI
+BP 1244
+EP 1251
+DI 10.1016/j.clinbiochem.2013.07.008
+UT WOS:000323857300014
+PM 23876402
+ER
+
+PT J
+AU Ong, WY
+   Ng, MPE
+   Loke, SY
+   Jin, SL
+   Wu, YJ
+   Tanaka, K
+   Wong, PTH
+AF Ong, Wei-Yi
+   Ng, Mary Pei-Ern
+   Loke, Sau-Yeen
+   Jin, Shalai
+   Wu, Ya-Jun
+   Tanaka, Kazuhiro
+   Wong, Peter Tsun-Hon
+TI Comprehensive Gene Expression Profiling Reveals Synergistic Functional
+   Networks in Cerebral Vessels after Hypertension or Hypercholesterolemia
+SO PLOS ONE
+AB Atherosclerotic stenosis of cerebral arteries or intracranial large artery disease (ICLAD) is a major cause of stroke especially in Asians, Hispanics and Africans, but relatively little is known about gene expression changes in vessels at risk. This study compares comprehensive gene expression profiles in the middle cerebral artery (MCA) of New Zealand White rabbits exposed to two stroke risk factors i.e. hypertension and/or hypercholesterolemia, by the 2-Kidney-1-Clip method, or dietary supplementation with cholesterol. Microarray and Ingenuity Pathway Analyses of the MCA of the hypertensive rabbits showed up-regulated genes in networks containing the node molecules: UBC (ubiquitin), P38 MAPK, ERK, NF kappa B, SERPINB2, MMP1 and APP (amyloid precursor protein); and down-regulated genes related to MAPK, ERK 1/2, Akt, 26 s proteasome, histone H3 and UBC. The MCA of hypercholesterolemic rabbits showed differentially expressed genes that are surprisingly, linked to almost the same node molecules as the hypertensive rabbits, despite a relatively low percentage of 'common genes' (21 and 7%) between the two conditions. Up-regulated common genes were related to: UBC, SERPINB2, TNF, HNF4A (hepatocyte nuclear factor 4A) and APP, and down-regulated genes, related to UBC. Increased HNF4A message and protein were verified in the aorta. Together, these findings reveal similar nodal molecules and gene pathways in cerebral vessels affected by hypertension or hypercholesterolemia, which could be a basis for synergistic action of risk factors in the pathogenesis of ICLAD.
+SN 1932-6203
+PD JUL 16
+PY 2013
+VL 8
+IS 7
+AR e68335
+DI 10.1371/journal.pone.0068335
+UT WOS:000322064300024
+PM 23874591
+ER
+
+PT J
+AU Sun, YJ
+   Song, DD
+   Diao, YG
+   Zhou, J
+   Zhang, TZ
+AF Sun, Ying-jie
+   Song, Dan-dan
+   Diao, Yu-gang
+   Zhou, Jin
+   Zhang, Tie-zheng
+TI Penehyclidine hydrochloride preserves the intestinal barrier function in
+   patients undergoing cardiopulmonary bypass
+SO JOURNAL OF THORACIC AND CARDIOVASCULAR SURGERY
+AB Objective: The study objective was to investigate the protective effect of penehyclidine hydrochloride on intestinal barrier function integrity and its therapeutic potential on endotoxemia and systemic inflammatory response in patients undergoing cardiopulmonary bypass.
+   Methods: Forty patients undergoing cardiac valve replacement with cardiopulmonary bypass were enrolled in the study. All patients were randomly divided into the penehyclidine hydrochloride or control group (20 patients in each group). Patients in the penehyclidine hydrochloride group received an intravenous injection of 0.05 mgkg penehyclidine hydrochloride 10 minutes before cardiopulmonary bypass, and those in the control group were given the same volume of saline. Blood samples for blood glucose, lactic acid, intestinal fatty acid binding protein, D-lactate, serum endotoxin (lipopolysaccharide), interleukin-6, and interleukin-10 measurements were collected during the following time points: immediately after anesthesia induction (T-0), 10 minutes after the release of aortic-clamping (T-1), immediately after weaning from cardiopulmonary bypass (T-2), 2 hours postoperatively (T-3), 6 hours postoperatively (T-4), and 18 hours postoperatively (T-5).
+   Results: Blood glucose, lactic acid, intestinal fatty acid binding protein, D-lactate, lipopolysaccharide, interleukin-6, and interleukin-10 were significantly increased at all postoperative time points. At specific postoperative time points, blood glucose, lactic acid, intestinal fatty acid binding protein, D-lactate, lipopolysaccharide, and interleukin-6 were statistically lower in the penehyclidine hydrochloride group than in the control group. Postoperatively, interleukin-10 did not differ between the penehyclidine hydrochloride and control groups.
+   Conclusions: Penehyclidine hydrochloride preserves intestinal barrier function integrity, attenuates endotoxemia, and inhibits systemic inflammatory response in patients undergoing cardiopulmonary bypass, possibly by improving intestinal microcirculation and depressing stress response.
+SN 0022-5223
+PD JUL
+PY 2013
+VL 146
+IS 1
+BP 179
+EP 185
+DI 10.1016/j.jtcvs.2013.01.042
+UT WOS:000320583300035
+PM 23434449
+ER
+
+PT J
+AU Kodavanti, UP
+   Thomas, RF
+   Ledbetter, AD
+   Schladweiler, MC
+   Bass, V
+   Krantz, QT
+   King, C
+   Nyska, A
+   Richards, JE
+   Andrews, D
+   Gilmour, MI
+AF Kodavanti, Urmila P.
+   Thomas, Ronald F.
+   Ledbetter, Allen D.
+   Schladweiler, Mette C.
+   Bass, Virginia
+   Krantz, Q. Todd
+   King, Charly
+   Nyska, Abraham
+   Richards, Judy E.
+   Andrews, Debora
+   Gilmour, M. Ian
+TI Diesel exhaust induced pulmonary and cardiovascular impairment: The role
+   of hypertension intervention
+SO TOXICOLOGY AND APPLIED PHARMACOLOGY
+AB Exposure to diesel exhaust (DE) and associated gases is linked to cardiovascular impairments; however, the susceptibility of hypertensive individuals is poorly understood. The objectives of this study were (1) to determine cardiopulmonary effects of gas-phase versus whole-DE and (2) to examine the contribution of systemic hypertension in pulmonary and cardiovascular effects. Male Wistar Kyoto (WKY) rats were treated with hydralazine to reduce blood pressure (BP) or L-NAME to increase BP. Spontaneously hypertensive (SH) rats were treated with hydralazine to reduce BP. Control and drug-pretreated rats were exposed to air, particle-filtered exhaust (gas), or whole DE (1500 mu g/m(3)), 4 h/day for 2 days or 5 days/week for 4 weeks. Acute and 4-week gas and DE exposures increased neutrophils and gamma-glutamyl transferase (gamma-GT) activity in lavage fluid of WKY and SH rats. DE (4 weeks) caused pulmonary albumin leakage and inflammation in SH rats. Two-day DE increased serum fatty acid binding protein-3 (FABP-3) in WKY. Marked increases occurred in aortic mRNA after 4-week DE in SH (eNOS, TF, tPA, TNF-alpha, MMP-2, RAGE, and HMGB-1). Hydralazine decreased BP in SH while L-NAME tended to increase BP in WKY; however, neither changed inflammation nor BALF gamma-GT. DE-induced and baseline BALF albumin leakage was reduced by hydralazine in SH rats and increased by L-NAME in WKY rats. Hydralazine pretreatment reversed DE-induced TF, tPA, TNF-alpha, and MMP-2 expression but not eNOS, RAGE, and HMGB-1. ET-1 was decreased by HYD. In conclusion, antihypertensive drug treatment reduces gas and DE-induced pulmonary protein leakage and expression of vascular atherogenic markers. Published by Elsevier Inc.
+OI Bass, Virginia/0000-0001-6219-2448
+SN 0041-008X
+PD APR 15
+PY 2013
+VL 268
+IS 2
+BP 232
+EP 240
+DI 10.1016/j.taap.2013.02.002
+UT WOS:000316978700014
+PM 23415681
+ER
+
+PT J
+AU Li, C
+   Li, YS
+   Xu, M
+   Wen, SH
+   Yao, X
+   Wu, Y
+   Huang, CY
+   Huang, WQ
+   Liu, KX
+AF Li, Cai
+   Li, Yun-Sheng
+   Xu, Miao
+   Wen, Shi-Hong
+   Yao, Xi
+   Wu, Yan
+   Huang, Chan-Yan
+   Huang, Wen-Qi
+   Liu, Ke-Xuan
+TI Limb Remote Ischemic Preconditioning for Intestinal and Pulmonary
+   Protection during Elective Open Infrarenal Abdominal Aortic Aneurysm
+   Repair A Randomized Controlled Trial
+SO ANESTHESIOLOGY
+AB Background: Remote ischemic preconditioning (RIPC) may confer the cytoprotection in critical organs. The authors hypothesized that limb RIPC would reduce intestinal and pulmonary injury in patients undergoing open infrarenal abdominal aortic aneurysm repair.
+   Methods: In this single-center, prospective, double-blinded, randomized, parallel-controlled trial, 62 patients undergoing elective open infrarenal abdominal aortic aneurysm repair were randomly assigned in a 1: 1 ratio by computerized block randomization to receive limb RIPC or conventional abdominal aortic aneurysm repair (control). Three cycles of 5-min ischemia/5-min reperfusion induced by a blood pressure cuff placed on the left upper arm served as RIPC stimulus. The primary endpoint was arterial-alveolar oxygen tension ratio. The secondary endpoints mainly included the intestinal injury markers (serum intestinal fatty acid-binding protein, endotoxin levels, and diamine oxidase activity), the markers of oxidative stress and systemic inflammatory response, and the scores of the severity of intestinal and pulmonary injury.
+   Results: In limb RIPC group, a/A ratio was significantly higher than that in control group at 8, 12, and 24 h after cross-clamp release (66 +/- 4 vs. 45 +/- 4, P = 0.003; 60 +/- 6 vs. 37 +/- 4, P = 0.002; and 60 +/- 5 vs. 47 +/- 6, P = 0.039, respectively). All biomarkers reflecting intestinal injury increased over time, and there was significant differences between limb RIPC and control group (P < 0.001). The severity of intestinal and pulmonary injury was decreased by limb RIPC (P = 0.014 and P = 0.001, respectively).
+   Conclusions: Limb RIPC attenuates intestinal and pulmonary injury in patients undergoing elective open infrarenal abdominal aortic aneurysm repair without any potential risk.
+SN 0003-3022
+PD APR
+PY 2013
+VL 118
+IS 4
+BP 842
+EP 852
+DI 10.1097/ALN.0b013e3182850da5
+UT WOS:000316355000013
+PM 23353795
+ER
+
+PT J
+AU Fujie, S
+   Iemitsu, M
+   Murakami, H
+   Sanada, K
+   Kawano, H
+   Gando, Y
+   Kawakami, R
+   Miyachi, M
+AF Fujie, Shumpei
+   Iemitsu, Motoyuki
+   Murakami, Haruka
+   Sanada, Kiyoshi
+   Kawano, Hiroshi
+   Gando, Yuko
+   Kawakami, Ryoko
+   Miyachi, Motohiko
+TI Higher cardiorespiratory fitness attenuates arterial stiffening
+   associated with the Ala54Thr polymorphism in FABP2
+SO PHYSIOLOGICAL GENOMICS
+AB Fujie S, Iemitsu M, Murakami H, Sanada K, Kawano H, Gando Y, Kawakami R, Miyachi M. Higher cardiorespiratory fitness attenuates arterial stiffening associated with the Ala54Thr polymorphism in FABP2. Physiol Genomics 45: 237-242, 2013. First published January 29, 2013; doi:10.1152/physiolgenomics.00089.2012.-Fatty acid binding protein 2 (FABP2) Ala54Thr polymorphism is a candidate gene associated with the risk of cardiovascular disease. Habitual exercise brings higher cardiorespiratory fitness and results in the improvement of cardiovascular disease risk. However, the effect of cardiorespiratory fitness level and FABP2 Ala54Thr polymorphism on the risk of cardiovascular diseases remains unclear. In the present study, a cross-sectional investigation of 837 Japanese men and women was performed to clarify the effects of cardiorespiratory fitness on the relationship between risk of cardiovascular disease and FABP2 Ala54Thr gene polymorphism. The study subjects were divided into high-cardiorespiratory fitness (High-Fit) and low-cardiorespiratory fitness (Low-Fit) groups based on the median value of peak oxygen uptake in each sex and decade. The FABP2 Ala54Thr polymorphism did not significantly affect carotid beta-stiffness or blood pressure. In the Low-Fit group, carotid beta-stiffness, systolic blood pressure, and diastolic blood pressure were higher for individuals with the Ala/Ala genotype compared with those with the Ala/Thr or Thr/Thr genotype, whereas no differences were observed in the High-Fit group. Additionally, serum triglyceride and plasma glucose levels were lower and serum high-density lipoprotein cholesterol levels were higher in the High-Fit group compared with the Low-Fit group; the FABP2 Ala54Thr polymorphism did not significantly affect these parameters. These results suggest that the higher cardiorespiratory fitness may attenuate the changes in central arterial stiffness and blood pressure that are associated with the FABP2 genotype.
+SN 1094-8341
+PD MAR
+PY 2013
+VL 45
+IS 6
+BP 237
+EP 242
+DI 10.1152/physiolgenomics.00089.2012
+UT WOS:000316348100005
+PM 23362142
+ER
+
+PT J
+AU Varrone, F
+   Gargano, B
+   Carullo, P
+   Di Silvestre, D
+   De Palma, A
+   Grasso, L
+   Di Somma, C
+   Mauri, P
+   Benazzi, L
+   Franzone, A
+   Jotti, GS
+   Bang, ML
+   Esposito, G
+   Colao, A
+   Condorelli, G
+   Catalucci, D
+AF Varrone, Francesca
+   Gargano, Barbara
+   Carullo, Pierluigi
+   Di Silvestre, Dario
+   De Palma, Antonella
+   Grasso, Ludovica
+   Di Somma, Carolina
+   Mauri, Pierluigi
+   Benazzi, Louise
+   Franzone, Anna
+   Jotti, Gloria Saccani
+   Bang, Marie-Louise
+   Esposito, Giovanni
+   Colao, Annamaria
+   Condorelli, Gianluigi
+   Catalucci, Daniele
+TI The Circulating Level of FABP3 Is an Indirect Biomarker of MicroRNA-1
+SO JOURNAL OF THE AMERICAN COLLEGE OF CARDIOLOGY
+AB Objectives This study sought to identify proteins from the cardiomyocyte (CM) secretome that are directly targeted by the muscle-specific microRNA-1 (miR-1), and thus reflect the pathophysiological state of the CM.
+   Background MicroRNAs play critical regulatory roles during myocardial remodeling and progression to heart failure. However, it remains unknown whether secreted microRNA-targeted proteins can be used as indicators of myocardial microRNA expression and function.
+   Methods A proteomic analysis based on multidimensional protein identification technology was performed on supernatants from cultured CMs overexpressing miR-1. Biochemical assays and an inducible cardiac-specific transgenic mouse model overexpressing miR-1 were used to demonstrate that heart-type fatty acid-binding protein-3 (FABP3) is a target of miR-1. Levels of miR-1 and FABP3 in cardiac tissue and plasma samples from mouse models as well as human patients were quantified by quantitative reverse-transcription polymerase chain reaction and enzyme-linked immunosorbent assay, respectively. The study included wild-type mice subjected to ventricular pressure overload or fasting, as well as patients diagnosed with ventricular hypertrophy due to valvular aortic stenosis, acromegaly, or growth hormone deficiency, conditions associated with altered miR-1 expression.
+   Results An inverse relationship between myocardial expression of miR-1 and circulating levels of FABP3 was found both in vitro and in vivo under various pathological conditions.
+   Conclusions Assessment of FABP3 plasma levels in human patients might be used for indirectly measuring cardiac miR-1 activity. (J Am Coll Cardiol 2013;61:88-95) (C) 2013 by the American College of Cardiology Foundation
+RI Esposito, Giovanni/F-2880-2010; Bang, Marie-Louise/B-5683-2015;
+   Catalucci, Daniele/B-6745-2015; carullo, pierluigi/K-7492-2016; DE
+   PALMA, ANTONELLA/K-8451-2016
+OI Esposito, Giovanni/0000-0003-0565-7127; Bang,
+   Marie-Louise/0000-0001-8859-5034; Catalucci,
+   Daniele/0000-0001-7041-6114; carullo, pierluigi/0000-0003-0812-7770;
+   Condorelli, Gianluigi/0000-0003-0481-6843; DE PALMA,
+   ANTONELLA/0000-0001-5937-8604
+SN 0735-1097
+PD JAN 8
+PY 2013
+VL 61
+IS 1
+BP 88
+EP 95
+DI 10.1016/j.jacc.2012.08.1003
+UT WOS:000313161100015
+PM 23141496
+ER
+
+PT J
+AU Khalpey, Z
+   Yacoub, MH
+   Smolenski, RT
+AF Khalpey, Z.
+   Yacoub, M. H.
+   Smolenski, R. T.
+TI Nucleotide metabolic mismatches in mammalian hearts: implications for
+   transplantation
+SO ANNALS OF THE ROYAL COLLEGE OF SURGEONS OF ENGLAND
+AB INTRODUCTION Human donor organ shortages have led surgeons and scientists to explore the use of animals as alternative organ sources. Acute thrombovascular rejection (AVR) is the main hurdle in xenotransplantation. Disparities in nucleotide metabolism in the vessels of different species may contribute significantly to the microvascular component of AVR.
+   METHODS We evaluated the extent of nucleotide metabolism mismatch in selected organs and endothelial cells of different mammals with particular focus on the changes in activity of ecto-5'-nucleotidase (E5'N) elicited by exposure of porcine hearts or endothelial cells to human blood (ex vivo) or human plasma (in vitro).
+   RESULTS E5'N activity in the rat heart was significantly higher than in other species. We noted a significant difference (p<0.001) in E5'N activity between human and pig endothelial cell lines. Initial pig aortic endothelial E5'N activity decreased in vitro after a three-hour exposure to human and porcine plasma while remaining constant in controls. Ex vivo perfusion with fresh human blood for four hours resulted in a significant decrease of E5'N activity in both wild type and transgenic pig hearts overexpressing human decay accelerating factor (p<0.001).
+   CONCLUSIONS This study provides evidence that mismatches in basal mammalian metabolic pathways and humoral immunity interact in a xenogeneic environment. Understanding the role of nucleotide metabolism and signalling in xenotransplantation may identify new targets for genetic modifications and may lead to the development of new therapies extending graft survival.
+RI Smolenski, Ryszard/B-9713-2013
+SN 0035-8843
+PD JAN
+PY 2013
+VL 95
+IS 1
+BP 9
+EP 14
+DI 10.1308/003588413X13511609955571
+UT WOS:000313607600003
+PM 23317713
+ER
+
+PT J
+AU Olausson, P
+   Gerdle, B
+   Ghafouri, N
+   Larsson, B
+   Ghafouri, B
+AF Olausson, Patrik
+   Gerdle, Bjorn
+   Ghafouri, Nazdar
+   Larsson, Britt
+   Ghafouri, Bijar
+TI Identification of Proteins from Interstitium of Trapezius Muscle in
+   Women with Chronic Myalgia Using Microdialysis in Combination with
+   Proteomics
+SO PLOS ONE
+AB Background: Microdialysis (MD) of the trapezius muscle has been an attractive technique to investigating small molecules and metabolites in chronic musculoskeletal pain in human. Large biomolecules such as proteins also cross the dialysis membrane of the catheters. In this study we have applied in vivo MD in combination with two dimensional gel electrophoresis (2-DE) and mass spectrometry to identify proteins in the extracellular fluid of the trapezius muscle.
+   Materials and Methods: Dialysate from women with chronic trapezius myalgia (TM; n = 37), women with chronic wide spread pain (CWP; n = 18) and healthy controls (CON; n = 22) was collected from the trapezius muscle using a catheter with a cut-off point of 100 kDa. Proteins were separated by two-dimensional gel electrophoresis and visualized by silver staining. Detected proteins were identified by nano liquid chromatography in combination with tandem mass spectrometry.
+   Results: Ninety-seven protein spots were identified from the interstitial fluid of the trapezius muscle; 48 proteins in TM and 30 proteins in CWP had concentrations at least two-fold higher or lower than in CON. The identified proteins pertain to several functional classes, e. g., proteins involved in inflammatory responses. Several of the identified proteins are known to be involved in processes of pain such as: creatine kinase, nerve growth factor, carbonic anhydrase, myoglobin, fatty acid binding protein and actin aortic smooth muscle.
+   Conclusions: In this study, by using in vivo microdialysis in combination with proteomics a large number of proteins in muscle interstitium have been identified. Several of the identified proteins were at least two-fold higher or lower in chronic pain patients. The applied techniques open up for the possibility of investigating protein changes associated with nociceptive processes of chronic myalgia.
+RI Ghafouri, Bijar/H-8257-2014; 
+OI Gerdle, Bjorn/0000-0002-4316-1264; Olausson, Patrik/0000-0002-3689-788X
+SN 1932-6203
+PD DEC 27
+PY 2012
+VL 7
+IS 12
+AR e52560
+DI 10.1371/journal.pone.0052560
+UT WOS:000312829100063
+PM 23300707
+ER
+
+PT J
+AU d'Uscio, LV
+   Das, P
+   Santhanam, AVR
+   He, TR
+   Younkin, SG
+   Katusic, ZS
+AF d'Uscio, Livius V.
+   Das, Pritam
+   Santhanam, Anantha V. R.
+   He, Tongrong
+   Younkin, Steven G.
+   Katusic, Zvonimir S.
+TI Activation of PPAR delta prevents endothelial dysfunction induced by
+   overexpression of amyloid-beta precursor protein
+SO CARDIOVASCULAR RESEARCH
+AB Existing evidence suggests that amyloid- precursor protein (APP) causes endothelial dysfunction and contributes to pathogenesis of atherosclerosis. In the present study, experiments were designed to: (1) determine the mechanisms underlying endothelial dysfunction and (2) define the effects of peroxisome proliferator-activated receptor delta (PPAR) ligand on endothelial function in transgenic Tg2576 mice overexpressing mutated human APP.
+   Confocal microscopy and western blot analyses of wild-type mice aortas provided evidence that APP protein is mainly present in endothelial cells. Overexpression of APP significantly impaired endothelium-dependent relaxations to acetylcholine and phosphorylation of endothelial nitric oxide synthase at Ser(1177) in aortas. HPLC analysis revealed that tetrahydrobiopterin (BH4) levels were reduced in Tg2576 mice aortas. This was caused by increased oxidation of BH4 and reduced expression and activity of GTP-cyclohydrolase I. Furthermore, gp91phox protein expression and superoxide anion production were increased in aortas of Tg2576 mice. This augmented superoxide formation was completely prevented by the NADPH oxidase inhibitor VAS2870. Expression of copper-/zinc-superoxide dismutase (Cu/ZnSOD) and extracellular SOD was downregulated. Treatment with PPAR ligand GW501516 (2 mg/kg/day) for 14 days significantly increased BH4 bioavailability and improved endothelium-dependent relaxations in Tg2576 mice aortas. GW501516 also normalized protein expression of gp91(phox) and SODs, thereby reducing production of superoxide anion in the aortas.
+   Our results suggest that in APP transgenic mice loss of nitric oxide and increased oxidative stress are the major causes of endothelial dysfunction. The vascular protective effects of GW501516 in Tg2576 mice appear to be critically dependent on prevention of superoxide anion production.
+SN 0008-6363
+PD DEC 1
+PY 2012
+VL 96
+IS 3
+BP 504
+EP 512
+DI 10.1093/cvr/cvs266
+UT WOS:000311306800021
+PM 22886847
+ER
+
+PT J
+AU Windsant, ICV
+   Hellenthal, FA
+   Derikx, JPM
+   Prins, MH
+   Buurman, WA
+   Jacobs, MJ
+   Schurink, GWH
+AF Windsant, Iris C. Vermeulen
+   Hellenthal, Femke A.
+   Derikx, Joep P. M.
+   Prins, Martin H.
+   Buurman, Wim A.
+   Jacobs, Michael J.
+   Schurink, Geert Willem H.
+TI Circulating Intestinal Fatty Acid-Binding Protein as an Early Marker of
+   Intestinal Necrosis After Aortic Surgery A Prospective Observational
+   Cohort Study
+SO ANNALS OF SURGERY
+AB Objective: This study evaluated the usefulness of plasma intestinal fatty-acid binding protein (IFABP) levels in the early identification of intestinal necrosis (IN) in patients undergoing different types of aortic surgery.
+   Background: Intestinal compromise greatly contributes to postoperative adverse outcome. IN is the most detrimental form of intestinal compromise and is notoriously difficult to diagnose. IFABP is a small protein exclusively expressed by mature enterocytes and a promising marker of intestinal damage.
+   Methods: Plasma IFABP concentrations were measured in blood samples taken perioperatively from 55 patients undergoing open thoracic or thoracoab-dominal aneurysm repair [OR-TAA(A)], 25 patients undergoing conventional open abdominal aneurysm repair (OR-abdominal aortic aneurysm [AAA]), and 16 patients undergoing endovascular aneurysm repair (EVAR). Data were compared with perioperative changes in arterial pH and serum lactate levels.
+   Results: IFABP levels increased in all patients undergoing OR-TAA(A) and OR-AAA reaching peak levels shortly after surgery; 281 +/- 33 to 2,298 +/- 490 pg/mL (P < 0.001) and 187 +/- 31 to 641 +/- 176 pg/mL (P < 0.05) respectively. IFABP levels were significantly higher in patients undergoing OR-TAA(A) (P < 0.001). IFABP levels in EVAR patients remained at baseline concentrations throughout the study. Four patients [2 OR-AAA, 2 OR-TAA(A)] developed fatal postoperative intestinal ischemia on day 2 or 3. High levels of plasma IFABP at the end of surgery had 100% sensitivity and 98.1% specificity for the identification of patients developing IN. In OR-AAA patients, arterial pH and lactate levels were of additional discriminating value. Complete discrimination between patients with and without IN using plasma IFABP could be made on the first postoperative day.
+   Conclusions: Analysis of plasma IFABP levels is of additional value to other current plasma markers in the diagnosis of IN, and it enables early identification of patients with IN after aortic surgery days before clinical diagnosis. (Ann Surg 2012; 255: 796-803)
+SN 0003-4932
+EI 1528-1140
+PD APR
+PY 2012
+VL 255
+IS 4
+BP 796
+EP 803
+DI 10.1097/SLA.0b013e31824b1e16
+UT WOS:000301742500027
+ER
+
+PT J
+AU Kokot, M
+   Biolik, G
+   Ziaja, D
+   Fojt, T
+   Cisak, K
+   Antoniak, K
+   Kowalewska-Twardela, T
+   Pawlicki, K
+   Ziaja, K
+   Dulawa, J
+AF Kokot, Michal
+   Biolik, Grzegorz
+   Ziaja, Damian
+   Fojt, Tadeusz
+   Cisak, Kamila
+   Antoniak, Katarzyna
+   Kowalewska-Twardela, Teresa
+   Pawlicki, Krzysztof
+   Ziaja, Krzysztof
+   Dulawa, Jan
+TI Acute kidney injury after abdominal aortic aneurysm surgery: detailed
+   assessment of early effects using novel markers
+SO POLSKIE ARCHIWUM MEDYCYNY WEWNETRZNEJ-POLISH ARCHIVES OF INTERNAL
+   MEDICINE
+AB INTRODUCTION One of the most severe complications of repair surgery for abdominal aortic aneurysms (AAA) is acute kidney injury (AKI). Even small rises in serum creatinine after surgery are associated with increased mortality.
+   OBJECTIVES The aim of the study was to assess the dynamics of AKI after elective AAA surgery using novel markers.
+   PATIENTS AND METHODS The study group consisted of 14 patients with AAA. We measured serum neutrophil gelatinase-associated lipocalin (NGAL) before, during (including intra-abdominal vein levels before and after removal of aortic clamp), and within 2 days after surgery. Moreover, we assessed urinary NGAL, interleukin 18 (IL-18), and liver-type fatty acid-binding protein (L-FABP) before, during, and within 3 days after surgery.
+   RESULTS We observed a marked but nonsignificant increase in serum NGAL directly after clamp removal (75.21 +/- 55.83 vs. 46.37 +/- 21.60 ng/ml baseline value, P >0.05) and significantly elevated plasma NGAL at 2 hours (91.54 +/- 76.54 vs. baseline, P <0.05), 12 hours (100.78 +/- 44.92 vs. baseline, P <0.05) and 24 hours (89.46 +/- 94.18 vs. baseline, P <0.05) after clamp release. There was also significant elevation of urinary IL-18 at 2 hours (51.60 [12.12-527.16] vs. 25.99 [9.34-187.80] pg/ml at baseline, P <0.05); L-FABP at 2 hours (47.10 [5.40-500.00] vs. 5.50 (2.20-27.20) ng/ml at baseline, P <0.05) and 12 hours (39.00 [5.20-500.00] vs. baseline, P <0.05); NGAL at 12 hours (20.75 [5.00-176.10] vs. 5.85 [1.40-16.00] ng/ml at baseline, P <0.05) and 24 hours (13.95 [3.90-163.30] vs. baseline, P <0.05) after clamp release.
+   CONCLUSIONS Elective AAA surgery may induce AKI. Novel markers can facilitate early detection of AKI, thus allowing to start therapy at an appropriate time point.
+SN 0032-3772
+PY 2012
+VL 122
+IS 7-8
+BP 353
+EP 359
+UT WOS:000309553000007
+PM 22728450
+ER
+
+PT J
+AU Kunihara, T
+   Kubota, S
+   Shiiya, N
+   Iizuka, K
+   Sasaki, S
+   Wakasa, S
+   Matsuzaki, K
+   Matsui, Y
+AF Kunihara, Takashi
+   Kubota, Suguru
+   Shiiya, Norihiko
+   Iizuka, Kenji
+   Sasaki, Shigeyuki
+   Wakasa, Satoru
+   Matsuzaki, Kenji
+   Matsui, Yoshiro
+TI Cytokine balance in hepatosplanchnic system during thoracoabdominal
+   aortic aneurysm repair
+SO JOURNAL OF ARTIFICIAL ORGANS
+AB While prolonged visceral ischemia seems to be a potential source of elevated proinflammatory cytokines during thoracoabdominal aortic aneurysm (TAAA) repair, the underlying mechanisms are unclear. We have investigated the production of cytokines and fatty acid binding proteins (FABPs) in the hepatosplanchnic system during TAAA repair. Arterial and hepatic venous levels of tumor necrosis factor-alpha (TNF-alpha), interleukin (IL) -6, -8, and -10, and liver- and intestinal-type FABPs (L-FABP, I-FABP) were measured at four time points in ten patients undergoing TAAA repair. Visceral arteries were perfused through either a side-arm of distal aortic perfusion or an individual circuit using an independent pump, or both, without measuring perfusion pressure or blood flow. The postoperative courses of all patients were uneventful. During visceral perfusion, the levels of arterial IL-6, -8, and -10, and L-FABP elevated significantly (P = 0.0077, 0.0051, 0.0077, 0.0077, respectively), and these elevated levels persisted up to skin closure, with the exception of L-FABP (P = 0.0051 each). In contrast, there were only subtle increases in TNF-alpha and I-FABP levels. The production ratio through the hepatosplanchnic system of TNF-alpha, L-FABP, and I-FABP showed a pronounced peak during visceral perfusion, but only the peak of L-FABP was significant compared with baseline (P = 0.0077). All production ratios returned to baseline level at skin closure. The production ratio of IL-6 was negative throughout the operation and that of IL-8 and IL-10 remained at baseline during visceral perfusion. In conclusion, a portion of the TNF-alpha, L-FABP, and I-FABP might be produced temporarily in the hepatosplanchnic system during TAAA repair. Systemic elevation of IL-6, IL-8, and IL-10 might be modulated by inflammatory response to extracorporeal circulation or surgical stress. Thus, our simple visceral perfusion techniques may indeed be justified.
+RI Matsui, Yoshiro/E-1620-2012; Kubota, Suguru/E-1930-2012; Wakasa,
+   Satoru/E-1936-2012
+SN 1434-7229
+PD SEP
+PY 2011
+VL 14
+IS 3
+BP 192
+EP 200
+DI 10.1007/s10047-011-0577-5
+UT WOS:000294734000005
+PM 21698515
+ER
+
+PT J
+AU Jackson, EK
+   Ren, J
+   Gillespie, DG
+AF Jackson, Edwin K.
+   Ren, Jin
+   Gillespie, Delbert G.
+TI 2 ',3 '-cAMP, 3 '-AMP, and 2 '-AMP inhibit human aortic and coronary
+   vascular smooth muscle cell proliferation via A(2B) receptors
+SO AMERICAN JOURNAL OF PHYSIOLOGY-HEART AND CIRCULATORY PHYSIOLOGY
+AB Jackson EK, Ren J, Gillespie DG. 2',3'-cAMP, 3'-AMP, and 2'-AMP inhibit human aortic and coronary vascular smooth muscle cell proliferation via A(2B) receptors. Am J Physiol Heart Circ Physiol 301: H391-H401, 2011. First published May 27, 2011; doi:10.1152/ajpheart.00336.2011.-Rat vascular smooth muscle cells (VSMCs) from renal microvessels metabolize 2',3'-cAMP to 2'-AMP and 3'-AMP, and these AMPs are converted to adenosine that inhibits microvascular VSMC proliferation via A(2B) receptors. The goal of this study was to test whether this mechanism also exists in VSMCs from conduit arteries and whether it is similarly expressed in human vs. rat VSMCs. Incubation of rat and human aortic VSMCs with 2',3'-cAMP concentration-dependently increased levels of 2'-AMP and 3'-AMP in the medium, with a similar absolute increase in 2'-AMP vs. 3'-AMP. In contrast, in human coronary VSMCs, 2',3'-cAMP increased 2'-AMP levels yet had little effect on 3'-AMP levels. In all cell types, 2',3'-cAMP increased levels of adenosine, but not 5'-AMP, and 2',3'-AMP inhibited cell proliferation. Antagonism of A(2B) receptors (MRS-1754), but not A(1) (1,3-dipropyl-8-cyclopentylxanthine), A(2A) (SCH-58261), or A(3) (VUF-5574) receptors, attenuated the antiproliferative effects of 2',3'-cAMP. In all cell types, 2'-AMP, 3'-AMP, and 5'-AMP increased adenosine levels, and inhibition of ecto-5'-nucleotidase blocked this effect of 5'-AMP but not that of 2'-AMP nor 3'-AMP. Also, 2'-AMP, 3'-AMP, and 5'-AMP, like 2',3'-cAMP, exerted antiproliferative effects that were abolished by antagonism of A(2B) receptors with MRS-1754. In conclusion, VSMCs from conduit arteries metabolize 2',3'-cAMP to AMPs, which are metabolized to adenosine. In rat and human aortic VSMCs, both 2'-AMP and 3'-AMP are involved in this process, whereas, in human coronary VSMCs, 2',3'-cAMP is mainly converted to 2'-AMP. Because adenosine inhibits VSMC proliferation via A(2B) receptors, local vascular production of 2',3'-cAMP may protect conduit arteries from atherosclerosis.
+SN 0363-6135
+PD AUG
+PY 2011
+VL 301
+IS 2
+BP H391
+EP H401
+DI 10.1152/ajpheart.00336.2011
+UT WOS:000293443800014
+PM 21622827
+ER
+
+PT J
+AU Ramirez, C
+   Sierra, S
+   Tercero, I
+   Vazquez, JA
+   Pineda, A
+   Manrique, T
+   Burgos, JS
+AF Ramirez, Carlos
+   Sierra, Saleta
+   Tercero, Inmaculada
+   Antonio Vazquez, Jose
+   Pineda, Antonia
+   Manrique, Tatiana
+   Burgos, Javier S.
+TI ApoB100/LDLR-/- Hypercholesterolaemic Mice as a Model for Mild Cognitive
+   Impairment and Neuronal Damage
+SO PLOS ONE
+AB Recent clinical findings support the notion that the progressive deterioration of cholesterol homeostasis is a central player in Alzheimer's disease (AD). Epidemiological studies suggest that high midlife plasma total cholesterol levels are associated with an increased risk of AD. This paper reports the plasma cholesterol concentrations, cognitive performance, locomotor activity and neuropathological signs in a murine model (transgenic mice expressing apoB100 but knockout for the LDL receptor [ LDLR]) of human familial hypercholesterolaemia (FH). From birth, these animals have markedly elevated LDL-cholesterol and apolipoprotein B100 (apoB100) levels. These transgenic mice were confirmed to have higher plasma cholesterol concentrations than wild-type mice, an effect potentiated by aging. Further, 3-month-old transgenic mice showed cholesterol (total and fractions) concentrations considerably higher than those of 18-month-old wild-type mice. The hypercholesterolaemia of the transgenic mice was associated with a clear locomotor deficit (as determined by rotarod, grip strength and open field testing) and impairment of the episodic-like memory (determined by the integrated memory test). This decline in locomotor activity and cognitive status was associated with neuritic dystrophy and/or the disorganization of the neuronal microtubule network, plus an increase in astrogliosis and lipid peroxidation in the brain regions associated with AD, such as the motor and lateral entorhinal cortex, the amygdaloid basal nucleus, and the hippocampus. Aortic atherosclerotic lesions were positively correlated with age, although potentiated by the transgenic genotype, while cerebral beta-amyloidosis was positively correlated with genetic background rather than with age. These findings confirm hypercholesterolaemia as a key biomarker for monitoring mild cognitive impairment, and shows these transgenic mice can be used as a model for cognitive and psycho-motor decline.
+RI Manrique-Zuluaga, Tatiana/K-3215-2016; 
+OI Manrique-Zuluaga, Tatiana/0000-0002-8333-772X; Burgos,
+   Javier/0000-0002-1652-4234
+SN 1932-6203
+PD JUL 26
+PY 2011
+VL 6
+IS 7
+AR e22712
+DI 10.1371/journal.pone.0022712
+UT WOS:000293175100042
+PM 21829488
+ER
+
+PT J
+AU Huang, ZY
+   Zhong, XW
+   Irwin, MG
+   Ji, SY
+   Wong, GT
+   Liu, YA
+   Xia, ZY
+   Finegan, BA
+   Xia, ZY
+AF Huang, Zhiyong
+   Zhong, Xingwu
+   Irwin, Michael G.
+   Ji, Shangyi
+   Wong, Gordon T.
+   Liu, Yanan
+   Xia, Zhong-yuan
+   Finegan, Barry A.
+   Xia, Zhengyuan
+TI Synergy of isoflurane preconditioning and propofol postconditioning
+   reduces myocardial reperfusion injury in patients
+SO CLINICAL SCIENCE
+AB Either isoflurane preconditioning or high-dose propofol treatment has been shown to attenuate myocardial IRI (ischaemia/reperfusion injury) in patients undergoing CABG (coronary artery bypass graft) surgery. It is unknown whether isoflurane and propofol may synergistically attenuate myocardial injury in patients. The present study investigated the efficacy of IsoPC (isoflurane preconditioning), propofol treatment (postconditioning) and their synergy in attenuating postischaemic myocardial injury in patients undergoing CABG surgery using CPB (cardiopulmonary bypass). Patients (n = 120) selected for CABG surgery were randomly assigned to one of four groups (n = 30 each). After induction, anaesthesia was maintained either with fentanyl and midazolam (control; group C); with propofol at 100 mu g.kg(-1) of body weight.min(-1) before and during CPB followed by propofol at 60 mu g.kg(-1) of body weight.min(-1) for 15 min after aortic declamping (group P); with isoflurane 1-1.5% end tidal throughout the surgery (group 1) or with isoflurane 1-1.5% end tidal before CPB and switching to propofol at 100 mu g.kg(-1) of body weight min I during CPB followed by propofol at 60 mu g.kg(-1) of body weight. min I for 15 min after aortic declamping (group IP, i.e. IsoPC plus propofol postconditioning). A joint isoflurane and propofol anaesthesia regimen synergistically reduced plasma levels of cTnI (cardiac troponin I) and CK-MB (creatine kinase MB) and f-FABP (heart-type fatty acid-binding protein) (all P < 0.05 compared with control, group P or group I) and facilitated postoperative myocardial functional recovery. During reperfusion, myocardial tissue eNOS (endothelial NO synthase) protein expression in group IP was significantly higher, whereas nitrotyrosine protein expression was lower than those in the control group. In conclusion, a joint isoflurane preconditioning and propofol anaesthesia regimen synergistically attenuated myocardial reperfusion injury in patients.
+SN 0143-5221
+EI 1470-8736
+PD JUL
+PY 2011
+VL 121
+IS 1-2
+BP 57
+EP 69
+DI 10.1042/CS20100435
+UT WOS:000293155200006
+PM 21291422
+ER
+
+PT J
+AU Nation, DA
+   Hong, S
+   Jak, AJ
+   Delano-Wood, L
+   Mills, PJ
+   Bondi, MW
+   Dimsdale, JE
+AF Nation, Daniel A.
+   Hong, Suzi
+   Jak, Amy J.
+   Delano-Wood, Lisa
+   Mills, Paul J.
+   Bondi, Mark W.
+   Dimsdale, Joel E.
+TI Stress, exercise, and Alzheimer's disease: A neurovascular pathway
+SO MEDICAL HYPOTHESES
+AB Genetic factors are known to play a role in Alzheimer's disease (AD) vulnerability, yet less than 1% of incident AD cases are directly linked to genetic causes, suggesting that environmental variables likely play a role in the majority of cases. Several recent human and animal studies have examined the effects of behavioral factors, specifically psychological stress and exercise, on AD vulnerability. Numerous animal studies have found that, while stress exacerbates neuropathological changes associated with AD, exercise reduces these changes. Some human studies suggest that psychological stress can increase the risk of developing AD, while other studies suggest that exercise can significantly reduce AD risk. Most animal studies investigating the mechanisms responsible for the effects of these behavioral factors have focused on neuronal processes, including the effects of stress hormones and neurotrophic factors on the neuropathological hallmarks of AD, namely amyloid-beta (Aft) deposition and tau-phosphorylation. However, cumulative evidence indicates that, in humans, AD is associated with the presence of cerebrovascular disease, and cardiovascular risk factors are associated with increased risk of developing AD. There is an extensive literature demonstrating that behavioral factors, particularly stress and exercise, can powerfully modulate the pathophysiology of vascular disease. Thus, the following model proposes that the influence of stress and exercise on AD risk may be partially due to the effects of these behavioral factors on vascular homeostasis and pathology. These effects are likely due to both indirect modification of AD risk through alterations in vascular risk factors, such as hypertension, diabetes, and aortic stiffening, as well as direct influence on the cerebrovasculature, including changes in cerebral blood flow, angiogenesis, and vascular disease. Future studies examining the effects of behavioral factors on AD risk should incorporate measures of both peripheral and cerebral vascular function to further our understanding of the mechanisms by which behavior can modify AD susceptibility. Greater knowledge of the molecular mechanisms behind these behavioral effects would further our understanding of the disease and lead to innovative treatment and preventive approaches. (C) 2011 Elsevier Ltd. All rights reserved.
+SN 0306-9877
+PD JUN
+PY 2011
+VL 76
+IS 6
+BP 847
+EP 854
+DI 10.1016/j.mehy.2011.02.034
+UT WOS:000291524300019
+PM 21398043
+ER
+
+PT J
+AU Lee, MYK
+   Li, HY
+   Xiao, Y
+   Zhou, ZG
+   Xu, AM
+   Vanhoutte, PM
+AF Lee, Mary Y. K.
+   Li, Huiying
+   Xiao, Yang
+   Zhou, Zhiguang
+   Xu, Aimin
+   Vanhoutte, Paul M.
+TI Chronic administration of BMS309403 improves endothelial function in
+   apolipoprotein E-deficient mice and in cultured human endothelial cells
+SO BRITISH JOURNAL OF PHARMACOLOGY
+AB BACKGROUND AND PURPOSE
+   Adipocyte fatty acid-binding protein (A-FABP) is up-regulated in regenerated endothelial cells and modulates inflammatory responses in macrophages. Endothelial dysfunction accompanying regeneration is accelerated by hyperlipidaemia. Here, we investigate the contribution of A-FABP to the pathogenesis of endothelial dysfunction in the aorta of apolipoprotein E-deficient (ApoE-/-) mice and in cultured human endothelial cells.
+   EXPERIMENTAL APPROACH
+   A-FABP was measured in aortae of ApoE-/-mice and human endothelial cells by RT-PCR, immunostaining and immunoblotting. Total and phosphorylated forms of endothelial nitric oxide synthase (eNOS) were measured by immunoblotting. Changes in isometric tension were measured in rings of mice aortae
+   KEY RESULTS
+   A-FABP was expressed in aortic endothelium of ApoE-/- mice aged 12 weeks and older, but not at 8 weeks or in C57 wild-type mice. Reduced endothelium-dependent relaxations to acetylcholine, UK14304 (selective alpha(2)-adrenoceptor agonist) and A23187 (calcium ionophore) and decreased protein presence of phosphorylated and total eNOS were observed in aortae of 18 week-old ApoE-/- mice compared with age-matched controls. A 6 week treatment with the A-FABP inhibitor, BMS309403, started in 12 week-old mice, improved endothelial function, phosphorylated and total eNOS and reduced plasma triglyceride levels but did not affect endothelium-independent relaxations. The beneficial effect of BMS309403 on UK14304-induced relaxations was attenuated by Pertussis toxin. In cultured human microvascular endothelial cells, lipid-induced A-FABP expression was associated with reduced phosphorylated eNOS and NO production and was reversed by BMS309403.
+   CONCLUSIONS AND IMPLICATIONS
+   Elevated expression of A-FABP in endothelial cells contributes to their dysfunction both in vivo and in vitro.
+RI Xu, Aimin/D-3291-2013; Lee, Mary/C-1967-2016
+OI Xu, Aimin/0000-0002-0668-033X; 
+SN 0007-1188
+PD APR
+PY 2011
+VL 162
+IS 7
+BP 1564
+EP 1576
+DI 10.1111/j.1476-5381.2010.01158.x
+UT WOS:000288018100010
+PM 21175571
+ER
+
+PT J
+AU Maresh, JG
+   Campen, MJ
+   Reed, MD
+   Darrow, AL
+   Shohet, RV
+AF Maresh, J. Gregory
+   Campen, Matthew J.
+   Reed, Matthew D.
+   Darrow, April L.
+   Shohet, Ralph V.
+TI Hypercholesterolemia potentiates aortic endothelial response to inhaled
+   diesel exhaust
+SO INHALATION TOXICOLOGY
+AB Objective: To examine the in vivo effects of subchronic diesel exhaust exposure on endothelial cell transcriptional responses in the presence of hypercholesterolemia.
+   Methods: ApoE (-/-) and ApoE (+/+) mice inhaled diesel exhaust diluted to particulate matter levels of 300 or 1000 mu g/m<SU3</SU vs. filtered air. After 30 days, endothelial cells were harvested from dispersed aortic cells by fluorescent-activated cell sorting (FACS). Relative mRNA abundance was evaluated by microarray analysis to measure strain-specific transcriptional responses in mice exposed to dilute diesel exhaust vs. filtered air.
+   Results: Forty-nine transcripts were significantly dysregulated by > 2.8-fold in the endothelium of ApoE (-/-) mice receiving diesel exhaust at 300 or 1000 mu g/m<SU3</SU. These included transcripts with roles in plasminogen activation, endothelial permeability, inflammation, genomic stability, and atherosclerosis; similar responses were not observed in ApoE (+/+) mice.
+   Conclusions: The potentiation of diesel exhaust-related endothelial gene regulation by hypercholesterolemia helps to explain air pollution-induced vascular effects in animals and humans. The observed regulated transcripts implicate pathways important in the acceleration of atherosclerosis by air pollution.
+SN 0895-8378
+PD JAN
+PY 2011
+VL 23
+IS 1
+BP 1
+EP 10
+DI 10.3109/08958378.2010.535572
+UT WOS:000286820300001
+PM 21222557
+ER
+
+PT J
+AU Lecka, J
+   Bloch-Boguslawska, E
+   Molski, S
+   Komoszynski, M
+AF Lecka, Joanna
+   Bloch-Boguslawska, Elzbieta
+   Molski, Stanislaw
+   Komoszynski, Michal
+TI Extracellular Purine Metabolism in Blood Vessels (Part II): Activity of
+   Ecto-Enzymes in Blood Vessels of Patients With Abdominal Aortic Aneurysm
+SO CLINICAL AND APPLIED THROMBOSIS-HEMOSTASIS
+AB Both platelet aggregation and high blood pressure are associated with development of atherosclerosis. Among other factors that modulate platelet aggregation and blood pressure, extracellular purines (e-purines) influence these processes via purinoceptors P1 and P2 for which they are natural ligands. We hypothesized that ecto-enzymes such as nucleoside triphosphate diphosphohydrolases (NTPDases), adenylate kinase, 5'-nucleotidase, and adenosine deaminase that regulate the level of e-purines may be involved in the development of atherosclerosis. The enzymatic assays were performed either on the fragments of human abdominal aortas obtained after death or on abdominal aneurysm samples collected during surgery. The substrates and products such as adenine nucleosides and nucleotides were analyzed using reverse phase high-performance liquid chromatography (HPLC) method. Here, we estimated and demonstrated the activities of these ecto-enzymes in the patients with atherosclerosis or atherosclerosis-like diseases such as abdominal aneurysm, myocardial infarction, or Leriche syndrome (LS) with worse thrombosis of extremities. In particular, we noticed reduction in activity of NTPDase1(app), NTPDase2(app), ecto-adenylate kinase(app), and ecto-adenosine deaminase(app); however, ecto-5'-nucleotidase(app) that hydrolyzed e-adenosine monophosphate (e-AMP) into e-adenosine did not show any significant changes. This led us to suggest that alteration of the activity of examined ecto-enzymes is responsible for the development of atherosclerosis or atherosclerosis-like diseases.
+RI Bloch-Boguslawska, Elzbieta/H-7937-2014
+SN 1076-0296
+EI 1938-2723
+PD DEC
+PY 2010
+VL 16
+IS 6
+BP 650
+EP 657
+DI 10.1177/1076029609354329
+UT WOS:000284901300007
+PM 20460346
+ER
+
+PT J
+AU Tibolla, G
+   Norata, GD
+   Meda, C
+   Arnaboldi, L
+   Uboldi, P
+   Piazza, F
+   Ferrarese, C
+   Corsini, A
+   Maggi, A
+   Vegeto, E
+   Catapano, AL
+AF Tibolla, G.
+   Norata, G. D.
+   Meda, C.
+   Arnaboldi, L.
+   Uboldi, P.
+   Piazza, F.
+   Ferrarese, C.
+   Corsini, A.
+   Maggi, A.
+   Vegeto, E.
+   Catapano, A. L.
+TI Increased atherosclerosis and vascular inflammation in APP transgenic
+   mice with apolipoprotein E deficiency
+SO ATHEROSCLEROSIS
+AB Objective: Atherosclerosis is associated with Alzheimer's disease (AD) in humans, but the nature of this link is still elusive. Aim of this study was to investigate aortic atherosclerosis development in a mouse model with central nervous system (CNS) restricted beta-amyloid precursor protein (APP) overexpression.
+   Methods and results: APP23 mice, overexpressing the Swedish mutated human APP selectively in the brain, were crossed with mice lacking apolipoprotein E (ApoE KO). Nine weeks old mice were fed a western type diet for eight weeks, then atherosclerotic lesions, aortic wall and cortical tissues gene expression and beta-amyloid (A beta) deposition were evaluated. Compared with ApoE KO, APP23/ApoE KO mice developed larger aortic atherosclerotic lesions and showed significantly increased expression of MCP-1, IL-6, ICAM-1 and MTPase 6, a marker of oxidative stress in the vascular wall. Of note brain limited APP synthesis was associated with an increased microglia and brain endothelial cells activation, in spite of the absence of beta-amyloid deposits in the brain or alteration in the levels of oxidized metabolites of cholesterol such as 4-cholesten-3-one.
+   Conclusion: Our study suggests that the vascular pro-inflammatory effects of CNS-localised APP overexpression lead to atherogenesis before parenchymal A beta deposition and neuronal dysfunction. (C) 2009 Elsevier Ireland Ltd. All rights reserved.
+RI Meda, Clara/G-8680-2013; Piazza, Fabrizio/L-2094-2016; 
+OI Meda, Clara/0000-0003-3524-2010; Arnaboldi, Lorenzo/0000-0002-4017-7631;
+   Catapano, Alberico Luigi/0000-0002-7593-2094; Piazza,
+   Fabrizio/0000-0002-3385-3224; Corsini, Alberto/0000-0002-9912-9482;
+   Norata, Giuseppe Danilo/0000-0002-6081-1257
+SN 0021-9150
+PD MAY
+PY 2010
+VL 210
+IS 1
+BP 78
+EP 87
+DI 10.1016/j.atherosclerosis.2009.10.040
+UT WOS:000277085300013
+PM 19945109
+ER
+
+PT J
+AU Andersen, ND
+   Dubose, J
+   Shah, A
+   Lee, T
+   Wechsler, SB
+   Hughes, GC
+AF Andersen, Nicholas D.
+   Dubose, John
+   Shah, Ankoor
+   Lee, Teng
+   Wechsler, Stephanie B.
+   Hughes, G. Chad
+TI Thoracic endografting in a patient with hereditary hemorrhagic
+   telangiectasia presenting with a descending thoracic aneurysm
+SO JOURNAL OF VASCULAR SURGERY
+AB A 53-year-old woman with no classic risk factors for aneurysm disease presented with the sudden onset of chest pain and dyspnea. A large descending thoracic aortic aneurysm with focal type B dissection was identified and excluded by emergency thoracic endografting. Further postoperative evaluation revealed a history of epistaxis, perioral telangiectasias, hepatic hypervascularity, and a mutation in the gene expressing activin receptor-like kinase 1 (ALKI), leading to a diagnosis of hereditary hemorrhagic telangiectasia. Aortic aneurysms associated with hereditary hemorrhagic telangiectasia are extremely rare, and to our knowledge, this is the first report of thoracic endografting in this patient population. (J Vasc Surg 2010;51:468-70.)
+RI Lee, Teng/A-9024-2013
+SN 0741-5214
+PD FEB
+PY 2010
+VL 51
+IS 2
+BP 468
+EP 470
+DI 10.1016/j.jvs.2009.08.058
+UT WOS:000274602800027
+PM 20141966
+ER
+
+PT J
+AU Vaisar, T
+   Kassim, SY
+   Gomez, IG
+   Green, PS
+   Hargarten, S
+   Gough, PJ
+   Parks, WC
+   Wilson, CL
+   Raines, EW
+   Heinecke, JW
+AF Vaisar, Tomas
+   Kassim, Sean Y.
+   Gomez, Ivan G.
+   Green, Pattie S.
+   Hargarten, Sara
+   Gough, Peter J.
+   Parks, William C.
+   Wilson, Carole L.
+   Raines, Elaine W.
+   Heinecke, Jay W.
+TI MMP-9 Sheds the beta(2) Integrin Subunit (CD18) from Macrophages
+SO MOLECULAR & CELLULAR PROTEOMICS
+AB Activated macrophages are essential effectors of immunity and a rich source of matrix metalloproteinase-9 (MMP-9; gelatinase B). To search for cellular substrates of the enzyme, we subjected wild-type macrophages and macrophages expressing an autoactivating form of pro-MMP-9 (M9A macrophages) to proteomics analysis. Two-dimensional liquid chromatography together with tandem mass spectrometry identified 467 proteins in medium conditioned by M9A and/or wild-type macrophages. Subtractive proteomics identified 18 candidate MMP-9 substrates. Biochemical studies confirmed that two transmembrane proteins, beta(2) integrin subunit (CD18) and amyloid protein precursor (APP), were enriched in the medium of M9A macrophages. To identify potential cleavage sites, we synthesized an overlapping library of peptides that spanned 60 residues of the ectodomain and transmembrane domain of beta(2) integrin. Active MMP-9 cleaved a single peptide, ECVKGPNVAAIVGGT, at residues corresponding to Ala(705) and Ile(706) of the beta(2) integrin. Peptides corresponding to this cleavage site were detected by tandem mass spectrometric analysis only in medium from M9A macrophages, strongly supporting the proposal that beta(2) integrin is shed by autoactivating MMP-9. Our observations indicate that subtractive proteomics in concert with peptide substrate mapping is a powerful approach for identifying proteolytic substrates and suggest that MMP-9 plays previously unsuspected roles in the regulation and shedding of beta(2) integrin. Molecular & Cellular Proteomics 8: 1044-1060, 2009.
+SN 1535-9476
+PD MAY
+PY 2009
+VL 8
+IS 5
+BP 1044
+EP 1060
+DI 10.1074/mcp.M800449-MCP200
+UT WOS:000266116900015
+PM 19116209
+ER
+
+PT J
+AU van Boven, WJP
+   Gerritsen, WB
+   Driessen, AH
+   Morshuis, WJ
+   Waanders, FG
+   Haas, FJ
+   van Dongen, EP
+   Aarts, LP
+AF van Boven, Wim-Jan P.
+   Gerritsen, Wim B.
+   Driessen, Antoine H.
+   Morshuis, Wim J.
+   Waanders, Frans G.
+   Haas, Fred J.
+   van Dongen, Eric P.
+   Aarts, Leon P.
+TI Myocardial oxidative stress, and cell injury comparing three different
+   techniques for coronary artery bypass grafting
+SO EUROPEAN JOURNAL OF CARDIO-THORACIC SURGERY
+AB Objective: Oxidative stress as a result of reperfusion injury is a known causative factor of cardiac muscle injury. In the peripheral blood as well in the coronary sinus, oxidative stress parameters and cardiac biomarkers were measured to investigate the different levels of oxidative stress during three different CABG techniques; MCABG (with minimal prime volume and warm blood cardioplegia) that was newly introduced in our hospital, versus OPCAB, versus our current standard, conventional CABG (CCABG, consisting of high volume prime and cold crystalloid cardioplegia). Concomitantly, cardiac biomarkers were measured to detect myocardial cell injury. Methods: Thirty patients scheduled for CABG with the intention to treat three-vessel disease were randomly assigned for CCABG, MCABG or OPCAB. Perioperatively, plasma levels of malondialdehyde (MDA) as a marker of oxidative stress, and the allantoin/uric acid ratio (A/U ratio) as a marker of antioxidant activity were measured in the ascending aorta (Aa), and in the coronary sinus (Cs), simultaneously. Additionally peripheral (Aa) blood levels of heart fatty acid binding protein (HFABP), troponin T, CPK and CKMB as markers of myocardial injury were obtained. Results: The MCABG group had significantly lower MDA levels in the Cs compared to the CCABG group, respectively, to the OPCAB group (p = 0.04 and p = 0.03). At all time points the A/U ratio in the CCABG group remained significantly higher in the Cs as well in the Aa samples compared to the MCABG and the OPCAB group (p < 0.001, respectively, p < 0.001, for both groups). HFABP and troponin T showed consistent curves compared to the CPK figure over time in all groups. Conclusion: In this study coronary sinus blood levels of oxidative stress parameters were consistently higher compared to peripheral blood levels. The levels were lowest in the MCABG study group. In this group also the lowest levels cardiac biomarkers of myocardial injury were found. (c) 2008 European Association for Cardio-Thoracic Surgery. Published by Elsevier B.V. All rights reserved.
+RI Morshuis, prof.W.J./L-4530-2015
+SN 1010-7940
+PD NOV
+PY 2008
+VL 34
+IS 5
+BP 969
+EP 975
+DI 10.1016/j.ejcts.2008.07.060
+UT WOS:000261552600007
+PM 18824368
+ER
+
+PT J
+AU Derikx, JPM
+   Matthijsen, RA
+   de Bruine, AP
+   van Bijnen, AA
+   Heineman, E
+   van Dam, RM
+   Dejong, CHC
+   Buurman, WA
+AF Derikx, Joep P. M.
+   Matthijsen, Robert A.
+   de Bruine, Adriaan P.
+   van Bijnen, Annemarie A.
+   Heineman, Erik
+   van Dam, Ronald M.
+   Dejong, Cornelis H. C.
+   Buurman, Wim A.
+TI Rapid Reversal of Human Intestinal Ischemia-Reperfusion Induced Damage
+   by Shedding of Injured Enterocytes and Reepithelialisation
+SO PLOS ONE
+AB Intestinal ischemia-reperfusion (IR) is a phenomenon related to physiological conditions (e.g. exercise, stress) and to pathophysiological events (e.g. acute mesenteric ischemia, aortic surgery). Although intestinal IR has been studied extensively in animals, results remain inconclusive and data on human intestinal IR are scarce. Therefore, an experimental harmless model for human intestinal IR was developed, enabling us to clarify the sequelae of human intestinal IR for the first time.
+   Methods and Findings: In 30 patients undergoing pancreatico-duodenectomy we took advantage of the fact that in this procedure a variable length of jejunum is removed. Isolated jejunum (5 cm) was subjected to 30 minutes ischemia followed by reperfusion. Intestinal Fatty Acid Binding Protein (I-FABP) arteriovenous concentration differences across the bowel segment were measured before and after ischemia to assess epithelial cell damage. Tissue sections were collected after ischemia and at 25, 60 and 120 minutes reperfusion and stained with H&E, and for I-FABP and the apoptosis marker M30. Bonferroni's test was used to compare I-FABP differences. Mean (SEM) arteriovenous concentration gradients of I-FABP across the jejunum revealed rapidly developing epithelial cell damage. I-FABP release significantly increased from 290 (46) pg/ml before ischemia towards 3,997 (554) pg/ml immediately after ischemia (p<0.001) and declined gradually to 1,143 (237) pg/ml within 1 hour reperfusion (p<0.001). Directly after ischemia the intestinal epithelial lining was microscopically normal, while subepithelial spaces appeared at the villus tip. However, after 25 minutes reperfusion, enterocyte M30 immunostaining was observed at the villus tip accompanied by shedding of mature enterocytes into the lumen and loss of I-FABP staining. Interestingly, within 60 minutes reperfusion the epithelial barrier resealed, while debris of apoptotic, shedded epithelial cells was observed in the lumen. At the same time, M30 immunoreactivity was absent in intact epithelial lining.
+   Conclusions: This is the first human study to clarify intestinal IR induced cell damage and repair and its direct consequences. It reveals a unique, endogenous clearing mechanism for injured enterocytes: rapid detachment of damaged apoptotic enterocytes into the lumen. This process is followed by repair of the epithelial continuity within an hour, resulting in a normal epithelial lining.
+SN 1932-6203
+PD OCT 17
+PY 2008
+VL 3
+IS 10
+AR e3428
+DI 10.1371/journal.pone.0003428
+UT WOS:000265122400004
+PM 18927609
+ER
+
+PT J
+AU Gedikli, O
+   Ozturk, S
+   Yilmaz, H
+   Baykan, M
+   Kiris, A
+   Durmus, I
+   Baltaci, D
+   Karahan, C
+   Celik, S
+AF Gedikli, Omer
+   Ozturk, Serkan
+   Yilmaz, Hulya
+   Baykan, Merih
+   Kiris, Abdulkadir
+   Durmus, Ismet
+   Baltaci, Davut
+   Karahan, Caner
+   Celik, Sukru
+TI Relationship between arterial stiffness and myocardial damage in
+   patients with newly diagnosed essential hypertension
+SO AMERICAN JOURNAL OF HYPERTENSION
+AB BACKGROUND
+   Arterial stiffness increases in hypertensive individuals. Arterial stiffness is associated with impairment of systolic and diastolic myocardial function in hypertension (HT). However, the relationship between arterial stiffness and serum heart-type fatty acid-binding protein (H-FABP) levels, a sensitive marker of myocardial damage, has not been previously examined in patients with HT. We investigate the relationship between serum H-FABP levels and arterial stiffness in patients with newly diagnosed HT.
+   METHODS
+   We studied 46 (48.5 +/- 10.6, years) never-treated patients with HT and age-matched control group of 40 (47 +/- 8.6, years) normotensive individuals. H-FABP levels were determined in all subjects. We evaluated arterial stiffness and wave reflections of study population, using applanation tonometry (Sphygmocor). Carotid-femoral pulse wave velocity (PWV) was measured as indices of elastic-type, aortic stiffness. The heart rate-corrected augmentation index (Alx@75) was estimated as a marker of wave reflections.
+   RESULTS
+   Carotid-femoral PWV (10.5 +/- 2.2 vs. 8.7 +/- 1.6, m/s, P = 0.0001) and Alx@75 (22.7 +/- 9.5 vs. 15 +/- 11, %, P = 0.001) were significantly higher in patients with HT than control group. H-FABP levels were increased in hypertensive patients compared with control group (21.1 +/- 14.8 vs. 12.9 +/- 8.5, ng/ml, P = 0.002). In multiple linear regression analysis, we found that the body mass index (beta = 0.42, P = 0.0001) and carotid-femoral PWV (beta = 0.23, P = 0.03) were significant determinants of H-FABP levels.
+   CONCLUSION
+   Arterial stiffness is associated with serum H-FABP levels, a sensitive marker of myocardial damage, in patients with newly diagnosed HT.
+SN 0895-7061
+PD SEP
+PY 2008
+VL 21
+IS 9
+BP 989
+EP 993
+DI 10.1038/ajh.2008.235
+UT WOS:000258702200007
+PM 18617881
+ER
+
+PT J
+AU Fujita, M
+   Asakura, M
+   Sanada, S
+   Funaya, H
+   Tsukamoto, O
+   Komamura, K
+   Asanuma, H
+   Taketani, S
+   Isomura, T
+   Nakamaru, K
+   Furukawa, H
+   Sawa, Y
+   Hori, M
+   Kitakaze, M
+AF Fujita, Masashi
+   Asakura, Masanori
+   Sanada, Shoji
+   Funaya, Hiroharu
+   Tsukamoto, Osamu
+   Komamura, Kazuo
+   Asanuma, Hiroshi
+   Taketani, Satoshi
+   Isomura, Tadashi
+   Nakamaru, Kenji
+   Furukawa, Hidehiko
+   Sawa, Yoshiki
+   Hori, Masatsugu
+   Kitakaze, Masafumi
+TI Activation of ecto-5 '-nucleotidase in the blood and hearts of patients
+   with chronic heart failure
+SO JOURNAL OF CARDIAC FAILURE
+AB Background: Because plasma levels of adenosine are increased in patients with chronic heart failure (CHF), we examined adenosine concentrations in the plasma and heart and assessed the activity of ecto-5'-nucleotidase in the plasma and ventricular myocardium in patients with CHF.
+   Methods and Results: We studied 36 patients with CHF (New York Heart Association Class I/II/II/IV, 9/8/12/7). Twenty-five subjects without CHF were used as controls. Both plasma adenosine levels and ecto-5'-nucleotidase activity were significantly higher in patients with CHF (219 +/- 28 nmol/L and 0.72 +/- 0.03 nmoL/mg protein/min, respectively) than in control subjects (71 +/- 8 nmol/L and 0.54 +/- 0.02 nmoL/mg protein/min, respectively). Plasma adenosine levels sampled from the coronary sinus were significantly higher than from the aorta in patients with CHF, but these differences were not observed in control subjects. Ecto-5'-nucleotidase protein levels were markedly increased in the ventricular myocardium in patients with CHF.
+   Conclusions: These increases in ecto-5'-nucleotidase in the plasma and myocardium may contribute to increased plasma and cardiac adenosine levels. The increased ecto-5'-nucleotidase activity and adenosine levels in blood may become an index of the presence or severity of CHF.
+SN 1071-9164
+PD JUN
+PY 2008
+VL 14
+IS 5
+BP 426
+EP 430
+DI 10.1016/j.cardfail.2008.01.011
+UT WOS:000256737000011
+PM 18514936
+ER
+
+PT J
+AU Chowdhury, UK
+   Malik, V
+   Yadav, R
+   Seth, S
+   Ramakrishnan, L
+   Kalaivani, M
+   Reddy, SM
+   Subramaniam, GK
+   Govindappa, R
+   Kakani, M
+AF Chowdhury, Ujjwal K.
+   Malik, Vishwas
+   Yadav, Rakesh
+   Seth, Sandeep
+   Ramakrishnan, Lakshmy
+   Kalaivani, Mani
+   Reddy, Srikrishna M.
+   Subramaniam, Ganapathy K.
+   Govindappa, Raghu
+   Kakani, Madhava
+TI Myocardial injury in coronary artery bypass grafting: On-pump versus
+   off-pump comparison by measuring high-sensitivity C-reactive protein,
+   cardiac troponin I, heart-type fatty acid-binding protein, creatine
+   kinase-MB, and myoglobin release
+SO JOURNAL OF THORACIC AND CARDIOVASCULAR SURGERY
+AB Objectives: We sought to investigate the release pattern of different cardiac biomarkers (high-sensitivity C-reactive protein, cardiac troponin I, heart-type fatty acid-binding protein, creatine kinase-MB, and myoglobin) and to establish the diagnostic discrimination limits of each marker protein to evaluate perioperative myocardial injury in patients undergoing coronary artery bypass grafting with or without cardiopulmonary bypass.
+   Methods: Fifty patients were randomly assigned to on-pump or off-pump coronary artery bypass grafting. All cardiac biomarkers were measured in serial venous blood samples drawn before heparinization in both groups and after aortic unclamping at 1, 2, 4, 8, 24, 48, and 72 hours in the on-pump group. In the off-pump group samples were taken after the last distal anastomosis and at same time intervals as in the on-pump group.
+   Results: The total amount of heart-type fatty acid-binding protein, cardiac troponin I, and high-sensitivity C-reactive protein released was significantly higher in the on-pump group than in the off-pump group. Receiver operating characteristic curve analysis of cardiac biomarkers indicated cardiac troponin I and heart-type fatty acid-binding protein as the superior diagnostic discriminators of myocardial injury, with an optimal cutoff value of greater than 0.92 ng/mL (area under the curve, 0.95 [95% CI, 0.88-1.00]; sensitivity, 92%; specificity, 92%; likelihood ratio [+], 11.50) and greater than 6.8 ng/mL (area under the curve, 0.94 [95% CI, 0.88 1.00]; sensitivity, 88%; specificity, 88%; likelihood ratio [+], 7.33), respectively. Logistic regression analysis revealed that patients with increased cardiac troponin I levels of greater than 0.92 ng/mL and heart-type fatty acid-binding protein levels of greater than 6.8 ng/mL were at 132.25 (95% confidence interval, 17.14-1020.49) times and 53.77 (95% confidence interval, 9.76-296.12) times higher risk of myocardial injury after on-pump coronary artery bypass grafting.
+   Conclusions: Off-pump coronary artery bypass grafting provides better myocardial protection than on-pump coronary artery bypass grafting. Cardiac troponin I and heart-type fatty acid-binding protein, but not high-sensitivity C-reactive protein, served as superior diagnostic discriminators of perioperative myocardial damage after on-pump coronary artery bypass grafting.
+SN 0022-5223
+PD MAY
+PY 2008
+VL 135
+IS 5
+BP 1110
+EP U88
+DI 10.1016/j.jtcvs.2007.12.029
+UT WOS:000255512800022
+PM 18455592
+ER
+
+PT J
+AU Mazovets, OL
+   Trifonov, IR
+   Katrukha, AH
+   Bereznikova, AV
+   Medvedeva, MV
+   Deev, AD
+   Gratsiansky, NA
+AF Mazovets, O. L.
+   Trifonov, I. R.
+   Katrukha, A. H.
+   Bereznikova, A. V.
+   Medvedeva, M. V.
+   Deev, A. D.
+   Gratsiansky, N. A.
+TI Heart fatty acid binding protein in patients hospitalized because of
+   worsening heart failure. Relation to prognosis of death
+SO KARDIOLOGIYA
+AB Purpose. We tested the hypothesis that serum heart fatty-acid binding protein (FABP), an early marker of myocardial necrosis, is related to prognosis of patients hospitalized because of worsening heart failure (HF). Methods. Sixty nine patients (64% men, age 66.6 +/- 11.0 years) with NYHA class II, III, IV HF (1, 18, and 50 patients, respectively) at hospital admission were followed for 6-12 (mean 11.6 +/- 1.3) months. Forty seven patients (68.1 %) had history of myocardial infarction (MI), 56 (81.2%) - hypertension, 15 (21.7%) - diabetes, and 17 (24.6%) had echocardiographical signs of aortic stenosis. Median left ventricular ejection fraction was 28%. Serum FARP, cardiac troponin I (Tn I) and N-aminoterminal pro brain natriuretic peptide (NIT proBNP) were measured within 3 days after admission ("admission" levels) and 2 weeks later (minimal hospital stay). Manufacturer recommended upper limits of norm (ULN) were 4.0 ng/ml for FABP, 0.35 ng/ml for Tn 1, 0.1 ng/ml for NT proBNP. Results. Median admission FABP was insignificantly higher than level measured 2 weeks later (4.17 vs 4.03 ng/ml, p=0.069). FABP exceeded ULN in 38 (55.1 %) patients and in 35 (50.7%) patients at admission and in 2 weeks, respectively (p=0.65). Median admission NT proBNP was significantly higher than 2 weeks level (13.23 vs 6.02 ng/ml, p < 0.0001). Median admission and 2-weeks levels of Tn I were similar and greatly lower than ULN. There were 27 all cause deaths (39.1 %) during follow up. Median admission levels of TnI, FABP and NT proBNP were similar in patients who died and survived. Two weeks NT proBNP was significantly higher in patients who died (8.65 vs 3.62 ng/ml, p=0.012). ROC curve derived cut-off levels of FABP and NT proBNP (3.31 ng/ml and 3.5 ng/ml, respectively) were used in univaritate regression analysis. According to this analysis FABP >= 3.31 ng/ml was related to occurrence of death (OR 3.54; 95% CI 1.03-12.17, p=0.044). FABP and variables with p > 0.1 (age, history of MI and diabetes, regular treatment with nitrates, signs of aortic stenosis, pulmonary rales at admission, and 2 weeks level of NT proBNP >= cut-off) were included into multivariate logistic regression model. independent predictors of death were aortic stenosis (OR 31.67; 95 % CI 6.11-164.00) and NT proBNP >= 3.5 ng/ml (OR 5.75; 95%CI 1.69-19.52). Conclusion. in this group of patients hospitalized due to worsening of HF admission values of neither FABP nor other biomarkers studied were predictors of death during about 1 year of follow up. FABP level after 2 weeks of hospital stay was related to occurrence of death but as predictor was inferior to NT-proBNP measured at the same time point.
+OI Deev, Alexander/0000-0002-7669-9714
+SN 0022-9040
+PY 2008
+VL 48
+IS 1
+BP 24
+EP +
+UT WOS:000253141900005
+PM 18260992
+ER
+
+PT J
+AU Block, T
+   Nilsson, TK
+   Bjorck, M
+   Acosta, S
+AF Block, T.
+   Nilsson, T. K.
+   Bjorck, M.
+   Acosta, S.
+TI Diagnostic accuracy of plasma biomarkers for intestinal ischaemia
+SO SCANDINAVIAN JOURNAL OF CLINICAL & LABORATORY INVESTIGATION
+AB Objective. Intestinal ischaemia is a life-threatening condition with high mortality, and the lack of accurate and readily available diagnostic methods often results in delay in diagnosis and treatment. The aim of this study was to investigate the accuracy of different plasma biomarkers in diagnosing intestinal ischaemia. Material and methods. Prospective inclusion of patients older than 50 years with acute abdomen admitted to hospital in Karlskrona, Sweden, between 2001 and 2003. Venous blood was sampled prior to any surgery and within 24 h from onset of pain. D-lactate, alpha glutathione S-transferase, intestinal fatty acid binding protein, creatine kinase B, isoenzymes of lactate dehydrogenase (LD) and alkaline liver phosphatase (ALP) were analysed. D-dimer was analysed using four different commercially available test kits. Results. In-hospital mortalities among patients with (n=10) and without (n=61) intestinal ischaemia were 40 % and 3 %, respectively (p=0.003). D-dimer was associated with intestinal ischaemia (p=0.001) independently of which assay was used. No patient presenting with a normal D-dimer had intestinal ischaemia. D-dimer > 0.9 mg/L had a specificity, sensitivity and accuracy of 82 %, 60 % and 79 %, respectively. Total LD, isoenzymes of LD 1-4 and liver isoenzyme of ALP (ALP liver) were significantly higher in patients with intestinal ischaemia, and accuracies for LD 2 (cut-off 2.3 mu kat/L) and ALP liver (cut-off 0.7 mu kat/L) were 69 % and 66 %, respectively. Conclusions. D-dimer may be used as an exclusion test for intestinal ischaemia, but lacks specificity. The other plasma biomarkers studied had insufficient accuracy for this group of patients. Further studies are needed.
+RI Bjorck, Martin/A-4104-2008; Acosta, Stefan/P-1517-2015
+OI Acosta, Stefan/0000-0002-8895-6001
+SN 0036-5513
+PY 2008
+VL 68
+IS 3
+BP 242
+EP 248
+DI 10.1080/00365510701646264
+UT WOS:000255454500009
+PM 17934974
+ER
+
+PT J
+AU Korff, T
+   Aufgebauer, K
+   Hecker, M
+AF Korff, Thomas
+   Aufgebauer, Karin
+   Hecker, Markus
+TI Cyclic stretch controls the expression of CD40 in endothelial cells by
+   changing their transforming growth factor-beta 1 response
+SO CIRCULATION
+AB Background-CD40 is a costimulatory molecule that acts as a central mediator of various immune responses, including those involved in the progression of atherosclerosis. Correspondent to its function, CD40 is present not only on many immune cells, such as antigen-presenting cells and T cells, but also on nonimmune cells, such as endothelial cells.
+   Methods and Results-Ex vivo analyses in mice revealed that CD40 is strongly expressed in distinct venous and capillary but not arterial endothelial cell populations. Therefore, we analyzed to what extent determinants of an arterial environment control CD40 expression in these cells. In vitro studies indicated that the presence of smooth muscle cells or exposure to cyclic stretch significantly downregulates CD40 expression in human endothelial cells. Interestingly, endothelial cells cocultured with smooth muscle cells upregulated CD40 expression in response to cyclic stretch through a transforming growth factor -beta 1/activin-receptor-like kinase-1 ( Alk-1)-dependent mechanism. To corroborate that this mechanism also operates in arteries in vivo, we analyzed the expression of Alk-1 and CD40 at atherosclerosis-prone sites of the mouse aorta that also appear to be exposed to increased stretch. In wild-type mice, both Alk-1 and CD40 revealed a comparably heterogeneous expression pattern along the aortic arch that matched those sites in low-density lipoprotein-receptor-deficient mice where atherosclerotic lesions develop.
+   Conclusions-Cyclic stretch thus increases the abundance of CD40 in endothelial cells through transforming growth factor-beta 1/Alk-1 signaling. This mechanism in turn may be responsible for the heterogeneous expression of CD40 at arterial bifurcations or curvatures and would support a site-specific proinflammatory response that is typical for the early phase of atherosclerosis.
+SN 0009-7322
+PD NOV 13
+PY 2007
+VL 116
+IS 20
+BP 2288
+EP 2297
+DI 10.1161/CIRCULATIONAHA.107.730309
+UT WOS:000250870900009
+PM 17967972
+ER
+
+PT J
+AU Hernandez-Ruiz, L
+   Valverde, F
+   Jimenez-Nunez, MD
+   Ocana, E
+   Saez-Benito, A
+   Rodriguez-Martorell, J
+   Bohorquez, JC
+   Serrano, A
+   Ruiz, FA
+AF Hernandez-Ruiz, Laura
+   Valverde, Federico
+   Jimenez-Nunez, Maria D.
+   Ocana, Esther
+   Saez-Benito, Ana
+   Rodriguez-Martorell, Javier
+   Bohorquez, Juan-Carlos
+   Serrano, Aurelio
+   Ruiz, Felix A.
+TI Organellar proteomics of human platelet dense granules reveals that
+   14-3-3 zeta is a granule protein related to atherosclerosis
+SO JOURNAL OF PROTEOME RESEARCH
+AB Dense granules, a type of platelet secretory organelle, are known to accumulate high concentrations of small molecules such as calcium, adenine nucleotides, serotonin, pyrophosphate, and polyphosphate. Protein composition of these granules has been obscure, however. In this paper, we use proteomics techniques to describe, for the first time, the soluble protein composition of platelet dense granules. We have isolated highly enriched human platelet dense granule fractions that have been analyzed using two proteomics methods. Using this approach, we have identified 40 proteins, and most of them, such as actin-associated proteins, glycolytic enzymes, and regulatory proteins, have not previously been related to the organelle. We have focused our efforts on studying 14-3-3 zeta a member of a conserved family of proteins that interact with hundreds of different proteins. We have demonstrated that 14-3-3 zeta is localized mostly on dense granules and that it is secreted after platelet activation. As some proteins secreted from activated platelets could promote the development of atherosclerosis and thrombosis, we have studied the expression of 14-3-3 zeta in sections of human abdominal aorta of patients with aneurysm, identifying it at the atherosclerotic plaques. Together, our results reveal new details of the composition of the platelet dense granule and suggest an extracellular function for 14-3-3 zeta associated with atherosclerosis.
+RI Ruiz, Felix A./B-1032-2008; Serrano, Aurelio/K-3004-2014; Valverde,
+   Federico/K-1248-2014
+OI Ruiz, Felix A./0000-0003-0748-5015; Serrano,
+   Aurelio/0000-0002-8077-9098; Valverde, Federico/0000-0001-8063-0974
+SN 1535-3893
+PD NOV
+PY 2007
+VL 6
+IS 11
+BP 4449
+EP 4457
+DI 10.1021/pr070380o
+UT WOS:000250718700037
+PM 17918986
+ER
+
+PT J
+AU Scharpfenecker, M
+   van Dinther, M
+   Liu, Z
+   van Bezooijen, RL
+   Zhao, QH
+   Pukac, L
+   Lowik, CWGM
+   ten Dijke, P
+AF Scharpfenecker, Marion
+   van Dinther, Maarten
+   Liu, Zhen
+   van Bezooijen, Rutger L.
+   Zhao, Qinghai
+   Pukac, Laurie
+   Lowik, Clemens W. G. M.
+   ten Dijke, Peter
+TI BMP-9 signals via ALK1 and inhibits bFGF-induced endothelial cell
+   proliferation and VEGF-stimulated angiogenesis
+SO JOURNAL OF CELL SCIENCE
+AB Genetic studies in mice and humans have shown that the transforming growth factor-beta (TGF-beta) type-I receptor activin receptor-like kinase 1 (ALK1) and its co-receptor endoglin play an important role in vascular development and angiogenesis. Here, we demonstrate that ALK1 is a signalling receptor for bone morphogenetic protein-9 (BMP-9) in endothelial cells (ECs). BMP-9 bound with high affinity to ALK1 and endoglin, and weakly to the type-I receptor ALK2 and to the BMP type-II receptor (BMPRII) and activin type-II receptor (ActR-II) in transfected COS cells. Binding of BMP- 9 to ALK2 was greatly facilitated when BMPR-II or ActR-II were co-expressed. Whereas BMP-9 predominantly bound to ALK1 and BMPR-II in ECs, it bound to ALK2 and BMPR-II in myoblasts. In addition, we observed binding of BMP- 9 to ALK1 and endoglin in glioblastoma cells. BMP-9 activated Smad1 and/or Smad5, and induced ID1 protein and endoglin mRNA expression in ECs. Furthermore, BMP-9 was found to inhibit basic fibroblast growth factor (bFGF)stimulated proliferation and migration of bovine aortic ECs (BAECs) and to block vascular endothelial growth factor (VEGF)-induced angiogenesis. Taken together, these results suggest that BMP-9 is a physiological ALK1 ligand that plays an important role in the regulation of angiogenesis.
+RI leng, xianwei/F-9073-2011
+SN 0021-9533
+PD MAR 15
+PY 2007
+VL 120
+IS 6
+BP 964
+EP 972
+DI 10.1242/jcs.002949
+UT WOS:000244759500006
+PM 17311849
+ER
+
+EF

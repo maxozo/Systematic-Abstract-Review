@@ -1,0 +1,1707 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Faure, EM
+   Canaud, L
+   Cathala, P
+   Serres, I
+   Marty-Ane, C
+   Alric, P
+AF Faure, Elsa Madeleine
+   Canaud, Ludovic
+   Cathala, Philippe
+   Serres, Isabelle
+   Marty-Ane, Charles
+   Alric, Pierre
+TI Assessment of abdominal branch vessel patency after bare-metal stenting
+   of the thoracoabdominal aorta in a human ex vivo model of acute type B
+   aortic dissection
+SO JOURNAL OF VASCULAR SURGERY
+AB Objective: The purpose of this study was to assess the efficiency of bare-metal stenting of the thoracoabdominal aorta in a human ex vivo model of acute type B aortic dissection and the impact of this approach on the patency of the visceral and renal arteries.
+   Methods: Fifteen human cadaveric aortas were harvested. Type B aortic dissections were surgically initiated 2 cm below the left subclavian artery. Aortas were thereafter connected to a bench top pulsatile flow to induce propagation of the dissection. A 5 mm 30 degrees lens (Richard Wolf, Vernon Hills, Ill) was introduced successively into the false lumen and the true lumen to monitor the propagation of the dissection. Bare-metal stents were deployed into the true lumen from the primary entry tear to the infrarenal aorta. Measurement of systolic pressure was taken within the abdominal branch vessels before and after stenting. A pressure gradient drop of 15 mm Hg or more after bare-metal stenting was considered hemodynamically relevant.
+   Results: Dissection was propagated at least to the renal aorta in 11 cases (73%) and to the infrarenal aorta in 3 cases (20%). Of the 60 abdominal branch vessels studied, 22 (36.7%) were supplied by the false lumen. After extensive aortic bare-metal stenting, complete reattachment of the dissection flap was observed in all cases. Regarding visceral and renal artery patency after bare-metal stenting, a significant pressure gradient drop was reported in 54.5% (n = 12) when these arteries were supplied by the false lumen, whereas those originating from the true lumen had a significantly less common pressure gradient drop (7.9% [n = 3]; P < .0001).
+   Conclusions: Bare-metal stenting in this model of acute type B aortic dissection was effective in true lumen reexpansion but induced a high (54.5%) rate of significant pressure drop in the visceral and renal arteries when they were supplied by the false lumen.
+SN 0741-5214
+PD MAY
+PY 2015
+VL 61
+IS 5
+BP 1299
+EP 1305
+DI 10.1016/j.jvs.2013.11.095
+UT WOS:000353526000026
+PM 24468284
+ER
+
+PT J
+AU Alimohammadi, M
+   Sherwood, JM
+   Karimpour, M
+   Agu, O
+   Balabani, S
+   Diaz-Zuccarini, V
+AF Alimohammadi, Mona
+   Sherwood, Joseph M.
+   Karimpour, Morad
+   Agu, Obiekezie
+   Balabani, Stavroula
+   Diaz-Zuccarini, Vanessa
+TI Aortic dissection simulation models for clinical support:
+   fluid-structure interaction vs. rigid wall models
+SO BIOMEDICAL ENGINEERING ONLINE
+AB Background: The management and prognosis of aortic dissection (AD) is often challenging and the use of personalised computational models is being explored as a tool to improve clinical outcome. Including vessel wall motion in such simulations can provide more realistic and potentially accurate results, but requires significant additional computational resources, as well as expertise. With clinical translation as the final aim, trade-offs between complexity, speed and accuracy are inevitable. The present study explores whether modelling wall motion is worth the additional expense in the case of AD, by carrying out fluid-structure interaction (FSI) simulations based on a sample patient case.
+   Methods: Patient-specific anatomical details were extracted from computed tomography images to provide the fluid domain, from which the vessel wall was extrapolated. Two-way fluid- structure interaction simulations were performed, with coupled Windkessel boundary conditions and hyperelastic wall properties. The blood was modelled using the Carreau-Yasuda viscosity model and turbulence was accounted for via a shear stress transport model. A simulation without wall motion (rigid wall) was carried out for comparison purposes.
+   Results: The displacement of the vessel wall was comparable to reports from imaging studies in terms of intimal flap motion and contraction of the true lumen. Analysis of the haemodynamics around the proximal and distal false lumen in the FSI model showed complex flow structures caused by the expansion and contraction of the vessel wall. These flow patterns led to significantly different predictions of wall shear stress, particularly its oscillatory component, which were not captured by the rigid wall model.
+   Conclusions: Through comparison with imaging data, the results of the present study indicate that the fluid-structure interaction methodology employed herein is appropriate for simulations of aortic dissection. Regions of high wall shear stress were not significantly altered by the wall motion, however, certain collocated regions of low and oscillatory wall shear stress which may be critical for disease progression were only identified in the FSI simulation. We conclude that, if patient-tailored simulations of aortic dissection are to be used as an interventional planning tool, then the additional complexity, expertise and computational expense required to model wall motion is indeed justified.
+SN 1475-925X
+PD APR 15
+PY 2015
+VL 14
+AR 34
+DI 10.1186/s12938-015-0032-6
+UT WOS:000353330200001
+PM 25881252
+ER
+
+PT J
+AU Peng, CL
+   Ma, JS
+   Cheema, M
+   Sun, QF
+   Ahan, NL
+   Hao, YT
+   Zhao, YP
+   Cong, B
+AF Peng, Chuanliang
+   Ma, Jinshan
+   Cheema, Mohiuddin
+   Sun, Qifeng
+   Ahan, Nuerlan
+   Hao, Yingtao
+   Zhao, Yunpeng
+   Cong, Bo
+TI Application of a bioengineered composite neotrachea in a dog model
+SO JOURNAL OF SURGICAL RESEARCH
+AB Background: Surgical treatment of extensive tracheal lesions remains a major challenge because of lack of an ideal airway substitute that is well vascularized, rigid, and autologous. We describe a novel surgical technique of tracheal reconstruction using a combination of a polypropylene mesh material and anterior cervical myocutaneous flap in a dog model.
+   Materials and methods: A 3.5-4 cm length of cervical trachea was resected in 16 dogs and replaced with a myocutaneous cervical neck flap wrapped around the plain polypropylene tube (group 1, n = 7) or wrapped around a composite of polypropylene tube with an implanted Z-type metallic-covered stent (group 2, n = 9). The cervical tracheal defect was repaired with the previously mentioned substitute that was directly sutured to the remaining tracheal ends. Dogs were followed up using bronchoscopy and x-rays and euthanized at predetermined times for histologic examination.
+   Results: In group 1, four dogs died within 2 wk from respiratory failure with varying degrees of airway collapse and difficulties in expectoration. In group 2, eight dogs survived, whereas one died of anastomotic dehiscence 1 wk after surgery. Necropsy and histologic examination of the anastomotic sites revealed good healing tissue. Pathologic examination also revealed excellent healing of the squamous epithelium of the neotrachea and the columnar epithelium of the native tracheal mucosa.
+   Conclusions: The tissue compatibility of the polypropylene mesh material and anterior cervical myocutaneous skin flap makes this a promising therapeutic substitute for treatment of patients with extensive tracheal lesions. (C) 2015 Elsevier Inc. All rights reserved.
+SN 0022-4804
+EI 1095-8673
+PD APR
+PY 2015
+VL 194
+IS 2
+BP 638
+EP 643
+DI 10.1016/j.jss.2014.11.029
+UT WOS:000351061900042
+PM 25527362
+ER
+
+PT J
+AU Cillero-Pastor, B
+   Eijkel, GB
+   Blanco, FJ
+   Heeren, RMA
+AF Cillero-Pastor, Berta
+   Eijkel, Gert B.
+   Blanco, Francisco J.
+   Heeren, Ron M. A.
+TI Protein classification and distribution in osteoarthritic human synovial
+   tissue by matrix-assisted laser desorption ionization mass spectrometry
+   imaging
+SO ANALYTICAL AND BIOANALYTICAL CHEMISTRY
+AB The remodeling of the synovial membrane, which normally lubricates the joints by producing synovial fluid, is one of the most characteristic events in the pathology of osteoarthritis (OA). The heterogeneity and spatial distribution of proteins in the synovial membrane are poorly studied and we hypothesized that they constitute excellent molecular disease classifiers for the accurate diagnosis of the disease. Matrix-assisted laser desorption ionization mass spectrometry imaging (MALDI-MSI) allows for the study of the localization and identification of hundreds of different molecules with high sensitivity in very thin tissue sections. In this work, we employed MALDI-MSI in combination with principal component analysis and discriminant analysis to reveal the specific profile and distribution of digested proteins in human normal and OA synovial membranes. Proteins such as hemoglobin subunit alpha 2, hemoglobin subunit beta, actin aortic smooth muscle, biglycan, and fibronectin have been directly identified from human synovial biopsies. In addition, we have determined the location of disease-specific OA markers. Some of them which are located in areas of low inflammation provide valuable information on tissue heterogeneity. Finally, we described the OA molecular protein signatures common to synovial and other articular tissues such as cartilage. For the first time, normal and OA human synovial membranes have been classified by MALDI-MSI, thus offering a new sensitive tool for the study of rheumatic pathologies.
+RI Blanco, Francisco J/C-3192-2014; 
+OI Blanco, Francisco J/0000-0001-9821-7635; Heeren, Ron/0000-0002-6533-7179
+SN 1618-2642
+EI 1618-2650
+PD MAR
+PY 2015
+VL 407
+IS 8
+BP 2213
+EP 2222
+DI 10.1007/s00216-014-8342-2
+UT WOS:000351195800020
+PM 25504090
+ER
+
+PT J
+AU Kristensen, KE
+   Torp-Pedersen, C
+   Gislason, GH
+   Egfjord, M
+   Rasmussen, HB
+   Hansen, PR
+AF Kristensen, Karl Emil
+   Torp-Pedersen, Christian
+   Gislason, Gunnar Hilmar
+   Egfjord, Martin
+   Rasmussen, Henrik Berg
+   Hansen, Peter Riis
+TI Angiotensin-Converting Enzyme Inhibitors and Angiotensin II Receptor
+   Blockers in Patients With Abdominal Aortic Aneurysms Nation-Wide Cohort
+   Study
+SO ARTERIOSCLEROSIS THROMBOSIS AND VASCULAR BIOLOGY
+AB Objective The renin-angiotensin system is thought to play a pivotal role in the pathogenesis of abdominal aortic aneurysms (AAAs). However, effects of angiotensin-converting enzyme inhibitors (ACEIs) and angiotensin II type 1 receptor blockers (ARBs) on human AAAs remain unclear. We therefore examined whether treatment with ACEIs or ARBs influenced hard clinical end points in a nation-wide cohort of patients with AAA.
+   Approach and Results All patients diagnosed with AAA during the period 1995 to 2011 were identified from the Danish nation-wide registries. Subjects were divided according to ACEI and ARB treatment status and followed up for an average of 5 years. Study outcomes were evaluated by time-dependent Cox proportional hazard models. Of 9441 patients with AAA, 12.6% were treated with ACEIs and 5.0% received ARBs. Incidence rates of death from AAA per 100 patient-years were 3.7, 3.6, 4.0, and 4.7 for treatment with ACEIs or ARBs, ACEIs, ARBs, and no ACEI/ARB, respectively. Hazard ratios of death from AAA were 0.64 (95% confidence interval, 0.51-0.80; P<0.001) for patients receiving ACEIs and 0.65 (95% confidence interval, 0.48-0.88; P=0.006) for those receiving ARBs, respectively (P for difference=0.944). The risk of surgery for AAA was significantly reduced in patients receiving ACEIs (hazard ratio, 0.86 [95% confidence interval, 0.74-0.99]; P=0.040) but not in patients receiving ARBs (hazard ratio, 1.02 [95% confidence interval, 0.84-1.23]; P=0.867; P for difference=0.119).
+   Conclusions In this observational study, treatment with ACEIs or ARBs was associated with a comparable reduction in mortality but not in surgery for AAA among patients with AAA. Randomized controlled trials are warranted to confirm these findings.
+SN 1079-5642
+EI 1524-4636
+PD MAR
+PY 2015
+VL 35
+IS 3
+BP 733
+EP 740
+DI 10.1161/ATVBAHA.114.304428
+UT WOS:000350395800033
+PM 25633315
+ER
+
+PT J
+AU Shen, LY
+   Cui, ZW
+   Lin, Y
+   Wang, SQ
+   Zheng, DF
+   Tan, Q
+AF Shen, Liangyun
+   Cui, Ziwei
+   Lin, Yue
+   Wang, Shuqin
+   Zheng, Dongfeng
+   Tan, Qian
+TI Anti-inflammative effect of glycyrrhizin on rat thermal injury via
+   inhibition of high-mobility group box 1 protein
+SO BURNS
+AB Aim: Glycyrrhizin (Gly) has been reported as an inhibitor of extracellular I-IMGB1 (high-mobility group box 1 protein) cytokine's activity, and protects spinal cord, liver, heart and brain against ischemia-reperfusion-induced injury in rats. The purpose of this study was to investigate the protective effect of Gly in rat skin thermal injury model and to elucidate the underlying mechanisms.
+   Methods: Twenty-four male Sprague-Dawley rats (200-250 g) were randomly divided into control group, vehicle-treated and Gly-treated burn groups, each group contained eight animals. In the latter two groups, rats were subjected to 30% TBSA (Total Body Surface Area) full-thickness scald injury. In Gly-treated burn group, glycyrrhizin (60 mg/kg) was administered intraperitoneally immediately after and at 24th hour burn; in vehicle-treated burn group, Ringer's solution (4 ml/kg, as a vehicle) was administered intraperitoneally immediately after and at 24th hour burn. The animals were sacrificed at 48 h after injury. Aortic blood samples were obtained to detect tumor necrosis factor-alpha (TNF-alpha) and interleukin-1 beta (IL-1 beta) with ELISA (Enzyme-Linked Immuno Sorbent Assay) kits. Lung, liver and kidney tissue samples were collected to determine the expression of HMGB1 mRNA and protein. HMGB1 mRNA level was semiquantitatively measured by Real-Time PCR using beta-actin as an internal standard, and protein expression of HMGBI was determined by Western blot.
+   Results: Severe skin scald injury caused a significant increase in plasma TNF-alpha and IL-1 beta versus the control group (P < 0.001) in 48 h after burns. Intraperitoneal administration of Gly (60 mg/kg) significantly reduced the levels of serum TNF-alpha and IL-1 beta (P < 0.01). Gly treatment reduced these biochemical indices accompanied by lower level of HMGB1 protein (P < 0.05) and mRNA expression (P < 0.01).
+   Conclusion: These results demonstrate that Gly possesses an anti-inflammation effect to protect the remote organs from burn-induced injury. (C) 2014 Elsevier Ltd and ISBI. All rights reserved.
+SN 0305-4179
+EI 1879-1409
+PD MAR
+PY 2015
+VL 41
+IS 2
+BP 372
+EP 378
+DI 10.1016/j.burns.2014.05.008
+UT WOS:000350089800024
+PM 25440843
+ER
+
+PT J
+AU Burri, M
+   Kasnar-Samprec, J
+   Cleuziou, J
+   Noauer, C
+   Vogt, MO
+   Lange, R
+   Schreiber, C
+   Horer, J
+AF Burri, Melchior
+   Kasnar-Samprec, Jelena
+   Cleuziou, Julie
+   Noeauer, Christian
+   Vogt, Manfred O.
+   Lange, Ruediger
+   Schreiber, Christian
+   Hoerer, Juergen
+TI Creating an Arc-Shaped Aorta: Use of the Subclavian Artery for
+   Interrupted Aortic Arch Repair
+SO ANNALS OF THORACIC SURGERY
+AB Background. With interrupted aortic arch (IAA), a direct anastomosis may produce an angular-shaped aortic arch instead of the normal arc-shaped aorta, when the discontinuity is considerably long. That may lead to aortic stenosis and to compression of the pulmonary artery or the main bronchus. If a tube graft is used, reoperation for graft exchange is inevitable. We demonstrate the results of using the subclavian artery for creating an arc-shaped aorta in IAA repair.
+   Methods. Between February 2006 and October 2012, 23 patients underwent IAA repair using the subclavian artery. The subclavian artery was closed distally, divided, and longitudinally incised from the transected end to the aorta. This flap was used to bridge the gap of the IAA, by forming the posterior wall of a new aortic segment. The arch was completed using glutaraldehyde-fixed autologous pericardium (52%) or homograft (48%).
+   Results. Median follow-up time was 4.8 years (range, 1.3 to 6.9). There were no early deaths and 1 late death. On postoperative angiographic imaging, the aorta takes an arc-shaped course in all cases. Aortic arch stenosis developed in 7 patients (30%). Four patients were treated interventionally, and 3 surgically. During follow-up, there was no compression of the pulmonary artery or the main bronchus.
+   Conclusions. By using the subclavian artery, an arc-shaped aorta can be accomplished without the use of tube grafts. With this technique, compression of the pulmonary artery or the main bronchus can be avoided. This technique is recommended if a direct anastomosis might be not applicable to bridge a long interruption. (C) 2015 by The Society of Thoracic Surgeons
+OI Kasnar-Samprec, Jelena/0000-0001-7947-8637
+SN 0003-4975
+EI 1552-6259
+PD FEB
+PY 2015
+VL 99
+IS 2
+BP 648
+EP 652
+DI 10.1016/j.athoracsur.2014.09.053
+UT WOS:000348836500066
+PM 25528725
+ER
+
+PT J
+AU Meiler, S
+   Baumer, Y
+   Toulmin, E
+   Seng, K
+   Boisvert, WA
+AF Meiler, Svenja
+   Baumer, Yvonne
+   Toulmin, Emma
+   Seng, Kosal
+   Boisvert, William A.
+TI MicroRNA 302a Is a Novel Modulator of Cholesterol Homeostasis and
+   Atherosclerosis
+SO ARTERIOSCLEROSIS THROMBOSIS AND VASCULAR BIOLOGY
+AB Objective-Macrophage foam cell formation is a key feature of atherosclerosis. Recent studies have shown that specific microRNAs (miRs) are regulated in modified low-density lipoprotein-treated macrophages, which can affect the cellular cholesterol homeostasis. Undertaking a genome-wide screen of miRs regulated in primary macrophages by modified low-density lipoprotein, miR-302a emerged as a potential candidate that may play a key role in macrophage cholesterol homeostasis.
+   Approach and Results-The objective of this study was to assess the involvement of miR-302a in macrophage lipid homeostasis and if it can influence circulating lipid levels and atherosclerotic development when it is inhibited in a murine atherosclerosis model. We found that transfection of primary macrophages with either miR-302a or anti-miR-302a regulated the expression of ATP-binding cassette (ABC) transporter ABCA1 mRNA and protein. Luciferase reporter assays showed that miR-302a repressed the 3' untranslated regions (UTR) activity of mouse Abca1 by 48% and human ABCA1 by 45%. In addition, transfection of murine macrophages with miR-302a attenuated cholesterol efflux to apolipoprotein A-1 (apoA-1) by 38%. Long-term in vivo administration of anti-miR-302a to mice with low-density lipoprotein receptor deficiency (Ldlr(-/-)) fed an atherogenic diet led to an increase in ABCA1 in the liver and aorta as well as an increase in circulating plasma high-density lipoprotein levels by 35% compared with that of control mice. The anti-miR-302a-treated mice also displayed reduced atherosclerotic plaque size by approximate to 25% and a more stable plaque morphology with reduced signs of inflammation.
+   Conclusions-These studies identify miR-302a as a novel modulator of cholesterol efflux and a potential therapeutic target for suppressing atherosclerosis.
+SN 1079-5642
+EI 1524-4636
+PD FEB
+PY 2015
+VL 35
+IS 2
+BP 323
+EP 331
+DI 10.1161/ATVBAHA.114.304878
+UT WOS:000348215100014
+PM 25524771
+ER
+
+PT J
+AU Brinkman, AS
+   Rogers, AP
+   Acher, CW
+   Wynn, MM
+   Nichol, PF
+   Ostlie, DJ
+   Gosain, A
+AF Brinkman, Adam S.
+   Rogers, Andrew P.
+   Acher, Charles W.
+   Wynn, Martha M.
+   Nichol, Peter F.
+   Ostlie, Daniel J.
+   Gosain, Ankush
+TI Evolution in management of adolescent blunt aortic injuriesd-a single
+   institution 22-y experience
+SO JOURNAL OF SURGICAL RESEARCH
+AB Background: In children, severe, life-threatening traumatic injuries of the thoracic aorta can be seen after motor vehicle collisions (MVCs) resulting in a sudden deceleration. Concurrent injuries in the thorax and abdomen can make treatment prioritization difficult and require early recognition and prompt intervention. With the increased utilization of minimally invasive endovascular approaches to traumatic aortic (TA) injuries, patients are often spared the increased surgical morbidity (spinal cord ischemia and renal insults) that can be seen with an open technique. The aim of this study was to evaluate a single American College of Surgeons level 1 pediatric trauma center's 22-y experience with TA injuries in children.
+   Methods: After the Institutional Review Board approval, a 22-y (January 1990-April 2013) retrospective review of all pediatric trauma patients admitted with TA injuries was performed. Patient demographics including age, injury detail, treatment, and outcomes were recorded for analysis.
+   Results: 17 children (< 21-y old) were identified with ages ranging from 13-20 y old. The most common mechanism of injury was MVC with all 17 children sustaining TA injuries. The traumatic injuries included aortic transection (9), intimal flap (5), pseudoaneurysm (2), and contained thoracic rupture (1). All children were managed operatively with those before 2008 using an open technique. The endovascular approach was used in 7/17 (41%) cases with the median length of hospitalization 12 d versus 22.5 d using the open approach (P < 0.05). No child required conversion from an endovascular to an open technique for treatment of the aortic injury. There were no operative deaths, no procedure-related paraplegia and all children were discharged home from the hospital. Two children had mild mental deficits as a result of head trauma.
+   Conclusions: TA injuries are an uncommon injury in children and can result from MVCs or other sudden deceleration mechanisms. Surgical intervention is required in most of the cases and can be performed safely and effectively with low morbidity using an endovascular approach, which is the evolving approach of choice for thoracic aortic injuries. Lengthy follow-up care is recommended in children treated with an endovascular device to monitor for endoleaks and device complications. (C) 2015 Elsevier Inc. All rights reserved.
+SN 0022-4804
+EI 1095-8673
+PD FEB
+PY 2015
+VL 193
+IS 2
+BP 523
+EP 527
+DI 10.1016/j.jss.2014.08.058
+UT WOS:000346244300003
+PM 25281286
+ER
+
+PT J
+AU Fujii, T
+   Kawasaki, M
+   Katayanagi, T
+   Okuma, S
+   Masuhara, H
+   Shiono, N
+   Watanabe, Y
+AF Fujii, Takeshiro
+   Kawasaki, Muneyasu
+   Katayanagi, Tomoyuki
+   Okuma, Shinnosuke
+   Masuhara, Hiroshi
+   Shiono, Noritsugu
+   Watanabe, Yoshinori
+TI A Case of an Aortic Abscess around the Elephant Trunk
+SO ANNALS OF THORACIC AND CARDIOVASCULAR SURGERY
+AB A 52-year-old male patient with a history of total arch replacement using the elephant trunk technique for acute aortic dissection 4 years before visited our hospital with the chief complaint of persistent fever. Chest computed tomography (CT) suggested prosthetic vascular graft infection, which was treated surgically after chemotherapy. The first surgery consisted of debridement of an abscess around the vascular graft and in the aorta around the elephant trunk, and thoracic descending aorta replacement and vacuum-assisted closure (VAC) in view of the risk of bleeding from the peripheral region of the elephant trunk. One week later, omental filling was performed as the second step. This is a very rare case of aortic abscess around the elephant trunk that could successfully be managed by graft-conserving treatment.
+SN 1341-1098
+EI 2186-1005
+PY 2015
+VL 21
+IS 6
+BP 570
+EP 573
+DI 10.5761/atcs.cr.15-00141
+UT WOS:000366805200012
+PM 26226888
+ER
+
+PT J
+AU Wurtz, A
+   Hysi, I
+   Kipnis, E
+   Fayoux, P
+   Copin, MC
+   Zawadzki, C
+   Jashari, R
+   Hubert, T
+   Ung, A
+   Ramon, P
+   Jude, B
+AF Wurtz, A.
+   Hysi, I.
+   Kipnis, E.
+   Fayoux, P.
+   Copin, M. C.
+   Zawadzki, C.
+   Jashari, R.
+   Hubert, T.
+   Ung, A.
+   Ramon, P.
+   Jude, B.
+TI Tracheal transplantation without immunosuppressive therapy in a rabbit
+   model
+SO E-MEMOIRES DE L ACADEMIE NATIONALE DE CHIRURGIE
+AB Objectives: Tracheal transplantation raises 2 major issues: the lack of an individualized vascular pedicle, which impedes immediate revascularization of the graft, as in solid organ transplantation, and immune rejection with the need for immunosuppressive therapy, strictly contraindicated in malignancies. Given that respiratory epithelium plays an essential role in the immune response of tracheal allografts, we have investigated the epitheliumdenuded- cryopreserved tracheal allograft in a rabbit model.
+   Methods: Eleven adult female New Zealand rabbits served as donors of tracheas that were denuded of their epithelium and then cryopreserved. During the first phase of the study, 13 males were used as recipients. Following graft wrap using a lateral thoracic fascial flap, long allograft segments (10/12 tracheal rings) were implanted under the skin. During the second phase of the study, tracheal transplantation was performed in 14 male recipients receiving: (i) long allograft segment with prior heterotopic revascularization; (ii) average allograft segment (6-8 tracheal rings) or (iii) short allograft segment (4-5 tracheal rings), with single-stage orthotopic revascularization by graft wrap with the strap muscles. Bronchoscopic follow-up was performed. No immunosuppressive therapy was administered.
+   Results: After heterotopic transplantation allografts displayed satisfactory tubular morphology up to Day 91 provided that an endoluminal tube was inserted. After orthotopic transplantation, four animals were sacrificed from Day 33 to Day 220. The survival time of other recipients was 0 to 47 days (mean 19.6 +/- 16.7.3 days). Aside from 3 animals that died from complications, all allograft segments had satisfactory stiffness, were well vascularized, showed varying levels of neoangiogenesis and inflammatory infiltration devoid of lymphocytes, and showed evidence of only low levels of apoptosis suggestive of minimal rejection. Cartilage rings exhibited calcification deposits increasing over time, ensuring graft stiffness. After orthotopic transplantation, varying degrees of fibroblastic proliferation originating from the lamina propria was observed in the lumen of allografs and evolved over time into collagenized fibrosis in animals surviving over 45 days. Epithelial regeneration was constantly observed. Intense fibroblastic proliferation led to stenosis mainly in animals receiving long and average allograft segments.
+   Conclusion: We have demonstrated satisfactory neoangiogenesis, immune tolerance and strain abilities of the epithelium-denuded-cryopreserved tracheal allograft in heterotopy despite the absence of immunosuppressive drugs, and then the feasibility of orthotopic transplantation with such allografts. Similar studies need, however, to be conducted in bigger mammals before considering clinical applications.
+RI Kipnis, Eric/C-6286-2016
+OI Kipnis, Eric/0000-0001-8887-7330
+SN 1634-0647
+PY 2015
+VL 14
+IS 2
+BP 119
+EP 128
+UT WOS:000358582600020
+ER
+
+PT J
+AU Sievers, P
+   Uhlmann, L
+   Korkmaz-Icoz, S
+   Fastner, C
+   Bea, F
+   Blessing, E
+   Katus, HA
+   Preusch, MR
+AF Sievers, Philipp
+   Uhlmann, Lorenz
+   Korkmaz-Icoez, Sevil
+   Fastner, Christian
+   Bea, Florian
+   Blessing, Erwin
+   Katus, Hugo A.
+   Preusch, Michael R.
+TI Combined treatment with olmesartan medoxomil and amlodipine besylate
+   attenuates atherosclerotic lesion progression in a model of advanced
+   atherosclerosis
+SO DRUG DESIGN DEVELOPMENT AND THERAPY
+AB Introduction: Besides their blood pressure-lowering effects, olmesartan medoxomil and amlodipine besylate exhibit additional anti-inflammatory mechanisms in atherosclerosic disease. Most of the studies investigating the effects of atherosclerosis focused on early atherosclerotic lesions, whereas lesions in human disease, at the time when medical treatment is started, are already well established. Therefore, we set up a model of advanced atherosclerosis and investigated the effects of olmesartan medoxomil, amlodipine besylate, and the combination of both on atherosclerotic lesion size and lesion composition.
+   Materials and methods: Olmesartan medoxomil (1 mg/kg/day), amlodipine besylate (1.5 mg/kg/day), and the combination of both was added to chow and was fed to apolipoprotein E-deficient (ApoE(-/-)) mice at 25 weeks of age. Mice were sacrificed after 25 weeks of drug administration and perfused with formalin. Innominate arteries were dissected out and paraffin embedded. Serial sections were generated, and lesion sizes and their composition - such as minimal thickness of the fibrous cap, size of the necrotic core, and presence of calcification were analyzed. Electrophoretic mobility shift assays were used to detect DNA-binding activity of the transcription factor nuclear factor-kappa B (NF-kappa B) in aortic tissue.
+   Results: Treatment with the combination of olmesartan medoxomil and amlodipine besylate led to a significant reduction in atherosclerotic lesion size in ApoE(-/-)mice (olmesartan medoxomil/amlodipine besylate: 122,277 +/- 6,795 mu m(2), number [n]=14; versus control: 177,502 +/- 10,814 mu m(2), n=9; P < 0.001). Treatment with amlodipine besylate (n=5) alone did not reach significance. However, a trend toward a decrease in lesion size in the amlodipine besylate-treated animals could be observed. In the histological analysis of atherosclerotic lesion composition, significantly thicker fibrous caps were found in treatment with amlodipine besylate (amlodipine: 5.12 +/- 0.26 mu m, n=6; versus control: 3.98 +/- 0.18 mu m, n=10; P < 0.01). Furthermore, all sections revealed morphological signs of calcification, but no difference could be detected. Treatment with the combination of olmesartan medoxomil and amlodipine besylate showed no effect on lesion composition. Electrophoretic mobility shift assays of nuclear extracts demonstrated reduced activity of the transcription factor NF-kappa B when treated with olmesartan medoxomil, amlodipine besylate, or their combination, as compared to controls.
+   Conclusion: Combined treatment with olmesartan medoxomil and amlodipine besylate attenuated atherosclerotic lesion progression, possibly due to anti-inflammatory mechanisms. Our data support the hypothesis that even in advanced atherosclerosis anti-inflammatory treatment, using angiotensin II type 1 receptor blockers and calcium channel antagonists of the dihydropyridine type can attenuate atherosclerotic lesion progression.
+SN 1177-8881
+PY 2015
+VL 9
+BP 3935
+EP 3942
+DI 10.2147/DDDT.S85203
+UT WOS:000358645900001
+PM 26251572
+ER
+
+PT J
+AU Chu, G
+   Zhang, GB
+   Zhu, M
+   Zhang, Z
+   Wu, Y
+   Zhang, H
+AF Chu, Guang
+   Zhang, Guobing
+   Zhu, Ming
+   Zhang, Zhi
+   Wu, Ying
+   Zhang, Hao
+TI Acute One-Stop Cardiovascular Magnetic Resonance Imaging for
+   Differential Diagnosis in Patients with Acute Coronary Syndrome and
+   Unobstructed Coronary Arteries
+SO MEDICAL PRINCIPLES AND PRACTICE
+AB Objective: We aimed to evaluate the contributions of acute one-stop cardiovascular magnetic resonance (CMR) imaging to the differential diagnosis of acute coronary syndrome (ACS) and unobstructed coronary arteries. Subjects and Methods: In this study, 32 consecutive patients who presented with ACS and unobstructed coronary arteries on angiography were enrolled between January 2010 and December 2012. Acute one-stop CMR, including cine, angiography, black-blood, first-pass perfusion and late gadolinium enhancement (LGE) imaging, was performed with a pre-specified algorithm which was decided on by the doctors for all patients. The intimal flap in the aorta and the filling defect in the pulmonary artery were detected on MR angiography imaging. Left ventricular wall motion and ventricular thickness were analyzed in cine-mode sequences. The LGE images were reviewed for the presence, anatomical distribution and extent of contrast enhancement. Results: The acute onestop CMR study was completed in all the 32 patients without adverse events. The overall time duration was between 15 and 60 min. Of the 32 patients, a CMR diagnosis was made in 30 (93.8%). Aortic dissection was detected in 3 patients, pulmonary embolism in 2, hypertrophic cardiomyopathy in 2, acute myocardial infarction in 5, acute myocarditis in 16 and stress cardiomyopathy in 2. No confirmed diagnosis was established in the remaining 2 patients with normal CMR. Conclusion: Acute one-stop CMR allowed for the identification of an aetiology in most of the patients in this study. It may prove to be of immense help in establishing a differential diagnosis in patients presenting with acute chest pain, elevated troponin I and normal coronary arteries. (C) 2015 S. Karger AG, Basel
+SN 1011-7571
+EI 1423-0151
+PY 2015
+VL 24
+IS 4
+BP 325
+EP 331
+DI 10.1159/000381856
+UT WOS:000356965800004
+PM 25968879
+ER
+
+PT J
+AU Kir, M
+   Ugurlu, B
+   Unal, N
+   Metin, K
+   Yilmaz, N
+   Kizilca, O
+AF Kir, Mustafa
+   Ugurlu, Baran
+   Unal, Nurettin
+   Metin, Kivanc
+   Yilmaz, Nuh
+   Kizilca, Ozgur
+TI Revisiting subclavian flap repair for neonates and small infants
+SO PAKISTAN JOURNAL OF MEDICAL SCIENCES
+AB Objective: We have utilized subclavian flap angioplasty (SFA) frequently in infants with coarctation particularly in patients with arch hypoplasia which is quite frequent. We have followed these patients with serial echocardiography and have analyzed our results in this study to determine recoartation rates, recurrent hypertension and left arm development.
+   Methods: Thirty eight infants less than 3 months age (22 boys and 16 girls, mean age was 28 +/- 22.6 days) operated at Dokuz Eylul University Hospital between August 2007 - December 2013. Twelve (32%) patients with pulmonary banding due to accompanying VSD or AVSD were included to the study, those infants with complex pathologies such as transposition of great arteries or single ventricle, while the patients less than 1000 gram in weight were excluded.
+   Results: The mean follow-up time was 21 months (1-76 months). Twelve (32%) patients had aortic arch hypoplasia proximal to the left subclavian artery. Operative mortality was found 7.7% for isolated coarctation, 16% for coarctation repair with pulmonary banding. In 5 patients, a residual gradient was detected and re intervention was required in 7.8% patients with balloon angioplasty.
+   Conclusion: Subclavian flap angioplasty is a safe repair technique in small infants and neonates. High gradients and intervention more likely depends on the anatomy of the aortic arch rather than the subclavian flap angioplasty technique.
+SN 1682-024X
+PD JAN-FEB
+PY 2015
+VL 31
+IS 1
+BP 131
+EP 135
+DI 10.12669/pjms.311.5531
+UT WOS:000349936500026
+PM 25878629
+ER
+
+PT J
+AU Lin, L
+   Xu, JF
+   Ye, Y
+   Ge, JB
+   Zou, YZ
+   Liu, XB
+AF Lin, Li
+   Xu, Jianfeng
+   Ye, Yong
+   Ge, Junbo
+   Zou, Yunzeng
+   Liu, Xuebo
+TI Isosorbide Dinitrate Inhibits Mechanical Stress-induced Cardiac
+   Hypertrophy and Autophagy Through Downregulation of Angiotensin II Type
+   1 Receptor
+SO JOURNAL OF CARDIOVASCULAR PHARMACOLOGY
+AB Mechanical stress can induce cardiac hypertrophy and autophagy. Recently, it has been reported that nitric oxide donors inhibited autophagy in human chondrocytes. Therefore, the effect of isosorbide dinitrate (ISDN) on cardiac hypertrophy and autophagy induced by mechanical stress was investigated in this study. A 48-hour mechanical stretch and a 4-week transverse aortic constriction were performed to induce cardiomyocyte hypertrophy in vitro and in vivo, respectively, before the assessment of myocardial autophagy using LC3b-II. ISDN was found to significantly reduce mechanical stretch-induced LC3b-II upregulation. Furthermore, mechanical stress was shown to upregulate angiotensin II (AngII) type 1 (AT(1)) receptor expression in both cultured cardiomyocytes and in mouse hearts, whereas ISDN was demonstrated to significantly suppress the upregulation of the AT(1) receptor. It was concluded that ISDN could inhibit mechanical stress-induced cardiac hypertrophy and autophagy through the downregulation of AT(1) receptor expression.
+SN 0160-2446
+EI 1533-4023
+PD JAN
+PY 2015
+VL 65
+IS 1
+BP 1
+EP 7
+UT WOS:000348412000001
+PM 24887682
+ER
+
+PT J
+AU Jorgens, K
+   Stoll, SJ
+   Pohl, J
+   Fleming, TH
+   Sticht, C
+   Nawroth, PP
+   Hammes, HP
+   Kroll, J
+AF Joergens, Kristina
+   Stoll, Sandra J.
+   Pohl, Jennifer
+   Fleming, Thomas H.
+   Sticht, Carsten
+   Nawroth, Peter P.
+   Hammes, Hans-Peter
+   Kroll, Jens
+TI High Tissue Glucose Alters Intersomitic Blood Vessels in Zebrafish via
+   Methylglyoxal Targeting the VEGF Receptor Signaling Cascade
+SO DIABETES
+AB Hyperglycemia causes micro- and macrovascular complications in diabetic patients. Elevated glucose concentrations lead to increased formation of the highly reactive dicarbonylmethylglyoxal (MG), yet the early consequences of MG for development of vascular complications in vivo are poorly understood. In this study, zebrafish were used as a model organism to analyze early vascular effects and mechanisms of MG in vivo. High tissue glucose increased MG concentrations in tg(fli:EGFP) zebrafish embryos and rapidly induced several additional malformed and uncoordinated blood vessel structures that originated out of existing intersomitic blood vessels (ISVs). However, larger blood vessels, including the dorsal aorta and common cardinal vein, were not affected. Expression silencing of MG-degrading enzyme glyoxalase (glo) 1 elevated MG concentrations and induced a similar vascular hyperbranching phenotype in zebrafish. MG enhanced phosphorylation of vascular endothelial growth factor (VEGF) receptor 2 and its downstream target Akt/protein kinase B (PKB). Pharmacological inhibitors for VEGF receptor 2 and Akt/PKB as well as MG scavenger aminoguanidine and glo1 activation prevented MG-induced hyperbranching of ISVs. Taken together, MG acts on smaller blood vessels in zebrafish via the VEGF receptor signaling cascade, thereby describing a new mechanism that can explain vascular complications under hyperglycemia and elevated MG concentrations.
+SN 0012-1797
+EI 1939-327X
+PD JAN
+PY 2015
+VL 64
+IS 1
+BP 213
+EP 225
+DI 10.2337/db14-0352
+UT WOS:000346765600022
+PM 25092676
+ER
+
+PT J
+AU Tessier, W
+   Mariette, C
+   Copin, MC
+   Robb, WB
+   Jashari, R
+   Hubert, T
+   Wurtz, A
+AF Tessier, Williams
+   Mariette, Christophe
+   Copin, Marie-Christine
+   Robb, William B.
+   Jashari, Ramadan
+   Hubert, Thomas
+   Wurtz, Alain
+TI Replacement of the esophagus with fascial flap-wrapped allogenic aorta
+SO JOURNAL OF SURGICAL RESEARCH
+AB Background: Segmental replacement of the esophagus (SRE) is challenging. Allogenic aorta (AA) has shown promising remodeling abilities when used as an esophageal substitute. The aim of this study was to evaluate the feasibility and results of esophageal replacement with fascial flap-wrapped AA segments in a novel rabbit model.
+   Materials and methods: Seven Geant des Flandres rabbits and one New Zealand rabbit served as thoracic aorta donors, and 25 New Zealand rabbits were used as recipients. One to 3 wk before esophageal replacement either cryopreserved or fresh thoracic aortic segments were wrapped in thoracic wall fascia to generate revascularization. In an attempt to optimize the model, step-by-step modifications concerning perioperative and postoperative management of the recipients were made as results accumulated. Microscopic evaluation was focused on the viability of aortic segments and neoangiogenesis originating from the fascia.
+   Results: Survival after SRE was poor. Most recipients died within 1 wk, mainly from upper digestive tract hypomotility. Microscopically, AAs were severely necrosed. In one recipient sacrificed on day 16, the edges of the graft became evanescent. In these areas, esophageal reepithelialization directly covered the fascia, in which unexpected smooth muscle cells were found, suggestive of the first stages of esophageal remodeling of the graft.
+   Conclusions: Results for SRE using fascial-wrapped AAs in rabbits were disappointing. The transposition of this approach to larger animals might result in longer survival, increasing the possibility for more complete graft remodeling. (C) 2015 Elsevier Inc. All rights reserved.
+SN 0022-4804
+EI 1095-8673
+PD JAN
+PY 2015
+VL 193
+IS 1
+BP 176
+EP 183
+DI 10.1016/j.jss.2014.07.033
+UT WOS:000346241300022
+PM 25145905
+ER
+
+PT J
+AU Yamanaka, K
+   Omura, A
+   Nomura, Y
+   Miyahara, S
+   Shirasaka, T
+   Sakamoto, T
+   Inoue, T
+   Matsumori, M
+   Minami, H
+   Okada, K
+   Okita, Y
+AF Yamanaka, Katsuhiro
+   Omura, Atsushi
+   Nomura, Yoshikatsu
+   Miyahara, Shunsuke
+   Shirasaka, Tomonori
+   Sakamoto, Toshihihito
+   Inoue, Takeshi
+   Matsumori, Masamichi
+   Minami, Hitoshi
+   Okada, Kenji
+   Okita, Yutaka
+TI Surgical strategy for aorta-related infection
+SO EUROPEAN JOURNAL OF CARDIO-THORACIC SURGERY
+AB OBJECTIVES: This report describes our experience with surgical management of aorta-related infections.
+   METHODS: From November 1999 to April 2013, 70 patients underwent surgical management for aorta-related infection, including aortobronchial fistula in 12 patients, aorto-oesophageal fistula in 14 and aortoduodenal fistula in 4. The location of infection was aortic root to arch in 22 patients, descending aorta in 29, thoraco-abdominal aorta in 12 and abdominal aorta in 7. Forty-seven patients had infections of the native aorta and 23 had postoperative graft infections. In situ replacement [bridge thoracic endovascular aortic repair (TEVAR); n = 1] was performed in 45 patients, endovascular aortic repair in 18 and extra-anatomical bypass (bridge TEVAR; n = 2) in 7. Omental flap was installed in 29 patients and a pedicled latissimus dorsi muscle flap was used in 3. Since 2008, we have been trying to resect not only the infected tissues, but also the surrounding aneurysmal wall as well.
+   RESULTS: Hospital mortality was 17.1% (12/70). Late death occurred in 15 patients. Overall survival at 3 years was 60.1 +/- 6.7%. Freedom from infection-related death of patients who had in situ graft replacement, endovascular repair or extra-anatomical bypass at 3 years was 88.5 +/- 4.9, 75.2 +/- 10.9 or 14.3 +/- 13.2%, respectively (P < 0.01). In situ graft replacement provided a better freedom from aortic event (recurrent infection and reintervention) at 3 years compared with endovascular repair (85.6 +/- 5.5 vs 61.8 +/- 12.5%, P = 0.029). Freedom from infection-related death at 3 years improved significantly from 61.1 +/- 9.7 (before 2008) to 84.7 +/- 5.8% (since 2008) (P = 0.044).
+   CONCLUSIONS: Surgical treatment for aorta-related infection is still associated with high mortality and morbidity. However, our current strategy, which is aggressive surgical management, including resection of infected tissues, extensive debridement, in situ graft replacement of the aorta and omental or muscle installation provided a better patient survival.
+SN 1010-7940
+EI 1873-734X
+PD DEC
+PY 2014
+VL 46
+IS 6
+BP 974
+EP 980
+DI 10.1093/ejcts/ezu119
+UT WOS:000347468700018
+PM 24699204
+ER
+
+PT J
+AU de Donato, G
+   Setacci, F
+   Galzerano, G
+   Ruzzi, U
+   Borrelli, MP
+   Mazzitelli, G
+   Setacci, C
+AF de Donato, G.
+   Setacci, F.
+   Galzerano, G.
+   Ruzzi, U.
+   Borrelli, M. P.
+   Mazzitelli, G.
+   Setacci, C.
+TI Prosthesis infection: prevention and treatment
+SO JOURNAL OF CARDIOVASCULAR SURGERY
+AB Implantation of a vascular prosthesis increases surgical site infection risk by producing a microenvironment conducive to bacterial attachment and biofilm formation, which sustains bacterial colonization and protects encased organisms from host defenses and antimicrobial therapy. Many maneuvers are used in an attempt to reduce infection in arterial reconstructions, but there are no clear guidelines on the most appropriate or effective. As well, there is no good evidence to guide management. A general principle is that indication for removal of the entire infected graft is mandatory when a suture line is involved in the infectious process, an infected anastomotic aneurism and a suture-line hemorrhage is evident, or when a graft-enteric fistula is diagnosed. Conservative, non-resectional management of graft infection is still a respectable solution for selected patients, as those with significant comorbidities, or those where the implanted aortic graft is in a location that precludes excision without causing a high likelihood of morbidity and/or mortality. Anyway, definitive management depends on the patient's condition and a tailored approach should be always offered. Surgical techniques favor in terms of mortality, patency and reinfection rate the in situ reconstruction. Currently, the choice of the technique used relies on center and operator's experience. This article summarizes the incidence of graft infection, analyze the predisponding factors to graft infection, and review current strategies for prevention and treatment of prosthesis and endograft infection.
+SN 0021-9509
+EI 1827-191X
+PD DEC
+PY 2014
+VL 55
+IS 6
+BP 779
+EP 792
+UT WOS:000346818100006
+PM 25017788
+ER
+
+PT J
+AU Ventoruzzo, G
+   Chisci, E
+   Croce, S
+   Turini, F
+   Michelagnoli, S
+   Bellandi, G
+AF Ventoruzzo, G.
+   Chisci, E.
+   Croce, S.
+   Turini, F.
+   Michelagnoli, S.
+   Bellandi, G.
+TI Transrenal E-XL stenting prior to EVAR in the case of abdominal aortic
+   aneurysm associated to proximal aortic neck dissection
+SO JOURNAL OF CARDIOVASCULAR SURGERY
+AB Chronic dissection of proximal aortic neck is a rare occurrence in patients with abdominal aortic aneurysm (AAA) and a gold standard therapy has not been defined so far. Herein we report two successful cases of an original adjunctive procedure involving the transrenal placement of a self-expanding nitinol stent (E-XL aortic stent, Jotec GmbH, Germany) in order to fix a dissection flap in the aortic neck wall prior to the deployment of the bifurcated endograft. Primary technical success and midterm clinical success was achieved in both cases with freedom from any early or late reintervention. Scheduled follow-up angio-CT scans did not show any Type I endoleak, graft migration or renal/visceral arteries complications. According to these findings, patients with an AAA, presenting with a proximal neck with chronic dissection, can be safely and effectively treated by pre-emptive transrenal E-XL stenting and endovascular aneurysm repair.
+SN 0021-9509
+EI 1827-191X
+PD DEC
+PY 2014
+VL 55
+IS 6
+BP 827
+EP 830
+UT WOS:000346818100010
+PM 24647316
+ER
+
+PT J
+AU Yoshiyama, S
+   Chen, ZY
+   Okagaki, T
+   Kohama, K
+   Nasu-Kawaharada, R
+   Izumi, T
+   Ohshima, N
+   Nagai, T
+   Nakamura, A
+AF Yoshiyama, Shinji
+   Chen, Zhenyi
+   Okagaki, Tsuyoshi
+   Kohama, Kazuhiro
+   Nasu-Kawaharada, Ritsuko
+   Izumi, Takashi
+   Ohshima, Noriyasu
+   Nagai, Takeharu
+   Nakamura, Akio
+TI Nicotine exposure alters human vascular smooth muscle cell phenotype
+   from a contractile to a synthetic type
+SO ATHEROSCLEROSIS
+AB Objective: Cigarette smoking is a known risk factor for arteriosclerosis. In atheromatous plaques, vascular smooth muscle cells (VSMCs) display a phenotype that is different from the contractile type under normal conditions. Nicotine is the major pharmacological agent in cigarette smoke. However, any direct effect of nicotine on VSMCs remains uncertain. Because nicotine promotes VSMC migration, its phenotype may change due to nicotine. Approach and results: We used human aorta primary smooth muscle cells (HuAoSMCs), differentiated with transforming growth factor-beta, to investigate changes in the protein levels of differentiation markers and in the activity of mitogen-activated protein kinases (MAPKs) after exposure to 0.1 mu M of nicotine for 48 h. After nicotine exposure, the protein levels of myosin II 10 (2.93-fold) and beta-actin (1.66-fold), synthetic type markers, were increased. In contrast, the levels of the contractile type markers, myosin II 11 (0.63-fold), high-molecular-weight caldesmon (0.40-fold) and SM22 (0.66-fold), which concern differentiated VSMC, were decreased. Moreover, nicotine exposure induced enhanced activation of p38 MAPK (1.30-fold) and extracellular signal-regulated kinase (1.91-fold). These results indicated that the phenotype of HuAoSMCs had changed to a synthetic-like type because of nicotine exposure. Thus, nicotine is one factor that can alter protein expression of differentiation markers in VSMCs. Besides, the increase of intracellular Ca2+ levels suggested that these effects of nicotine were mediated through nicotinic acetylcholine receptors. Conclusion: Nicotine has already been reported to promote VSMC migration from the tunica media to atheromatous plaques in the vascular intima. This phenomenon may occur because nicotine directly induces VSMC transformation from contractile type to synthetic-like type via nicotinic acetylcholine receptors and G protein-coupled receptors. (C) 2014 Elsevier Ireland Ltd. All rights reserved.
+SN 0021-9150
+EI 1879-1484
+PD DEC
+PY 2014
+VL 237
+IS 2
+BP 464
+EP 470
+DI 10.1016/j.atherosclerosis.2014.10.019
+UT WOS:000346066600044
+PM 25463075
+ER
+
+PT J
+AU Choong, AMTL
+   Das, S
+   Mulrenan, N
+   Hamady, M
+   Bose, P
+AF Choong, Andrew M. T. L.
+   Das, Saroj
+   Mulrenan, Nicholas
+   Hamady, Mohamad
+   Bose, Protip
+TI Don't get in a flap!: A case report of progression through the spectrum
+   of an acute aortic syndrome
+SO VASCULAR
+AB Purpose: To present a single case that clearly demonstrates the progression through the whole spectrum of an acute aortic syndrome, from a solitary penetrating aortic ulcer (PAU) through to multiple PAUs with intra-mural haematoma (IMH) progression. The index images show that despite the clinical presentation of an acute type B aortic dissection, a classical dissection flap is never demonstrated in this patient and thus highlights the need for early input from vascular surgery for all potential acute aortic syndromes.
+   Case report: We present the case of a 71-year-old lady who attended the emergency department with hypertension and inter-scapular chest pain. Upon investigation with computed tomography aortography (CTA), she was found to have a solitary PAU only with minimal IMH. She did not demonstrate any classical radiological signs of acute type B aortic dissection. She was admitted under a medical team and her chest pain abated with no treatment. The treating medical team adjusted her anti-hypertensive medication and discharged her home with an urgent vascular surgical outpatient appointment for further follow-up and surveillance. We acknowledge that a preferred approach would have been, at least admission and close blood pressure monitoring, with a repeat CTA the next day.
+   Two days later, she represented with further chest pain and on repeat CTA was found to have multiple PAUs and progression of the small IMH. She was then admitted under vascular surgery and subsequently transferred to the parent tertiary referral vascular surgical unit. Despite aggressive anti-hypertensive management, she had persistent intractable chest pain and was treated with a single thoracic stent graft. Completion angiography demonstrated total resolution of the PAUs.
+   Conclusion: This case along with index images demonstrates the whole spectrum of the acute aortic syndrome from a solitary PAU to multiple PAUs with IMH extension. Despite an eventual clinical picture of an acute type B aortic dissection, there was a notable absence of a classical dissection flap on any imaging. We recommend that all aortic pathologies should be at least discussed with and preferably managed by vascular surgeons. The absence of a classical dissection flap on imaging is not a contra-indication to emergent treatment with thoracic stent grafting and in select patients is actually the only therapy that will treat this pathology.
+RI Choong, Andrew/B-7168-2013
+OI Choong, Andrew/0000-0002-7171-4516
+SN 1708-5381
+EI 1708-539X
+PD DEC
+PY 2014
+VL 22
+IS 6
+BP 454
+EP 457
+DI 10.1177/1708538113518203
+UT WOS:000345104400010
+PM 24488171
+ER
+
+PT J
+AU Okita, Y
+   Yamanaka, K
+   Okada, K
+   Matsumori, M
+   Inoue, T
+   Fukase, K
+   Sakamoto, T
+   Miyahara, S
+   Shirasaka, T
+   Izawa, N
+   Ohara, T
+   Nomura, Y
+   Nakai, H
+   Gotake, Y
+   Kano, H
+AF Okita, Yutaka
+   Yamanaka, Katsuhiro
+   Okada, Kenji
+   Matsumori, Masamichi
+   Inoue, Takeshi
+   Fukase, Keigo
+   Sakamoto, Toshihito
+   Miyahara, Shunsuke
+   Shirasaka, Tomonori
+   Izawa, Naoto
+   Ohara, Taimi
+   Nomura, Yoshikatsu
+   Nakai, Hidekazu
+   Gotake, Yasuko
+   Kano, Hiroya
+TI Strategies for the treatment of aorto-oesophageal fistula
+SO EUROPEAN JOURNAL OF CARDIO-THORACIC SURGERY
+CT 27th Annual Meeting of the
+   European-Association-for-Cardio-Thoracic-Surgery
+CY OCT 05-09, 2013
+CL Vienna, AUSTRIA
+SP European Assoc Cardio Thorac Surg
+AB Presenting a surgical strategy for aorto-oesophageal fistula (AEF).
+   From October 1999 to August 2013, 16 patients with AEF were treated at Kobe University Hospital. The mean age was 65.5 +/- 10.2 years, and the male/female ratio was 13/3. Eight patients had non-dissecting thoracic aneurysm, 3 had chronic aortic dissection, 5 had oesophageal cancer and 1 had fish bone penetration. Five patients were in shock. Four patients had previous thoracic endovascular aortic repair (TEVAR) in the descending aorta and 1 had hemi-arch replacement. As treatment for AEF, 8 patients underwent TEVAR, 2 had a bridge TEVAR to open surgery, 2 had extra-anatomical bypass (EAB) and 5 had in situ reconstruction of the descending aorta. The oesophagus was resected in 8 patients, and an omental flap was installed in 7 patients. For the 4 most recent cases, simultaneous resection of the aorta and oesophagus, in situ reconstruction of the descending aorta using rifampicin-soaked Dacron graft and omental flap installation were performed.
+   Hospital mortality was noted in 4 patients (25.0%; persistent sepsis n = 3 and pneumonia n = 1). However, since 2007, only 1 of 5 patients died (pneumonia). All patients with oesophageal cancer died during follow-up. Two patients underwent oesophageal reconstruction using a pedicled colon graft and one is on the waiting list for oesophageal reconstruction.
+   Bridging TEVAR is a useful adjunct in treating AEF patients with shock. One-stage surgery consisting of resection of the aneurysm and oesophagus, in situ reconstruction of the descending aorta and omental flap installation provided a better outcome in the AEF surgical strategy compared with conservative treatment.
+SN 1010-7940
+EI 1873-734X
+PD NOV
+PY 2014
+VL 46
+IS 5
+BP 894
+EP 900
+DI 10.1093/ejcts/ezu094
+UT WOS:000344968700025
+PM 24618390
+ER
+
+PT J
+AU Okada, K
+   Yamanaka, K
+   Sakamoto, T
+   Inoue, T
+   Matsumori, M
+   Kawakami, F
+   Okita, Y
+AF Okada, Kenji
+   Yamanaka, Katsuhiro
+   Sakamoto, Toshihito
+   Inoue, Takeshi
+   Matsumori, Masamichi
+   Kawakami, Fumi
+   Okita, Yutaka
+TI In situ total aortic arch replacement for infected distal aortic arch
+   aneurysms with penetrating atherosclerotic ulcer
+SO JOURNAL OF THORACIC AND CARDIOVASCULAR SURGERY
+AB Background: We present a series of patients who underwent in situ total aortic arch replacement for infected distal aortic arch aneurysms.
+   Methods: Between 2002 and 2013, 9 patients with infected distal aortic arch aneurysms underwent total aortic arch replacement using antegrade selective cerebral perfusion. There were 4 male and 5 female patients with a mean age of 72.7 +/- 9.0 years. All patients had penetrating atherosclerotic ulcer in the distal aortic arch, which formed saccular aneurysms. Four patients had preoperative hoarseness. Maximum preoperative white blood cell count was 10,211 +/- 4375/mu mL, and mean serum C-reactive protein concentration was 12.7 +/- 7.2 mg/dL. Causative microorganisms were identified by blood culture or aortic wall culture and were as follows: Candida albicans, Pseudomonas aeruginosa, Edwardsiella tarda, Streptococcus dysgalactiae, Listeria monocytogenes, Staphylococcus aureus (2 cases), and unknown (2 cases). Radical debridement with in situ total aortic arch replacement was performed in all patients, followed by the omental flap grafting in 7 patients. All surgery was performed on an urgent or emergency basis.
+   Results: Average cardiopulmonary bypass time and lower body circulatory arrest time were 199.7 +/- 50.7 minutes and 66.6 +/- 13.8 minutes, respectively. There was no in-hospital mortality, but 1 patient died of asphyxia 5 months after hospital discharge. Freedom from recurrence of infection was 100%.
+   Conclusions: Surgical treatment with the combination of radical debridement with in situ total aortic arch replacement using antegrade selective cerebral perfusion and omental flap grafting was a reliable procedure for the treatment of infected distal aortic arch aneurysms.
+SN 0022-5223
+EI 1097-685X
+PD NOV
+PY 2014
+VL 148
+IS 5
+BP 2096
+EP 2100
+DI 10.1016/j.jtcvs.2014.02.015
+UT WOS:000345132600072
+PM 24607377
+ER
+
+PT J
+AU Lehman, AMB
+   Montford, JR
+   Horita, H
+   Ostriker, AC
+   Weiser-Evans, MCM
+   Nemenoff, RA
+   Furgeson, SB
+AF Lehman, Allison M. B.
+   Montford, John R.
+   Horita, Henrick
+   Ostriker, Allison C.
+   Weiser-Evans, Mary C. M.
+   Nemenoff, Raphael A.
+   Furgeson, Seth B.
+TI Activation of the Retinoid X Receptor Modulates Angiotensin II-Induced
+   Smooth Muscle Gene Expression and Inflammation in Vascular Smooth Muscle
+   Cells
+SO MOLECULAR PHARMACOLOGY
+AB The retinoid X receptor (RXR) partners with numerous nuclear receptors, such as the peroxisome proliferator activated receptor (PPAR) family, liver X receptors (LXRs), and farnesoid X receptor (FXR). Although each heterodimer can be activated by specific ligands, a subset of these receptors, defined as permissive nuclear receptors, can also be activated by RXR agonists known as rexinoids. Many individual RXR heterodimers have beneficial effects in vascular smooth muscle cells (SMCs). Because rexinoids can potently activate multiple RXR pathways, we hypothesized that treating SMCs with rexinoids would more effectively reverse the pathophysiologic effects of angiotensin II than an individual heterodimer agonist. Cultured rat aortic SMCs were pretreated with either an RXR agonist (bexarotene or 9-cis retinoic acid) or vehicle (dimethylsulfoxide) for 24 hours before stimulation with angiotensin II. Compared with dimethylsulfoxide, bexarotene blocked angiotensin II-induced SM contractile gene induction (calponin and smooth muscle-a-actin) and protein synthesis ([H-3] leucine incorporation). Bexarotene also decreased angiotensin II-mediated inflammation, as measured by decreased expression of monocyte chemoattractant protein-1 (MCP-1). Activation of p38 mitogen-activated protein (MAP) kinase but not extracellular signal-related kinase (ERK) or protein kinase B (Akt) was also blunted by bexarotene. We compared bexarotene to five agonists of nuclear receptors (PPAR alpha, PPAR gamma, PPAR delta, LXR, and FXR). Bexarotene had a greater effect on calponin reduction, MCP-1 inhibition, and p38 MAP kinase inhibition than any individual agonist. PPARg knockout cells demonstrated blunted responses to bexarotene, indicating that PPARg is necessary for the effects of bexarotene. These data demonstrate that RXR is a potent modulator of angiotensin II-mediated responses in the vasculature, partially through inhibition of p38.
+SN 0026-895X
+EI 1521-0111
+PD NOV
+PY 2014
+VL 86
+IS 5
+BP 570
+EP 579
+DI 10.1124/mol.114.092163
+UT WOS:000343888200011
+PM 25169989
+ER
+
+PT J
+AU Paik, WH
+   Choi, JH
+   Seo, DW
+   Cho, YP
+   Park, DH
+   Lee, SS
+   Lee, SK
+   Kim, MH
+AF Paik, Woo Hyun
+   Choi, Jun-Ho
+   Seo, Dong Wan
+   Cho, Yong-Pil
+   Park, Do Hyun
+   Lee, Sang Soo
+   Lee, Sung Koo
+   Kim, Myung-Hwan
+TI Clinical Usefulness With the Combination of Color Doppler and
+   Contrast-enhanced Harmonic EUS for the Assessment of Visceral Vascular
+   Diseases
+SO JOURNAL OF CLINICAL GASTROENTEROLOGY
+AB Goals: To evaluate the clinical usefulness of the color Doppler and contrast-enhanced harmonic endoscopic ultrasonography (CEH-EUS) in diagnosing visceral vascular diseases and in assessing morphologic and hemodynamic characteristics required for optimized patient management.
+   Background: Mesenteric arteries are easily accessible with EUS because of its proximities to the gastrointestinal tract.
+   Study: EUS was performed in 12 patients with clinically suspected visceral vascular disease, as determined by computed tomography (CT) scan between February 2012 and March 2013. Conventional B-mode, color Doppler, and CEH-EUS was performed to evaluate vascular status of the celiac artery and superior mesenteric artery (SMA).
+   Results: CT scan imaging suggested arterial dissection in 9 patients; arterial stenosis or occlusion in 2 patients, and periarterial soft tissue cuffing in 1 patient. EUS accurately identified all the visceral vascular lesions of 11 patients and 1 patient with suspected SMA dissection on CT imaging was proven to be normal by EUS. EUS also identified one undefined dissection not detected on abdominal CT. EUS examination revealed vascular intimal flap in 5 patients and blood flow within the true lumen and thrombi within the false lumen in 8 patients. In addition, the stenotic area could be calculated using color Doppler EUS. Two patients underwent surgical thrombectomy and angioplasty because of total occlusion of SMA on color Doppler and CEH-EUS.
+   Conclusions: The combination of color Doppler and CEH-EUS may be a promising diagnostic modality to assess the splanchnic artery without exposure to radiation. Moreover, EUS is a useful tool to determine the appropriate treatment options for patients with isolated mesenteric artery dissection.
+SN 0192-0790
+EI 1539-2031
+PD NOV-DEC
+PY 2014
+VL 48
+IS 10
+BP 845
+EP 850
+UT WOS:000343772800004
+PM 24231932
+ER
+
+PT J
+AU Isbir, S
+   Ak, K
+   Aslantas, M
+   Kepez, A
+   Cinel, I
+   Arsan, S
+AF Isbir, Selim
+   Ak, Koray
+   Aslantas, Mustafa
+   Kepez, Alper
+   Cinel, Ismail
+   Arsan, Sinan
+TI Peripartum cardiomyopathy mimicking acute aortic dissection: successful
+   salvage with extracorporeal membrane oxygenation support
+SO TURK GOGUS KALP DAMAR CERRAHISI DERGISI-TURKISH JOURNAL OF THORACIC AND
+   CARDIOVASCULAR SURGERY
+AB In this article, we report a case admitted with severe chest pain associated with ST segment elevation, pericardial effusion and aortic flap appearance in echocardiography at the 31 weeks of gestation, mimicking aortic dissection, but diagnosed with peripartum cardiomyopathy and successfully treated with extracorporeal membrane oxygenation after developing acute cardiogenic shock.
+RI Arsan, Sinan/E-9946-2015
+OI Arsan, Sinan/0000-0002-0890-2506
+SN 1301-5680
+PD OCT
+PY 2014
+VL 22
+IS 4
+BP 843
+EP 846
+DI 10.5606/tgkdc.dergisi.2014.10153
+UT WOS:000344308800024
+ER
+
+PT J
+AU Dilme, JF
+   Bellmunt, S
+   Camacho, M
+   Sola-Villa, D
+   Romero, JM
+   Escudero, JR
+   Vila, L
+AF Dilme, J. -F.
+   Bellmunt, S.
+   Camacho, M.
+   Sola-Villa, D.
+   Romero, J. -M.
+   Escudero, J. -R.
+   Vila, L.
+TI Influence of Cardiovascular Risk Factors on Levels of Matrix
+   Metalloproteinases 2 and 9 in Human Abdominal Aortic Aneurysms
+SO EUROPEAN JOURNAL OF VASCULAR AND ENDOVASCULAR SURGERY
+AB Objective: To evaluate the influence of cardiovascular risk factors on levels of matrix metalloproteinases (MMP) 2 and 9 in human abdominal aortic aneurysms (AAA).
+   Methods: Aortic samples were collected from patients who underwent AAA repair (n = 89). Patients were stratified according to the maximum transverse aorta diameter: small diameter (<55 mm), moderate diameter (55-69.9 mm) and large diameter (>= 70 mm). Aortic walls were studied using real-time PCR and immunohistochemistry. MMP-2, MMP-9, alpha-actin, CD45, and CD68 transcript levels were determined relative to beta-actin. Quantitative data were expressed as median (IQ-range).
+   Results: No differences were found in MMP-2 expression between the patient groups, which was mainly associated with vascular smooth muscle cells (VSMC); however, MMP-9 displayed the maximum level in the moderate-diameter group, associated with infiltrating macrophages. Current smoking (CS) and renal insufficiency (RI) significantly increased local levels of MMP-2 (CS 349.5 [219.5-414.1] vs. no-CS 184.4 [100.0-320.5]; p<.008; RI 286.8 [189.6-410.8] vs. no-RI 177.3 [99.3-326.9]; p=.047). Nevertheless, after stepwise linear regression analysis only CS remained as an independent variable predicting local levels of MMP-2 (p=.002). No risk factors influenced local levels of MMP-9.
+   Conclusions: The results show that local levels of MMP-2, an important factor for AAA development, were increased in current smoking AAA patients. MMP-2 was mainly associated with VSMC. It is suggested that MMP-2 could contribute significantly to the increased AAA growth rate observed in current smoking patients. These findings support inclusion of smokers in screening for aneurysmal disease, and emphasize the need for more aggressive monitoring of aneurysmal disease outside the surgical range in patients who smoke at the time of diagnosis and in those who continue to smoke during follow-up. (C) 2014 European Society for Vascular Surgery. Published by Elsevier Ltd. All rights reserved.
+OI Bellmunt-Montoya, Sergi/0000-0002-2851-720X
+SN 1078-5884
+EI 1532-2165
+PD OCT
+PY 2014
+VL 48
+IS 4
+BP 374
+EP 381
+DI 10.1016/j.ejvs.2014.05.023
+UT WOS:000343687500004
+PM 24980077
+ER
+
+PT J
+AU Miyachi, H
+   Onozawa, S
+   Akutsu, K
+   Shimizu, W
+   Kumita, S
+   Tanaka, K
+   Murata, S
+AF Miyachi, Hideki
+   Onozawa, Shiro
+   Akutsu, Koichi
+   Shimizu, Wataru
+   Kumita, Shin-ichiro
+   Tanaka, Keiji
+   Murata, Satoru
+TI Treatment of Visceral Malperfusion in Acute Type B Aortic Dissection by
+   Percutaneous Endovascular Fenestration Using a Stent, with Additional
+   Stenting of the True Lumen
+SO JOURNAL OF NIPPON MEDICAL SCHOOL
+AB Patients with acute type B aortic dissection (ABAD) are often treated medically. However, ABAD is a potentially serious emergency if complicated by acute organ ischemia. The therapeutic strategy for ABAD with visceral malperfusion remains controversial. Because emergent surgery has a high mortality rate, emergent endovascular treatment can be performed instead. We report a case of endovascular fenestration with stenting for visceral malperfusion in ABAD. One stent was inserted across the intimal flap to keep the fenestrated site open, and another stent was placed into the narrowed true lumen. This therapeutic strategy may be feasible for ABAD with acute malperfusion.
+SN 1345-4676
+EI 1347-3409
+PD OCT
+PY 2014
+VL 81
+IS 5
+BP 340
+EP 345
+UT WOS:000343681100009
+PM 25391705
+ER
+
+PT J
+AU Sorelius, K
+   Sundbom, M
+   Mani, K
+   Wanhainen, A
+AF Sorelius, Karl
+   Sundbom, Magnus
+   Mani, Kevin
+   Wanhainen, Anders
+TI Hybrid treatment of a post-EVAR aortoenteric fistula
+SO VASCULAR
+AB This report presents a case of secondary aortoenteric fistula after endovascular aortic repair in a fragile patient: The fistula developed due to aneurysm shrinkage and remodeling of the stent graft, resulting in a kink eroding through the aneurysm wall into the duodenum. The aortoenteric fistula was successfully treated with a hybrid procedure with endovascular aortic repair, followed by open enteroraphy and omental flap coverage of the stent graft and local antibiotic irrigation. Despite the presence of the stent graft in a previously infected field, the patient has recovered from the acute event with no septic recurrence or hemorrhage during four years of follow-up.
+SN 1708-5381
+EI 1708-539X
+PD OCT
+PY 2014
+VL 22
+IS 5
+BP 385
+EP 389
+DI 10.1177/1708538113501661
+UT WOS:000342919200016
+PM 24003008
+ER
+
+PT J
+AU Kahlberg, A
+   Tshomba, Y
+   Marone, EM
+   Castellano, R
+   Melissano, G
+   Chiesa, R
+AF Kahlberg, Andrea
+   Tshomba, Yamume
+   Marone, Enrico M.
+   Castellano, Renata
+   Melissano, Germano
+   Chiesa, Roberto
+TI Current Results of a Combined Endovascular and Open Approach for the
+   Treatment of Aortoesophageal and Aortobronchial Fistulae
+SO ANNALS OF VASCULAR SURGERY
+AB Background: Aortoesophageal (AEF) and aortobronchial (ABF) fistulae are uncommon but invariably fatal if left untreated. Mortality rates of open surgery remain prohibitive. Thoracic endovascular aortic repair (TEVAR) was shown to be a valid alternative to control bleeding in emergency, allowing a reduction of perioperative mortality. However, it entails a significant risk of late sequelae, namely endograft contamination and sepsis, related to the untreated esophageal leak. The aim of this study is to present initial results of a combined "hybrid'' (endovascular and open) strategy to treat AEF and ABF.
+   Materials and Methods: From 2006 to 2013, 8 patients (6 men, mean age 63 +/- 13 years) were operated at our institution for primary and secondary AEF (7 patients) or ABF (1 patient) by means of a combined approach: emergent endovascular exclusion of the aortic rupture, followed by staged open surgical repair of the esophageal or bronchial lesion with associated intercostal muscle flap interposition. Follow-up was available in all patients (mean 34 +/- 26 months).
+   Results: TEVAR was successfully performed in all cases in emergency because of active bleeding or hemodynamic instability. Stabilization of hemodynamic parameters was obtained in all patients. Open surgical stage was performed either directly after TEVAR (n = 1) or after a mean delay of 6.9 +/- 3.5 days (n = 7). No perioperative sepsis, bleeding, or death was observed. At follow-up, 7 patients were alive (87.5%). One patient died 1 year after the procedure because of sudden cardiocirculatory arrest of unknown origin. Another patient experienced 2 hospitalizations, at 3 and 8 months after the procedure, for recurrent fever requiring prolonged intravenous antibiotic therapy. No conversion or aortic bleeding was recorded during follow-up.
+   Conclusions: Immediate TEVAR followed by staged open repair of the esophageal or bronchial defect with intercostal muscle flap interposition appears to be a feasible treatment of AEF and ABF. Despite the fact that initial results are encouraging, further data on wider cohorts with longer follow-up are necessary to confirm the efficacy and durability of this strategy.
+OI tshomba, yamume/0000-0001-8316-4702
+SN 0890-5096
+EI 1615-5947
+PD OCT
+PY 2014
+VL 28
+IS 7
+BP 1782
+EP 1788
+DI 10.1016/j.avsg.2014.06.003
+UT WOS:000342162000027
+PM 24930979
+ER
+
+PT J
+AU Shi, Y
+   Luscher, TF
+   Camici, GG
+AF Shi, Yi
+   Luescher, Thomas F.
+   Camici, Giovanni G.
+TI Dual Role of Endothelial Nitric Oxide Synthase in Oxidized LDL-Induced,
+   p66(Shc)-Mediated Oxidative Stress in Cultured Human Endothelial Cells
+SO PLOS ONE
+AB Background: The aging gene p66(Shc), is an important mediator of oxidative stress-induced vascular dysfunction and disease. In cultured human aortic endothelial cells (HAEC), p66(Shc) deletion increases endothelial nitric oxide synthase (eNOS) expression and nitric oxide (NO) bioavailability via protein kinase B. However, the putative role of the NO pathway on p66(Shc) activation remains unclear. This study was designed to elucidate the regulatory role of the eNOS/NO pathway on p66(Shc) activation.
+   Methods and Results: Incubation of HAEC with oxidized low density lipoprotein (oxLDL) led to phosphorylation of p66(Shc) at Ser-36, resulting in an enhanced production of superoxide anion (O-2(-)). In the absence of oxLDL, inhibition of eNOS by small interfering RNA or L-NAME, induced p66(Shc) phosphorylation, suggesting that basal NO production inhibits O-2(-) production. oxLDL-induced, p66(Shc)-mediated O-2(-) was prevented by eNOS inhibition, suggesting that when cells are stimulated with oxLDL eNOS is a source of reactive oxygen species. Endogenous or exogenous NO donors, prevented p66(Shc) activation and reduced O-2(-) production. Treatment with tetrahydrobiopterin, an eNOS cofactor, restored eNOS uncoupling, prevented p66(Shc) activation, and reduced O-2(-) generation. However, late treatment with tetrahydropterin did not yield the same result suggesting that eNOS uncoupling is the primary source of reactive oxygen species.
+   Conclusions: The present study reports that in primary cultured HAEC treated with oxLDL, p66(Shc)-mediated oxidative stress is derived from eNOS uncoupling. This finding contributes novel information on the mechanisms of p66(Shc) activation and its dual interaction with eNOS underscoring the importance eNOS uncoupling as a putative antioxidant therapeutical target in endothelial dysfunction as observed in cardiovascular disease.
+SN 1932-6203
+PD SEP 23
+PY 2014
+VL 9
+IS 9
+AR e107787
+DI 10.1371/journal.pone.0107787
+UT WOS:000342351800038
+PM 25247687
+ER
+
+PT J
+AU Bridge, KI
+   Macrae, F
+   Bailey, MA
+   Johnsona, A
+   Philippou, H
+   Scott, DJA
+   Ariens, RAS
+AF Bridge, Katherine I.
+   Macrae, Fraser
+   Bailey, Marc A.
+   Johnsona, Anne
+   Philippou, Helen
+   Scott, D. Julian A.
+   Ariens, Robert A. S.
+TI The alpha-2-antiplasmin Arg407Lys polymorphism is associated with
+   Abdominal Aortic Aneurysm
+SO THROMBOSIS RESEARCH
+AB Introduction: Abdominal Aortic Aneurysm(AAA) involves dilatation of the abdominal aorta, with a natural history of expansion and eventual rupture. We have previously shown that AAA patients form denser clots with smaller pores, which are more resistant to fibrinolysis. The aim of this study was to use functional polymorphisms of the fibrinolytic system to identify how changes to proteins involved in fibrinolysis may play a role in the development of AAA.
+   Methods: Caucasian subjects >= 55 years (602 AAA patients and 490 matched controls) were genotyped for four polymorphisms (alpha-2-antiplasmin alpha 2AP Arg6Trp and Arg407Lys, Thrombin-activatable fibrinolysis inhibitor TAFI Thr325Ile and tissue plasminogen activator tPA 7351C -> T). DNA was extracted from blood, and genotype identified using real time PCR. Fibrin clot structure was analysed by permeation and turbidity in a subset of patients and controls.
+   Results: Genotypes across the study population were in Hardy-Weinberg Equilibrium. The two alpha 2AP polymorphisms, Arg6Trp and Arg407Lys were in linkage disequilibrium (P < 0.0001), and possession of a 407Lys allele negatively associated with AAA (odds ratio 0.833, CI95 0.7-0.991, P = 0.040). The TAFI Thr325Ile and the tPA 7351C -> T polymorphisms were not associated with AAA. The alpha 2AP 407Lys allele was not associated with in-vitro fibrinolysis times in plasma from patients with AAA.
+   Conclusion: Possession of the alpha 2AP 407Lys allele was negatively associated with AAA, and thus changes in alpha 2AP may affect aneurysm growth and development. These data indicate that the regulation of plasmin activity (through binding to alpha 2AP), rather than plasmin generation (TAFI, tPA), may play a role in AAA. (C) 2014 Elsevier Ltd. All rights reserved.
+SN 0049-3848
+PD SEP
+PY 2014
+VL 134
+IS 3
+BP 723
+EP 728
+DI 10.1016/j.thromres.2014.06.019
+UT WOS:000341310000035
+PM 25065555
+ER
+
+PT J
+AU Ohkawara, H
+   Ishibashi, T
+   Sugimoto, K
+   Ikeda, K
+   Ogawa, K
+   Takeishi, Y
+AF Ohkawara, Hiroshi
+   Ishibashi, Toshiyuki
+   Sugimoto, Koichi
+   Ikeda, Kazuhiko
+   Ogawa, Kazuei
+   Takeishi, Yasuchika
+TI Membrane Type 1-Matrix Metalloproteinase/Akt Signaling Axis Modulates
+   TNF-alpha-Induced Procoagulant Activity and Apoptosis in Endothelial
+   Cells
+SO PLOS ONE
+AB Membrane type 1-matrix metalloproteinase (MT1-MMP) functions as a signaling molecule in addition to a proteolytic enzyme. Our hypothesis was that MT1-MMP cooperates with protein kinase B (Akt) in tumor necrosis factor (TNF)-alpha-induced signaling pathways of vascular responses, including tissue factor (TF) procoagulant activity and endothelial apoptosis, in cultured human aortic endothelial cells (ECs). TNF-alpha (10 ng/mL) induced a decrease in Akt phosphorylation within 60 minutes in ECs. A chemical inhibitor of MMP, TIMP-2 and selective small interfering RNA (siRNA)-mediated suppression of MT1-MMP reversed TNF-alpha-triggered transient decrease of Akt phosphorylation within 60 minutes, suggesting that MT1-MMP may be a key regulator of Akt phosphorylation in TNF-alpha-stimulated ECs. In the downstream events, TNF-alpha increased TF antigen and activity, and suppressed the expression of thrombomodulin (TM) antigen. Inhibition of Akt markedly enhanced TNF-alpha-induced expression of TF antigen and activity, and further reduced the expression of TM antigen. Silencing of MT1-MMP by siRNA also reversed the changed expression of TF and TM induced by TNF-alpha. Moreover, TNF-alpha induced apoptosis of ECs through Akt- and forkhead box protein O1 (FoxO1)-dependent signaling pathway and nuclear factor-kB (NF-kB) activation. Knockdown of MT1-MMP by siRNA reversed apoptosis of ECs by inhibiting TNF-alpha-induced Akt-dependent regulation of FoxO1 in TNF-alpha-stimulated ECs. Immunoprecipitation demonstrated that TNF-alpha induced the changes in the associations between the cytoplasmic fraction of MT1-MMP and Akt in ECs. In conclusion, we show new evidence that MT1-MMP/Akt signaling axis is a key modifier for TNF-alpha-induced signaling pathways for modulation of procoagulant activity and apoptosis of ECs.
+SN 1932-6203
+PD AUG 27
+PY 2014
+VL 9
+IS 8
+AR e105697
+DI 10.1371/journal.pone.0105697
+UT WOS:000340880900045
+PM 25162582
+ER
+
+PT J
+AU Takano, T
+   Terasaki, T
+   Wada, Y
+   Seto, T
+   Fukui, D
+   Amano, J
+AF Takano, Tamaki
+   Terasaki, Takamitsu
+   Wada, Yuko
+   Seto, Tatsuichiro
+   Fukui, Daisuke
+   Amano, Jun
+TI Treatment of Prosthetic Graft Infection after Thoracic Aorta Replacement
+SO ANNALS OF THORACIC AND CARDIOVASCULAR SURGERY
+AB Purpose: Prosthetic graft infection is a fatal complication after thoracic aorta replacement, and it is sometimes difficult to perform a prompt re-operation when the patient carries the infectious source of the graft. We evaluated the early and mid-term outcomes of aortic graft infection after thoracic aorta replacement, focusing on the timing of the surgery.
+   Methods: This study included eight consecutive patients with thoracic graft infection from 1997 to 2011 among 513 patients of graft replacement during this period. We performed re-graft replacement in six patients. Of these six patients, emergency surgery was performed in two and scheduled surgery was performed in two. An unscheduled emergency surgery was required in two patients during the medical treatment of the infection source. Solo medical treatment was performed in two patients.
+   Results: In-hospital mortality occurred in two of the eight patients (25%). Re-graft infection was not observed in the six patients who underwent re-graft replacement or the one patient who underwent medical treatment during the 1.5- to 14-year observation period.
+   Conclusions: Prompt re-replacement of the infected graft should be performed even when an orthotopic infection source led to the graft infection. Medical treatment might be applicable when neither an abscess nor pseudoaneurysm is observed.
+SN 1341-1098
+PD AUG
+PY 2014
+VL 20
+IS 4
+BP 304
+EP 309
+DI 10.5761/atcs.oa.13-00059
+UT WOS:000342960700007
+PM 23801180
+ER
+
+PT J
+AU Valcheva, P
+   Cardus, A
+   Panizo, S
+   Parisi, E
+   Bozic, M
+   Novoa, JML
+   Dusso, A
+   Fernandez, E
+   Valdivielso, JM
+AF Valcheva, Petya
+   Cardus, Anna
+   Panizo, Sara
+   Parisi, Eva
+   Bozic, Milica
+   Lopez Novoa, Jose M.
+   Dusso, Adriana
+   Fernandez, Elvira
+   Valdivielso, Jose M.
+TI Lack of vitamin D receptor causes stress-induced premature senescence in
+   vascular smooth muscle cells through enhanced local angiotensin-II
+   signals
+SO ATHEROSCLEROSIS
+AB Objectives: The inhibition of the renal renin-angiotensin system by the active form of vitamin D contributes to the cardiovascular health benefits of a normal vitamin D status. Local production of angiotensin-II in the vascular wall is a potent mediator of oxidative stress, prompting premature senescence. Herein, our objective was to examine the impact of defective vitamin D signalling on local angiotensin-II levels and arterial health.
+   Methods: Primary cultures of aortic vascular smooth muscle cells (VSMC) from wild-type and vitamin D receptor-knockout (VDRKO) mice were used for the assessment of cell growth, angiotensin-II and superoxide anion production and expression levels of cathepsin D, angiotensin-II type 1 receptor and p57(Kip2). The in vitro findings were confirmed histologically in aortas from wild-type and VDRKO mice.
+   Results: VSMC from VDRKO mice produced more angiotensin-II in culture, and elicited higher levels of cathepsin D, an enzyme with renin-like activity, and angiotensin-II type 1 receptor, than wild-type mice. Accordingly, VDRKO VSMC showed higher intracellular superoxide anion production, which could be suppressed by cathepsin D, angiotensin-II type 1 receptor or NADPH oxidase antagonists. VDRKO cells presented higher levels of p57(Kip2), impaired proliferation and premature senescence, all of them blunted upon inhibition of angiotensin-II signalling. In vivo studies confirmed higher levels of cathepsin D, angiotensin-II type 1 receptor and p57(Kip2) in aortas from VDRKO mice.
+   Conclusion: The beneficial effects of active vitamin D in vascular health could be a result of the attenuation of local production of angiotensin-II and downstream free radicals, thus preventing the premature senescence of VSMC. (C) 2014 Elsevier Ireland Ltd. All rights reserved.
+RI Dusso, Adriana/E-8617-2011; Valcheva, Petya/K-2957-2014; Fernandez
+   Giraldez, Elvira Dolores/D-3358-2009; Valdivielso, Jose/B-5673-2009;
+   Bozic, Milica/B-7425-2009
+OI Fernandez Giraldez, Elvira Dolores/0000-0001-5236-1762; Valdivielso,
+   Jose/0000-0003-1343-0184; Bozic, Milica/0000-0002-6064-1446
+SN 0021-9150
+EI 1879-1484
+PD AUG
+PY 2014
+VL 235
+IS 2
+BP 247
+EP 255
+DI 10.1016/j.atherosclerosis.2014.05.911
+UT WOS:000342411000901
+PM 24880896
+ER
+
+PT J
+AU Kurabayashi, M
+   Okishige, K
+   Ueshima, D
+   Yoshimura, K
+   Shimura, T
+   Suzuki, H
+   Mitsutoshi, A
+   Aoyagi, H
+   Otani, Y
+   Isobe, M
+AF Kurabayashi, Manabu
+   Okishige, Kaoru
+   Ueshima, Daisuke
+   Yoshimura, Kojiro
+   Shimura, Tsukasa
+   Suzuki, Hidetoshi
+   Mitsutoshi, Asano
+   Aoyagi, Hideshi
+   Otani, Yoichi
+   Isobe, Mitsuaki
+TI Diagnostic Utility of Unenhanced Computed Tomography for Acute Aortic
+   Syndrome
+SO CIRCULATION JOURNAL
+AB Background: The diagnostic value of unenhanced computed tomography (CT) for diagnosing acute aortic dissection (AAD) and ruptured thoracic aortic aneurysm (TAA) remains unclear.
+   Methods and Results: We examined 219 consecutive patients who visited the emergency room with suspected acute aortic syndrome (AAS) because of chest or back pain and who underwent both unenhanced and contrastenhanced 64-row multi-detector CT. The unenhanced CT findings were evaluated by the cardiologist on duty who was blind to the findings of contrast-enhanced CT. Diagnosis of AAS was confirmed in 103 patients (47%, 95 AAD and 8 ruptured TAA patients) based on evaluation of both unenhanced and contrast-enhanced CT images, which was used as the reference standard for validating the diagnostic value of the unenhanced CT findings. Sensitivity and specificity of the findings of a high-attenuation crescent, which represents hematoma in the aortic wall, were 61.2% and 99.1%, respectively. Sensitivity and specificity of linear high density in the aorta, which represents an intimal flap, were 59.2% and 96.6%, respectively. If unenhanced CT showed none of high-attenuation crescent, linear high density, internal displacement of intimal calcification, or TAA, the negative predictive value was 93.3%.
+   Conclusions: Unenhanced CT is a good tool for ruling AAS in, but the false-negative rate of 6.7% is high for ruling AAS out because it has to be the minimum possible.
+SN 1346-9843
+EI 1347-4820
+PD AUG
+PY 2014
+VL 78
+IS 8
+BP 1928
+EP 1934
+DI 10.1253/circj.CJ-14-0198
+UT WOS:000341294200028
+PM 24909890
+ER
+
+PT J
+AU Silverberg, D
+   Younis, A
+   Savion, N
+   Harari, G
+   Yakubovitch, D
+   Yousif, BS
+   Halak, M
+   Grossman, E
+   Schneiderman, J
+AF Silverberg, Daniel
+   Younis, Anan
+   Savion, Naphtali
+   Harari, Gil
+   Yakubovitch, Dmitry
+   Yousif, Basheer Sheick
+   Halak, Moshe
+   Grossman, Ehud
+   Schneiderman, Jacob
+TI Long-term renin-angiotensin blocking therapy in hypertensive patients
+   with normal aorta may attenuate the formation of abdominal aortic
+   aneurysms
+SO JOURNAL OF THE AMERICAN SOCIETY OF HYPERTENSION
+AB Renin angiotensin system (RAS) has been implicated in the pathogenesis of abdominal aortic aneurysm (AAA). Angiotensin II type 1 receptor blocker (ARB), when given with angiotensin II prevents AAA formation in mice, but found ineffective in attenuating the progression of preexisting AAA. This study was designed to evaluate the effect of chronic RAS blockers on abdominal aortic diameter in hypertensive patients without known aortic aneurysm. Consecutive hypertensive outpatients (n = 122) were stratified according to antihypertensive therapy they received for 12 months or more, consisting of ARB (n = 45), angiotensin converting enzyme inhibitor (ACE-I; n = 45), or nonARB/nonACE-I (control therapy; n = 32). Abdominal ultrasonography was performed to measure maximal subrenal aortic diameter. Eighty-four patients were reexamined by ultrasonography 8 months later. The correlation between the different antihypertensive therapies and aortic diameter was examined. Aortic diameters were significantly smaller in ARB than in control patients in the baseline and follow-up measurements (P = .004; P = .0004, respectively). Risk factor adjusted covariance analysis showed significant differences between ARB or ACE-I treated groups and controls (P = .006 or P = .046, respectively). Ultrasound that was performed 8 months later showed smaller increases in mean aortic diameters of the ARB and ACE-I groups than in controls. Both ARB and ACE-I therapy attenuated expansion of nonaneurysmal abdominal aorta in humans. These results indicate that RAS blockade given before advancement of aortic medial remodeling may slow down the development of AAA. (C) 2014 American Society of Hypertension. All rights reserved.
+SN 1933-1711
+EI 1878-7436
+PD AUG
+PY 2014
+VL 8
+IS 8
+BP 571
+EP 577
+DI 10.1016/j.jash.2014.04.005
+UT WOS:000341226200007
+PM 24913570
+ER
+
+PT J
+AU Amber, CF
+   Zeynep, TK
+   Evren, O
+   Yusuf, B
+   Can, AK
+   Belma, T
+AF Amber, Cicek Figen
+   Zeynep, Tokcaer-Keskin
+   Evren, Ozcinar
+   Yusuf, Bozkus
+   Can, Akcali Kamil
+   Belma, Turan
+TI Di-peptidyl peptidase-4 inhibitor sitagliptin protects vascular function
+   in metabolic syndrome: possible role of epigenetic regulation
+SO MOLECULAR BIOLOGY REPORTS
+AB Metabolic syndrome (MetS) is a complex medical disorder characterized by insulin resistance, hypertension, and high risk of coronary disease and stroke. Microvascular rarefaction and endothelial dysfunction have also been linked with MetS, and recent evidence from clinical studies supports the efficacy of incretin-based antidiabetic therapies for vascular protection in diabetes. Previous studies pointed out the importance of dipeptidyl peptidase-4 (DPP-4) inhibition in endothelial cells due to getting protection against metabolic pathologies. We therefore aimed to investigate the acute effects of a DPP-4 inhibitor, sitagliptin, on vascular function in rats with high-sucrose diet-induced MetS. In order to elucidate the mechanisms implicated in the effects of DPP-4 inhibition, we tested the involvement of NO pathway and epigenetic regulation in the MetS. Acute use of sitagliptin protects the vascular function in the rats with MetS in part due to NO pathway via restoring the depressed aortic relaxation responses mediated by receptors. Application of sitagliptin enhanced the depressed phosphorylation levels of both the endothelial NO synthase and the apoptotic status of protein kinase B, known as Akt, in endothelium-intact thoracic aorta from rats with MetS. One-hour application of sitagliptin on aortic rings from rats with MetS also induced remarkable histon posttranslational modifications such as increased expression of H3K27Me3, but not of H3K27Me2, resulting in an accumulation of the H3K27Me3. Our findings suggest that, in addition to its well-known hypoglycemic action, sitagliptin may also have beneficial effects on hyperglycemia-induced vascular changes in an endotheium-dependent manner. These present results with sitagliptin aside from the glycaemic control, may demonstrate its important role in the treatment of patients with MetS.
+SN 0301-4851
+EI 1573-4978
+PD AUG
+PY 2014
+VL 41
+IS 8
+BP 4853
+EP 4863
+DI 10.1007/s11033-014-3392-2
+UT WOS:000339910900003
+ER
+
+PT J
+AU Piccolo, P
+   Mithbaokar, P
+   Sabatino, V
+   Tolmie, J
+   Melis, D
+   Schiaffino, MC
+   Filocamo, M
+   Andria, G
+   Brunetti-Pierri, N
+AF Piccolo, Pasquale
+   Mithbaokar, Pratibha
+   Sabatino, Valeria
+   Tolmie, John
+   Melis, Daniela
+   Schiaffino, Maria Cristina
+   Filocamo, Mirella
+   Andria, Generoso
+   Brunetti-Pierri, Nicola
+TI SMAD4 mutations causing Myhre syndrome result in disorganization of
+   extracellular matrix improved by losartan
+SO EUROPEAN JOURNAL OF HUMAN GENETICS
+AB Myhre syndrome (MS, MIM 139210) is a connective tissue disorder that presents with short stature, short hands and feet, facial dysmorphic features, muscle hypertrophy, thickened skin, and deafness. Recurrent missense mutations in SMAD4 encoding for a transducer mediating transforming growth factor beta (TGF-beta) signaling are responsible for MS. We found that MS fibroblasts showed increased SMAD4 protein levels, impaired matrix deposition, and altered expression of genes encoding matrix metalloproteinases and related inhibitors. Increased TGF-beta signaling and progression of aortic root dilation in Marfan syndrome can be prevented by the antihypertensive drug losartan, a TGF-beta antagonists and angiotensin-II type 1 receptor blocker. Herein, we showed that losartan normalizes metalloproteinase and related inhibitor transcript levels and corrects the extracellular matrix deposition defect in fibroblasts from MS patients. The results of this study may pave the way toward therapeutic applications of losartan in MS.
+OI Brunetti-Pierri, Nicola/0000-0002-6895-8819; Piccolo,
+   Pasquale/0000-0002-8614-2581
+SN 1018-4813
+EI 1476-5438
+PD AUG
+PY 2014
+VL 22
+IS 8
+DI 10.1038/ejhg.2013.283
+UT WOS:000339328100009
+PM 24398790
+ER
+
+PT J
+AU Kamal, FA
+   Mickelsen, DM
+   Wegman, KM
+   Travers, JG
+   Moalem, J
+   Hammes, SR
+   Smrcka, AV
+   Blaxall, BC
+AF Kamal, Fadia A.
+   Mickelsen, Deanne M.
+   Wegman, Katherine M.
+   Travers, Joshua G.
+   Moalem, Jacob
+   Hammes, Stephen R.
+   Smrcka, Alan V.
+   Blaxall, Burns C.
+TI Simultaneous Adrenal and Cardiac G-Protein-Coupled Receptor-G beta gamma
+   Inhibition Halts Heart Failure Progression
+SO JOURNAL OF THE AMERICAN COLLEGE OF CARDIOLOGY
+AB Objectives The authors propose simultaneous inhibition of G beta gamma signaling in the heart and the adrenal gland as a novel therapeutic approach for heart failure (HF).
+   Background Elevated sympathetic nervous system activity is a salient characteristic of HF progression. It causes pathologic desensitization of beta-adrenergic receptors (beta-AR), facilitated predominantly through G beta gamma-mediated signaling. The adrenal glands are key contributors to the chronically elevated plasma catecholamine levels observed in HF, where adrenal alpha(2)-AR feedback inhibitory function is impaired also through Gbg-mediated signaling.
+   Methods We investigated the efficacy of a small molecule Gbg inhibitor, gallein, in a clinically relevant, pressure-overload model of HF.
+   Results Daily gallein treatment (10 mg/kg/day), initiated 4 weeks after transverse aortic constriction, improved survival and cardiac function and attenuated cardiac remodeling. Mechanistically, gallein restored beta-AR membrane density in cardiomyocytes, attenuated Gbg-mediated G-protein-coupled receptor kinase 2-phosphoinositide 3-kinase g membrane recruitment, and reduced Akt (protein kinase B) and glycogen synthase kinase 3 beta phosphorylation. Gallein also reduced circulating plasma catecholamine levels and catecholamine production in isolated mouse adrenal glands by restoring adrenal alpha(2)-AR feedback inhibition. In human adrenal endocrine tumors (pheochromocytoma), gallein attenuated catecholamine secretion, as well as G-protein-coupled receptor kinase 2 expression and membrane translocation.
+   Conclusions These data suggest small molecule Gbg inhibition as a systemic pharmacologic therapy for HF by simultaneously normalizing pathologic adrenergic/Gbg signaling in both the heart and the adrenal gland. Our data also suggest important endocrine/cardiovascular interactions and a possible role for small molecule Gbg inhibition in treating endocrine tumors such as pheochromocytoma, in addition to HF. (C) 2014 by the American College of Cardiology Foundation
+SN 0735-1097
+EI 1558-3597
+PD JUN 17
+PY 2014
+VL 63
+IS 23
+BP 2549
+EP 2557
+DI 10.1016/j.jacc.2014.02.587
+UT WOS:000337358100009
+PM 24703913
+ER
+
+PT J
+AU Hysi, I
+   Wurtz, A
+   Zawadzki, C
+   Kipnis, E
+   Jashari, R
+   Hubert, T
+   Ung, A
+   Copin, MC
+   Jude, B
+AF Hysi, Ilir
+   Wurtz, Alain
+   Zawadzki, Christophe
+   Kipnis, Eric
+   Jashari, Ramadan
+   Hubert, Thomas
+   Ung, Alexandre
+   Copin, Marie-Christine
+   Jude, Brigitte
+TI Immune tolerance of epithelium-denuded-cryopreserved tracheal allograft
+SO EUROPEAN JOURNAL OF CARDIO-THORACIC SURGERY
+AB OBJECTIVES: Animal and clinical studies have demonstrated the feasibility of tracheal allograft transplantation after a revascularization period in heterotopy, thus requiring immunosuppressive therapy. Given the key role of the respiratory epithelium in the immune rejection, we investigated the consequence of both epithelium denudation and cryopreservation in immune tolerance of tracheal allograft in a novel rabbit model.
+   METHODS: Five adult female New Zealand rabbits served as donors of tracheas that were denuded of their epithelium and then cryopreserved, and 13 males were used as recipients. Following graft wrap using a lateral thoracic fascial flap, allograft segments 20 mm in length with (n = 9) or without (n = 4) insertion of an endoluminal tube were implanted under the skin of the chest wall. The animals did not receive any immunosuppressive drugs. Sacrifices were scheduled up to 91 days. Macroscopic and microscopic examinations and detection of apoptotic cells by immunohistochemical staining (Apostain) were used to study the morphology, stiffness, viability and immune rejection of allografts.
+   RESULTS: There were no postoperative complications. Grafted composite allografts displayed satisfactory tubular morphology provided that an endoluminal tube was inserted. All rabbits were found to have an effective revascularization of their allograft and a mild non-specific inflammatory infiltrate with no significant lymphocyte infiltration. Cartilage rings showed early central calcification deposit, which increased over time, ensuring graft stiffness. Apoptosis events observed into the allograft cells were suggestive of minimal chronic rejection.
+   CONCLUSIONS: Our results demonstrated that the epithelium-denuded-cryopreserved tracheal allograft implanted in heterotopy displayed satisfactory morphology, stiffness and immune tolerance despite the absence of immunosuppressive drugs. This allograft with a fascial flap transferable to the neck should be investigated in the setting of tracheal replacement in rabbits. Similar studies need to be conducted in bigger mammals before considering clinical applications.
+RI Kipnis, Eric/C-6286-2016
+OI Kipnis, Eric/0000-0001-8887-7330
+SN 1010-7940
+EI 1873-734X
+PD JUN
+PY 2014
+VL 45
+IS 6
+BP E180
+EP E186
+DI 10.1093/ejcts/ezu133
+UT WOS:000336997100001
+PM 24662242
+ER
+
+PT J
+AU Lempel, JK
+   Frazier, AA
+   Jeudy, J
+   Kligerman, SJ
+   Schultz, R
+   Ninalowo, HA
+   Gozansky, EK
+   Griffith, B
+   White, CS
+AF Lempel, Jason K.
+   Frazier, Aletta Ann
+   Jeudy, Jean
+   Kligerman, Seth J.
+   Schultz, Randall
+   Ninalowo, Hammed A.
+   Gozansky, Elliott K.
+   Griffith, Bartley
+   White, Charles S.
+TI Aortic Arch Dissection: A Controversy of Classification
+SO RADIOLOGY
+AB Aortic dissections originating in the ascending aorta and descending aorta have been classified as type A and type B dissections, respectively. However, dissections with intimal flap extension into the aortic arch between the innominate and left subclavian arteries are not accounted for adequately in the widely used Stanford classification. This gap has been the subject of controversy in the medical and surgical literature, and there is a tendency among many radiologists to categorize such arch dissections as type A lesions, thus making them an indication for surgery. However, the radiologic perspective is not supported by either standard dissection classification or current clinical management. In this special report, the origin of dissection classification and its evolution into current radiologic interpretation and surgical practice are reviewed. The cause for the widespread misconception about classification and treatment algorithms is identified. Institutional review board approval and waiver of informed consent were obtained as part of this HIPAA-compliant retrospective study to assess all aortic dissection studies performed at the University of Maryland Medical Center, Baltimore between 2010 and 2012 to determine the prevalence of arch dissections. Finally, a unified classification system that reconciles imaging interpretation and management implementation is proposed.
+SN 0033-8419
+PD JUN
+PY 2014
+VL 271
+IS 3
+BP 848
+EP 855
+DI 10.1148/radiol.14131457
+UT WOS:000336894600027
+PM 24617732
+ER
+
+PT J
+AU Li, Y
+   Fan, ZM
+   Huang, LJ
+   Xue, YG
+   Sun, LZ
+AF Li, Yu
+   Fan, Zhanming
+   Huang, Lianjun
+   Xue, Yuguo
+   Sun, Lizhong
+TI A novel approach for hybrid repair of type B aortic dissection
+   associated with coarctation of the aorta
+SO JOURNAL OF VASCULAR SURGERY
+AB We report the case of an acute type B aortic dissection in association with an unknown isthmic coarctation in a 53-year-old man. An intimal tear was located just distal to the coarctation, and the intimal flap extended to the level of the renal arteries. Hybrid repair was performed successfully 4 months later, without deep hypothermic circulatory arrest. An extra-anatomic bypass connected the ascending aorta to the abdominal aorta. The coarctation was occluded using a ventricular septal defect occluder. The hybrid repair was safe and effective for the patient.
+SN 0741-5214
+PD MAY
+PY 2014
+VL 59
+IS 5
+BP 1422
+EP 1425
+DI 10.1016/j.jvs.2013.05.089
+UT WOS:000335304400033
+PM 24342070
+ER
+
+PT J
+AU Nenicu, A
+   Korbel, C
+   Gu, Y
+   Menger, MD
+   Laschke, MW
+AF Nenicu, A.
+   Koerbel, C.
+   Gu, Y.
+   Menger, M. D.
+   Laschke, M. W.
+TI Combined blockade of angiotensin II type 1 receptor and activation of
+   peroxisome proliferator-activated receptor- by telmisartan effectively
+   inhibits vascularization and growth of murine endometriosis-like lesions
+SO HUMAN REPRODUCTION
+AB Is telmisartan effective in the treatment of endometriosis?
+   Combined blockade of angiotensin II type 1 receptor (AT1R) and activation of peroxisome proliferator-activated receptor (PPAR)- by telmisartan inhibits vascularization and growth of murine endometriosis-like lesions.
+   AT1R and PPAR- are involved in the regulation of inflammation, proliferation and angiogenesis. These processes are also crucial for the pathogenesis of endometriosis and both receptors are expressed in endometrial tissue. Telmisartan is a partial agonist of PPAR-, which additionally blocks AT1R.
+   This was a randomized study in the mouse dorsal skinfold chamber and peritoneal model of endometriosis. Endometriosis-like lesions were induced in dorsal skinfold chambers of 21 female C57BL/6 mice, and in the peritoneal cavity of 15 additional animals, which were daily treated with an i.p. injection of pioglitazone (10 mg/kg, n 12), telmisartan (10 mg/kg, n 12) or vehicle (5 dimethyl sulfoxide (DMSO), n 12) throughout an observation period of 14 and 28 days, respectively.
+   The anti-angiogenic actions of pioglitazone, a full PPAR- agonist, and telmisartan were firstly assessed in vitro by an aortic ring assay. Endometriosis-like lesions were induced in the dorsal skinfold chamber or peritoneal cavity and the effects of telmisartan and pioglitazone on their vascularization, immune cell content and growth were studied by intravital fluorescence microscopy, high-resolution ultrasound imaging as well as histological, immunohistochemical and immunofluorescent analyses. Additional quantitative real-time polymerase chain reaction (qRTPCR) arrays served for gene expression profiling of the lesions. To limit the role of chance, the experiments were conducted under standardized laboratory conditions with appropriate vehicle-treated controls. Statistical significance was accepted for a value of P 0.05.
+   Telmisartan inhibited vascular sprout formation of aortic rings more effectively than pioglitazone. Accordingly, endometriosis-like lesions in dorsal skinfold chambers of telmisartan-treated animals exhibited a markedly lower functional microvessel density and blood perfusion. High-resolution ultrasound analyses of peritoneal endometriosis-like lesions revealed that the compound inhibited the stromal tissue growth, resulting in a significantly reduced final lesion volume. In contrast, the development of cysts did not differ between the groups. Moreover, telmisartan induced an up-regulation of PPAR- and a down-regulation of AT1R proteins in endometriosis-like lesions, which was associated with a decreased density of CD31-positive microvessels, a reduced immune cell content and a lower number of Ki67-positive proliferating cells. qRTPCR arrays further demonstrated an inhibitory action of telmisartan on the expression of several angiogenic and inflammatory genes.
+   Endometriosis-like lesions were induced by syngeneic tissue transplantation into recipient mice without the use of pathological endometriotic tissue of human nature. Therefore, the results obtained in this study may not fully relate to human patients with endometriosis.
+   This study demonstrates that telmisartan inhibits vascularization, immune cell content and growth of endometriosis-like lesions. Accordingly, the combined blockade of AT1R and activation of PPAR- represents a promising new concept in the development of novel compounds for the treatment of endometriosis.
+   There was no specific funding of this study. The authors have no conflicts of interest to declare.
+SN 0268-1161
+EI 1460-2350
+PD MAY
+PY 2014
+VL 29
+IS 5
+BP 1011
+EP 1024
+DI 10.1093/humrep/deu035
+UT WOS:000334921400012
+PM 24578472
+ER
+
+PT J
+AU Chen, SSM
+   Dimopoulos, K
+   Alonso-Gonzalez, R
+   Liodakis, E
+   Teijeira-Fernandez, E
+   Alvarez-Barredo, M
+   Kempny, A
+   Diller, G
+   Uebing, A
+   Shore, D
+   Swan, L
+   Kilner, PJ
+   Gatzoulis, MA
+   Mohiaddin, RH
+AF Chen, S. S. M.
+   Dimopoulos, K.
+   Alonso-Gonzalez, R.
+   Liodakis, E.
+   Teijeira-Fernandez, E.
+   Alvarez-Barredo, M.
+   Kempny, A.
+   Diller, G.
+   Uebing, A.
+   Shore, D.
+   Swan, L.
+   Kilner, P. J.
+   Gatzoulis, M. A.
+   Mohiaddin, R. H.
+TI Prevalence and prognostic implication of restenosis or dilatation at the
+   aortic coarctation repair site assessed by cardiovascular MRI in adult
+   patients late after coarctation repair
+SO INTERNATIONAL JOURNAL OF CARDIOLOGY
+AB Background: Cardiovascular magnetic resonance (CMR) is ideal for assessing patients with repaired aortic coarctation (CoA). Little is known on the relation between long-term complications of CoA repair as assessed by CMR and clinical outcome. We examined the prevalence of restenosis and dilatation at the repair site and the long-term outcome in patients with repaired CoA.
+   Methods and results: CMR imaging and clinical data for adult CoA patients (247 patients aged 33.0 +/- 12.8 years, 60% male), were analyzed. The diameter of the aorta at the repair site was measured on CMR and its ratio to the aortic diameter at the diaphragm(repair site-diaphragmratio, RDR) was calculated. Restenosis (RDR <= 70%) was present in 31% of patients (and significant in 9% [RDR < 50%]), and dilatation (RDR > 150%) in 13.0%. A discrete aneurysm at the repair site was observed in 9%. Restenosis was more likely after resection and end-end anastomosis, whereas dilatation after patch repair. Systemic hypertension was present in 69% of patients. Of the hypertensive patients, blood pressure (133 +/- 20/73 +/- 10 mm Hg) was well controlled in 93% with antihypertensive therapy. Mortality rate over a median length of 5.9 years was low(0.69% per year, 95% CI: 0.33-1.26), but significantly higher than age-matched healthy controls (standardised mortality ratio 2.86, CI 1.43-5.72, p < 0.001).
+   Conclusion: Restenosis or dilatation at the CoA repair site as assessed by CMR is not uncommon. Medium term survival remains good, however, albeit lower than in the general population. Life-long follow-up and optimal blood pressure control are likely to secure a good longer term outlook in these patients. (c) 2014 Elsevier Ireland Ltd. All rights reserved.
+OI Dimopoulos, Konstantinos/0000-0003-1300-0504
+SN 0167-5273
+EI 1874-1754
+PD MAY 1
+PY 2014
+VL 173
+IS 2
+BP 209
+EP 215
+DI 10.1016/j.ijcard.2014.02.012
+UT WOS:000334508200021
+PM 24631116
+ER
+
+PT J
+AU Eguchi, T
+   Fukui, D
+   Takasuna, K
+   Wada, Y
+   Amano, J
+   Yoshida, K
+AF Eguchi, Takashi
+   Fukui, Daisuke
+   Takasuna, Keiichiro
+   Wada, Yuko
+   Amano, Jun
+   Yoshida, Kazuo
+TI Successful lung lobectomy for a lung cancer following thoracic
+   endovascular aortic repair for a thoracic aortic aneurysm: report of a
+   case
+SO SURGERY TODAY
+AB Lung cancer and a thoracic aortic aneurysm were detected simultaneously in a 79-year-old male patient with diabetes. The aneurysm was first treated by thoracic endovascular aortic repair. A right lower lobectomy was subsequently performed after the blood flow of the bronchial and intercostal arteries was confirmed by computed tomographic angiography. The bronchial stump was covered with an intercostal muscle flap. The patient's postoperative course was uneventful. Thoracic endovascular aortic repair is a useful and less invasive treatment for such cases, but a blood flow evaluation of the aortic branches should be done following this procedure before a lung resection is considered.
+SN 0941-1291
+EI 1436-2813
+PD MAY
+PY 2014
+VL 44
+IS 5
+BP 940
+EP 943
+DI 10.1007/s00595-012-0470-8
+UT WOS:000334523800022
+PM 23266753
+ER
+
+PT J
+AU Tossios, P
+   Karatzopoulos, A
+   Tsagakis, K
+   Sapalidis, K
+   Triantafillopoulou, K
+   Kalogera, A
+   Karapanagiotidis, GT
+   Grosomanidis, V
+AF Tossios, Paschalis
+   Karatzopoulos, Avgerinos
+   Tsagakis, Konstantinos
+   Sapalidis, Konstantinos
+   Triantafillopoulou, Konstantina
+   Kalogera, Anna
+   Karapanagiotidis, Georgios T.
+   Grosomanidis, Vasilios
+TI Successful surgical in situ treatment of prosthetic graft infection by
+   staged procedure after Bentall operation and total aortic arch
+   replacement
+SO SPRINGERPLUS
+AB We report a case of a 29-year-old Marfan patient who developed prosthetic graft infection 10 months after Bentall operation and successive replacement of the remaining ascending aorta and the entire aortic arch for acute aortic dissection. Instead of an aggressive high-risk aortic redo procedure with removal and replacement of the infected prosthetic graft we elected a staged graft-sparing surgical approach. After 18 months of close follow-up the patient is in good condition and free from infectious sequela. This case and our review of the literature suggest that open extensive disinfection followed by tissue flap coverage is highly effective in controlling thoracic aortic prosthetic graft infection and may be considered as first-line treatment in such high-risk aortic arch redo patients.
+SN 2193-1801
+PD APR 2
+PY 2014
+VL 3
+AR 172
+DI 10.1186/2193-1801-3-172
+UT WOS:000358963600002
+PM 24741478
+ER
+
+PT J
+AU Santarpino, G
+   Pollari, F
+   Fischlein, TJ
+AF Santarpino, Giuseppe
+   Pollari, Francesco
+   Fischlein, Theodor J.
+TI Sternal closure following negative pressure wound therapy: a safe
+   approach with a new titanium device
+SO INTERNATIONAL JOURNAL OF ARTIFICIAL ORGANS
+AB Background: The application of negative pressure wound therapy (NPWT) in patients with deep wound infection after cardiac surgery has steadily increased worldwide. Following NPWT, in patients with concomitant sternal diastasis, preparation of the substernal structures for the sternal wires application is mandatory, with increased risk of severe complications, such as laceration of the right ventricle. The aim of this study is to present an innovative technique for sternal closure after NPWT, using the ASCS r System (ASCS atraumatic Sternum Closure System; KS Handelsvertretung Produktinovation, Bad Homburg, Germany).
+   Methods: Between January 2009 and August 2012, 88 patients (mean age 64.2 +/- 12.4 years) with deep wound infection and sternal diastasis received NPWT; 16 of these patients (18.2%) underwent sternal closure after NPWT with ASCS r.
+   Results: In all 16 cases, neither sub-sternal dissection nor placement of trans-or peristernal wires was necessary. No damage to the aortocoronary bypass and ventricular rupture occurred. Minimal post-operative bleeding from Redon drains (mean 40 +/- 10 ml) was present. At follow-up, deep wound infection and sternal diastasis did not occur.
+   Conclusions: The ASCS r System combined with NPWT in patients with postoperative deep wound infection and sternal diastasis is a feasible and safe procedure. Because preparation of the substernal structures is not necessary, this device might prevent the occurrence of severe complications. Our experience, however, is limited and larger case series are necessary to fully evaluate this new and innovative technique.
+OI Pollari, Francesco/0000-0003-1729-532X
+SN 0391-3988
+EI 1724-6040
+PD MAR
+PY 2014
+VL 37
+IS 3
+BP 264
+EP 269
+DI 10.5301/ijao.5000295
+UT WOS:000338515100008
+PM 24619892
+ER
+
+PT J
+AU Hakimi, M
+   Peters, A
+   Becker, A
+   Bockler, D
+   Dihlmann, S
+AF Hakimi, Maani
+   Peters, Andreas
+   Becker, Anja
+   Boeckler, Dittmar
+   Dihlmann, Susanne
+TI Inflammation-related induction of absent in melanoma 2 (AIM2) in
+   vascular cells and atherosclerotic lesions suggests a role in vascular
+   pathogenesis
+SO JOURNAL OF VASCULAR SURGERY
+AB Background: Absent in melanoma (AIM2) was recently identified to act as a cytosolic DNA sensor in innate immunity. Considering the role of chronic inflammation in atherosclerosis, we hypothesized that AIM2 may act as a damage signal that is activated in response to cellular stress likewise in vascular cells of larger arteries. We thus addressed AIM2 expression in healthy arterial wall and in different vascular lesions. In addition, AIM2 expression was characterized in cultured human aortic endothelial cells (HAoECs), smooth muscle cells (HAoSMCs), and T/G-HA-vascular smooth muscle cells (VSMCs) in response to different stimuli.
+   Methods: Carotid and aortic lesions from patients who underwent surgery and normal arterial specimens were analyzed by immunohistochemistry for AIM2 expression. Cultured HAoECs, HAoSMCs, and T/G-HA-VSMCs were stimulated in vitro with proinflammatory cytokines (tumor necrosis factor-alpha, interferon-gamma) or poly(dA:dT) and analyzed for AIM2 transcript and protein expression.
+   Results: AIM2 was detected in ECs of the intima and vasa vasorum of normal carotid artery and aorta. Moreover, AIM2 was moderately expressed in VSMCs of normal media and intima layers, as well as in VSMCs of atherosclerotic lesions. Increased AIM2 expression was detected around the necrotic core of atherosclerotic carotid lesions and in the vasa vasorum neovasculature of aortic aneurysms. Subsequent in vitro analysis identified an endogenous AIM2 expression in cultured HAoECs, HAoSMCs, and T/G-HA-VSMCs that was markedly increased upon treatment of the cells with tumor necrosis factor-alpha, interferon-gamma, or cytosolic DNA.
+   Conclusions: ECs and VSMC are able to respond to inflammatory signals by upregulation of AIM2 expression, indicating a role of AIM2 in vascular pathogenesis.
+SN 0741-5214
+PD MAR
+PY 2014
+VL 59
+IS 3
+BP 794
+EP U591
+DI 10.1016/j.jvs.2013.03.048
+UT WOS:000332012400032
+PM 23790454
+ER
+
+EF

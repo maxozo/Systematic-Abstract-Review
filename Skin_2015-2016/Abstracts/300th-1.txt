@@ -1,0 +1,1708 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Ichihashi, T
+   Ito, T
+   Murai, S
+   Ikehara, N
+   Fujita, H
+   Suda, H
+   Ohte, N
+AF Ichihashi, Taku
+   Ito, Tsuyoshi
+   Murai, Shunsuke
+   Ikehara, Noriyuki
+   Fujita, Hiroshi
+   Suda, Hisao
+   Ohte, Nobuyuki
+TI Acute myocardial infarction due to spontaneous, localized, acute
+   dissection of the sinus of Valsalva detected by intravascular ultrasound
+   and electrocardiogram-gated computed tomography
+SO HEART AND VESSELS
+AB A 58-year-old man was referred to our hospital because of chest pain. The 12-lead electrocardiogram (ECG) revealed ST-segment elevation in II, III, and a Vf with advanced heart block. Transthoracic echocardiography demonstrated aortic root dilatation at the sinus of Valsalva, moderate aortic regurgitation, and decreased wall motion in the inferior part of the left ventricle. Non-ECG-gated enhanced computed tomography (CT) did not reveal an aortic dissection. The patient underwent emergent coronary angiography, which revealed a severely narrowed ostium of the right coronary artery (RCA). Percutaneous coronary intervention (PCI) was performed under intravascular ultrasound (IVUS) guidance. IVUS images demonstrated an intimal flap extending from the aortic wall to the proximal RCA, suggesting that a periaortic hematoma in the false lumen compressed the ostium of the RCA, leading to acute myocardial infarction. To recover hemodynamic stability, the RCA ostium was stented. Subsequent ECG-gated enhanced CT clearly depicted the entry point and extension of the dissection localized within the sinus of Valsalva. The dissection likely involved the left main coronary artery and an emergent Bentall procedure was performed. Intraoperative findings confirmed an intimal tear and extension of the dissection. Thus, ECG-gated CT can clearly depict the entry site and extension of a dissection occurring in the localized area that cannot be detected by conventional CT.
+SN 0910-8327
+EI 1615-2573
+PD SEP
+PY 2016
+VL 31
+IS 9
+BP 1570
+EP 1573
+DI 10.1007/s00380-015-0787-5
+UT WOS:000382671600022
+PM 26710761
+ER
+
+PT J
+AU Li, CY
+   Chen, YH
+   Wang, Q
+   Hou, JW
+   Wang, H
+   Wang, YP
+   Li, YG
+AF Li, Chang-Yi
+   Chen, Yi-He
+   Wang, Qian
+   Hou, Jian-Wen
+   Wang, Hong
+   Wang, Yue-Peng
+   Li, Yi-Gang
+TI Partial inhibition of activin receptor-like kinase 4 attenuates pressure
+   overload-induced cardiac fibrosis and improves cardiac function
+SO JOURNAL OF HYPERTENSION
+AB Background: Activin receptor-like kinase 4 (ALK4), a downstream receptor of transforming growth factor-beta superfamily, is highly expressed in the mammal heart. Upregulated ALK4 expression and activated ALK4-Smad2/3 signaling have been reported to play a pivotal role in tumorigenesis and in the development of systemic sclerosis. However, the role of ALK4-Smad2/3 pathway in the pathogenesis of cardiac hypertrophy and cardiac fibrosis remains unknown.
+   Methods and results: In this study, the mice with heterozygous knocking out of ALK4 gene (ALK4(+/-)) were generated and subjected to aortic banding for 4 weeks. We found that ALK4 expression was upregulated in aortic banding-induced model of cardiac hypertrophy and cardiac fibrosis in wild-type mice. Compared with the wild-type mice, ALK4(+/)-mice demonstrated a similar extent of aortic banding-induced cardiac hypertrophy, but a significant suppression of cardiac fibrosis to 64.8% of the basal level, and a subsequent amelioration in the cardiac dysfunction (left ventricle ejection fraction: 59.0-6.4 in wild-type mice vs. 75.6-3.9% in ALK4(+/)-mice; left ventricle end-diastolic pressure: 16.6-4.7mmHg in wild-type mice vs. 6.6-2.8mmHg in ALK4(+/)-mice) associated with inhibition of cardiac fibroblast activation and cardiomyocyte apoptosis. In vitro, ALK4 haploinsufficiency blocked the cellular proliferation/differentiation and collagen production in cultured cardiac fibroblasts after angiotensin-II stimulation. Mechanistically, ALK4 haploinsufficiency resulted in the suppression of Smad2/3 activity.
+   Conclusion: Our results demonstrate that ALK4 haploinsufficiency ameliorates cardiac fibrosis and dysfunction in a mouse pressure-overload model associated with inhibition of cardiac fibroblast activation and cardiomyocyte apoptosis through the suppression of Smad2/3 activity, and suggest that ALK4 is a novel therapeutic target in treating pressure overload-induced cardiac remodeling and heart failure.
+SN 0263-6352
+EI 1473-5598
+PD SEP
+PY 2016
+VL 34
+IS 9
+BP 1766
+EP 1777
+DI 10.1097/HJH.0000000000001020
+UT WOS:000380870400013
+PM 27379535
+ER
+
+PT J
+AU Caragher, SP
+   Scott, JP
+   Siegel, DH
+   Mitchell, ME
+   Frommelt, PC
+   Drolet, BA
+AF Caragher, Seamus P.
+   Scott, John P.
+   Siegel, Dawn H.
+   Mitchell, Michael E.
+   Frommelt, Peter C.
+   Drolet, Beth A.
+TI Aortic arch repair in children with PHACE syndrome
+SO JOURNAL OF THORACIC AND CARDIOVASCULAR SURGERY
+AB Background: PHACE syndrome is characterized by infantile hemangioma and developmental abnormalities of the brain, arteries of head and neck, and aortic arch.
+   Methods: We retrospectively reviewed The PHACE Syndrome International Clinical Registry to identify children with PHACE who had operative repair of aortic arch obstruction at Children's Hospital of Wisconsin.
+   Results: Seven patients (median 11 months, range 1 week-6 years) with PHACE required aortic arch reconstruction from 1996 to 2015. All needed complex surgical approaches (4 conduit grafts, 2 patch aortoplasties, 1 subclavian flap) to relieve the obstruction because of long-segment transverse and proximal descending aortic arch dysplasia that included multiple areas of stricture with adjacent aneurysmal dilatation. Aberrant origin of a subclavian artery was found in 6 of 7. The 3 children who had surgery after age 1 showed significant progression of the arch obstruction and/or adjacent aneurysmal segment dilatation after their initial infant evaluation. No deaths or perioperative complications occurred despite associated cerebrovascular arterial dysplasia in 5 of 7. Recurrent arch obstruction developed in 3 of 7 at an intermediate follow-up interval of 6.2 years (2 had interposition graft replacement at 8 and 11 years due to somatic growth; 1 had repeat patch aortoplasty 11 months after initial repair secondary to recurrent stenosis).
+   Conclusions: Extensive aortic arch reconstruction is commonly required in children with PHACE syndrome and coarctation due to the bizarre nature of the obstruction. Complete preoperative imaging is needed to fully characterize the aortic and cerebrovascular arterial anomalies. Recurrent obstruction is common given the non-native tissue techniques needed to relieve the arch anomaly.
+SN 0022-5223
+EI 1097-685X
+PD SEP
+PY 2016
+VL 152
+IS 3
+BP 709
+EP 717
+DI 10.1016/j.jtcvs.2016.03.082
+UT WOS:000382241700027
+PM 27160940
+ER
+
+PT J
+AU Ohara, T
+   Koga, M
+   Tokuda, N
+   Tanaka, E
+   Yokoyama, H
+   Minatoya, K
+   Nagatsuka, K
+   Toyoda, K
+   Minematsu, K
+AF Ohara, Tomoyuki
+   Koga, Masatoshi
+   Tokuda, Naoki
+   Tanaka, Eijirou
+   Yokoyama, Hiroyuki
+   Minatoya, Kenji
+   Nagatsuka, Kazuyuki
+   Toyoda, Kazunori
+   Minematsu, Kazuo
+TI Rapid Identification of Type A Aortic Dissection as a Cause of Acute
+   Ischemic Stroke
+SO JOURNAL OF STROKE & CEREBROVASCULAR DISEASES
+AB Background and Purpose: Patients with acute aortic dissection (AAD) sometimes present predominantly with neurological symptoms from cerebral ischemia. Such stroke patients must not receive thrombolysis therapy, which can be fatal. However, patients remain at risk if there is a failure to notice concurrent AAD. We aimed to clarify the characteristics of AAD patients with stroke to identify markers for early AAD detection before thrombolysis. Methods: Using the single-center database of Stanford type A-AAD patients between 2007 and 2013, we selected those presenting with acute focal neurological deficits, presumably due to cerebral ischemia. Results of physical, radiological, and blood examinations were assessed in AAD patients with stroke. Results: Of 226 AAD patients, 23 (10%) had stroke secondary to AAD. Of the 23 patients, 21 (91%) were primarily examined by stroke physicians and 2 (9%) by cardiologists. Thirteen patients (57%) were potential candidates for intravenous thrombolysis. Only 11 patients (48%) complained of chest/back pain. Positive findings indicating AAD included occlusion or intimal flap of the common carotid artery on carotid ultrasound in 18 (90%) of 20 patients, elevated serum D-dimer values (>= 6.9 mu g/mL) in 18 (78%) of 23, left hemiparesis as a neurological symptom in 17 (74%) of 23, systolic blood pressure differential above 20 mmHg between the arms in 15 (71%) of 21 patients, and mediastinal widening on chest radiograph in 10 (67%) of 15 patients. All 14 patients who underwent complete evaluation showed 2 or more positive diagnostic findings. Conclusions: The combination of physical, radiological, and laboratory findings may be a useful rapid-screening method for AAD as a cause of acute ischemic stroke.
+SN 1052-3057
+EI 1532-8511
+PD AUG
+PY 2016
+VL 25
+IS 8
+BP 1901
+EP 1906
+DI 10.1016/j.jstrokecerebrovasdis.2016.04.005
+UT WOS:000380937700020
+PM 27177921
+ER
+
+PT J
+AU Dillon-Murphy, D
+   Noorani, A
+   Nordsletten, D
+   Figueroa, CA
+AF Dillon-Murphy, Desmond
+   Noorani, Alia
+   Nordsletten, David
+   Figueroa, C. Alberto
+TI Multi-modality image-based computational analysis of haemodynamics in
+   aortic dissection
+SO BIOMECHANICS AND MODELING IN MECHANOBIOLOGY
+AB Aortic dissection is a disease whereby an injury in the wall of the aorta leads to the creation of a true lumen and a false lumen separated by an intimal flap which may contain multiple communicating tears between the lumina. It has a high associated morbidity and mortality, but at present, the timing of surgical intervention for stable type B dissections remains an area of debate. Detailed knowledge of haemodynamics may yield greater insight into the long-term outcomes for dissection patients by providing a greater understanding of pressures, wall shear stress and velocities in and around the dissection. In this paper, we aim to gather further insight into the complex haemodynamics in aortic dissection using medical imaging and computational fluid dynamics modelling. Towards this end, several computer models of the aorta of a patient presenting with an acute Stanford type B dissection were created whereby morphometric parameters related to the dissection septum were altered, such as removal of the septum, and the variation of the number of connecting tears between the lumina. Patient-specific flow data acquired using 2D PC-MRI in the ascending aorta were used to set the inflow boundary condition. Coupled zero-dimensional (Windkessel) models representing the distal vasculature were used to define the outlet boundary conditions and tuned to match 2D PC-MRI flow data acquired in the descending aorta. Haemodynamics in the dissected aorta were compared to those in an equivalent 'healthy aorta', created by virtually removing the intimal flap (septum). Local regions of increased velocity, pressure, wall shear stress and alterations in flow distribution were noted, particularly in the narrow true lumen and around the primary entry tear. The computed flow patterns compared favourably with those obtained using 4D PC-MRI. A lumped-parameter heart model was subsequently used to show that in this case there was an estimated 14 % increase in left ventricular stroke work with the onset of dissection. Finally, the effect of secondary connecting tears (i.e. those excluding the primary entry and exit tears) was also studied, revealing significant haemodynamic changes when no secondary tears are included in the model, particularly in the true lumen where increases in flow over and drops in peak pressure of 18 % were observed.
+RI Figueroa, C. Alberto/B-7254-2012
+OI Figueroa, C. Alberto/0000-0002-3934-6506
+SN 1617-7959
+EI 1617-7940
+PD AUG
+PY 2016
+VL 15
+IS 4
+BP 857
+EP 876
+DI 10.1007/s10237-015-0729-2
+UT WOS:000380117900008
+PM 26416312
+ER
+
+PT J
+AU Chow, BSM
+   Koulis, C
+   Krishnaswamy, P
+   Steckelings, UM
+   Unger, T
+   Cooper, ME
+   Jandeleit-Dahm, KA
+   Allen, TJ
+AF Chow, Bryna S. M.
+   Koulis, Christine
+   Krishnaswamy, Pooja
+   Steckelings, Ulrike M.
+   Unger, Thomas
+   Cooper, Mark E.
+   Jandeleit-Dahm, Karin A.
+   Allen, Terri J.
+TI The angiotensin II type 2 receptor agonist Compound 21 is protective in
+   experimental diabetes-associated atherosclerosis
+SO DIABETOLOGIA
+AB Aims/hypothesis Angiotensin II is well-recognised to be a key mediator in driving the pathological events of diabetes-associated atherosclerosis via signalling through its angiotensin II type 1 receptor (AT(1)R) subtype. However, its actions via the angiotensin II type 2 receptor (AT(2)R) subtype are still poorly understood. This study is the first to investigate the role of the novel selective AT(2)R agonist, Compound 21 (C21) in an experimental model of diabetes-associated atherosclerosis (DAA).
+   Methods Streptozotocin-induced diabetic Apoe-knockout mice were treated with vehicle (0.1 mol/l citrate buffer), C21 (1 mg/kg per day), candesartan cilexetil (4 mg/kg per day) or C21 + candesartan cilexetil over a 20 week period. In vitro models of DAA using human aortic endothelial cells and monocyte cultures treated with C21 were also performed. At the end of the experiments, assessment of plaque content and markers of oxidative stress, inflammation and fibrosis were conducted.
+   Results C21 treatment significantly attenuated aortic plaque deposition in a mouse model of DAA in vivo, in association with a decreased infiltration of macrophages and mediators of inflammation, oxidative stress and fibrosis. On the other hand, combination therapy with C21 and candesartan (AT(1)R antagonist) appeared to have a limited additive effect in attenuating the pathology of DAA when compared with either treatment alone. Similarly, C21 was found to confer profound anti-atherosclerotic actions at the in vitro level, particularly in the setting of hyperglycaemia. Strikingly, these atheroprotective actions of C21 were completely blocked by the AT(2)R antagonist PD123319.
+   Conclusions/interpretation Taken together, these findings provide novel mechanistic and potential therapeutic insights into C21 as a monotherapy agent against DAA.
+SN 0012-186X
+EI 1432-0428
+PD AUG
+PY 2016
+VL 59
+IS 8
+BP 1778
+EP 1790
+DI 10.1007/s00125-016-3977-5
+UT WOS:000379158800025
+PM 27168137
+ER
+
+PT J
+AU Ke, T
+   Han, M
+   Zhao, M
+   Wang, QK
+   Zhang, HZ
+   Zhao, YY
+   Ruan, XL
+   Li, H
+   Xu, CQ
+   Sun, TC
+AF Ke, Tie
+   Han, Meng
+   Zhao, Miao
+   Wang, Qing Kenneth
+   Zhang, Huazhi
+   Zhao, Yuanyuan
+   Ruan, Xinlong
+   Li, Hui
+   Xu, Chengqi
+   Sun, Tucheng
+TI Alpha-actin-2 mutations in Chinese patients with a non-syndromatic
+   thoracic aortic aneurysm
+SO BMC MEDICAL GENETICS
+AB Background: Aortic aneurysms and/or dissection (AADs) in the aorta are a leading cause of human morbidity and mortality. To date, data on non-syndromic thoracic AADs (TAADs) have been mainly derived from Caucasians, and the genetic basis of TAADs remains to be elucidated. In this study, we assessed gene mutations in a Chinese population with TAADs.
+   Methods: A cohort of 68 non-syndromic familial TAAD Chinese patients was screened for the most common TAAD-causing genes (ACTA2, MYH11, TGFBR1, TGFBR2, and SMAD3) using high-resolution melting (HRM) analysis. Thereafter, 142 unrelated non-syndromic sporadic cases were recruited and further analyzed using HRM analysis to estimate the prevalence of disease-causing mutations in these candidate genes.
+   Results: Two novel ACTA2 mutations (N117I and L348R) were identified in each familial TAAD proband separately, and an additional novel ACTA2 mutation (Y168N) was identified in one patient with sporadic TAADs. In contrast, none of the three mutations occurred in 480 control subjects. Also, no other gene mutations were identified in this cohort of Chinese TAAD patients.
+   Conclusions: The current study identified three novel ACTA2 mutations in Chinese TAAD patients, and these mutations represented the most predominant genes responsible for non-syndromic TAADs. In addition, HRM analysis was shown to be a sensitive and high-throughput method for screening gene mutations.
+SN 1471-2350
+PD JUL 18
+PY 2016
+VL 17
+AR 45
+DI 10.1186/s12881-016-0310-6
+UT WOS:000380285800001
+PM 27431987
+ER
+
+PT J
+AU Liu, YH
+   Ke, HY
+   Lin, YC
+   Tsai, CS
+AF Liu, Yuan-Hao
+   Ke, Hung-Yen
+   Lin, Yi-Chang
+   Tsai, Chien-Sung
+TI A penetrating atherosclerotic ulcer rupture in the ascending aorta with
+   hemopericardium: a case report
+SO JOURNAL OF CARDIOTHORACIC SURGERY
+AB Background: Acute aortic syndrome, including classic aortic dissection, intramural aortic hematoma, and penetrating atherosclerotic ulcer (PAU), is a term used to describe a group of conditions with similar clinical symptoms, but with different pathophysiological mechanisms. PAU is a lesion that penetrates the internal elastic lamina through the media. It is usually located in the descending aorta and rarely observed in the ascending aorta.
+   Case presentation: A 76-year-old man with a history of essential hypertension was brought to the emergency department (ED) because of a sudden-onset chest pain at rest. He had not been taking his medication as ordered. His vital signs in the ED were a blood pressure of 82/60 mmHg, heart rate of 158 beats per min, respiratory rate of 22 breaths per min, and a body temperature of 37.2 degrees C. An electrocardiogram did not show an ST segment elevation, and cardiac enzymes were within normal limits. No widening mediastinum was found on chest radiography, but a large pericardial effusion with an impending cardiac tamponade was revealed on echocardiography. The diagnosis of PAU rupture in the ascending aorta with hemopericardium was made with chest computed tomography. An emergent sternotomy and ascending aorta reconstruction were performed. A ruptured ulcerative plaque through the intima to the adventitia without flap dissection in the ascending aorta was confirmed. The patient was discharged 18 days after the operation.
+   Conclusions: Although PAU in the ascending aorta is uncommon, it is commonly lethal when it ruptures. With the current advances in endovascular techniques and devices, endovascular repair of PAU in the ascending aorta is currently recommended only for high-risk patients unsuitable for open repair. However, we anticipate that endovascular repair may become feasible in patients with PAU in the ascending aorta in the future.
+SN 1749-8090
+PD JUL 11
+PY 2016
+VL 11
+AR 103
+DI 10.1186/s13019-016-0502-3
+UT WOS:000381678300004
+PM 27400685
+ER
+
+PT J
+AU Nakamura, Y
+   Kawatani, Y
+   Ito, Y
+   Hori, T
+AF Nakamura, Yoshitsugu
+   Kawatani, Yohei
+   Ito, Yujiro
+   Hori, Takaki
+TI Pericardial fat flap for mycotic aneurysm of the thoracic aorta
+SO INTERACTIVE CARDIOVASCULAR AND THORACIC SURGERY
+AB Standard treatment for mycotic aneurysm of thoracic aorta is complete debridement with replacement of the aneurysm with a homograft or Dacron graft. However, contamination from surrounding tissues may occur after the graft replacement. Transposition of the viable, well-vascularized tissues should be used to fill surrounding dead space and isolate the graft to prevent reinfection. Although the omentum is regarded as the best tissue, it is not always available for use. We describe here a new alternative technique for such situations, that is, the use of a pericardial fat flap for patients with a mycotic descending thoracic aortic aneurysm.
+SN 1569-9293
+EI 1569-9285
+PD JUL
+PY 2016
+VL 23
+IS 1
+BP 176
+EP 177
+DI 10.1093/icvts/ivw094
+UT WOS:000381214000036
+PM 27059067
+ER
+
+PT J
+AU Fuchigami, T
+   Nagashima, M
+   Hiramatsu, T
+   Matsumura, G
+   Tateishi, M
+   Yamazaki, K
+AF Fuchigami, Tai
+   Nagashima, Mitsugi
+   Hiramatsu, Takeshi
+   Matsumura, Goki
+   Tateishi, Minori
+   Yamazaki, Kenji
+TI Long-Term Follow-Up of the Conal Flap Method for Tricuspid Malinsertion
+   in Transposition of the Great Arteries With Ventricular Septal Defect
+   and Pulmonary Stenosis
+SO ANNALS OF THORACIC SURGERY
+AB Background. Rastelli and reparation a l'etage ventriculaire (REV) procedures have been applied for biventricular repair of transposition of great arteries with ventricular septal defects and pulmonary stenosis (TGA III). In some patients with TGA III, whose tricuspid valve (TV) chordae tendineae are attached to the infundibular septum, abnormal TV chorda insertion may cause intracardiac rerouting obstruction. For such cases, we performed a conal flap" (CF) procedure involving mobilization of the infundibular septum including TV chordae as a pedicled flap. This study evaluated the long-term outcomes of this CF method.
+   Methods. Between October 1985 and December 1999, 17 consecutive patients with TGA III underwent a Rastelli-type or an REV-type procedure using CF. Median age at operation was 4.8 years (range, 1.5 to 14.0 years).
+   Results. The mean follow-up period was 17.8 +/- 7.2 years. One hospital death and one late death occurred. The freedom from death rates were 94.1%, 94.1%, and 85.6% at 5, 10, and 15 years, respectively. The freedom from death or reoperation rates were 94.1%, 55.8%, and 46.5% at 5, 10, and 15 years, respectively. No reoperations were performed for the left ventricular outflow tract (LVOT) or TV. The average LVOT maximum flow velocity was 1.26 +/- 0.50 m/s. TV regurgitation was greater than mild in 3 patients (20%) and trivial to mild in 12 patients (80%). Thirteen patients were in New York Heart Association (NYHA) functional class I, and 2 patients were in NYHA functional class II.
+   Conclusions. The long-term outcomes, including the daily life activities, LVOT pressure gradients, and TV regurgitation grades, were excellent in patients who underwent Rastelli-type and REV-type procedures using CF for TGA III. (C) 2016 by The Society of Thoracic Surgeons
+SN 0003-4975
+EI 1552-6259
+PD JUL
+PY 2016
+VL 102
+IS 1
+BP 186
+EP 191
+DI 10.1016/j.athoracsur.2016.01.055
+UT WOS:000378634400053
+PM 27083244
+ER
+
+PT J
+AU Beeres, M
+   Bucher, AM
+   Wichmann, JL
+   Frellesen, C
+   Scholtz, JE
+   Albrecht, M
+   Bodelle, B
+   Nour-Eldin, NEA
+   Lee, C
+   Kaup, M
+   Vogl, TJ
+   Gruber-Rouh, T
+AF Beeres, Martin
+   Bucher, Andreas M.
+   Wichmann, Julian L.
+   Frellesen, Claudia
+   Scholtz, Jan E.
+   Albrecht, Moritz
+   Bodelle, Boris
+   Nour-Eldin, Nour-Eldin A.
+   Lee, Clara
+   Kaup, Moritz
+   Vogl, Thomas J.
+   Gruber-Rouh, Tatjana
+TI Improved visual delineation of the intimal flap in Stanford type A and B
+   dissections at 3rd generation dual-source high-pitch CT angiography
+SO RADIOLOGIA MEDICA
+AB Evaluation of the intimal flap visibility comparing 2nd and 3rd generation dual-source high-pitch CT.
+   Twenty-five consecutive patients with aortic dissection underwent CT angiography on a second and third generation dual-source CT scanner using prospective ECG-gated high-pitch dual-source CT acquisition mode. Contrast material, saline flush and flow rate were kept equal for optimum comparability. The visibility of the intimal flap as well as the delineation of the different vascular structures was evaluated.
+   In 3rd generation dual-source high-pitch CT we could show a significant improvement of intimal flap visibility in aortic dissection. Especially, the far end of the dissection membrane could be better evaluated in 3rd generation high-pitch CT, reaching statistical significance (P < 0.01).
+   3rd Generation high-pitch CT angiography shows a better delineation of the aortic intimal flap in a small patient cohort, especially in the far ends of the dissection membrane. This might be due to higher tube power in this CT generation. However, to generalise these findings larger trials are needed.
+SN 0033-8362
+EI 1826-6983
+PD JUL
+PY 2016
+VL 121
+IS 7
+BP 573
+EP 579
+DI 10.1007/s11547-016-0634-5
+UT WOS:000377934500005
+PM 27100720
+ER
+
+PT J
+AU Carr, JA
+AF Carr, John Alfred
+TI Blunt traumatic infrarenal aortic intimal flap progressing to
+   pseudoaneurysm over 3 months
+SO JOURNAL OF SURGICAL CASE REPORTS
+AB Blunt traumatic infrarenal aortic injuries are unusual, and the formation of a delayed pseudoaneurysm of the aorta is even more rare. In this report, a young woman developed a small intimal flap of the infrarenal aorta after a motor vehicle accident which progressed into a 3 cm pseudoaneurysm after 3 months. Operative repair was successful and the patient recovered. This case illustrates the importance of repeat imaging of small blunt aortic injuries since progression can occur.
+SN 2042-8812
+PD JUN
+PY 2016
+IS 6
+AR rjw099
+DI 10.1093/jscr/rjw099
+UT WOS:000381194200005
+ER
+
+PT J
+AU Lee, JH
+   Choi, HJ
+   Jung, KH
+   Oh, MH
+   Kim, JH
+   Lee, YM
+AF Lee, Jun Ho
+   Choi, Hwan Jun
+   Jung, Kyu Hwa
+   Oh, Mee Hye
+   Kim, Jun Hyuk
+   Lee, Young Man
+TI Pathologic Patency Analysis of the Descending Branch of the Lateral
+   Femoral Circumflex Artery in Head and Neck Reconstruction
+SO JOURNAL OF CRANIOFACIAL SURGERY
+AB The pathophysiology of atherosclerotic lesion progression shows that the composition of an atherosclerotic lesion is related to the clinical status of the patient. In humans, certain artery types, such as the coronary artery, renal artery, and internal carotid artery at the level of the carotid sinus and aorta, are prone to develop clinically manifested atherosclerosis, whereas other artery types remain free of atherosclerotic disease. In head and neck reconstruction, various flaps are used. Especially, anterolateral thigh free flap is a good option for reconstruction. The descending branch of the lateral femoral circumflex artery (DLFCA) is useful as an alternative arterial graft and pedicle for anterolateral thigh flaps. However, no pathophysiological study has determined whether the DLFCA is atherosclerosis resistant. The authors studied the morphological characteristics of the DLFCA and assessed the correlation with the degree of atherosclerotic change. Seventeen perforators originating from the DLFCA were selected. All sections were classified into 6 lesion types according to the American Heart Association. Seven sections contained a stenotic area of at least 25% and 1 section was > 50%. All sections were classified as type 1. In conclusion, the DLFCA only has physiological adaptation in the intimal layer and no relationship with atherosclerotic risk factors. Therefore, the DLFCA is atherosclerosis resistant and surgeons should not hesitate to use the DLFCA.
+SN 1049-2275
+EI 1536-3732
+PD JUN
+PY 2016
+VL 27
+IS 4
+BP E385
+EP E389
+DI 10.1097/SCS.0000000000002650
+UT WOS:000378088800024
+PM 27192655
+ER
+
+PT J
+AU Havelka, GE
+   Tomita, TM
+   Malaisrie, SC
+   Ho, KJ
+   Eskandari, MK
+AF Havelka, George E.
+   Tomita, Tadaki M.
+   Malaisrie, S. Chris
+   Ho, Karen J.
+   Eskandari, Mark K.
+TI Two Cases of Aortic Intimal Intussusception During Endovascular Repair
+   of an Acute Type B Dissection
+SO JOURNAL OF ENDOVASCULAR THERAPY
+AB Purpose: To raise awareness of a previously undescribed complication of thoracic endovascular aortic repair (TEVAR) for aortic dissection that can lead to acute aortic occlusion and to highlight that early recognition, excision of the intimal flap, and open aortic repair can be lifesaving. Case Report: Two patients underwent TEVAR for acute type B dissections complicated by abdominal malperfusion syndrome. During stent-graft deployment, the intimal flap circumferentially detached from its origin proximally with subsequent intussusception, leading to acute aortic occlusion. Both complications were recognized intraoperatively with immediate conversion to open aortic reconstruction and intimal flap excision. The first patient required an infrarenal aortobi-iliac bypass, while the second had an open aortic fenestration and bovine pericardial patch repair of the aortotomy. Their postoperative courses were uneventful. Follow-up imaging revealed excellent stent-graft approximation without endoleak and thrombosis of the false lumen. Conclusion: Aortic intimal flap detachment and intussusception is a rare but potentially fatal complication of TEVAR for acute complicated aortic dissection. Quick diagnosis and a low threshold for conversion to open repair are critical in achieving a successful outcome.
+SN 1526-6028
+EI 1545-1550
+PD JUN
+PY 2016
+VL 23
+IS 3
+BP 521
+EP 528
+DI 10.1177/1526602816644917
+UT WOS:000376287000018
+PM 27099283
+ER
+
+PT J
+AU van Twist, DJL
+   Houben, AJHM
+   de Haan, MW
+   de Leeuw, PW
+   Kroon, AA
+AF van Twist, Daan J. L.
+   Houben, Alphons J. H. M.
+   de Haan, Michiel W.
+   de Leeuw, Peter W.
+   Kroon, Abraham A.
+TI Renal hemodynamics and renin-angiotensin system activity in humans with
+   multifocal renal artery fibromuscular dysplasia
+SO JOURNAL OF HYPERTENSION
+AB Background: Fibromuscular dysplasia (FMD) is the second most common cause of renovascular hypertension. Nonetheless, knowledge on the renal microvasculature and renin-angiotensin system (RAS) activity in kidneys with FMD is scarce. Given the fairly good results of revascularization, we hypothesized that the renal microvasculature and RAS are relatively spared in kidneys with FMD.
+   Method: In 58 hypertensive patients with multifocal renal artery FMD (off medication) and 116 matched controls with essential hypertension, we measured renal blood flow (133 Xenon washout method) per kidney and drew blood samples from the aorta and both renal veins to determine renin secretion and glomerular filtration rate per kidney.
+   Results: We found that renal blood flow and glomerular filtration rate in FMD were comparable to those in controls. Although systemic renin levels were somewhat higher in FMD, renal renin secretion was not elevated. Moreover, in patients with unilateral FMD, no differences between the affected and unaffected kidney were observed with regard to renal blood flow, glomerular filtration rate, or renin secretion. In men, renin levels and renin secretion were higher as compared with women. The renal blood flow response to RAS modulation (by intrarenal infusion of angiotensin II, angiotensin-(1-7), an angiotensin II type 1 receptor blocker, or a nitric oxide synthase blocker) was also comparable between FMD and controls.
+   Conclusion: Renal blood flow, glomerular filtration, and the response to vasoactive substances in kidneys with multifocal FMD are comparable to patients with essential hypertension, suggesting that microvascular function is relatively spared. Renin secretion was not increased and the response to RAS modulation was not affected in kidneys with FMD.
+SN 0263-6352
+EI 1473-5598
+PD JUN
+PY 2016
+VL 34
+IS 6
+BP 1160
+EP 1169
+DI 10.1097/HJH.0000000000000917
+UT WOS:000375146000021
+PM 27032075
+ER
+
+PT J
+AU Sun, W
+   Ma, XJ
+   Zhang, F
+   Miao, WL
+   Wang, CR
+   Cai, ZD
+AF Sun, Wei
+   Ma, Xiao-jun
+   Zhang, Fan
+   Miao, Wei-liang
+   Wang, Chong-ren
+   Cai, Zheng-dong
+TI Surgical Treatment of Sacral Neurogenic Tumor: A 10-year Experience with
+   64 Cases
+SO ORTHOPAEDIC SURGERY
+AB ObjectiveTo explore the outcomes of surgical treatment of sacral neurogenic tumors
+   MethodsBetween 1 January 2003 and 31 December 2012, data on 64 patients with sacral neurogenic tumors treated with surgery were retrospectively analyzed. The mean age of the 64 cases (35 males and 29 females) was 37.2years (range, 21-69years); 38 had neurilemmomas and 26 neurofibromas. Thirty-four of the tumors involved S (1) and S (2), 11 S (3) or lower, and 19 were single presacral soft tissue masses. Tumors were removed via anterior, posterior or combined anteroposterior approaches. Patients with unstable sacroiliac joints underwent iliolumbar fixation.
+   ResultsDepending on the extent of tumor involvement, one of three surgical approaches was used: a single anterior approach (19 patients), single posterior approach (25 patients), or a combined anteroposterior approach (20 patients). The mean operation time was 3h (range, 2-6h) and the mean blood loss 878mL (range, 400-3120mL). The mean duration of follow-up was 58.2months (range, 24-93months). These surgeries had the following complications. Three patients had massive intraoperative hemorrhage and posterior back pain and discomfort postoperatively. One patient had intraoperative ureteral injuries requiring intraoperative ureteral catheterization. In two patients, the tumor involved the S (1) nerve roots bilaterally, necessitating their removal, which resulted in obvious lower limb motion and sphincteric dysfunction. In 13 patients with unilateral tumor involvement of the nerve roots of S (1) and lower spinal levels, only the contralateral nerve roots of the S-1 and lower levels were preserved; eight of these patients had impaired bladder and bowel function. Posterior incisions failed to heal in 10 patients, secondary wound healing occurred in nine of them and one required a gluteus maximus myocutaneous flap. Three patients developed postoperative cerebrospinal fluid leaks that were and alleviated by waist belt compression bandaging and placing them in the Trendelenburg position. Eight patients developed tumor recurrences postoperatively; pathological examination of the tissue excised in the second surgeries revealed malignant changes in the three patients with neurilemmomas. There were no intraoperative deaths. Rod fractures occurred in three of the 18 patients requiring iliolumbar reconstruction.
+   ConclusionsThe clinical characteristics of sacral neurogenic tumors make them easy to diagnose. The approach to resection should be determined by the location and size of the tumor. Patients with huge tumors may lose considerable blood intraoperatively and a have higher risk rate of postoperative complications.
+SN 1757-7853
+EI 1757-7861
+PD MAY
+PY 2016
+VL 8
+IS 2
+BP 162
+EP 170
+DI 10.1111/os.12245
+UT WOS:000380168300008
+PM 27384724
+ER
+
+PT J
+AU Wang, JL
+   Chen, CC
+   Wang, CY
+   Hsieh, MJ
+   Chang, SH
+   Lee, CH
+   Chen, DY
+   Hsieh, IC
+AF Wang, Jian-Liung
+   Chen, Chun-Chi
+   Wang, Chao-Yung
+   Hsieh, Ming-Jer
+   Chang, Shang-Hung
+   Lee, Cheng-Hung
+   Chen, Dong-Yi
+   Hsieh, I-Chang
+TI Acute Type A Aortic Dissection Presenting as ST-Segment Elevation
+   Myocardial Infarction Referred for Primary Percutaneous Coronary
+   Intervention
+SO ACTA CARDIOLOGICA SINICA
+AB Background: When acute aortic dissection is complicated with acute myocardial infarction, the diagnosis of dissection can be problematic. In these cases, patients might be treated with primary percutaneous coronary intervention (PCI) and suffer acatastrophic outcome. However, there are few reports or algorithm to facilitate the accurate management of this clinical situation.
+   Methods: We evaluated 385 consecutive patients who underwent primary PCI arising from an initial diagnosis of STEMI at our hospitalbetween January 2006 and March 2011. Clinical characteristics, coronary angiographic findings, and outcomes were obtained from medical charts and databases.
+   Results: Five patients (1.3%) with STEMI secondary to aortic dissection were identified. All patients (100%) had sudden-onset of chest pain and a history of hypertension without diabetes or hyperlipidemia. An increased resistance while advancing the diagnostic catheter was reported by the operators in 3 of 5 patients (60%). Aortography performed by manual contrast-medium injection showed the discrepancy in the diameter between the aortic root and the ascending aorta in 4 patients (100%), and ascending aortic intimal flap dissections were noted in 3 patients (75%). Alternating appearance and disappearance of the coronary artery ostium was observed in 2 patients, and bedside echocardiography showed intimal flap extension inall 4 patients (100%) who underwent this examination. The mortality rate at 30days was 40%.
+   Conclusions: We construct an algorithm that incorporated factors including careful history evaluation, bedside echocardiography, resistance encountered while advancing a catheter, and findings of aortography performed with manual injection,which could b evaluable for this clinical situation.
+SN 1011-6842
+PD MAY
+PY 2016
+VL 32
+IS 3
+BP 265
+EP 272
+DI 10.6515/ACS20150424J
+UT WOS:000376219500002
+PM 27274166
+ER
+
+PT J
+AU Thorbjornsen, K
+   Gidlund, KD
+   Bjorck, M
+   Kragsterman, B
+   Wanhainen, A
+AF Thorbjornsen, K.
+   Gidlund, K. Djavani
+   Bjorck, M.
+   Kragsterman, B.
+   Wanhainen, A.
+TI Editor's Choice - Long-term Outcome After EndoVAC Hybrid Repair of
+   Infected Vascular Reconstructions
+SO EUROPEAN JOURNAL OF VASCULAR AND ENDOVASCULAR SURGERY
+AB Objective/Background: Vascular graft infection is a serious and challenging complication. In situations when neither traditional radical surgery nor conservative negative pressure wound therapy (VAC) alone, are considered feasible or safe, for example due to bleeding, adverse anatomy, or severe comorbidity, a novel hybrid procedure was developed. The EndoVAC technique consists of (i) relining of the infected reconstruction with a stent graft; (ii) surgical revision (without clamping the reconstruction); and (iii) VAC therapy, to permit granulation and secondary delayed healing, and long-term antibiotic treatment. The aim of the study is to report long-term follow up data of this new treatment modality.
+   Methods: From November 2007 to June 2015, 17 EndoVAC procedures were performed in 16 patients (eight men, aged 16-91 years): six infected carotid patches after carotid endarterectomy, three infected neck deviations, two infected femoro-popliteal bypasses, three infected patches after femoral thrombo-endarterectomy, and two infected vascular accesses. Surveillance was performed routinely every 3-6 months and included clinical examination, hematologic tests, duplex ultrasonography, and imaging techniques, including 18F-fluorodeoxyglucose positron emission tomography/computed tomography.
+   Results: Primary technical success rate was 100%. Antibiotics were prescribed for a median of 3 months (range 1-20 months). The median duration of VAC treatment was 14 days (range 9-57 days). Complications included early, transient stroke (n = 1), temporary hypoglossal palsy (n = 1), and late, asymptomatic occluded bypasses (n = 2), stent graft thrombosis (n = 1), and moderate carotid stenosis (n = 1). After a median of 5 years (range 1-90 months) of follow up, all patients had healed graft infections with no recurrence was observed. Eight patients died as a result of severe comorbidities, unrelated to the infection or hybrid procedure, 1 month 7 years after treatment.
+   Conclusion: The EndoVAC technique is an alternative, less invasive, option for treatment of infected vascular reconstructions in selected cases, when neither traditional radical surgery, nor conservative simple negative pressure wound therapy are considered feasible or safe. The exact indications for this alternative hybrid treatment need to be established. (C) 2016 European Society for Vascular Surgery. Published by Elsevier Ltd. All rights reserved.
+SN 1078-5884
+EI 1532-2165
+PD MAY
+PY 2016
+VL 51
+IS 5
+BP 724
+EP 732
+DI 10.1016/j.ejvs.2016.01.011
+UT WOS:000376213600023
+PM 26944600
+ER
+
+PT J
+AU Mohamed, BA
+   Schnelle, M
+   Khadjeh, S
+   Lbik, D
+   Herwig, M
+   Linke, WA
+   Hasenfuss, G
+   Toischer, K
+AF Mohamed, Belal A.
+   Schnelle, Moritz
+   Khadjeh, Sara
+   Lbik, Dawid
+   Herwig, Melissa
+   Linke, Wolfgang A.
+   Hasenfuss, Gerd
+   Toischer, Karl
+TI Molecular and structural transition mechanisms in long-term volume
+   overload
+SO EUROPEAN JOURNAL OF HEART FAILURE
+AB AimWe have previously reported that early phase (1week) of experimental volume overload (VO) has an adaptive phenotype while wall stress-matched pressure overload (PO) is maladaptive. Here we investigate the transition from adaptation to heart failure (HF) in long-term VO.
+   Methods and resultsFVB/N wild-type mice were subjected to VO induced by aortocaval shunt, and were followed by serial echocardiography until in vivo left ventricular ejection fraction was below <50% (13535days). Heart failure was evident from increased lung and liver weight and increased mortality compared with sham. Maladaptive remodelling resulted in significantly reduced sarcomeric titin phosphorylation (causing increased sarcomeric stiffness), whereas interstitial fibrosis was not increased. This was paralleled by re-expression of the fetal gene program, activation of calcium/calmodulin-dependent protein kinase II (CaMKII), decreased protein kinase B (Akt) phosphorylation, high oxidative stress, and increased apoptosis. Consistently, development of HF and mortality were significantly aggravated in Akt-deficient mice.
+   ConclusionTransition to HF in VO is associated with decreased Akt and increased CaMKII signalling pathways together with increased oxidative stress and apoptosis. Lack of interstitial fibrosis together with sarcomeric titin hypophosphorylation indicates an increased stiffness at the sarcomeric but not matrix level in VO-induced HF (in contrast to PO). Transition to HF may result from myocyte loss and myocyte dysfunction owing to increased stiffness.
+SN 1388-9842
+EI 1879-0844
+PD APR
+PY 2016
+VL 18
+IS 4
+BP 362
+EP 371
+DI 10.1002/ejhf.465
+UT WOS:000374308700005
+PM 26694078
+ER
+
+PT J
+AU Spear, R
+   Sobocinski, J
+   Settembre, N
+   Tyrrell, MR
+   Malikov, S
+   Maurel, B
+   Haulon, S
+AF Spear, R.
+   Sobocinski, J.
+   Settembre, N.
+   Tyrrell, M. R.
+   Malikov, S.
+   Maurel, B.
+   Haulon, S.
+TI Early Experience of Endovascular Repair of Post-dissection Aneurysms
+   Involving the Thoraco-abdominal Aorta and the Arch
+SO EUROPEAN JOURNAL OF VASCULAR AND ENDOVASCULAR SURGERY
+AB Objectives: Outcomes are reported in management of post-dissection aneurysms involving the aortic arch and/or thoraco-abdominal segment (TAAA) treated with fenestrated and branched (complex) endografts.
+   Methods: This report includes all patients with chronic post-dissection aneurysms >55 mm in diameter, deemed unfit for open surgery, treated using complex endografts between October 2011 and March 2015. When appropriate, staged management strategies including left subclavian artery revascularization, thoracic endografting, dissection flap fenestration or tear enlargement, and other endovascular procedures were performed at least 3 weeks prior to definitive complex endovascular repair. The following outcome data were collected prospectively at discharge, 12 months and annually thereafter: technical success, endoleaks, target vessel patency, false lumen patency, aneurysm diameter, major and minor complications, re-interventions, and mortality.
+   Results: The cohort comprised 23 patients with a median age of 65 years. Staged procedures were performed in 14 patients (61%). Seven patients with dissections involving the arch were treated with inner branched endografts, and 16 TAAA patients were treated with fenestrated or branched endografts. The technical success rate was 71% following arch repair and 100% following TAAA repair. During early follow up, one, of the arch group patients died and one in the TAAA group suffered spinal cord ischemia. The median follow up was 12 months (range 3-48), during which time one patient died of causes unrelated to aneurysm or treatment. Two early re interventions were performed in the arch group to correct access vessel complications and there were a further two late re-interventions in the TAAA group to treat endoleaks. All target vessels (n = 72) remained patent.
+   Conclusions: This experience indicates that complex endovascular repair of post-dissection aneurysms is a viable alternative to open repair in patients deemed unfit for open surgery. There are insufficient data to allow comparison with the outcome of open surgery in anatomically similar, but fit, patients. (C) 2015 European Society for Vascular Surgery. Published by Elsevier Ltd. All rights reserved.
+OI Martin Gonzalez, Teresa/0000-0002-6280-4720
+SN 1078-5884
+EI 1532-2165
+PD APR
+PY 2016
+VL 51
+IS 4
+BP 488
+EP 497
+DI 10.1016/j.ejvs.2015.10.012
+UT WOS:000374618400006
+PM 26680449
+ER
+
+PT J
+AU Marumoto, A
+   Iwata, K
+AF Marumoto, Akira
+   Iwata, Keiji
+TI Rupture of an extended mycotic aneurysm of the descending thoracic aorta
+   in a multiple myeloma patient undergoing anti-myeloma therapy
+SO GENERAL THORACIC AND CARDIOVASCULAR SURGERY
+AB Infectious complications in patients with multiple myeloma remain the main cause of mortality because of disease-related immunodeficiency. A mycotic aortic aneurysm caused by Burkhoderia cepacia, which has been recognized as nosocomial pathogen in immunocompromised populations, is very rare and only few cases have been reported in the literature. We describe an unusual case of a ruptured mycotic aneurysm of the descending thoracic aorta with a DeBakey IIIb aortic dissection caused by Burkhoderia cepacia in a patient with active multiple myeloma during chemotherapy with anti-myeloma agents. Successful treatment of this mycotic aneurysm included appropriate antibiotic therapy and replacement of the aortic arch and the descending aorta for the extensive debridement of all infected aortas. This was followed by the wrapping of a prosthetic graft with a well-vascularized tissue flap of the greater omentum and of the latissimus dorsi muscle.
+SN 1863-6705
+EI 1863-6713
+PD MAR
+PY 2016
+VL 64
+IS 3
+BP 163
+EP 166
+DI 10.1007/s11748-014-0415-9
+UT WOS:000378425700009
+PM 24890088
+ER
+
+PT J
+AU Charilaou, P
+   Ziganshin, BA
+   Peterss, S
+   Rajbanshi, BG
+   Rajakaruna, C
+   Zaza, KJ
+   Salloum, MN
+   Mukherjee, A
+   Tranquilli, M
+   Rizzo, JA
+   Elefteriades, JA
+AF Charilaou, Paris
+   Ziganshin, Bulat A.
+   Peterss, Sven
+   Rajbanshi, Bijoy G.
+   Rajakaruna, Cha
+   Zaza, Khaled J.
+   Salloum, Mohammad N.
+   Mukherjee, Alexander
+   Tranquilli, Maryann
+   Rizzo, John A.
+   Elefteriades, John A.
+TI Current Experience With Acute Type B Aortic Dissection: Validity of the
+   Complication-Specific Approach in the Present Era
+SO ANNALS OF THORACIC SURGERY
+AB Background. Our group proposed in 1992 a "complication-specific approach" for the management of acute aortic dissection type B (TBAD), with uncomplicated cases being treated with medical therapy. In this study, we evaluate the efficacy of this management in in-hospital and postdischarge survival.
+   Methods. Between 1999 and 2014, 123 consecutive acute TBAD patients were treated at our institution. We compared complicated (rupture/impending rupture, malperfusion, expansion) vs uncomplicated TBAD, as well as TBAD with a dissection flap vs intramural hematoma/penetrating aortic ulcer.
+   Results. A total of 103 patients (84%) were strictly managed according to the complication-specific approach, with 93% in-hospital survival. Twenty deviated from complication-specific approach management (triaged to operation by complication-specific approach, but inoperable for a variety of reasons). Independent risk factors for a complicated course in the dissection flap subgroup (n = 89) were history of coronary artery disease (odds ratio. 3.139; p = 0.04) and maximum aortic diameter exceeding 5 cm odds ratio, 4.586; p = 0.005). Uncomplicated patients were treated medically with antiimpulse therapy. Among the 103 patients treated with the complication-specific approach, long-term survival was 83%, 78%, 71% and 47% at 1, 3, 5, and 10 years, respectively. Between the uncomplicated and complicated groups, 8-year survival was 55% and 49%, respectively (log-rank p = 0.03). Uncomplicated patients showed comparable 6-year survival (log-rank p = 0.06) to matched normal population controls.
+   Conclusions. Patients managed with the complication-specific approach showed an overall satisfactory long-term survival over 10 years. No in-hospital deaths occurred in patients with uncomplicated, medically treated acute TBAD, with comparable long-term survival to a matched normal population. These good long-term results provide counterbalancing perspective when considering routine thoracic endovascular aortic repair for all TBAD patients. (C) 2016 by The Society of Thoracic Surgeons
+SN 0003-4975
+EI 1552-6259
+PD MAR
+PY 2016
+VL 101
+IS 3
+BP 936
+EP 944
+DI 10.1016/j.athoracsur.2015.08.074
+UT WOS:000370339700024
+PM 26518373
+ER
+
+PT J
+AU Kuriyama, M
+   Yano, A
+   Yoshida, Y
+   Kubo, M
+   Akita, S
+   Mitsukawa, N
+   Satoh, K
+   Yamamoto, S
+   Sasaguri, S
+   Orihashi, K
+AF Kuriyama, Motone
+   Yano, Akiko
+   Yoshida, Yukitaka
+   Kubo, Maiko
+   Akita, Shinsuke
+   Mitsukawa, Nobuyuki
+   Satoh, Kaneshige
+   Yamamoto, Shin
+   Sasaguri, Shiro
+   Orihashi, Kazumasa
+TI Reconstruction using a divided latissimus dorsi muscle flap after
+   conventional posterolateral thoracotomy and the effectiveness of
+   indocyanine green-fluorescence angiography to assess intraoperative
+   blood flow
+SO SURGERY TODAY
+AB In most general thoracic operations performed via standard posterolateral thoracotomy, such as for descending aortic aneurysms and lung cancer, the latissimus dorsi (LD) muscle is divided. However, division of the LD can hamper reconstructive surgery because the initial operation creates unstable blood flow to the divided LD. We conducted this study to assess blood flow in a divided distal LD muscle flap using intraoperative indocyanine green-fluorescence angiography (ICG-FA) with the Hyper Eye Medical System(A (R)) (Mizuho Medical Co., Ltd., Tokyo, Japan).
+   The subjects were 11 patients who underwent posterolateral thoracotomy with reconstructive surgery using a divided distal LD and other peripheral muscle flaps. Intraoperative ICG-FA was conducted to assess blood flow to the LD.
+   Intraoperative ICG-FA revealed that at least two intercostal perforators from the sixth to the tenth intercostal spaces were preserved as feeding vessels to the divided distal LD. There were no major complications associated with inadequate blood flow to the muscle flaps.
+   Intraoperative ICG-FA proved extremely useful for assessing altered blood flow of the divided LD and for selecting preserved intercostal perforators.
+SN 0941-1291
+EI 1436-2813
+PD MAR
+PY 2016
+VL 46
+IS 3
+BP 326
+EP 334
+DI 10.1007/s00595-015-1181-8
+UT WOS:000369914200010
+PM 25940758
+ER
+
+PT J
+AU Song, KH
+   Park, JH
+   Jo, I
+   Park, JY
+   Seo, J
+   Kim, SA
+   Cho, DH
+AF Song, Kee-Ho
+   Park, Jung-Hyun
+   Jo, Inho
+   Park, Joong-Yeol
+   Seo, Jungwon
+   Kim, Soon Ae
+   Cho, Du-Hyong
+TI Telmisartan attenuates hyperglycemia-exacerbated VCAM-1 expression and
+   monocytes adhesion in TNF alpha-stimulated endothelial cells by
+   inhibiting IKK beta expression
+SO VASCULAR PHARMACOLOGY
+AB Uncontrolled hyperglycemia accelerates endothelial damage and vascular inflammation caused by proinflammatory cytokines including tumor necrosis factor alpha (TNF alpha), which leads to arteriosclerotic cardiovascular diseases such as myocardial infarction. Telmisartan, an angiotensin II type 1 receptor blocker (ARB), is prescribed for treatment of hypertensive patients with concurrent diabetes mellitus (DM). Although a few clinical trials have suggested that telmisartan decreases cardiovascular complications in diabetic patients, the molecular mechanism for the beneficial effects remains elusive. Here, we investigated a molecular mechanism and effects of telmisartan on the expression of vascular cell adhesion molecule-1 (VCAM-1) and attachment of monocytes onto endothelial cells induced by TNF alpha in hyperglycemia-treated bovine aortic endothelial cells (BAEC). Telmisartan dose-dependently decreased hyperglycemia-aggravated I kappa B kinase eta (IKK beta) expression and nuclear factor-kappa B (NF-kappa B) p65-Ser(536) phosphorylation, which accompanied a decrease in VCAM-1 expression and THP-1 monocytes adhesion. Among ARBs, including losartan and fimasartan, only telmisartan showed the inhibitory effects on expression of VCAM-1 and IKK beta, and phosphorylation of NF-kappa B p65-Ser(536). The telmisartan's beneficial effects were not changed by pretreatment with GW9662, a specific and irreversible peroxisome proliferatoractivated receptory (PPARy) antagonist, although GW9662 clearly inhibited rosiglitazone-induced CD36 expression. Finally, ectopic expression of wild type (WT)-IKK beta significantly restored telmisartan-attenuated VCAM-1 expression, NF-kappa B p65-Ser(536) phosphorylation, and THP-1 monocytes adhesion. Taken together, our findings demonstrate that telmisartan ameliorates hyperglycemia-exacerbated vascular inflammation, at least in part, by decreasing expression of IKK beta and VCAM-1 independently of PPAR gamma. Telmisartan may be useful for the treatment of DM-associated vascular inflammation and cardiovascular diseases. (C) 2015 Elsevier Inc All rights reserved.
+OI Park, Jung-Hyun/0000-0001-9060-6935
+SN 1537-1891
+EI 1879-3649
+PD MAR
+PY 2016
+VL 78
+BP 43
+EP 52
+DI 10.1016/j.vph.2015.10.001
+UT WOS:000370114800006
+PM 26455386
+ER
+
+PT J
+AU Zhou, YZ
+   Wang, SJ
+   Qiu, ZH
+   Song, XX
+   Pan, YJ
+   Hu, XJ
+   Zhang, HR
+   Deng, YH
+   Ding, D
+   Wu, HL
+   Yang, SJ
+   Wang, M
+   Zhou, ZH
+   Liao, YH
+   Chen, X
+AF Zhou, Yanzhao
+   Wang, Shijia
+   Qiu, Zhihua
+   Song, Xiaoxiao
+   Pan, Yajie
+   Hu, Xiajun
+   Zhang, Hongrong
+   Deng, Yihuan
+   Ding, Dan
+   Wu, Hailang
+   Yang, Shijun
+   Wang, Min
+   Zhou, Zihua
+   Liao, Yuhua
+   Chen, Xiao
+TI ATRQ beta-001 vaccine prevents atherosclerosis in apolipoprotein E-null
+   mice
+SO JOURNAL OF HYPERTENSION
+AB Objective:Angiotensin II (AngII) type 1 receptor (AT(1)R) blockers have been proved to reduce atherosclerosis. Previously, we have invented ATRQ-001 vaccine which showed a desirable blocking effect for AT(1)R. The purpose of this study was to investigate whether ATRQ-001 vaccine would prevent atherosclerosis in apolipoprotein E-null (ApoE(-/-)) mice.Methods:Male ApoE(-/-) mice were administered with ATRQ-001 vaccine, Q virus-like particles, valsartan or vehicle over a period of 24 weeks. In vitro, human coronary artery endothelial cells preincubated with the anti-ATR-001 antibody, the neutralization antibody or valsartan for 2h, were treated with AngII for 24h. Histological stain and molecule biology methods were used to assess the atheroprotective effect of the vaccine.Results:ATRQ-001 vaccine significantly reduced the lesion area and promoted the stability of atherosclerotic plaque. Meanwhile, macrophage infiltration as well as the expressions of adhesion molecules and monocyte chemoattractant protein-1 was obviously decreased in the ATRQ-001 vaccine group. Additionally, the vaccine markedly reduced the apoptosis in the lesions of the ApoE(-/-) mice. In vitro, the anti-ATR-001 antibody inhibited endothelial apoptosis induced by AngII. Furthermore, ATRQ-001 vaccine exhibited a dramatical attenuation in the expressions of lectin-like oxidized low-density lipoprotein receptor-1 and AT(1)R in the aortic. More importantly, compared with the valsartan group, no obvious feedback of the plasma renin-angiotensin system was elicited in the vaccine group.Conclusion:The results demonstrated that ATRQ-001 vaccine reduced the progression of atherosclerosis in ApoE(-/-) mice without obvious feedback of renin-angiotensin system.
+SN 0263-6352
+EI 1473-5598
+PD MAR
+PY 2016
+VL 34
+IS 3
+BP 474
+EP 485
+DI 10.1097/HJH.0000000000000835
+UT WOS:000369428100015
+PM 26771341
+ER
+
+PT J
+AU Zhao, LF
+   Jin, H
+   Yang, B
+   Zhang, SC
+   Han, SB
+   Yin, F
+   Feng, YY
+AF Zhao, Lingfeng
+   Jin, Hui
+   Yang, Bin
+   Zhang, Shichao
+   Han, Shengbin
+   Yin, Fang
+   Feng, Yaoyu
+TI Correlation Between ABCA1 Gene Polymorphism and aopA-I and HDL-C in
+   Abdominal Aortic Aneurysm
+SO MEDICAL SCIENCE MONITOR
+AB Background: As the most common type of aneurysm, abdominal aortic aneurysm (AAA) has an unfavorable prognosis due to the high frequency of rupture. Studies have indicated a close relationship between the pathogenesis and progression of AAA and abnormal serum lipid levels. ATP-binding cassette transport protein A1 (ABCA1) is a cell-surface protein facilitating cellular efflux of cholesterol. The single-nucleotide polymorphism (SNP) of ABCA1 gene has been suggested to be correlated with abnormal metabolism of lipids. Therefore, this study aimed to investigate the relationship between ABCA1 polymorphism and apoA-I and HDL-C in an attempt to elucidate its correlation with AAA occurrence.
+   Material/Methods: We included 126 AAA patients and 119 healthy controls in this study. PCR and restriction fragment length polymorphism (RFLP) were used to detect the SNP pattern of ABCA1 gene at locus rs2230806 from both AAA patients and healthy controls. The distribution pattern and correlation with apoA-I and HDL-C was analyzed.
+   Results: The distribution of KK/RR genotype of ABCA1 gene had significant difference between disease and control group, with lower rates of RR genotype and R allele in the disease group (p<0.05). Levels of apoA-I and HDL-C, but not triglyceride and LDL-C levels, in AAA patients who carried R allele in ABCA1 gene (including RR and RK genotypes) were higher than in non-carriers (p<0.05). The R allele of ABCA1 gene was shown to be related with the occurrence of AAA (p<0.05).
+   Conclusions: Polymorphism of ABCA1 gene is correlated with AAA occurrence, possibly via the regulation of serum lipid metabolism by R allele.
+SN 1643-3750
+PD JAN 17
+PY 2016
+VL 22
+UT WOS:000368104700001
+ER
+
+PT J
+AU Sakamoto, Y
+   Koga, M
+   Ohara, T
+   Ohyama, S
+   Matsubara, S
+   Minatoya, K
+   Nagatsuka, K
+   Toyoda, K
+AF Sakamoto, Yuki
+   Koga, Masatoshi
+   Ohara, Tomoyuki
+   Ohyama, Satoshi
+   Matsubara, Soichiro
+   Minatoya, Kenji
+   Nagatsuka, Kazuyuki
+   Toyoda, Kazunori
+TI Frequency and Detection of Stanford Type A Aortic Dissection in
+   Hyperacute Stroke Management
+SO CEREBROVASCULAR DISEASES
+AB Background and Purpose: Acute Stanford type A aortic dissection (AAD) is a devastating aortic disease, and prompt diagnosis is sometimes difficult to make. Identification of AAD in suspected acute stroke patients is especially challenging. Nevertheless, the frequencies and predictive factors of AAD in suspected acute stroke patients have not been well investigated. The aim of this study was to elucidate the prevalence of and predictors for AAD in patients with suspected acute stroke. Methods: From January 2012 through January 2013, consecutive patients who visited our emergency department (ED) due to suspected acute (<24 h from onset) stroke were retrospectively enrolled. Clinical parameters including systolic blood pressure (SBP) and laboratory data were collected. Frequency of AAD in suspected acute stroke patients and acute ischemic stroke (AIS) subjects were assessed, and factors associated with AAD among AIS patients were investigated. Results: A total of 1,637 patients were included in this study. Five patients (0.31%, 95% CI 0.04-0.57) were diagnosed as having AAD. The prevalence of AAD in all AIS individuals during the study period was 1.09% (95% CI 0.142.05), and AAD accounted for 1.70% (95% CI 0.05-3.36) of AIS patients who appeared at the hospital within 4 h from onset. Most AAD patients presented with disturbed consciousness, and none of the AAD patients complained of chest pain. Neck ultrasonography detected an intimal flap in AAD patients. Two AAD cases died soon after ED arrival. The remaining 3 were promptly diagnosed as having AAD in the ED and underwent emergency surgery; all were discharged with only mild neurological symptoms. Low SBP in the right arm (cut-off value <= 110 mm Hg, sensitivity 100%, specificity 94.4%) and high D-dimer level (cut-off value >= 5.0 mu g/ml, sensitivity 100%, specificity 91.7%) had high predictive values for detecting AAD in patients with AIS presenting within 4 h from onset. Conclusions: AAD was seen in 0.31% of suspected acute stroke patients and 1.70% of AIS patients presenting within 4 h from onset. AAD patients who were initially suspected as having acute stroke had severe neurological symptoms, including disturbance of consciousness, did not complain of typical chest pain, and when emergency surgery was performed, favorable neurological and survival outcomes were achieved. Low SBP in the right arm and high D-dimer level could predict AAD. (C) 2016 S. Karger AG, Basel
+SN 1015-9770
+EI 1421-9786
+PY 2016
+VL 42
+IS 1-2
+BP 110
+EP 116
+DI 10.1159/000445528
+UT WOS:000377995600015
+PM 27070149
+ER
+
+PT J
+AU Hassan, A
+   Zabad, A
+   Candrasekaran, M
+   Mohammed, AS
+   Mahmoud, S
+   Boddu, P
+AF Hassan, Abdalla
+   Zabad, Ahmad
+   Candrasekaran, Mercy
+   Mohammed, Abdul S.
+   Mahmoud, Shafaq
+   Boddu, Prajwal
+TI THE IMPACT OF DIAGNOSTIC DISCREPANCIES IN AORTIC DISSECTION MANAGEMENT
+SO INTERNATIONAL JOURNAL OF MEDICAL RESEARCH & HEALTH SCIENCES
+AB Aortic dissection is uncommon with high mortality rate if untreated. We report a challenging case of long segment aortic dissection in which the dissection type was very difficult to identify due to limitations of the available imaging studies. 66-year-old male presented to us with 3 days history of chest pain and difficulty breathing. He is known to be hypertensive. In the emergency room, patient has systolic blood pressure >190. Chest X-ray showed widening of mediastinum. CT angiography of chest and abdomen showed an acute dissection of the thoracic aorta extending from the mid ascending aorta to the infra-renal aorta suggestive of Stanford type A aortic dissection. Transthoracic and Trans-esophageal echocardiography revealed a partially calcified intimal flap in the distal portion of the arch and in the descending thoracic aorta suggestive of Stanford type B aortic dissection. Medical treatment started, and repeated CT angiography was obtained and it confirmed type B aortic dissection. One week after discharge, patient was readmitted with severe neck pain and difficulty breathing. CT chest without contrast showed grossly stable appearance of type A dissection consistent with the first CT angiography. Cardiothoracic surgery immediately reevaluated the situation and recommended surgical intervention.
+SN 2319-5886
+PY 2016
+VL 5
+IS 1
+BP 107
+EP 109
+DI 10.5958/2319-5886.2016.00023.0
+UT WOS:000373011200024
+ER
+
+PT J
+AU Wei, MM
+   Zhao, CR
+   Zhang, SL
+   Wang, L
+   Liu, HR
+   Ma, XL
+AF Wei, Mingming
+   Zhao, Chengrui
+   Zhang, Suli
+   Wang, Li
+   Liu, Huirong
+   Ma, Xinliang
+TI Preparation and Biological Activity of the Monoclonal Antibody against
+   the Second Extracellular Loop of the Angiotensin II Type 1 Receptor
+SO JOURNAL OF IMMUNOLOGY RESEARCH
+AB The current study was to prepare a mouse-derived antibody against the angiotensin II type 1 receptor (AT1-mAb) based on monoclonal antibody technology, to provide a foundation for research on AT1-AA-positive diseases. Balb/C mice were actively immunized with the second extracellular loop of the angiotensin II type 1 receptor (AT(1) R-ECII). Then, mouse spleen lymphocytes were fused with myeloma cells and monoclonal hybridomas that secreted AT(1)-mAb were generated and cultured, after which those in logarithmic-phase were injected into the abdominal cavity of mice to retrieve the ascites. Highly purified AT1-mAb was isolated from mouse ascites after injection with 1 x 10(7) hybridomas. A greater amount of AT1-mAb was purified from mouse ascites compared to the cell supernatant of hybridomas. AT1-mAb purified from mouse ascites constricted the thoracic aorta of mice and increased the beat frequency of neonatal rat myocardial cells via the AT(1) R, identical to the effects of AT1-AA extracted from patients' sera. Murine blood pressure increased after intravenous injection of AT1-mAb via the tail vein. High purity and good biological activity of AT1-mAb can be obtained from mouse ascites after intraperitoneal injection of monoclonal hybridomas that secrete AT1-mAb. These data provide a simple tool for studying AT1-AA-positive diseases.
+SN 2314-8861
+EI 2314-7156
+PY 2016
+AR 1858252
+DI 10.1155/2016/1858252
+UT WOS:000369262400001
+ER
+
+PT J
+AU Kotelis, D
+   Bischoff, MS
+   Rengier, F
+   Ruhparwar, A
+   Gorenflo, M
+   Bockler, D
+AF Kotelis, Drosos
+   Bischoff, Moritz S.
+   Rengier, Fabian
+   Ruhparwar, Arjang
+   Gorenflo, Matthias
+   Boeckler, Dittmar
+TI Endovascular repair of pseudoaneurysms after open surgery for aortic
+   coarctation
+SO INTERACTIVE CARDIOVASCULAR AND THORACIC SURGERY
+AB OBJECTIVES: To analyse early and long-term results of thoracic endovascular aortic repair (TEVAR) in patients with pseudoaneurysms after open aortic coarctation (CoA) repair.
+   METHODS: A total of 11 patients of 418 patients who had been treated with TEVAR during the period from January 1998 to April 2015 (8 males; median age 53 years) were retrospectively analysed. Dacron patch aortoplasty was primarily performed in 9 patients and subclavian flap aortoplasty in 2 patients. Seven of the 11 patients had asymptomatic pseudoaneurysms (median diameter 56 mm, range 20-65 mm) diagnosed by routine screening. Symptomatic patients presented with haemoptysis, lower limb ischaemia, haemodynamic collapse and back pain and underwent emergency repair (4/11). Adjunctive procedures at the proximal landing zone were required in 7/11 patients. The median number of implanted endoprostheses per patient was 1 (range: 1-5). The median follow-up was 60 months (range 6-161 months).
+   RESULTS: Technical success was achieved in 91% (10/11; 1 secondary elective open conversion). The 30-day mortality was 0%. The stroke rate was 18% (2 non-disabling strokes). In 2 patients (20%), stent-graft displacement during deployment was observed. The reintervention rate was 33% (Type Ib endoleak, left arm claudication, partial coverage of the left common carotid artery). Clinical success during follow-up was achieved in 10/11 patients. In 9/10 patients, aneurysm sac shrinkage was observed. The Type II endoleak rate was 10% (1/10; intercostal artery). The overall mortality rate was 9% (1 patient died of amyotrophic lateral sclerosis).
+   CONCLUSIONS: Endovascular treatment of post-coarctation pseudoaneurysms is feasible in elective and emergency cases, yielding durable results in the long term. Due to anatomical specifics, implantation may be challenging and requires careful procedural planning. On-site cardiothoracic surgery backup is essential in case open conversion is required.
+SN 1569-9293
+EI 1569-9285
+PD JAN
+PY 2016
+VL 22
+IS 1
+BP 26
+EP 31
+DI 10.1093/icvts/ivv297
+UT WOS:000368372300005
+PM 26503013
+ER
+
+PT J
+AU Kim, JS
+   Park, KH
+   Lim, C
+   Kim, DJ
+   Jung, Y
+   Shin, YC
+   Choi, SI
+   Chun, EJ
+   Yoo, JY
+AF Kim, Jun Sung
+   Park, Kay-Hyun
+   Lim, Cheong
+   Kim, Dong Jin
+   Jung, Yochun
+   Shin, Yoon Cheol
+   Choi, Sang Il
+   Chun, Eun Ju
+   Yoo, Jin Young
+TI Prediction of Intimal Tear Site by Computed Tomography in Acute Aortic
+   Dissection Type A
+SO KOREAN CIRCULATION JOURNAL
+AB Background and Objectives: Preoperative identification of intimal tear site in acute type A dissection will help procedural planning. The objective of this study was to determine the key findings of computed tomography (CT)-based prediction for tear site and compare the accuracy between radiologists and surgeons.
+   Subjects and Methods: Multi-detector CT (MDCT) images from 50 patients who underwent surgical repair of type A aortic dissection were retrospectively reviewed by 4 cardiac surgeons with limited experience or by 3 radiologists specialized in cardiovascular imaging. Surgical findings of intimal tear site were used as references.
+   Results: In surgical findings, the locations of intimal tear that were identified in 43 patients included aorta (n=25), ascending with arch (n=7), and arch only (n=11). The rest were retrograde dissections from the tear of descending aorta. Key CT findings that were most frequently found were defect in the intimal flap shadow (30.0 +/- 4.0 patients/reviewer, accuracy 87.0 +/- 11.7%) and differential filling of false lumen by phase and location (9.4 +/- 2.9 patients/reviewer, 84.8 +/- 10.4%). Surgeons predicted tear site (75.0 +/- 7.7% vs. 86.7 +/- 1.2%, p=0.055) and specified flap defect (80.5 +/- 10.3% vs. 95.7 +/- 7.4%, p=0.073) with lower accuracy than radiologists.
+   Conclusions: With MDCT imaging, well-educated surgeons could be accurate in three fourths of cases. There was room for improvement through experience. Considering the substantial possibility of inaccuracy, critical decisions on CT images should be made through thorough reviewing by as many experienced radiologists and surgeons as possible.
+SN 1738-5520
+EI 1738-5555
+PD JAN
+PY 2016
+VL 46
+IS 1
+BP 48
+EP 55
+DI 10.4070/kcj.2016.46.1.48
+UT WOS:000368568400007
+PM 26798385
+ER
+
+PT J
+AU Wang, CM
+   Qian, XY
+   Sun, XG
+   Chang, Q
+AF Wang, Chunmao
+   Qian, Xiangyang
+   Sun, Xiaogang
+   Chang, Qian
+TI Angiotensin II increases matrix metalloproteinase 2 expression in human
+   aortic smooth muscle cells via AT1R and ERK1/2
+SO EXPERIMENTAL BIOLOGY AND MEDICINE
+AB Increased levels of angiotensin II (Ang II) and activated matrix metalloproteinase 2 (MMP-2) produced by human aortic smooth muscle cells (human ASMCs) have recently been implicated in the pathogenesis of thoracic aortic aneurysm (TAA). Additionally, angiotensin II type 1 receptor (AT1R)-mediated extracellular signal-regulated kinase (ERK)1/2 activation contributes to TAA development in Marfan Syndrome. However, there is scant data regarding the relationship between Ang II and MMP-2 expression in human ASMCs. Therefore, we investigated the effect of Ang II on MMP-2 expression in human ASMCs and used Western blotting to identify the Ang II receptors and intracellular signaling pathways involved. Reverse transcription polymerase chain reaction (RT-PCR) and immunofluorescence data demonstrated that Ang II receptors were expressed on human ASMCs. Additionally, Ang II increased the expression of Ang II type 2 receptor (AT2R) but not AT1R at both the transcriptional and translational levels. Furthermore, Western blotting showed that Ang II increased MMP-2 expression in human ASMCs in a dose- and time-dependent manner. This response was completely inhibited by the AT1R inhibitor candesartan but not by the AT2R blocker PD123319. In addition, Ang II-induced upregulation of MMP-2 was mediated by the activation of ERK1/2, whereas p38 mitogen-activated protein kinase (p38 MAPK) and c-Jun N-terminal kinase (JNK) had no effect on this process. In conclusion, these results indicate that Ang II can increase the expression of MMP-2 via AT1 receptor and ERK1/2 signaling pathways in human ASMCs and suggest that antagonists of AT1R and ERK1/2 may be useful for treating TAAs.
+SN 1535-3702
+EI 1535-3699
+PD DEC
+PY 2015
+VL 240
+IS 12
+BP 1564
+EP 1571
+DI 10.1177/1535370215576312
+UT WOS:000366000500002
+PM 25767191
+ER
+
+PT J
+AU Karahan, O
+   Tezcan, O
+   Demirtas, S
+   Caliskan, A
+   Yavuz, C
+AF Karahan, Oguz
+   Tezcan, Orhan
+   Demirtas, Sinan
+   Caliskan, Ahmet
+   Yavuz, Celal
+TI Application of thoracic endovascular dissecting aneurysm repair for
+   secondary type B aortic dissection
+SO CARDIOVASCULAR JOURNAL OF AFRICA
+AB Type A aortic dissection is an emergency condition that requires immediate surgery. Graft replacement of the ascending aorta is the main treatment for this disorder. However, after ascending aortic replacement, the dissection flap may progress to the distal side (to the descending aorta) and a new intimal tear may develop. In this study, we report on a 66-year-old woman who had a history of ascending aortic replacement six months earlier. She was admitted to hospital with a new onset of back pain. Computed tomography revealed a new dissection tear originating from the distal side of the subclavian artery orifice. Thoracic endovascular dissecting aneurysm repair (TEVDAR) was carried out on the patient. Additional complications were not observed in the postoperative period. Complete cure was provided and the patient was discharged on the fourth day after the operation. TEVDAR may be safe and effective in preventing progression of the aortic flap and the formation of a new intimal tear in type A aortic dissections. Optional hybrid interventions could ameliorate the outcomes in aortic dissection cases.
+RI Karahan, Oguz/E-8873-2010; Demirtas, Sinan/A-4122-2014
+OI Karahan, Oguz/0000-0003-0044-9476; Demirtas, Sinan/0000-0001-9983-0183
+SN 1995-1892
+EI 1680-0745
+PD NOV-DEC
+PY 2015
+VL 26
+IS 6
+BP E10
+EP E12
+DI 10.5830/CVJA-2015-067
+UT WOS:000369241000004
+PM 26659649
+ER
+
+PT J
+AU Li, Q
+   Wang, LF
+   Ma, WG
+   Xu, SD
+   Zheng, J
+   Xing, XY
+   Huang, LJ
+   Sun, LZ
+AF Li, Qing
+   Wang, Long-Fei
+   Ma, Wei-Guo
+   Xu, Shang-Dong
+   Zheng, Jun
+   Xing, Xiao-Yan
+   Huang, Lian-Jun
+   Sun, Li-Zhong
+TI Risk factors for distal stent graft-induced new entry following
+   endovascular repair of type B aortic dissection
+SO JOURNAL OF THORACIC DISEASE
+AB Background: Distal stent graft-induced new entry (DSINE) has been increasingly observed following thoracic endovascular aortic repair (TEVAR) for type B aortic dissection (TBAD). We seek to identify the risk factors for DSINE following TEVAR in patients with TBAD.
+   Methods: Between January 2009 and January 2013, we performed TEVAR for 579 patients with TBAD. The clinical data were retrospectively analyzed with univariate and multivariate analyses to identify the risk factors for DSINE.
+   Results: Two patients (0.3%) died after the initial TEVAR. Morbidity included spinal cord injury in 2 (0.3%), stroke in 3 (0.5%) and endoleak in 12 (2.1%) patients. Clinical and radiological follow-up was complete in 100% (577/577) averaging 47 +/- 16 months. Late death occurred in 6 patients. DSINE occurred in 39 patients (6.7%) at mean 22 +/- 17 months after the initial TEVAR, which was managed with re-TEVAR in 25 and medically in 14. At 33 +/- 18 months after DSINE, 11 of patients managed medically (11/14) and all patients managed with re-TEVAR (25/25) survived (P=0.048). Freedom from DSINE was 92.7% at 5 years (95% CI: 90.0-94.7%). Using tapered stent grafts with a proximal end 4-8 mm larger than the distal end, TEVAR performed in the acute phase (<= 14 days from onset) was associated with a significantly lower incidence of DSINE than TEVAR performed in the chronic phase (4.3%, 7/185 vs. 13.9%, 15/108; P=0.003). Risk factors for DSINE were stent grafts less than 145 mm in length [odds ratio (OR) 2.268; 95% CI: 1.121-4.587; P=0.023] and TEVAR performed in the chronic phase (OR 1.935; 95% CI: 1.004-3.731; P=0.049).
+   Conclusions: Our results show that TEVAR performed during the acute phase and using stent grafts longer than 145 mm could decrease the incidence of DSINE in patients with TBAD. Tapered stent grafts with a proximal end 4-8 mm larger than the distal end may be helpful in preventing DSINE after TEVAR performed in the acute phase than TEVAR performed in the chronic phase, due to the difference in mobility of the dissected flap. Expedite repeat TEVAR is recommended to improve the clinical prognosis for patients with DSINE.
+SN 2072-1439
+EI 2077-6624
+PD NOV
+PY 2015
+VL 7
+IS 11
+BP 1907
+EP 1916
+DI 10.3978/j.issn.2072-1439.2015.11.27
+UT WOS:000366492400021
+PM 26716029
+ER
+
+PT J
+AU Lau, C
+   Gaudino, M
+   de Biasi, AR
+   Munjal, M
+   Girardi, LN
+AF Lau, Christopher
+   Gaudino, Mario
+   de Biasi, Andreas R.
+   Munjal, Monica
+   Girardi, Leonard N.
+TI Outcomes of Open Repair of Mycotic Descending Thoracic and
+   Thoracoabdominal Aortic Aneurysms
+SO ANNALS OF THORACIC SURGERY
+AB Background. The purpose of this study was to evaluate the short-and intermediate-term outcomes of open repair of mycotic thoracic and thoracoabdominal aneurysms. Contemporary surgical and perioperative techniques were utilized.
+   Methods. From November 1997 to May 2014, 14 consecutive patients underwent open repair of descending thoracic (n = 9, 64.3%) and thoracoabdominal (n = 5, 35.7%) mycotic aortic aneurysms. All procedures were performed through the left side of the chest. Infected tissue was completely debrided and excised. Aortic continuity was restored in situ with a Dacron prosthesis (Macquet Corp, Oakland, NJ). Soft tissue coverage of the prosthesis was performed when anatomy and patient condition permitted. Perioperative outcomes, intermediate-term survival, and reinfection rates were examined.
+   Results. All patients presented with either aneurysm-related symptoms or a clinical picture of sepsis. Diagnosis was confirmed utilizing computed tomography imaging. Mean age was 66 +/- 13 years, 8 patients (57.1%) were male, and mean aneurysm size was 5.9 +/- 1.3 cm. All patients were hypertensive, 3 (21.4%) had prior coronary revascularization, 7 (50%) had chronic pulmonary disease, 5 (35.7%) had diabetes mellitus, and 2 (14.3%) had end-stage renal disease requiring dialysis. Twelve patients (85.7%) had aneurysm-related pain, and 9 (64.3%) of them had contained rupture. Mean time from onset of illness to surgery was 36 days (range, 0 to 153). On preoperative blood cultures, 4 (28.6%) grew Staphylococcus aureus, 4 (28.6%) grew gram negative organisms, 2 (14.3%) grew mycobacterium, and 4 cultures (28.6%) had negative results. Empiric broad-spectrum antibiotics were initiated on all patients and adjusted based on final cultures. A majority of patients underwent repair utilizing a clamp-and-sew technique (n = 10, 71.4%); the remainder (n = 4, 28.6%) required repair under profound hypothermic circulatory arrest. After radical debridement of the infected tissue, grafts were placed in the normal anatomic position; 6 (42.9%) patients had additional soft tissue coverage, 5 (35.7%) utilizing an omental flap and 1 (7.1%), a serratus muscle flap. There was 1 in-hospital death (7.1%) secondary to ischemic bowel. Four patients (28.6%) required tracheostomy, and 1 (7.1%) had recurrent nerve injury. None of the patients incurred spinal cord injury, stroke, or new onset renal failure requiring dialysis. After surgery, all patients were given 6 weeks of intravenous antibiotics. Lifelong suppression therapy was maintained with oral antibiotics. There were no episodes of prosthetic graft infection on follow-up. Univariate analysis revealed that New York Heart Association functional class, diabetes, and preoperative renal dysfunction were preoperative risk factors for major adverse events. Mean follow-up time was 26.5 months (median 8.2; range, 1 to 142). Actuarial 5-year survival was 71%.
+   Conclusions. Open repair of mycotic descending thoracic and thoracoabdominal aortic aneurysms remains the gold standard of therapy. Aggressive intraoperative debridement with in situ prosthetic reconstruction permits a high rate of success in this very high risk cohort of patients. Lifelong antibiotic suppression therapy may prevent late prosthetic graft infection. (C) 2015 by The Society of Thoracic Surgeons
+SN 0003-4975
+EI 1552-6259
+PD NOV
+PY 2015
+VL 100
+IS 5
+BP 1712
+EP 1717
+DI 10.1016/j.athoracsur.2015.05.067
+UT WOS:000365820400041
+PM 26277557
+ER
+
+PT J
+AU Hossien, A
+   Gelsomino, S
+   Mochtar, B
+   Maessen, JG
+   Nia, PS
+AF Hossien, Abdullrazak
+   Gelsomino, Sandro
+   Mochtar, Baheramsjah
+   Maessen, Jos G.
+   Nia, Peyman Sardari
+TI Novel multi-dimensional modelling for surgical planning of acute aortic
+   dissection type A based on computed tomography scan
+SO EUROPEAN JOURNAL OF CARDIO-THORACIC SURGERY
+AB OBJECTIVES: Acute type A aortic dissection (TAAD) is a life-threatening emergency and requires immediate surgical intervention. We propose a novel finite element multi-dimensional modelling (FE-MDM) technique to identify aortic tears preoperatively to aid surgical preplanning.
+   METHODS: Thirty-two patients with TAAD were included in this retrospective study. Computed tomography (CT) scans were imported using the segmentation software and reconstruction resulted in modelling of single TAAD components: aortic wall, false lumen, true lumen, gap in the flap and blood in both lumens. CT scans were processed by interpreters who were blinded to the clinical data and then were compared with operative findings. The models were assessed and compared regarding localization and size of the entry tear with the intraoperative findings. Image set data were retrieved from CT scans.
+   RESULTS: Surgical inspection confirmed the localization of the tear obtained by the model in all patients with a 100% chance prediction (P < 0.0001) in all patients. With the simulation of the guided-cannulation, it was possible to place the cannula in the ascending aorta in 100% of patients (P < 0.0001 vs surgery). Using the virtual volume model, the chance of inserting into the false lumen was 0% (P < 0.0001). There was a strong correlation between the virtual volume model and cannulation in the true lumen (r = 0.88, P < 0.0001).
+   CONCLUSIONS: The FE-MDM technique of aortic dissection is helpful in identifying the site of the tear and may be considered as an additional tool in surgical preplanning. It may also enhance the efficiency of deep hypothermic circulatory arrest in patients with single entry sites in the ascending aorta and it may facilitate direct cannulation of the ascending aorta.
+SN 1010-7940
+EI 1873-734X
+PD NOV
+PY 2015
+VL 48
+IS 5
+BP e95
+EP e101
+DI 10.1093/ejcts/ezv299
+UT WOS:000364762900001
+PM 26333372
+ER
+
+PT J
+AU Doyle, JJ
+   Doyle, AJ
+   Wilson, NK
+   Habashi, JP
+   Bedja, D
+   Whitworth, RE
+   Lindsay, ME
+   Schoenhoff, F
+   Myers, L
+   Huso, N
+   Bachir, S
+   Squires, O
+   Rusholme, B
+   Ehsan, H
+   Huso, D
+   Thomas, CJ
+   Caulfield, MJ
+   Van Eyk, JE
+   Judge, DP
+   Dietz, HC
+AF Doyle, Jefferson J.
+   Doyle, Alexander J.
+   Wilson, Nicole K.
+   Habashi, Jennifer P.
+   Bedja, Djahida
+   Whitworth, Ryan E.
+   Lindsay, Mark E.
+   Schoenhoff, Florian
+   Myers, Loretha
+   Huso, Nick
+   Bachir, Suha
+   Squires, Oliver
+   Rusholme, Benjamin
+   Ehsan, Hamid
+   Huso, David
+   Thomas, Craig J.
+   Caulfield, Mark J.
+   Van Eyk, Jennifer E.
+   Judge, Daniel P.
+   Dietz, Harry C.
+CA GenTAC Registry Consortium
+   MIBAVA Leducq Consortium
+TI A deleterious gene-by-environment interaction imposed by calcium channel
+   blockers in Marfan syndrome
+SO ELIFE
+AB Calcium channel blockers (CCBs) are prescribed to patients with Marfan syndrome for prophylaxis against aortic aneurysm progression, despite limited evidence for their efficacy and safety in the disorder. Unexpectedly, Marfan mice treated with CCBs show accelerated aneurysm expansion, rupture, and premature lethality. This effect is both extracellular signal-regulated kinase (ERK1/2) dependent and angiotensin-II type 1 receptor (AT1R) dependent. We have identified protein kinase C beta (PKC beta) as a critical mediator of this pathway and demonstrate that the PKC beta inhibitor enzastaurin, and the clinically available anti-hypertensive agent hydralazine, both normalize aortic growth in Marfan mice, in association with reduced PKCa and ERK1/2 activation. Furthermore, patients with Marfan syndrome and other forms of inherited thoracic aortic aneurysm taking CCBs display increased risk of aortic dissection and need for aortic surgery, compared to patients on other antihypertensive agents.
+SN 2050-084X
+PD OCT 27
+PY 2015
+VL 4
+AR e08648
+DI 10.7554/eLife.08648
+UT WOS:000363797700001
+ER
+
+PT J
+AU Temur, B
+   Kaplan, M
+   Can, T
+   Karaagac, A
+   Aydogan, H
+AF Temur, Bahar
+   Kaplan, Mehmet
+   Can, Tolga
+   Karaagac, Anil
+   Aydogan, Hakki
+TI Repair of chronic type 1 dissection in a patient with coronary artery
+   anomaly
+SO TURK GOGUS KALP DAMAR CERRAHISI DERGISI-TURKISH JOURNAL OF THORACIC AND
+   CARDIOVASCULAR SURGERY
+AB Although surgical intervention is considered to be the most appropriate therapeutic choice for acute type 1 dissection even in asymptomatic cases, the diameter of ascending aorta is critical for decision in chronic asymptomatic cases. In this article, we report a 50-year-old male case of chronic type 1 dissection with left main coronary artery originating from the right coronary sinus. Acute type 1 dissection probably occurred two months ago and the patient was misdiagnosed with pulmonary edema. During surgery, the dissection flap fenestration at the level of proximal aortic arch, the Bentall procedure with one button re-implantation, and the left anterior descending coronary artery-left internal thoracic artery anastomosis was done. After an uneventful postoperative period, the patient was discharged with full recovery on the 10th day.
+SN 1301-5680
+PD OCT
+PY 2015
+VL 23
+IS 4
+BP 741
+EP 743
+DI 10.5606/tgkdc.dergisi.2015.12180
+UT WOS:000371923700023
+ER
+
+PT J
+AU Ching, S
+   Chung, TS
+AF Ching, Shing
+   Chung, Tak Shun
+TI Myocardial hypoperfusion on conventional contrast computed tomography
+SO AMERICAN JOURNAL OF EMERGENCY MEDICINE
+AB Non electrocardiogram (ECG)-gated contrast computed tomography (CT) is commonly performed to exclude aortic dissection in chest pain patients. Besides evaluating the aorta for dissection flap, attention should be paid to the myocardium for areas of hypoenhancement that may suggest ischemia. Current models of multidetector CT enable assessment of myocardial perfusion with minimal motion artifact even without ECG gating. Transmural hypoenhancement with preserved wall thickness in a coronary distribution is highly specific for acute myocardial infarction. We report 2 cases of acute chest pain with initial nondiagnostic studies that underwent CT aortogram to exclude dissection. Instead, the Cl showed myocardial hypoenhancement in left anterior descending artery territory. Myocardial hypoenhancement occurred before ST-segment elevation on ECG, suggesting that recognition of this important finding may lead to earlier revascularization decisions.
+OI Ching, Shing/0000-0001-9805-3191
+SN 0735-6757
+EI 1532-8171
+PD OCT
+PY 2015
+VL 33
+IS 10
+AR 1538.e1
+DI 10.1016/j.ajem.2015.07.072
+UT WOS:000361839300055
+PM 26321167
+ER
+
+PT J
+AU Wolfschmidt, F
+   Hassold, N
+   Goltz, JP
+   Leyh, R
+   Bley, TA
+   Kickuth, R
+AF Wolfschmidt, Franziska
+   Hassold, Nicole
+   Goltz, Jan Peter
+   Leyh, Rainer
+   Bley, Thorsten Alexander
+   Kickuth, Ralph
+TI Aortic Dissection: Accurate Subintimal Flap Fenestration by Using a
+   Reentry Catheter with Fluoroscopic Guidance-Initial Single-Institution
+   Experience
+SO RADIOLOGY
+AB Purpose: To evaluate the feasibility, effectiveness, and safety of using a commercially available reentry catheter with fluoroscopic guidance to gain controlled target lumen reentry for fenestration in patients with aortic dissection.
+   Materials and Methods: This retrospective study was approved by the local institutional review board; informed consent was waived. Between April 2009 and December 2013, 13 consecutive patients (10 men and three women; mean age, 51.2 years; range, 30.0-77.0 years; mean age of women, 47.0 years; range, 30.0-69.0 years; mean age of men, 52.4 years; range, 35.0-77.0 years) with aortic dissection and spinal (n = 4), renal (n = 7), mesenteric (n = 2), and/or iliofemoral (n = 9) malperfusion syndrome were included. All patients received target lumen reentry by means of balloon fenestration of the aortic dissection flap. A reentry catheter was used for fluoroscopically guided puncture of the target lumen. Technical success, clinical outcome, Stanford type of dissection, procedure time, number of fenestrations of the intimal flap per patient, necessity of additional aortic stentgraft implantation and/or placement of a bare metal stent, complications, and follow-up images were evaluated. Pre- and postinterventional systolic blood pressure gradients between the true lumen and the false lumen were compared (Wilcoxon signed-rank test). Safety of the reentry catheter maneuver was estimated with the Clopper-Pearson method.
+   Results: Use of the reentry catheter was technically successful in all 13 (100%) patients and clinically successful in 10 of 13 (77%) patients. Four patients had type A and nine had type B dissection. The mean clinical follow-up period was 14.2 months. Median procedure time was 71 minutes. In four patients, fenestration of the intimal flap was performed twice. Three patients underwent additional aortic stent grafting, four patients underwent placement of an iliofemoral stent, and one patient underwent placement of a carotid artery stent. Blood pressure gradients between the true lumen and the false lumen were significantly reduced (P = .0313). One patient who had a combination of syndromes died of multiorgan failure.
+   Conclusion: The applied commercially available reentry catheter seems to be a reliable and safe tool that may be useful for gaining target lumen reentry with reasonably good clinical outcomes. (C) RSNA, 2015
+SN 0033-8419
+PD SEP
+PY 2015
+VL 276
+IS 3
+BP 862
+EP 872
+DI 10.1148/radiol.2015140520
+UT WOS:000364363500025
+PM 25902186
+ER
+
+PT J
+AU Sanchez, R
+   Munoz, DI
+   Artola, JS
+   Martinez, IQ
+AF Sanchez, Raquel
+   Ibanez Munoz, David
+   Artola, Javier Salceda
+   Quintana Martinez, Ignacio
+TI Circumferential type A aortic dissection with intimal intussusception
+SO JOURNAL OF CARDIOVASCULAR COMPUTED TOMOGRAPHY
+AB A 62-year-old man was admitted to our hospital with sudden chest pain. CT examination showed the presence of an intimal flap in the aortic root and in the descending aorta, with no intimal flap in the ascending aorta and curvilinear filling defects in the aortic arch, and extension into the left subclavian artery. Surgical treatment consisted of ascending aorta replacement. During the operation, the intimal tear was found to be circumferential with intussusception of the intimal layer. The patient died at surgery. (C) 2015 Society of Cardiovascular Computed Tomography. All rights reserved.
+SN 1934-5925
+PD SEP-OCT
+PY 2015
+VL 9
+IS 5
+BP 459
+EP 460
+DI 10.1016/j.jcct.2015.02.005
+UT WOS:000361930700013
+PM 25846247
+ER
+
+PT J
+AU Hibino, N
+   Cismowski, MJ
+   Lilly, B
+   McConnell, PI
+   Shinoka, T
+   Cheatham, JP
+   Lucchesi, PA
+   Galantowicz, ME
+   Trask, AJ
+AF Hibino, Narutoshi
+   Cismowski, Mary J.
+   Lilly, Brenda
+   McConnell, Patrick I.
+   Shinoka, Toshiharu
+   Cheatham, John P.
+   Lucchesi, Pamela A.
+   Galantowicz, Mark E.
+   Trask, Aaron J.
+TI Potential Molecular Mechanism of Retrograde Aortic Arch Stenosis in the
+   Hybrid Approach to Hypoplastic Left Heart Syndrome
+SO ANNALS OF THORACIC SURGERY
+CT 51st Annual Meeting of the Society-of-Thoracic-Surgeons
+CY JAN 24-28, 2015
+CL San Diego, CA
+SP Soc Thorac Surg
+AB Background. The hybrid palliation for hypoplastic left heart syndrome has emerged as an alternative approach to the Norwood procedure. The development of patent ductus arteriosus (PDA) in-stent stenosis can cause retrograde aortic arch stenosis (RAAS), leading to significant morbidity. This study aimed to identify potential mechanisms of PDA in-stent stenosis contributing to RAAS.
+   Methods. Tissues from stented PDAs were collected from 17 patients undergoing comprehensive stage II repair between 2009 and 2014. Patients requiring RAAS intervention based on cardiology-surgery consensus were defined as RAAS(D) (n = 10), whereas patients without any RAAS intervention were defined as RAAS(-) (n = 7). Tissues were examined by quantitative polymerase chain reaction analysis for vascular smooth muscle cell (VSMC) differentiation and proliferation markers.
+   Results. Patient characteristics were hypoplastic left heart syndrome with aortic atresia in 6 and with aortic stenosis in 3; unbalanced atrioventricular canal in 3; double-inlet left ventricle/transposition of the great arteries in 3; and double-outlet right ventricle in 2. VSMC differentiation markers (beta-actin, SM22, and calponin) and signaling pathways for VSMC modulation (transforming growth factor-beta 1, Notch, and platelet derived growth factor-BB) were significantly higher in the RAAS(D) than in RAAS(-) patients. The proliferation marker Ki67 was increased in RAAS(D) patients. Cell cycle markers were comparable in both groups.
+   Conclusions. Increased VSMC differentiation and proliferation markers suggest a mechanism for inward neointima formation of the PDA in RAAS. The apparent lack of change in cell cycle markers is contrary to coronary artery in-stent stenosis, suggesting further targets should be examined. Combined primary in vitro PDA cell culture and proteomics can be strong tools to elucidate targets to reduce PDA in-stent stenosis for RAAS in the future. (C) 2015 by The Society of Thoracic Surgeons
+RI LILLY, BRENDA/N-6867-2015
+OI LILLY, BRENDA/0000-0002-3125-7496
+SN 0003-4975
+EI 1552-6259
+PD SEP
+PY 2015
+VL 100
+IS 3
+BP 1013
+EP 1020
+DI 10.1016/j.athoracsur.2015.04.125
+UT WOS:000360962600043
+PM 26163359
+ER
+
+PT J
+AU Mery, CM
+   Guzman-Pruneda, FA
+   Trost, JG
+   McLaughlin, E
+   Smith, BM
+   Parekh, DR
+   Adachi, I
+   Heinle, JS
+   McKenzie, ED
+   Fraser, CD
+AF Mery, Carlos M.
+   Guzman-Pruneda, Francisco A.
+   Trost, Jeffrey G., Jr.
+   McLaughlin, Ericka
+   Smith, Brendan M.
+   Parekh, Dhaval R.
+   Adachi, Iki
+   Heinle, Jeffrey S.
+   McKenzie, E. Dean
+   Fraser, Charles D., Jr.
+TI Contemporary Results of Aortic Coarctation Repair Through Left
+   Thoracotomy
+SO ANNALS OF THORACIC SURGERY
+AB Background. Although surgical results for repair of coarctation of the aorta (CoA) have steadily improved, management of this condition remains controversial. The purposes of this study were to analyze the long-term outcomes of patients undergoing CoA repair through left thoracotomy and to define risk factors for reintervention.
+   Methods. All patients who were less than 18 years old and who underwent initial repair of CoA through left thoracotomy from 1995 to 2013 at Texas Children's Hospital (Houston, TX) were included. Patients were classified into 3 groups: 143 (42%) neonates (0 to 30 days old), 122 (36%) infants (31 days to 1 year old), and 78 (23%) older children (1 to 18 years old). Univariate and multivariate analyses were performed.
+   Results. A total of 343 patients (129 [38%] girls) with median age of 53 days (interquartile range [IQR], 12 days to 9 months) and weight of 4.1 kg (IQR, 3.1 to 8.0) underwent repair with extended end-to-end anastomosis (291 patients [85%]), end-to-end anastomosis (44 patients [13%]), interposition graft (2 patients [0.6%]), or subclavian flap (6 patients [2%]). Concomitant diagnoses included genetic abnormalities (48 patients [14%]), isolated ventricular septal defects (58 patients [17%]), small left-sided structures (53 patients, 16%), or other complex congenital heart disease (18 patients [5%]). Perioperative mortality was 1% (n = 4, all neonates). At amedian follow-up of 6 years (7 days to 19 years), only 14 (4%) patients required reintervention (10 catheter-based procedures, 6 surgical repairs). A postoperative peak velocity of 2.5 m/s or greater was an independent risk factor for reintervention (odds ratio [OR], 4.0; 95% confidence interval [CI], 1.4 to 11.6). Within the cohort, 95 (33%) patients were hypertensive or remained on cardiac medications a median of 12 years (6 months to 19 years) after the surgical procedure. Development of perioperative hypertension was associated with higher risk of chronic hypertension or cardiac medication dependency (OR, 1.9; 95% CI, 1.1 to 3.3).
+   Conclusions. CoA repair through left thoracotomy is associated with low rates of morbidity, mortality, and reintervention. Aortic arch obstruction should be completely relieved at the time of surgical intervention to minimize the risk of long-term recoarctation. (C) 2015 by The Society of Thoracic Surgeons
+SN 0003-4975
+EI 1552-6259
+PD SEP
+PY 2015
+VL 100
+IS 3
+BP 1039
+EP 1046
+DI 10.1016/j.athoracsur.2015.04.129
+UT WOS:000360962600046
+PM 26209490
+ER
+
+PT J
+AU Yamamoto, K
+   Kakino, A
+   Takeshita, H
+   Hayashi, N
+   Li, L
+   Nakano, A
+   Hanasaki-Yamamoto, H
+   Fujita, Y
+   Imaizumi, Y
+   Toyama-Yokoyama, S
+   Nakama, C
+   Kawai, T
+   Takeda, M
+   Hongyo, K
+   Oguro, R
+   Maekawa, Y
+   Itoh, N
+   Takami, Y
+   Onishi, M
+   Takeya, Y
+   Sugimoto, K
+   Kamide, K
+   Nakagami, H
+   Ohishi, M
+   Kurtz, TW
+   Sawamura, T
+   Rakugi, H
+AF Yamamoto, Koichi
+   Kakino, Akemi
+   Takeshita, Hikari
+   Hayashi, Norihiro
+   Li, Lei
+   Nakano, Atsushi
+   Hanasaki-Yamamoto, Hiroko
+   Fujita, Yoshiko
+   Imaizumi, Yuki
+   Toyama-Yokoyama, Serina
+   Nakama, Chikako
+   Kawai, Tatsuo
+   Takeda, Masao
+   Hongyo, Kazuhiro
+   Oguro, Ryosuke
+   Maekawa, Yoshihiro
+   Itoh, Norihisa
+   Takami, Yoichi
+   Onishi, Miyuki
+   Takeya, Yasushi
+   Sugimoto, Ken
+   Kamide, Kei
+   Nakagami, Hironori
+   Ohishi, Mitsuru
+   Kurtz, Theodore W.
+   Sawamura, Tatsuya
+   Rakugi, Hiromi
+TI Oxidized LDL (oxLDL) activates the angiotensin II type 1 receptor by
+   binding to the lectin-like oxLDL receptor
+SO FASEB JOURNAL
+AB The angiotensin II type 1 receptor (AT1) is a 7-transmembrane domain GPCR that when activated by its ligand angiotensin II, generates signaling events promoting vascular dysfunction and the development of cardiovascular disease. Here, we show that the single-transmembrane oxidized LDL (oxLDL) receptor (LOX-1) resides in proximity to AT1 on cell-surface membranes and that binding of oxLDL to LOX-1 can allosterically activate AT1-dependent signaling events. oxLDL-induced signaling events in human vascular endothelial cells were abolished by knockdown of AT1 and inhibited by AT1 blockade (ARB). oxLDL increased cytosolic G protein by 350% in Chinese hamster ovary (CHO) cells with genetically induced expression of AT1 and LOX-1, whereas little increase was observed in CHO cells expressing only LOX-1. Immunoprecipitation and in situ proximity ligation assay (PLA) assays in CHO cells revealed the presence of cell-surface complexes involving LOX-1 and AT1. Chimeric analysis showed that oxLDL-induced AT1 signaling events are mediated via interactions between the intracellular domain of LOX-1 and AT1 that activate AT1. oxLDL-induced impairment of endothelium-dependent vascular relaxation of vascular ring from mouse thoracic aorta was abolished by ARB or genetic deletion of AT1. These findings reveal a novel pathway for AT1 activation and suggest a new mechanism whereby oxLDL may be promoting risk for cardiovascular disease.
+RI Sawamura, Tatsuya/E-7103-2010
+SN 0892-6638
+EI 1530-6860
+PD AUG
+PY 2015
+VL 29
+IS 8
+BP 3342
+EP 3356
+DI 10.1096/fj.15-271627
+UT WOS:000358796900022
+PM 25877213
+ER
+
+PT J
+AU Vural, U
+   Balci, AY
+   Aglar, AA
+   Kizilay, M
+   Yekeler, I
+   Tuygun, AK
+AF Vural, Unsal
+   Balci, Ahmet Yavuz
+   Aglar, Ahmet Arif
+   Kizilay, Mehmet
+   Yekeler, Ibrahim
+   Tuygun, Abdullah Kemal
+TI Unusual complication of aortic dissections: intimo-intimal
+   intussusception
+SO CARDIOVASCULAR JOURNAL OF AFRICA
+AB Angiography with a pre-diagnosis of acute coronary syndrome was performed in a 76-year-old female patient presenting to another hospital with symptoms of chest pain and syncope. Upon determination of type III aortic dissection, the patient was referred to our clinic. On CT angiography, the ascending aortic diameter was 57 mm and no dissection flap was observed. There was a filling defect suggestive of intimo-intimal intussusception at the level of the aortic arch, occlusion of the left arteria carotid communis, and a double-channel aorta extending from the left subclavian artery to the iliac artery. On transoesophageal echocardiography, the ascending aorta was seen to be larger than normal and no dissection flap was observed. There were findings suggestive of haematoma and intimo-intimal intussusception at the proximal part of the aortic arch. The dissection flap causing occlusion in the vascular structures was resected. Supracoronary graft replacement of the ascending aorta was performed. Transoesophageal echocardiography is an invasive investigative method with high sensitivity and specificity for the diagnosis of intimo-intimal intussusception.
+SN 1995-1892
+EI 1680-0745
+PD JUL-AUG
+PY 2015
+VL 26
+IS 4
+BP E15
+EP E18
+DI 10.5830/CVJA-2015-029
+UT WOS:000365019200018
+PM 26407329
+ER
+
+PT J
+AU Vendrell, A
+   Frandon, J
+   Rodiere, M
+   Chavanon, O
+   Baguet, JP
+   Bricault, I
+   Boussat, B
+   Ferretti, GR
+   Thony, F
+AF Vendrell, Anne
+   Frandon, Julien
+   Rodiere, Mathieu
+   Chavanon, Olivier
+   Baguet, Jean-Philippe
+   Bricault, Ivan
+   Boussat, Bastien
+   Ferretti, Gilbert Raymond
+   Thony, Frederic
+TI Aortic dissection with acute malperfusion syndrome: Endovascular
+   fenestration via the funnel technique
+SO JOURNAL OF THORACIC AND CARDIOVASCULAR SURGERY
+AB Objective: To analyze the short-and long-term results of an original aortic fenestration method using the funnel technique during aortic dissection complicated by malperfusion syndrome.
+   Methods: The funnel technique consists of deployment of an uncovered aortic stent graft placed from the false to the right lumen through an intimal flap aortic fenestration made by balloon angioplasty. Twenty-eight patients presenting with an aortic dissection (type A, n = 19; type B, n = 9) were treated for malperfusion syndrome owing to dynamic compression (16 renal, 17 bowel, and 13 lower limb ischemia) using the aforementioned technique, and had follow-up evaluation at short term (30 days) and long term (mean: 55 +/- 40 months). Eight patients had severe ischemia on arrival (6 bowel, 7 renal, 3 lower limb).
+   Results: Technical success was achieved in 27 of 28 patients (96%), and ischemic symptoms had disappeared in 25 of 28 patients (89%) at short-term follow up. Five patients presented postprocedure complications: 4 minor and 1 major with arterial thrombosis which caused technical failure (3.6%). The 30-day mortality rate was 7% (n = 2), related to bowel ischemia complications. At long-term follow up, 21 patients had a stable thoracic aortic diameter (91%).
+   Conclusions: The funnel technique, in cases of malperfusion syndrome after aortic dissection, safely improves short-and long-term clinical outcome, and could represent an interesting alternative in the management of patients. The hemodynamic efficiency of this technique may account for a lower mortality in our series.
+OI Ferretti, Gilbert/0000-0002-5367-7109
+SN 0022-5223
+EI 1097-685X
+PD JUL
+PY 2015
+VL 150
+IS 1
+BP 108
+EP 115
+DI 10.1016/j.jtcvs.2015.03.056
+UT WOS:000357129900035
+PM 25940416
+ER
+
+PT J
+AU Wang, CM
+   Chang, Q
+   Qian, XY
+   Tian, C
+   Sun, XG
+AF Wang, Chunmao
+   Chang, Qian
+   Qian, Xiangyang
+   Tian, Chuan
+   Sun, Xiaogang
+TI Angiotensin II induces an increase in MMP-2 expression in idiopathic
+   ascending aortic aneurysm via AT1 receptor and JNK pathway
+SO ACTA BIOCHIMICA ET BIOPHYSICA SINICA
+AB The cellular and molecular mechanisms responsible for human idiopathic ascending aortic aneurysm (IAAA) remain unknown. Matrix metalloproteinase-2 (MMP-2) is a key enzyme for the degradation of extracellular matrix in aneurysmal walls. The aim of this study was to elucidate the role of the angiotensin II (Ang II) pathway in MMP-2 induction in IAAA aortic walls. Quantitative polymerase chain reaction and western blot analysis were used to compare the MMP-2 mRNA and protein levels in ascending aortic specimens with those in IAAA patients (n = 10) and heart transplant donors (n = 5) without any aortopathy. It was found that MMP-2 expression was significantly increased, which was associated with elastic lamellae disruption in IAAA walls. Additionally, the expression levels of angiotensinogen (AGT) and Ang II in the ascending aortic tissues from individuals with and without IAAAs were detected by western blot analysis and radioimmunoassay, respectively. The results demonstrated that the expressions of AGT and Ang II protein were significantly increased in the ascending aortic tissues of IAAA patients. Furthermore, whether Ang II induces MMP-2 expression was investigated using human IAAA walls ex vivo culture. It was found that exogenous Ang II increased the MMP-2 expression in a dose-dependent manner, which was completely inhibited by the Ang II type 1 receptor (AT1R) inhibitor candesartan and was mediated by c-Jun N-terminal kinase (JNK) activation. Taken together, these results indicate that Ang II can induce an increase of MMP-2 expression via AT1R and JNK in ex vivo cultured IAAA aortic walls, and suggest that angiotensin receptor blocker (ARB) drugs and JNK inhibitors have the potential in the prevention or treatment of IAAAs.
+SN 1672-9145
+EI 1745-7270
+PD JUL
+PY 2015
+VL 47
+IS 7
+BP 539
+EP 547
+DI 10.1093/abbs/gmv047
+UT WOS:000357419600008
+PM 26071572
+ER
+
+PT J
+AU April, MD
+   Fossum, K
+   Hounshell, C
+   Stolper, K
+   Spear, L
+   Semelrath, K
+AF April, Michael D.
+   Fossum, Kurt
+   Hounshell, Charles
+   Stolper, Katherine
+   Spear, Leigh
+   Semelrath, Kevin
+TI A sinister cause of anterograde amnesia: painless aortic dissection
+SO AMERICAN JOURNAL OF EMERGENCY MEDICINE
+AB Aortic dissection is a frequently devastating diagnosis classically associated with severe chest pain. We present a case of painless aortic dissection with anterograde amnesia. An 84-year-old man was brought to the emergency department by ambulance, when his wife noted that he developed acute onset complete loss of short-termmemory. Medical history was notable for a 4.5-cm fusiform thoracic aortic root aneurysm. On arrival, he denied pain or syncope. On examination, he was mildly hypotensive (110/59 mm Hg); and there were no murmurs, pulse deficits, or focal neurologic deficits. During his stay, he developed left flank pain. Chest radiography demonstrated subtle mediastinal widening and obscuration of the aortic knob compared with previous films. Computed tomography revealed an extensive intimal flap consistent with an aortic dissection involving the sinus of Valsalva and left renal artery. The patient subsequently developed acute onset chest pain after which he became unresponsive. Echocardiography demonstrated tamponade physiology. The family decided to transition to comfort care measures, and the patient died soon after. We identified 7 other cases in the literature of aortic dissection cases with presentations consistent with transient global amnesia, 5 of which without neurologic deficits and 3 of which without pain. This case highlights the imperative of a thorough history and high index of suspicion for this catastrophic diagnosis in patients with transient global amnesia who otherwise might be expected to have an excellent prognosis and little need for diagnostic work-up.
+SN 0735-6757
+EI 1532-8171
+PD JUL
+PY 2015
+VL 33
+IS 7
+AR 989.e5
+DI 10.1016/j.ajem.2014.12.052
+UT WOS:000356602900049
+PM 25649752
+ER
+
+PT J
+AU Ye, Y
+   Gong, H
+   Wang, XX
+   Wu, J
+   Wang, SJ
+   Yuan, J
+   Yin, PP
+   Jiang, GL
+   Li, Y
+   Ding, ZW
+   Zhang, WJ
+   Zhou, JM
+   Ge, JB
+   Zou, YZ
+AF Ye, Yong
+   Gong, Hui
+   Wang, Xingxu
+   Wu, Jian
+   Wang, Shijun
+   Yuan, Jie
+   Yin, Peipei
+   Jiang, Guoliang
+   Li, Yang
+   Ding, Zhiwen
+   Zhang, Weijing
+   Zhou, Jingmin
+   Ge, Junbo
+   Zou, Yunzeng
+TI Combination Treatment With Antihypertensive Agents Enhances the Effect
+   of Qiliqiangxin on Chronic Pressure Overload-induced Cardiac Hypertrophy
+   and Remodeling in Male Mice
+SO JOURNAL OF CARDIOVASCULAR PHARMACOLOGY
+AB We previously showed that Qiliqiangxin (QL) capsules could ameliorate cardiac hypertrophy and remodeling in a mouse model of pressure overload. Here, we compared the effects of QL alone with those of QL combined with the following 3 types of antihypertensive drugs on cardiac remodeling and dysfunction induced by pressure overload for 4 weeks in mice: an angiotensin II type 1 receptor (AT(1)-R) blocker (ARB), an angiotensin-converting enzyme inhibitor (ACEI), and a beta-adrenergic receptor (beta-AR) blocker (BB). Adult male mice (C57B/L6) were subjected to either transverse aortic constriction or sham operation for 4 weeks, and the drugs (or saline) were orally administered through gastric tubes. Cardiac function and remodeling were evaluated through echocardiography, catheterization, histology, and analysis of hypertrophic gene expression. Cardiomyocyte apoptosis and autophagy, AT(1)-R and beta(1)-AR expression, and cell proliferation-related molecules were also examined. Although pressure overload-induced cardiac remodeling and dysfunction, hypertrophic gene reprogramming, AT(1)-R and beta(1)-AR expression, and ERK phosphorylation were significantly attenuated by QL alone, QL + ARB, QL + ACEI, and QL + BB, the attenuation was stronger in the combination treatment groups. Moreover, apoptosis was reduced to a larger extent by each combination treatment than by QL alone, whereas autophagy was more strongly attenuated by either QL + ARB or QL + ACEI. None of the treatments significantly upregulated ErbB2 or ErbB4 phosphorylation, and none significantly downregulated C/EBP beta expression. Therefore, the effects of QL on chronic pressure overload-induced cardiac remodeling may be significantly increased when QL is combined with an ARB, an ACEI, or a BB.
+SN 0160-2446
+EI 1533-4023
+PD JUN
+PY 2015
+VL 65
+IS 6
+BP 628
+EP 639
+DI 10.1097/FJC.0000000000000230
+UT WOS:000356370300017
+PM 25806688
+ER
+
+PT J
+AU Yang, JM
+   Sun, Y
+   Dong, M
+   Yang, XY
+   Meng, X
+   Niu, RR
+   Guan, J
+   Zhang, Y
+   Zhang, C
+AF Yang, Jianmin
+   Sun, Yu
+   Dong, Mei
+   Yang, Xiaoyan
+   Meng, Xiao
+   Niu, Rongrong
+   Guan, Juan
+   Zhang, Yun
+   Zhang, Cheng
+TI Comparison of angiotensin-(1-7), losartan and their combination on
+   atherosclerotic plaque formation in apolipoprotein E knockout mice
+SO ATHEROSCLEROSIS
+AB Aims: Inhibition of the classical renin-angiotensin system (RAS) has been proved to reduce atherosclerosis. Recently, angiotensin-(1-7) [Ang-(1-7)], a new component of RAS, has been shown to attenuate atherosclerosis formation. However, direct comparison of Ang-(1-7) and angiotensin II type 1 receptor blocker (ARB) on atherogenesis is sparse. Here, we investigated whether large dose of Ang-(1-7) and losartan are equivalent or the combination of both is superior in reducing atherosclerotic plaque formation.
+   Methods and results: In vivo, we established an atherosclerosis model in ApoE-/-mice. All mice were fed a high fat diet during experiments. Mice were divided into control, Ang-(1-7), losartan, Ang-(1-7)+ losartan groups for 4 weeks treatment. Ang-(1-7) did not change the blood pressure (BP) levels, while losartan produced a significant decrease in systolic BP. The attenuation of Ang-(1-7) and losartan in atherosclerosis plaque formation was similar. However, the decrease of atherosclerosis in mice with combination of Ang-(1-7) and losartan was more remarkable relative to that of Ang-(1-7) or losartan alone. The decreases of macrophages infiltration, superoxide production and improvement of endothelium function in aortic lesions were more significant in combination group. In vitro study, we found that combination of Ang-(1-7) and losartan notably inhibited VSMCs proliferation and migration.
+   Conclusions: The anti-atherosclerosis effects of Ang-(1-7) and losartan in early lesion formation were equivalent. Combination use of both agents further enhanced the beneficial effects. Ang-(1-7) might add additional beneficial effect for patients with adequate ARB treatment. (C) 2015 Published by Elsevier Ireland Ltd.
+SN 0021-9150
+EI 1879-1484
+PD JUN
+PY 2015
+VL 240
+IS 2
+BP 544
+EP 549
+DI 10.1016/j.atherosclerosis.2015.02.055
+UT WOS:000354544300040
+PM 25957120
+ER
+
+EF

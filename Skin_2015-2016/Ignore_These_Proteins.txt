@@ -1,0 +1,223 @@
+72_kDa_gelatinase
+Gelatinase_A
+Matrix_metalloproteinase-2
+MMP-2
+TBE-1
+Alpha-actin-1
+Alpha-actin-2
+Cell_growth-inhibiting_gene_46_protein
+Beta-actin
+AE-binding_protein 1
+Aortic_carboxypeptidase-like_protein
+ACT
+Cell_growth-inhibiting_gene_24/25_protein
+Serpin_A3
+Alpha-1_protease_inhibitor
+Alpha-1-antiproteinase
+Serpin_A1
+Apo-AI
+ApoA-I
+Apolipoprotein_A1
+Bone/cartilage_proteoglycan_I
+PG-S1
+BMP-4
+Bone_morphogenetic_protein_2B
+BMP-2B
+Heart_cadherin
+H-cadherin
+P105
+Truncated_cadherin
+T-cad
+T-cadherin
+CG
+Alpha-chymase
+Mast_cell_protease_I
+Aging-associated_gene_4_protein
+Apolipoprotein_J
+Apo-J
+Complement_cytolysis_inhibitor
+CLI
+Complement-associated_protein_SP-40,40
+Ku70-binding_protein_1
+NA1/NA2
+Testosterone-repressed_prostate_message_2
+TRPM-2
+Alpha-1_type_I_collagen
+Alpha-2_type_I_collagen
+C3_and_PZP-like_alpha-2-macroglobulin_domain-containing_protein_1
+C3_and_PZP-like_alpha-2-macroglobulin_domain-containing_protein_4
+Bone_proteoglycan_II
+PG-S2
+PG40
+Tropoelastin
+Ferritin_H_subunit
+Cell_proliferation-inducing_gene_15_protein
+Ferritin_L _ubunit
+FN
+Cold-insoluble_globulin
+CIG
+FIBL-1
+FIBL-5
+Developmental_arteries_and_neural_crest_EGF-like_protein
+Dance
+Urine_p50_protein
+UP50
+GAPDH
+Peptidyl-cysteine_S-nitrosylase_GAPDH
+Breast_epithelial_antigen_BA46
+HMFG
+MFGM
+Milk_fat_globule-EGF_factor_8
+MFG-E8
+SED1
+Laminin_B2_chain
+Laminin-1_subunit_gamma
+Laminin-10_subunit_gamma
+Laminin-11_subunit_gamma
+Laminin-2_subunit_gamma
+Laminin-3_subunit_gamma
+Laminin-4_subunit_gamma
+Laminin-6_subunit_gamma
+Laminin-7_subunit_gamma
+Laminin-8_subunit_gamma
+Laminin-9_subunit_gamma
+S-laminin subunit_gamma
+S-LAM_gamma
+LTBP-1
+Transforming_growth_factor_beta-1-binding_protein_1
+TGF-beta1-BP-1
+MIF
+Glycosylation-inhibiting_factor
+GIF
+L-dopachrome_isomerase
+L-dopachrome_tautomerase
+Phenylpyruvate_tautomerase
+MGP
+Cell_growth-inhibiting_gene_36_protein
+Erythroid-potentiating_activity
+EPA
+Fibroblast_collagenase_inhibitor
+Collagenase_inhibitor
+Tissue_inhibitor_of_metalloproteinases_1
+TIMP-1
+Protein_MIG-5
+Tissue_inhibitor_of_metalloproteinases_3
+TIMP-3
+Myosin_heavy_chain_11
+Myosin_heavy_chain,_smooth_muscle_isoform
+SMMHC
+PN
+Osteoblast-specific_factor_2
+OSF-2
+GIIC_sPLA2
+Group_IIA_phospholipase_A2
+Non-pancreatic_secretory_phospholipase_A2
+NPS-PLA2
+Phosphatidylcholine_2-acylhydrolase_2A
+PEDF
+Cell_proliferation-inducing_gene_35_protein
+EPC-1
+Serpin_F1
+C1_Inh
+C1Inh
+C1_esterase_inhibitor
+C1-inhibiting_factor
+Serpin_G1
+PF-4
+C-X-C_motif_chemokine_4
+Iroplact
+Oncostatin-A
+LRP-1
+Alpha-2-macroglobulin_receptor
+A2MR
+Apolipoprotein_E_receptor
+APOER
+CD_antigen_CD91
+Foocen
+Neurite_outgrowth_inhibitor
+Nogo_protein
+Neuroendocrine-specific_protein
+NSP
+Neuroendocrine-specific_protein_C_homolog
+RTN-x
+Reticulon-5
+Transferrin
+Beta-1 metal-binding_globulin
+Siderophilin
+TN
+Cytotactin
+GMEM
+GP 150-225
+Glioma-associated-extracellular_matrix_antigen
+Hexabrachion
+JI
+Myotendinous_antigen
+Neuronectin
+Tenascin-C
+TN-C
+TN-X
+Hexabrachion-like_protein
+22_kDa_actin-binding_protein
+Protein_WS3-10
+Smooth_muscle_protein 22-alpha
+SM22-alpha
+TIM
+Triose-phosphate_isomerase
+vWF
+72 kDa type IV collagenase
+Actin, alpha skeletal muscle
+Actin, aortic smooth muscle
+Actin, cytoplasmic 1
+Adipocyte enhancer-binding protein 1
+Agrin
+Alpha-1-antichymotrypsin
+Alpha-1-antitrypsin
+Apolipoprotein A-I
+Biglycan
+Bone morphogenetic protein 4
+Cadherin-13
+Cathepsin G
+Chymase
+Clusterin
+Collagen alpha-1(I) chain
+Collagen alpha-1(III) chain
+Collagen alpha-1(V) chain
+Collagen alpha-2(I) chain
+Collagen alpha-2(IV) chain
+Collagen alpha-2(V) chain
+Complement C3
+Complement C5
+Decorin
+Elastin
+Ferritin heavy chain
+Ferritin light chain
+Fibrillin-1
+Fibronectin
+Fibulin-1
+Fibulin-5
+Glyceraldehyde-3-phosphate dehydrogenase
+Lactadherin
+Laminin subunit gamma-1
+Latent-transforming growth factor beta-binding protein 1
+Macrophage migration inhibitory factor
+Matrix Gla protein
+Metalloproteinase inhibitor 1
+Metalloproteinase inhibitor 3
+Myosin-11
+Periostin
+Phospholipase A2, membrane associated
+Pigment epithelium-derived factor
+Plasma protease C1 inhibitor
+Platelet factor 4
+Podocan
+Prolow-density lipoprotein receptor-related protein 1
+Reticulon-4
+Sclerostin
+Serotransferrin
+Tenascin
+Tenascin-X
+Thrombospondin-1
+Transgelin
+Triosephosphate isomerase
+Vimentin
+von Willebrand factor

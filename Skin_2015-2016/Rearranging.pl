@@ -1,35 +1,45 @@
 #This script rearanges the protein based literature review and Displays the DOI first, and then proteins that are contained in this DOI
-
-my $protein_listDOI= "Proteins_Abstracts.txt";
+#use 5.010;
+$protein_listDOI= "Proteins_Abstracts.txt";
 open (DOC, "<$protein_listDOI");
-my @loop_through=<DOC>;
+@loop_through=<DOC>;
 
 $arraySize = $#loop_through;
 
 
 
-my @AllDOIs = ();
-my @proteinNames= ();
-my @fullStrings_forSearch=();
-my @fullString=();
+@AllDOIs = ();
+@proteinNames= ();
+@fullStrings_forSearch=();
+@fullString=();
 
-for (my $count=0; $count <= $arraySize; $count++) {
+for ($count=0; $count <= $arraySize; $count++) {
 
-	my $protein_inLoop= ("@loop_through[$count]");
+	$protein_inLoop= ("@loop_through[$count]");
 
 	#do the string processing of each : split where there is space, select protein name and put in array, take the DOIs, split them, remove the DI_ put each of them in array.
 
-	my @seperated = split("\t", $protein_inLoop);
-	my $protein_Name= ("@seperated[0]\n");
+	@seperated = split("\t", $protein_inLoop);
+	$protein_Name= ("@seperated[0]\n");
 	$protein_Name =~ s/\r|\n//g;
 
 	push @proteinNames, $protein_Name;
 	push @proteinNames, "\n";
 
+	
+	
+	#print "@seperated\n";
+	
 
+	@DOI_string2= @seperated[3 .. $#seperated];
+	foreach(@DOI_string2){
+	
+	$DOI_string = $_;
+	
 
-
-	my $DOI_string= ("@seperated[4]\n");
+	#here select all the entries till the end.
+	
+	
 	#print "\n$DOI_string\n";
 
 	
@@ -38,7 +48,7 @@ for (my $count=0; $count <= $arraySize; $count++) {
 
 
 	#seperate the DOIs and put it in one matrix
-	my @seperatedDOIs = split(';', $DOI_string);
+	
 
 
 
@@ -54,28 +64,32 @@ for (my $count=0; $count <= $arraySize; $count++) {
 
 	#add the for each loop to push the data on the array with a new line entry;
 
-	foreach (@seperatedDOIs) { 
+	
 
 
-		my $DOI=$_; 
+	$DOI=$DOI_string; 
 		
 
-		my $DOI2=(split(' \(', $DOI))[0];
+	$DOI2=(split(' \(', $DOI))[0];
 		
+	#print $DOI2."\n";
+	#sleep(2);
 
 		
 		#print "\n$DOI2\n";
 		#sleep(4);
+		if (length($DOI2)<2){
+		#print "Not Adding";
+		}
+		else{
 		push @AllDOIs, $DOI2;
 		push @AllDOIs, "\n"; 
-
-	};
-
+		}
+	}
+	
+	
 }
 
-
-#print @AllDOIs;
-#sleep(10);
 
 @array = @fullStrings_forSearch;
 
@@ -85,11 +99,20 @@ for (my $count=0; $count <= $arraySize; $count++) {
 ####################
 ###################
 
+sub uniq {
+    my %seen;
+    grep !$seen{$_}++, @_;
+}
 
 #$seen{$_}++ foreach @AllDOIs;
-my %seen;
-my @uniqueDOIlist = grep { not $seen{$_} ++ } @AllDOIs;
+@uniqueDOIlist=uniq(@AllDOIs);
+print "length!!!!!\n $#AllDOIs \n";
+print $#AllDOIs;
 
+my %seen;
+#@uniqueDOIlist = @AllDOIs;
+print @uniqueDOIlist;
+#sleep(30);
 
 my @DOI_based =();
 my @DOI_based2 =();
@@ -99,8 +122,14 @@ $arraySize= $#uniqueDOIlist;
 
 my @proteinNames = ();
 @uniqueDOIlist = grep { $_ ne '' } @uniqueDOIlist;
+#exit 42;
+#sleep(30);
 
 #loop throught each of the unique DOIs
+#add : IgnoreTheseDOIs
+my $x2 = "Ignore_These_DOIs.txt";
+open (INE2, "<$x2");
+@all_DOI_names_to_ignore=<INE2>;
 
 for (my $count1=0; $count1 <= $arraySize; $count1++) {
 	#$arraySize;
@@ -108,50 +137,65 @@ for (my $count1=0; $count1 <= $arraySize; $count1++) {
 
 	my $Doi = @uniqueDOIlist[$count1];
 	
-	$Doi2=$Doi;
+	if ( $Doi ~~ @all_DOI_names_to_ignore){
+	print "passssssss!!!\n";
+	}
+	else{
 	
-	$Doi =~ tr/[\^\+\:\]]/./;   #remove regex characters
+	
+	
+	$Doi2=$Doi;
+	print $Doi2."\n";
+	#sleep(1);
+	$Doi =~ tr/[\^\+\-\(\)\:\]]/./;   #remove regex characters
 
 	push @DOI_based, $Doi;
-	push @DOI_based, " ; ";
+	push @DOI_based, "\t";
 
 	#print @array;
 	
-	my @matches = ();	
+	@matches = ();	
 	eval {
 	
-		#print "\n$Doi\n";
+		print "\n$Doi\n";
+		#sleep(2);
 		@matches = grep { /$Doi/ } @array;
 
 
 		
 		#loop through each of the matches of the proteins found with this doi;
-		my $size = ();
+		$size = ();
 		$size = $#matches+1;
 
-		push @DOI_based, " ; ";
+		push @DOI_based, "\t";
 
-		my @artt = ();
+		@artt = ();
 
-		for (my $counte=0; $counte <= $size; $counte++) {
+		for ($counte=0; $counte <= $size; $counte++) {
 			#loop throught each of the protein matches
 
 			my $l = @matches[$counte];
-			my @DOIProtein = split(';', $l);
-			my $protein = @DOIProtein[0];
-
-		#print "\n$protein\n";
+			@DOIProtein = split("\t", $l);
+			$protein = @DOIProtein[0];
+			@protein_act=split("; ", $protein);
+		#print "proteeeeiiinnnssss!!\n";
+		#print "\n@protein_act\n";
 		#sleep(3);
 			
 			push @artt, $protein;
 		}
 
 		#join the list of protein names for DOI in a string
-		$someNames = join(' ; ', @artt);
-		my $i=" ; ";
+		$someNames = join("\t", @artt);
+	
+		$i="\t";
 
-
-
+		#in somenames replace the doi string
+		$someNames =~ s/; $Doi//g;
+		#print "somenamess === ".$someNames."\n";
+		#sleep(3);
+		
+		
 		#combine a result string for writing in a document
 		$string12 = join('', $Doi2,$i,$size,$i,$someNames);
 
@@ -159,12 +203,12 @@ for (my $count1=0; $count1 <= $arraySize; $count1++) {
 		push @DOI_based2, $string12;
 		push @DOI_based2, "\n";
 
-		my $p = "\n";
+		$p = "\n";
 		@artt = ();
 		
 	};
 	warn $@ if $@;
-
+	}
 }
 
 

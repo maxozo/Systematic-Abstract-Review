@@ -56,6 +56,10 @@ my @all_protein_names=<INE>;
 $arraySize = $#all_protein_names;
 $count = 0;
 
+my $x2 = "Ignore_These_Proteins.txt";
+open (INE2, "<$x2");
+my @all_protein_names_to_ignore=<INE2>;
+
 my @totalmatrix = ();
 my @DItotal = () ;
 @array_with_all_abstracts=@test;
@@ -64,7 +68,12 @@ my @DItotal = () ;
 while ($count <= $arraySize) {
 	
 	my $protein_name = "@all_protein_names[$count]";
-	
+	$oficial_protein_name=$protein_name;
+	$oficial_protein_name =~ s/\r|\n//g;
+	if ( $protein_name ~~ @all_protein_names_to_ignore){
+	print "passssssss!!!\n";
+	}
+	else{
 	$protein_name =~ s/\r|\n//g;
 	$protein_name =~ tr/+/./;
 	$protein_name =~ tr/]/./;
@@ -96,7 +105,24 @@ while ($count <= $arraySize) {
 		#here search for the protein name position within a sting and then extract 3 words before and after the word of interest
 		$protein_name2=$protein_name;
 		$protein_name2 =~ s/[*.\/]+//g;
-		my $result_ix = index(lc($gr), lc($protein_name2));
+		
+		#what if there are 2 matches? what happens? get 2 context informations.
+		my $offset = 0; #this will allow to get all the context matches.
+		my $result_ix = index(lc($gr), lc($protein_name2),$offset);
+		
+		while ($result_ix != -1) {
+
+			print "Found $protein_name2 at $result_ix\n";
+
+			$offset = $result_ix + 1;
+			
+
+		
+		
+		#@result_ix2 = index(lc($gr), lc($protein_name2));
+		#print @result_ix2;
+		
+		
 		
 		$string_after= substr $gr, $result_ix; 
 		$string_before= substr $gr, 0,$result_ix; 
@@ -105,20 +131,47 @@ while ($count <= $arraySize) {
 		@words_after=split(/ /, $string_after);
 		@slice_after = @words_after[0 .. 4];
 		
-		#print "slice after: \n";
+		#reported issues: Doesnt like a regex: cant find a patter due to this.
+		#some dont have a DOI: get a pubmed id instead PM 18606671
+		@di1= grep { /DI / } @slines; 
 		
-		#$s=join(' ', @slice_before);
+		$di_with_words2= @di1[0];
 		
-		#print "$string_after\n";
 		
-		#rint "\n$protein_name\n";
+		if (length($di_with_words2)<1){
+		
+		
+		@di1 = grep{/PM /} @slines;
+		$di_with_words2=@di1[0];
+		
+		if (length($di_with_words2)<1){
+		@di1 = grep{/UT /} @slines;
+		$di_with_words2=@di1[0];
+				}
+		
+		#print "@di1[0]\n";
+		
+		#sleep(2);
+		};
 		
 		
 		
 		$String_of_words_before_and_after=join(' ', (@slice_before, @slice_after));
-		#print "$String_of_words_before_and_after\n";
+		$String_of_words_before_and_after =~ s/[()]//g;
+		$result_ix = index(lc($gr), lc($protein_name2),$offset);
+		$di_with_words= "@di1[0] ( $String_of_words_before_and_after )";
+		print $di_with_words2."\n";
+		print $String_of_words_before_and_after."\n";
 		
-		my @di1= grep { /DI / } @slines; 
+		
+		push @DI, $di_with_words; 
+		#sleep(2);
+		}
+		#remove a brackets of this string.
+		
+		
+		
+		
 		my @ti1= grep { /TI / } @slines;
 				
 		my @ti12= grep { /epiderm*/ } @slines;
@@ -135,13 +188,13 @@ while ($count <= $arraySize) {
 		my @derm= grep { / derm*/ } @slines;
 		$sizderm = $#derm;
 		#print @di1;
-		$di_with_words= "@di1[0] ( $String_of_words_before_and_after )";
+		
 		print "\n$protein_name\n";
-		print "$di_with_words\n";
+		#print "$di_with_words\n";
 		
 		#sleep(4);
 		
-		push @DI, $di_with_words; 
+
 		push @TI, @ti1; 
 		
 		
@@ -161,7 +214,7 @@ while ($count <= $arraySize) {
 		my $n    = 3;
 		my $d1 = substr($d1, $n); 
 		push @DI1, $d1; 
-		push @DI1, ";";
+		push @DI1, "\t";
 		};
 		
 		
@@ -173,13 +226,12 @@ while ($count <= $arraySize) {
 	
 	$NrPapers = $#DI+1;
 
-	print("$count\n");
-	$count++;
+
 	
 	if ($NrPapers>0) {
 
 		#$protein_name =~ tr/ /_/;
-		push @totalmatrix, $protein_name;
+		push @totalmatrix, $oficial_protein_name;
 		push @totalmatrix, "\t";
 
 		push @totalmatrix, $NrPapers;
@@ -197,13 +249,17 @@ while ($count <= $arraySize) {
 		push @totalmatrix, "\t";
 		push @totalmatrix, @DI1;
 
-		push @totalmatrix, "\t";
-		push @totalmatrix, @TI1;
+		#we do not need a Title entries as we have context now.
+		#push @totalmatrix, "\t";
+		#push @totalmatrix, @TI1;
 
 
 
 		push @totalmatrix, "\n";
 	}
+	}
+	print("$count\n");
+	$count++;
 	}
 	
 	open(NEW3, ">Proteins_Abstracts.txt") || die "couldn't open $newfile: $!";

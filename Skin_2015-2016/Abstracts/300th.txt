@@ -1,449 +1,1521 @@
 ﻿FN Thomson Reuters Web of Science™
 VR 1.0
 PT J
-AU Peng, ZL
-   Li, SH
-   Han, X
-   Al-Youbi, AO
-   Bashammakh, AS
-   El-Shahawi, MS
-   Leblanc, RM
-AF Peng, Zhili
-   Li, Shanghao
-   Han, Xu
-   Al-Youbi, Abdulrahman O.
-   Bashammakh, Abdulaziz S.
-   El-Shahawi, Mohammad S.
-   Leblanc, Roger M.
-TI Determination of the composition, encapsulation efficiency and loading
-   capacity in protein drug delivery systems using circular dichroism
-   spectroscopy
-SO ANALYTICA CHIMICA ACTA
-AB Peptides and proteins have become very promising drug candidates in recent decades due to their unique properties. However, the application of these drugs has been limited by their high enzymatic susceptibility, low membrane permeability and poor bioavailability when administered orally. Considerable efforts have been made to design and develop drug delivery systems that could transport peptides and proteins to targeted area. Although it is of great importance to determine the composition after loading a drug to the carrier, the ability to do so is significantly limited by current analytical methods. In this letter, five important proteins, alpha(1)-antitrypsin, hemoglobin human, human serum albumin, human transferrin and r-globulin were chemically conjugated to two model drug carriers, namely carbon dots and polymer O-(2-carboxyethyl)polyethylene glycol. A simple yet convenient method based on circular dichroism spectroscopy was developed to determine the compositions of the various protein-carrier conjugates. (C) 2016 Elsevier B.V. All rights reserved.
-SN 0003-2670
-EI 1873-4324
-PD SEP 21
-PY 2016
-VL 937
-BP 113
-EP 118
-DI 10.1016/j.aca.2016.08.014
-UT WOS:000382252800014
-PM 27590552
-ER
-
-PT J
-AU Pascarella, S
-   Tiberi, C
-   Sabatino, G
-   Nuti, F
-   Papini, AM
-   Giovannelli, L
-   Rovero, P
-AF Pascarella, Simona
-   Tiberi, Caterina
-   Sabatino, Giuseppina
-   Nuti, Francesca
-   Papini, Anna Maria
-   Giovannelli, Lisa
-   Rovero, Paolo
-TI SerpinA1 C-Terminal Peptides as Collagen Turnover Modulators
-SO CHEMMEDCHEM
-CT 23rd National Meeting of the Medicinal-Chemistry-Division of the
-   Italian-Chemical-Society (DCF-SCI)
-CY 2015
-CL Salerno, ITALY
-SP Italian Chem Soc, Med Chem Div
-AB The modulation of collagen turnover can be a relevant pharmacological target in the context of treating either pathological or pathophysiological conditions, such as collagen-related diseases and skin aging. Our recent work has focused on the search for short-chain peptides as lead compounds for further development of compounds that enhance the production of typeI collagen. In this study we selected and synthesized overlapping peptides of the C-terminal portion of serpinA1 (residues 393-418), the impact of which on collagen production has been reported previously, in order to identify shorter and still active fragments and to provide insight on the mechanisms involved. The biological activity of each fragment was evaluated with cultured normal human dermal fibroblasts, and changes in the amounts of collagen were monitored in collected culture media by a sandwich ELISA technique developed in house. Interestingly, we identified a decapeptide, termed SA1-III (Ac-MGKVVNPTQK-NH2), as a promising candidate for our purposes; it is able to induce a significant increase in typeI collagen levels in the culture medium of treated cells at micromolar concentrations.
-SN 1860-7179
-EI 1860-7187
-PD AUG 19
-PY 2016
-VL 11
-IS 16
-SI SI
-BP 1850
-EP 1855
-DI 10.1002/cmdc.201500472
-UT WOS:000383579700021
-PM 26615979
-ER
-
-PT J
-AU Geng, F
-   Huang, X
-   Ma, MH
-AF Geng, Fang
-   Huang, Xi
-   Ma, Meihu
-TI Hen egg white ovomacroglobulin promotes fibroblast migration via
-   mediating cell adhesion and cytoskeleton
-SO JOURNAL OF THE SCIENCE OF FOOD AND AGRICULTURE
-AB BACKGROUND: Hen egg white ovomacroglobulin (OVM) possesses a variety of bioactivities and could potentially be used as a pharmaceutical agent. It has been reported that OVM is involved in wound healing and cancer pathological processes, and previous results suggest that OVM plays a potential role in cell proliferation and migration; however, this has not yet been proven. In the present study, the effects of OVMon fibroblast proliferation and migration were evaluated.
-   RESULTS: Results of cell counting, cell viability, and cell cycle indicated that proliferation of fibroblasts was not altered by OVM treatment. However, scratch assays showed that OVM could promote the migration of 3 T6 mouse embryonic fibroblasts and human skin fibroblasts (HSF). Also, the adhesion of HSF to the collagen matrix was also enhanced by OVM treatment. RT-qPCR and western blot analysis showed that.. 1-integrin,.. -tubulin, and.. -actin were up-regulated while E-cadherin was down-regulated in OVM-treated HSF cells. The effect of OVM was silenced after forming a complex with trypsin, suggesting that the protease inhibitory ability of OVM is important for its effect on cell migration.
-   CONCLUSION: These results suggested that promotion of OVM on cell migration was achieved by enhancing cell adhesion to extracellular matrix, reducing intercellular aggregation, and strengthening cytoskeleton. The finding of the promotion effect of OVMon cell migration is important for understanding its role in wound healing and cancer pathological processes. (C) 2015 Society of Chemical Industry
-SN 0022-5142
-EI 1097-0010
-PD JUL
-PY 2016
-VL 96
-IS 9
-BP 3188
-EP 3194
-DI 10.1002/jsfa.7498
-UT WOS:000377203000032
-PM 26467490
-ER
-
-PT J
-AU Kanno, Y
-   Shu, E
-   Kanoh, H
-   Seishima, M
-AF Kanno, Yosuke
-   Shu, En
-   Kanoh, Hiroyuki
-   Seishima, Mariko
-TI The Antifibrotic Effect of alpha 2AP Neutralization in Systemic
-   Sclerosis Dermal Fibroblasts and Mouse Models of Systemic Sclerosis
-SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
-AB Systemic sclerosis (SSc) is a connective tissue disease of autoimmune origin characterized by the fibrosis of skin and visceral organs, and peripheral circulatory disturbance. We recently demonstrated that alpha 2-antiplasmin (alpha 2AP), which is the physiological inhibitor of plasmin, is associated with the development of fibrosis. The aim of this study was to clarify the role of alpha 2AP in the pathogenesis of SSc. The administration of alpha 2AP in mice induced profibrotic changes, such as increased dermal thickness, collagen production, and myofibroblast differentiation. Conversely, the alpha 2AP neutralization prevented not only profibrotic changes, but also the production of autoantibodies in bleomycin-induced mouse models of SSc. The expression of alpha 2AP was elevated in dermal fibroblasts obtained from patients with SSc. Furthermore, alpha 2AP treatment promoted profibrotic changes in human normal dermal fibroblasts, and alpha 2AP neutralization reversed a profibrotic phenotype of SSc dermal fibroblasts, in the absence of plasmin. Our findings demonstrated that alpha 2AP has a profibrotic effect probably not by the action as a plasmin inhibitor, and that the blocking of alpha 2AP exerts an antifibrotic effect in humans and mice with SSc.
-SN 0022-202X
-EI 1523-1747
-PD APR
-PY 2016
-VL 136
-IS 4
-BP 762
-EP 769
-DI 10.1016/j.jid.2015.12.028
-UT WOS:000372488500017
-PM 26743600
-ER
-
-PT J
-AU Mushtaq, MA
-   Pan, Q
-   Chen, DZ
-   Zhang, QH
-   Ge, XH
-   Li, ZY
-AF Mushtaq, Muhammad A.
-   Pan, Qi
-   Chen, Daozong
-   Zhang, Qinghua
-   Ge, Xianhong
-   Li, Zaiyun
-TI Comparative Leaves Transcriptome Analysis Emphasizing on Accumulation of
-   Anthocyanins in Brassica: Molecular Regulation and Potential Interaction
-   with Photosynthesis
-SO FRONTIERS IN PLANT SCIENCE
-AB The purple leaf pigmentation mainly associated with anthocyanins accumulation is common in Brassica but the mechanisms of its production and its potential physiological functions are poorly understood. Here, we performed the phenotypic, cytological, physiological, and comparative leaves transcriptome analyses of 11 different varieties belonging to five Brassica species with purple or green leaves. We observed that the anthocyanin was accumulated in most of vegetative tissues in all species and also in reproduction organs of B. carinata. Anthocyanin accumulated in different part of purple leaves including adaxial and abaxial epidermal cells as well as palisade and spongy mesophyll cells. Leave transcriptome analysis showed that almost all late biosynthetic genes (LBGs) of anthocyanin, especially Dihydroflayonol 4-Reductase (DFR), Anthocyanidin Synthase (ANS) and Transparent Testa 19 (TT19), were highly up regulated in all purple leaves. However, only one of transcript factors in anthocyanin biosynthesis pathway, Transparent Testa 8 (TT8), was up regulated along with those genes in all purple leaves, indicating its pivotal role for anthocyanin production in Brassica. Interestingly, with the up-regulation of genes for anthocyanin synthesis, Cytosolic 6-phosphogluconolactonase (PLG5) which involved in the oxidative pentose-phosphate pathway was up-regulated in all purple leaves and three genes FISH PROTEASE 8 (FTS8), GLYCOLATE OXIDASE 1 (GOX1), and GLUTAMINE SYNTHETASE 1;4 (GLN1;4) related to degradation of photo-damaged proteins in photosystem II and light respiration were down-regulated. These results highlighted the potential physiological functions of anthocyanin accumulation related to photosynthesis which might be of great worth in future.
-SN 1664-462X
-PD MAR 18
-PY 2016
-VL 7
-AR 311
-DI 10.3389/fpls.2016.00311
-UT WOS:000372183200001
-PM 27047501
-ER
-
-PT J
-AU Henry, CM
-   Sullivan, GP
-   Clancy, DM
-   Afonina, IS
-   Kulms, D
-   Martin, SJ
-AF Henry, Conor M.
-   Sullivan, Graeme P.
-   Clancy, Danielle M.
-   Afonina, Inna S.
-   Kulms, Dagmar
-   Martin, Seamus J.
-TI Neutrophil-Derived Proteases Escalate Inflammation through Activation of
-   IL-36 Family Cytokines
-SO CELL REPORTS
-AB Recent evidence has strongly implicated the IL-1 family cytokines IL-36 alpha, IL-36 beta, and IL-36 gamma as key initiators of skin inflammation. Similar to the other members of the IL-1 family, IL-36 cytokines are expressed as inactive precursors and require proteolytic processing for activation; however, the responsible proteases are unknown. Here, we show that IL-36 alpha, IL-36 beta, and IL-36 gamma are activated differentially by the neutrophil granule-derived proteases cathepsin G, elastase, and proteinase-3, increasing their biological activity similar to 500-fold. Active IL-36 promoted a strong pro-inflammatory signature in primary keratinocytes and was sufficient to perturb skin differentiation in a reconstituted 3D human skin model, producing features resembling psoriasis. Furthermore, skin eluates from psoriasis patients displayed significantly elevated cathepsin G-like activity that was sufficient to activate IL-36 beta. These data identify neutrophil granule proteases as potent IL-36-activating enzymes, adding to our understanding of how neutrophils escalate inflammatory reactions. Inhibition of neutrophil-derived proteases may therefore have therapeutic benefits in psoriasis.
-SN 2211-1247
-PD FEB 2
+AU Mohamed, BA
+   Asif, AR
+   Schnelle, M
+   Qasim, M
+   Khadjeh, S
+   Lbik, D
+   Schott, P
+   Hasenfuss, G
+   Toischer, K
+AF Mohamed, Belal A.
+   Asif, Abdul R.
+   Schnelle, Moritz
+   Qasim, Mohamed
+   Khadjeh, Sara
+   Lbik, Dawid
+   Schott, Peter
+   Hasenfuss, Gerd
+   Toischer, Karl
+TI Proteomic analysis of short-term preload-induced eccentric cardiac
+   hypertrophy
+SO JOURNAL OF TRANSLATIONAL MEDICINE
+AB Background: Hemodynamic load leads to cardiac hypertrophy and heart failure. While afterload (pressure overload) induces concentric hypertrophy, elevation of preload (volume overload) yields eccentric hypertrophy and is associated with a better outcome. Here we analysed the proteomic pattern of mice subjected to short-term preload.
+   Methods and Results: Female FVB/N mice were subjected to aortocaval shunt-induced volume overload that leads to an eccentric hypertrophy (left ventricular weight/tibia length +31 %) with sustained systolic heart function at 1 week after operation. Two-dimensional gel electrophoresis (2-DE) followed by mass spectrometric analysis showed alteration in the expression of 25 protein spots representing 21 different proteins. 64 % of these protein spots were up-regulated and 36 % of the protein spots were consistently down-regulated. Interestingly, alpha-1-antitrypsin was down-regulated, indicating higher elastin degradation and possibly contributing to the early dilatation. In addition to contractile and mitochondrial proteins, polymerase I and transcript release factor protein (PTRF) was also up-regulated, possibly contributing to the preload-induced signal transduction.
+   Conclusions: Our findings reveal the proteomic changes of early-stage eccentric myocardial remodeling after volume overload. Induced expression of some of the respiratory chain enzymes suggests a metabolic shift towards an oxidative phosphorylation that might contribute to the favorable remodeling seen in early VO. Down-regulation of alpha-1-antitrypsin might contribute to extracellular matrix remodeling and left ventricular dilatation. We also identified PTRF as a potential signaling regulator of volume overload-induced cardiac hypertrophy.
+SN 1479-5876
+PD MAY 27
 PY 2016
 VL 14
-IS 4
-BP 708
-EP 722
-DI 10.1016/j.celrep.2015.12.072
-UT WOS:000369104500004
-PM 26776523
+AR 149
+DI 10.1186/s12967-016-0898-5
+UT WOS:000377182700001
+PM 27234427
 ER
 
 PT J
-AU Shishodia, S
-   Azu, N
-   Rosenzweig, JA
-   Jackson, DA
-AF Shishodia, Shishir
-   Azu, Nkem
-   Rosenzweig, Jason A.
-   Jackson, Desiree A.
-TI Guggulsterone for Chemoprevention of Cancer
-SO CURRENT PHARMACEUTICAL DESIGN
-AB Guggulsterone [4, 17(20)-pregnadiene-3, 16-dione] is a plant sterol derived from the gum resin of the tree Commiphora wightii. The gum resin of the guggul tree has been used in traditional medicine for centuries to treat obesity, liver disorders, internal tumors, malignant sores, ulcers, urinary complaints, intestinal worms, leucoderma, sinus, edema and sudden paralytic seizures. Guggulsterone has been shown to modulate the nuclear receptors, farnesoid X receptor, pregnane X receptor, CYP 2b10 gene expression, and the bile salt export pump for cholesterol elimination. Recent research indicates that the active components of gum guggul, E-and Z-guggulsterone have the potential to both prevent and treat cancers. Guggulsterone inhibits the growth of a wide variety of tumor cells and induces apoptosis through down regulation of antiapoptotic gene products (IAP1, xIAP, Bfl-1/A1, Bcl-2, cFLIP, and survivin), modulation of cell cycle proteins (cyclin D1 and c-Myc), activation of caspases, inhibition of Akt, and activation of JNK. Guggulsterone modulates the expression of gene products involved in metastasis (MMP-9, COX-2, and VEGF) of tumor cells. Guggulsterone mediates gene expression through the modulation of several transcription factors, including NF-kappa B, STAT3, C/EBP alpha, androgen receptor, and glucocorticoid receptors. This review describes the anti-cancer properties, molecular targets, and the apoptotic effects of guggulsterone.
-SN 1381-6128
-EI 1873-4286
-PY 2016
-VL 22
-IS 3
-BP 294
-EP 306
-DI 10.2174/1381612822666151112153117
-UT WOS:000372070600005
-PM 26561056
-ER
-
-PT J
-AU Edelblute, CM
-   Pakhomova, ON
-   Li, FY
-   Hargrave, BY
-   Heller, LC
-AF Edelblute, Chelsea M.
-   Pakhomova, Olga N.
-   Li, Fanying
-   Hargrave, Barbara Y.
-   Heller, Loree C.
-TI Donor platelet plasma components inactivate sensitive and multidrug
-   resistant Acinetobacter baumannii isolates
-SO PATHOGENS AND DISEASE
-AB Acinetobacter baumannii is an environmentally resilient healthcare-associated opportunistic pathogen responsible for infections at many body sites. In the last 10 years, clinical strains resistant to many or all commonly used antibiotics have emerged globally. With few antimicrobial agents in the pharmaceutical pipeline, new and alternative agents are essential. Platelets secrete a large number of proteins, including proteins with antimicrobial activity. In a previous study, we demonstrated that donor platelet supernatants and plasma significantly inhibited the growth of a reference strain of A. baumannii in broth and on skin. This inhibition appeared to be unrelated to the platelet activation state. In this study, we demonstrate that this growth inhibition extends to clinical multidrug resistant isolates. We also demonstrate that there is no relationship between this activity and selected platelet-derived antimicrobial proteins. Instead, the donor plasma components complement and alpha-2 macroglobulin are implicated.
-SN 2049-632X
-PD DEC
-PY 2015
-VL 73
-IS 9
-AR ftv095
-DI 10.1093/femspd/ftv095
-UT WOS:000368404300015
-PM 26500225
-ER
-
-PT J
-AU Albrecht, I
-   Wick, C
-   Hallgren, A
-   Tjarnlund, A
-   Nagaraju, K
-   Andrade, F
-   Thompson, K
-   Coley, W
-   Phadke, A
-   Diaz-Gallo, LM
-   Bottai, M
-   Nennesmo, I
-   Chemin, K
-   Herrath, J
-   Johansson, K
-   Wikberg, A
-   Ytterberg, AJ
-   Zubarev, RA
-   Danielsson, O
-   Krystufkova, O
-   Vencovsky, J
-   Landegren, N
-   Wahren-Herlenius, M
-   Padyukov, L
-   Kampe, O
-   Lundberg, IE
-AF Albrecht, Inka
-   Wick, Cecilia
-   Hallgren, Asa
-   Tjarnlund, Anna
-   Nagaraju, Kanneboyina
-   Andrade, Felipe
-   Thompson, Kathryn
-   Coley, William
-   Phadke, Aditi
-   Diaz-Gallo, Lina-Marcela
-   Bottai, Matteo
-   Nennesmo, Inger
-   Chemin, Karine
-   Herrath, Jessica
-   Johansson, Karin
-   Wikberg, Anders
-   Ytterberg, A. Jimmy
-   Zubarev, Roman A.
-   Danielsson, Olof
-   Krystufkova, Olga
-   Vencovsky, Jiri
-   Landegren, Nils
-   Wahren-Herlenius, Marie
-   Padyukov, Leonid
-   Kampe, Olle
-   Lundberg, Ingrid E.
-TI Development of autoantibodies against muscle-specific FHL1 in severe
-   inflammatory myopathies
-SO JOURNAL OF CLINICAL INVESTIGATION
-AB Mutations of the gene encoding four-and-a-half LIM domain 1 (FHL1) are the causative factor of several X-linked hereditary myopathies that are collectively termed FHL1-related myopathies. These disorders are characterized by severe muscle dysfunction and damage. Here, we have shown that patients with idiopathic inflammatory myopathies (IIMs) develop autoimmunity to FHL1, which is a muscle-specific protein. Anti-FHL1 autoantibodies were detected in 25% of IIM patients, while patients with other autoimmune diseases or muscular dystrophies were largely anti-FHL1 negative. Anti-FHL1 reactivity was predictive for muscle atrophy, dysphagia, pronounced muscle fiber damage, and vasculitis. FHL1 showed an altered expression pattern, with focal accumulation in the muscle fibers of autoantibody-positive patients compared with a homogeneous expression in anti-FHL1-negative patients and healthy controls. We determined that FHL1 is a target of the cytotoxic protease granzyme B, indicating that the generation of FHL1 fragments may initiate FHL1 autoimmunity. Moreover, immunization of myositis-prone mice with FHL1 aggravated muscle weakness and increased mortality, suggesting a direct link between anti-FHL1 responses and muscle damage. Together, our findings provide evidence that FHL1 may be involved in the pathogenesis not only of genetic FHL1-related myopathies but also of autoimmune IIM. Importantly, these results indicate that anti-FHL1 autoantibodies in peripheral blood have promising potential as a biomarker to identify a subset of severe IIM.
-RI Ytterberg, Anders/E-1773-2016; 
-OI Ytterberg, Anders/0000-0002-1485-2314; Wahren-Herlenius,
-   Marie/0000-0002-0915-7245; Kampe, Olle/0000-0001-6091-9914
-SN 0021-9738
-EI 1558-8238
-PD DEC
-PY 2015
-VL 125
-IS 12
-BP 4612
-EP 4624
-DI 10.1172/JCI81031
-UT WOS:000365831300026
-PM 26551678
-ER
-
-PT J
-AU Lipitsa, T
-   Naukkarinen, A
-   Harvima, IT
-AF Lipitsa, Tiina
-   Naukkarinen, Anita
-   Harvima, Ilkka T.
-TI Mast cell tryptase and chymase in the progress of cutaneous vasculitis
-SO ARCHIVES OF DERMATOLOGICAL RESEARCH
-AB In animal models of vasculitis, mast cells are essential in the pathogenesis, but their involvement in human skin vasculitis is obscure. Because tryptase and chymase are potent serine proteinases in the secretory granules of mast cells, the purpose was to examine the number of mast cells expressing tryptase and chymase during the progress of cutaneous vasculitis. These numbers were correlated with the appearance of immunoreactants (C3c, fibrin, IgM, IgA and IgG) in vessel walls. For this, skin biopsies were taken from the healthy-looking skin, initial petechial lesion (IP), and palpable purpura (PP) of the leg of patients with leukocytoclastic vasculitis (n = 10). The frozen biopsies were analysed using enzyme- and immunohistochemistry and direct immunofluorescence (IF) staining. The results show that there are no marked changes in the numbers of mast cells expressing chymase or tryptase proteins. Instead, chymase enzyme activity decreased, but the score of alpha(1)-antichymotrypsin staining increased, during the progress of vasculitis. The IF positivity of fibrin correlated positively with chymase activity (p = 0.01) and the ratio of chymase activity to tryptase protein in IP (p = 0.03), as well as with mast cells showing tryptase (p = 0.03) and chymase (p = 0.01) proteins in PP. The IF positivity of C3c correlated with the ratio of chymase activity to tryptase protein in IP (p = 0.01). In conclusion, chymase is partially inactivated in vasculitis possibly due to alpha(1)-antichymotrypsin. Several positive correlations between chymase and fibrin and/or C3c in IP or PP suggest that this enzyme is involved in the deposition of immunoreactants in the vessel wall.
-SN 0340-3696
-EI 1432-069X
-PD DEC
-PY 2015
-VL 307
-IS 10
-BP 917
-EP 924
-DI 10.1007/s00403-015-1607-6
-UT WOS:000365172700008
-PM 26498154
-ER
-
-PT J
-AU Lee, SJ
-   Song, HJ
-   Boo, SJ
-   Na, SY
-   Kim, HU
-   Hyun, CL
-AF Lee, Soon Jae
-   Song, Hyun Joo
-   Boo, Sun-Jin
-   Na, Soo-Young
-   Kim, Heung Up
-   Hyun, Chang Lim
-TI Primary intestinal lymphangiectasia with generalized warts
-SO WORLD JOURNAL OF GASTROENTEROLOGY
-AB Primary intestinal lymphangiectasia (PIL) is a rare protein-losing enteropathy with lymphatic leakage into the small intestine. Dilated lymphatics in the small intestinal wall and mesentery are observed in this disease. Laboratory tests of PIL patients revealed hypoalbuminemia, lymphocytopenia, hypogammaglobulinemia and increased stool alpha-1 antitrypsin clearance. Cell-mediated immunodeficiency is also present in PIL patients because of loss of lymphocytes. As a result, the patients are vulnerable to chronic viral infection and lymphoma. However, cases of PIL with chronic viral infection, such as human papilloma virus-induced warts, are rarely reported. We report a rare case of PIL with generalized warts in a 36-year-old male patient. PIL was diagnosed by capsule endoscopy and colonoscopic biopsy with histological tissue confirmation. Generalized warts were observed on the head, chest, abdomen, back, anus, and upper and lower extremities, including the hands and feet of the patient.
-SN 1007-9327
-EI 2219-2840
-PD JUL 21
-PY 2015
-VL 21
-IS 27
-BP 8467
-EP 8472
-DI 10.3748/wjg.v21.i27.8467
-UT WOS:000358228600029
-PM 26217101
-ER
-
-PT J
-AU Vissers, LELM
-   Bonetti, M
-   Overman, JP
-   Nillesen, WM
-   Frints, SGM
-   de Ligt, J
-   Zampino, G
-   Justino, A
-   Machado, JC
-   Schepens, M
-   Brunner, HG
-   Veltman, JA
-   Scheffer, H
-   Gros, P
-   Costa, JL
-   Tartaglia, M
-   van der Burgt, I
-   Yntema, HG
-   den Hertog, J
-AF Vissers, Lisenka E. L. M.
-   Bonetti, Monica
-   Overman, Jeroen Paardekooper
-   Nillesen, Willy M.
-   Frints, Suzanna G. M.
-   de Ligt, Joep
-   Zampino, Giuseppe
-   Justino, Ana
-   Machado, Jose C.
-   Schepens, Marga
-   Brunner, Han G.
-   Veltman, Joris A.
-   Scheffer, Hans
-   Gros, Piet
-   Costa, Jose L.
-   Tartaglia, Marco
-   van der Burgt, Ineke
-   Yntema, Helger G.
-   den Hertog, Jeroen
-TI Heterozygous germline mutations in A2ML1 are associated with a disorder
-   clinically related to Noonan syndrome
-SO EUROPEAN JOURNAL OF HUMAN GENETICS
-AB Noonan syndrome (NS) is a developmental disorder characterized by short stature, facial dysmorphisms and congenital heart defects. To date, all mutations known to cause NS are dominant, activating mutations in signal transducers of the RAS/ mitogen-activated protein kinase (MAPK) pathway. In 25% of cases, however, the genetic cause of NS remains elusive, suggesting that factors other than those involved in the canonical RAS/MAPK pathway may also have a role. Here, we used family-based whole exome sequencing of a case-parent trio and identified a de novo mutation, p.(Arg802His), in A2ML1, which encodes the secreted protease inhibitor alpha-2-macroglobulin (A2M)-like-1. Subsequent resequencing of A2ML1 in 155 cases with a clinical diagnosis of NS led to the identification of additional mutations in two families, p.(Arg802Leu) and p.(Arg592Leu). Functional characterization of these human A2ML1 mutations in zebrafish showed NS-like developmental defects, including a broad head, blunted face and cardiac malformations. Using the crystal structure of A2M, which is highly homologous to A2ML1, we identified the intramolecular interaction partner of p.Arg802. Mutation of this residue, p.Glu906, induced similar developmental defects in zebrafish, strengthening our conclusion that mutations in A2ML1 cause a disorder clinically related to NS. This is the first report of the involvement of an extracellular factor in a disorder clinically related to RASopathies, providing potential new leads for better understanding of the molecular basis of this family of developmental diseases.
-RI Vissers, Lisenka/A-2598-2015; Costa, Jose Luis/B-7126-2008; Veltman,
-   Joris/F-5128-2010; Brunner, Han/C-9928-2013; Yntema, H.G./L-4771-2015;
-   Scheffer, Hans/E-4644-2012; Machado, Jose Carlos/C-5907-2009; Gros,
-   Piet/I-5569-2016; 
-OI Costa, Jose Luis/0000-0001-7132-4094; de Ligt, Joep/0000-0002-0348-419X;
-   Tartaglia, Marco/0000-0001-7736-9672; Veltman,
-   Joris/0000-0002-3218-8250; Scheffer, Hans/0000-0002-2986-0915; Machado,
-   Jose Carlos/0000-0003-4741-8415; Gros, Piet/0000-0002-7782-2585;
-   Justino, Ana/0000-0003-4554-7088
-SN 1018-4813
-EI 1476-5438
+AU Gou, SH
+   Huang, HF
+   Chen, XY
+   Liu, J
+   He, M
+   Ma, YY
+   Zhao, XN
+   Zhang, Y
+   Ni, JM
+AF Gou, San-Hu
+   Huang, Hai-Feng
+   Chen, Xin-Yue
+   Liu, Jie
+   He, Miao
+   Ma, Yin-Yun
+   Zhao, Xiao-Ning
+   Zhang, Yun
+   Ni, Jing-Man
+TI Lipid-lowering, hepatoprotective, and atheroprotective effects of the
+   mixture Hong-Qu and gypenosides in hyperlipidemia with NAFLD rats
+SO JOURNAL OF THE CHINESE MEDICAL ASSOCIATION
+AB Background: Hyperlipidemia and its complications are among the most harmful of diseases with a worldwide impact, which creates an urgent imperative to find safe and effective drugs for treatment. HG is mainly composed of two kinds of traditional Chinese medicines (TCM), Hong-Qu and gypenosides. Previously, the ingredients of the mixture mainly composed by Hong-Qu and gypenosides (HG) were widely used for purposes of lipid-lowering, antiatherosclerosis effects, and maintaining cardiovascular health in China. The purpose of this study was to determine whether HG provides any benefit to patients with hyperlipidemia.
+   Methods: Forty-eight adult male Sprague-Dawley rats with fatty liver disease were randomly divided into six groups: normal, model, two positive controls, and two doses of HG-treated groups. The normal rats were fed a basal diet, and the other rats were fed a high-fat diet. Thereafter, the serum lipid profiles, hepatic steatosis, cytokines, enzymes, and relevant mRNA of rats were analyzed in serum, aorta tissue or hepatic tissues, respectively.
+   Results: After 65 days of feeding the high-fat diet to rats, there were significantly disordered serum lipid profiles, elevated oxidative stress biomarkers, and decreased antiinfiammatory cytokines in the serum levels. Additionally, aortic foam cell formation was increased. The gene expression levels including hydroxymethylglutaryl-CoA reductase (HMGR), peroxisome proliferator-activated receptor alpha (PPAR-a), sterol response element-binding protein-1c (SREBP-1c), fatty acid synthase (FAS), acetyl-CoA carboxylase-1 (ACC-1) and carnitine palmitoyl transferase-1(CPT-1) in hepatic tissue were also altered by a high-fat diet fed to Sprague-Dawley rats, and HG treatment significantly resolved and normalized these alterations. Moreover, HG not only caused a significant decrease in the lipid drops on the hepatic tissues, but also restored the antioxidant components.
+   Conclusion: HG is beneficial for regulating the stability of blood lipids, has atheroprotective characteristics and may prevent nonalcoholic fatty liver disease (NAFLD), providing more than just a theoretical basis for drug research of cardiovascular disease (CVD) treatment. Copyright (C) 2016, the Chinese Medical Association. Published by Elsevier Taiwan LLC.
+SN 1726-4901
+EI 1728-7731
 PD MAR
-PY 2015
-VL 23
+PY 2016
+VL 79
 IS 3
-BP 317
-EP 324
-DI 10.1038/ejhg.2014.115
-UT WOS:000349670900007
-PM 24939586
+BP 111
+EP 121
+DI 10.1016/j.jcma.2015.09.002
+UT WOS:000374803700003
+PM 26842974
 ER
 
 PT J
-AU Wezynfeld, NE
-   Bonna, A
-   Bal, W
-   Fraczyk, T
-AF Wezynfeld, Nina Ewa
-   Bonna, Arkadiusz
-   Bal, Wojciech
-   Fraczyk, Tomasz
-TI Ni(II) ions cleave and inactivate human alpha-1 antitrypsin
-   hydrolytically, implicating nickel exposure as a contributing factor in
-   pathologies related to antitrypsin deficiency
-SO METALLOMICS
-AB Human alpha-1 antitrypsin (AAT) is an abundant serum protein present at a concentration of 1.0-1.5 g L-1. AAT deficiency is a genetic disease that manifests with emphysema and liver cirrhosis due to the accumulation of a misfolded AAT mutant in hepatocytes. Lung AAT amount is inversely correlated with chronic obstructive pulmonary disease (COPD), a serious and often deadly condition, with increasing frequency in the aging population. Exposure to cigarette smoke and products of fossil fuel combustion aggravates AAT deficiency and COPD according to mechanisms that are not fully understood. Taking into account that these fumes contain particles that can release nickel to human airways and skin, we decided to investigate interactions of AAT with Ni(II) ions within the paradigm of Ni(II)-dependent peptide bond hydrolysis. We studied AAT protein derived from human blood using HPLC, SDS-PAGE, and mass spectrometry. These studies were aided by spectroscopic experiments on model peptides. As a result, we identified three hydrolysis sites in AAT. Two of them are present in the N-terminal part of the molecule next to each other (before Thr-13 and Ser-14 residues) and effectively form one N-terminal cleavage site. The single C-terminal cleavage site is located before Ser-285. The N-terminal hydrolysis was more efficient than the C-terminal one, but both abolished the ability of AAT to inhibit trypsin in an additive manner. Nickel ions bound to hydrolysis products demonstrated an ability to generate ROS. These results implicate Ni(II) exposure as a contributing factor in AAT-related pathologies.
-OI Bonna, Arkadiusz/0000-0002-3957-7849; Fraczyk,
-   Tomasz/0000-0003-2084-3446
-SN 1756-5901
-EI 1756-591X
+AU Hayashi, S
+   Yamada, H
+   Fukui, M
+   Ito, HO
+   Sata, M
+AF Hayashi, Shuji
+   Yamada, Hirotsugu
+   Fukui, Makoto
+   Ito, Hiro-o
+   Sata, Masataka
+TI Correlation Between Arteriosclerosis and Periodontal Condition Assessed
+   by Lactoferrin and alpha 1-Antitrypsin Levels in Gingival Crevicular
+   Fluid
+SO INTERNATIONAL HEART JOURNAL
+AB Patients with periodontal disease exhibit exacerbated atherosclerosis, aortic stiffness, or vascular endothelial dysfunction. However, in a recent scientific statement, the American Heart Association noted that neither has periodontal disease been proven to cause atherosclerotic vascular disease nor has the treatment of periodontal disease been proven to prevent atherosclerotic vascular disease. Therefore, the aim of the present study was to examine the correlation between periodontal condition and arteriosclerosis in patients with coronary artery disease (CAD), which is usually accompanied by systemic arteriosclerosis.
+   We measured levels of gingival crevicular fluid lactoferrin (GCF-Lf) and alpha 1-antitrypsin (GCF-AT) in 72 patients (67 8 years, 56 men) with CAD. Furthermore, we evaluated the maximum intima-media thickness (max IMT) and plaque score of the carotid arteries as well as brachial ankle pulse wave velocity (baPWV) and flow-mediated dilation (FMD) of the brachial artery, each of which is a parameter for determining arteriosclerosis status. The average level of GCF-Lf was 0.29 +/- 0.36 mu g/mL and that of GCF-AT was 0.31 +/- 0.66 mu g/mL, with significant correlation between the two (r = 0.701, P < 0.001). No significant difference in GCF-Lf and GCF-AT levels was observed between patients with single-, double-, and triple-vessel CAD. There were no significant correlations between the arteriosclerosis parameters (ie, max EMT, plaque score, baPWV, and FM])) and GCF-Lf or GCF-AT.
+   No correlation between the GCF biomarkers and the severity of arteriosclerosis was detected. This result may suggest that worsening of the periodontal condition assessed by GCF biomarkers is not a major potential risk factor for arteriosclerosis.
+SN 1349-2365
+EI 1349-3299
+PD NOV
 PY 2015
-VL 7
+VL 56
+IS 6
+BP 639
+EP 643
+UT WOS:000368044000012
+PM 26549390
+ER
+
+PT J
+AU Vizzardi, E
+   Corda, L
+   Sciatti, E
+   Roca, E
+   Redolfi, S
+   Arici, M
+   Pini, L
+   Bonadei, I
+   Metra, M
+   Tantucci, C
+AF Vizzardi, Enrico
+   Corda, Luciano
+   Sciatti, Edoardo
+   Roca, Elisa
+   Redolfi, Stefania
+   Arici, Marianna
+   Pini, Laura
+   Bonadei, Ivano
+   Metra, Marco
+   Tantucci, Claudio
+TI Echocardiographic evaluation in subjects with (1)-Antitrypsin deficiency
+SO EUROPEAN JOURNAL OF CLINICAL INVESTIGATION
+AB Background(1)-Antitrypsin (AAT) deficiency (AATD) is a genetic condition associated with early-onset panacinar emphysema and, less often, vascular disease. Recently, abnormal elastic properties of ascending aortic wall were described in ZZ genotype AATD subjects who incidentally showed an increased left ventricular mass.
+   Materials and methodsTo evaluate biventricular dimensions, valvular apparatus, systolic and diastolic function, 33 AATD subjects with ZZ genotype and 33 healthy subjects matched for age and sex underwent a complete echocardiographic assessment.
+   ResultsCompared to controls, AATD subjects showed increased left ventricular mass (16059g vs. 121 +/- 70g, P<0001), a higher incidence of left and right ventricular diastolic dysfunction (30% vs. 16%, P<0001 and 45% vs. 20%, P<0001, respectively) and mitral valve prolapse (35% vs. 6%, P<0001). In contrast, there was no difference between the two groups in diameters and systolic function of both ventricles and in the ejection fraction of left ventricle. The functions of aortic and tricuspidal valves were also similar.
+   ConclusionsIn the presence of greater left ventricular mass, a significantly higher incidence of left and right ventricular diastolic dysfunction and mitral valve prolapse occurs in AATD subjects (ZZ genotype). These findings strongly suggest an abnormal remodelling process in cardiac tissue in AATD.
+RI Bonadei, Ivano/P-9877-2015
+OI Bonadei, Ivano/0000-0001-6275-608X
+SN 0014-2972
+EI 1365-2362
+PD SEP
+PY 2015
+VL 45
+IS 9
+BP 949
+EP 954
+DI 10.1111/eci.12492
+UT WOS:000360220700008
+PM 26257247
+ER
+
+PT J
+AU Vrijenhoek, JEP
+   Pasterkamp, G
+   Moll, FL
+   de Borst, GJ
+   Bots, ML
+   Catanzariti, L
+   van de Weg, SM
+   de Kleijn, DPV
+   Visseren, FLJ
+   Den Ruijter, HM
+AF Vrijenhoek, Joyce E. P.
+   Pasterkamp, Gerard
+   Moll, Frans L.
+   de Borst, Gert Jan
+   Bots, Michiel L.
+   Catanzariti, Louise
+   van de Weg, Sander M.
+   de Kleijn, Dominique P. V.
+   Visseren, Frank L. J.
+   Den Ruijter, Hester M.
+CA SMART Study Grp
+TI Extracellular vesicle-derived CD14 is independently associated with the
+   extent of cardiovascular disease burden in patients with manifest
+   vascular disease
+SO EUROPEAN JOURNAL OF PREVENTIVE CARDIOLOGY
+AB Background: In patients with established cardiovascular disease, high levels of the extracellular vesicle (EV)-derived proteins cystatin C, CD14, and alpha 2-antiplasmin predict recurrent cardiovascular events. We examined whether these proteins are associated with the extent of vascular disease.
+   Methods: In 1062 patients from the SMART (Secondary Manifestations in ARTerial disease) study, EVs were isolated from plasma at baseline. Cystatin C, CD14, and alpha 2-antiplasmin were measured in these vesicles using a multiplex assay. The extent of vascular disease burden was determined by a sum score that incorporates history and current presence of clinically manifest coronary, cerebrovascular, peripheral arterial, and abdominal aneurysm disease, and parameters of atherosclerosis that were assessed during the SMART screening protocol (ankle-brachial index, common carotid intimamedia thickness, carotid stenosis, and aorta diameter). The relation between EV protein levels and extent of vascular disease was evaluated using ordinal multivariable regression models.
+   Results: EV-derived CD14 was significantly associated with the number of affected vascular territories (OR 2.4, 95% CI 1.4-4.1) as represented by the sum score, independently of cardiovascular risk factors. Cystatin C and a2-antiplasmin EV levels did not show an independent association with vascular disease extent. When investigating parameters of the sum score separately, we did not observe a strong association between any of the EV-derived proteins and the markers of atherosclerosis.
+   Conclusions: EV-derived CD14 levels are strongly correlated to the extent of vascular disease, but not specifically to markers that reflect atherosclerosis burden, in patients with manifest cardiovascular disease.
+SN 2047-4873
+EI 2047-4881
+PD APR
+PY 2015
+VL 22
 IS 4
-BP 596
-EP 604
-DI 10.1039/c4mt00316k
-UT WOS:000352785200003
-PM 25579632
+BP 451
+EP 457
+DI 10.1177/2047487313518478
+UT WOS:000352792100005
+PM 24398371
+ER
+
+PT J
+AU de Ceniga, MV
+   Esteban, M
+   Barba, A
+   Estallo, L
+   Blanco-Colio, LM
+   Martin-Ventura, JL
+AF Vega de Ceniga, Melina
+   Esteban, Margarita
+   Barba, Angel
+   Estallo, Luis
+   Blanco-Colio, Luis M.
+   Martin-Ventura, Jose L.
+TI Assessment of Biomarkers and Predictive Model for Short-term Prospective
+   Abdominal Aortic Aneurysm Growth-A Pilot Study
+SO ANNALS OF VASCULAR SURGERY
+AB Background: Abdominal aortic aneurysms (AAAs) are currently followed with serial ultrasound or computed tomography scanning diameter measurements, but evidence shows that AAA expansion is mostly discontinuous and quite unpredictable in any given patient. A reliable predictive model of AAA growth and/or rupture risk could help individualize treatment, follow-up protocols, and cost-effectiveness. Our objective is to set a predictive model of short-term prospective AAA growth, after clinical, serologic, and anatomic data.
+   Methods: A prospective pilot cohort was designed. We recruited 96 consecutive, asymptomatic, infrarenal, atherosclerotic AAA patients. We registered clinical data (age, gender, cardiovascular risk factors, comorbidity, and statin intake), baseline aortic diameter, prospective 1-year AAA growth, and the concentration of metalloprotease-2, metalloprotease-9, cystatin C, alpha(1)-antitrypsin, myeloperoxidase, monocyte chemoattractant proteine-1, homocysteine, D-dimer, plasmine-antiplasmin complex (PAP), and C-reactive protein in peripheral blood at the time of baseline assessment. With all these data, we elaborated predictive models for 1-year AAA growth assessed both as a continuous variable (mm/year) and a dichotomic one (defined as stability, if AAA growth rate was <= 2 mm/year, versus expansion, if AAA growth rate was >2 mm/year), using simple and multiple linear and logistic regression.
+   Results: The multivariate model confirmed the independent impact of D-dimer levels and chronic renal failure (CRF) on increasing AAA growth rates. Every increase by 1 ng/mL in the plasma concentration of D-dimer was related to a mean 1-year increase of 0.0062 mm in the AAA growth. Likewise, CRF increased the 1-year prospective AAA growth by a mean of 2.95 mm. When we assessed AAA growth as a dichotomic variable, the increase in the peripheral concentrations of PAP slightly increased the risk of AAA expansion (odds ratio [OR]: 1.01; 95% confidence interval [CI]: 1.00-1.02), but the presence of CRF increased the risk dramatically (OR: 14,523.62; 95% CI: 0-7.39E+40).
+   Conclusions: Plasma D-dimer and PAP levels seem promising biomarkers of short-term AAA activity. CRF is an important independent prognostic factor of AAA expansion. The dichotomic classification of AAA growth, as stability versus progression, can be useful in the development of management models and their clinical application.
+SN 0890-5096
+EI 1615-5947
+PD OCT
+PY 2014
+VL 28
+IS 7
+BP 1642
+EP 1648
+DI 10.1016/j.avsg.2014.02.025
+UT WOS:000342162000009
+ER
+
+PT J
+AU Bridge, KI
+   Macrae, F
+   Bailey, MA
+   Johnsona, A
+   Philippou, H
+   Scott, DJA
+   Ariens, RAS
+AF Bridge, Katherine I.
+   Macrae, Fraser
+   Bailey, Marc A.
+   Johnsona, Anne
+   Philippou, Helen
+   Scott, D. Julian A.
+   Ariens, Robert A. S.
+TI The alpha-2-antiplasmin Arg407Lys polymorphism is associated with
+   Abdominal Aortic Aneurysm
+SO THROMBOSIS RESEARCH
+AB Introduction: Abdominal Aortic Aneurysm(AAA) involves dilatation of the abdominal aorta, with a natural history of expansion and eventual rupture. We have previously shown that AAA patients form denser clots with smaller pores, which are more resistant to fibrinolysis. The aim of this study was to use functional polymorphisms of the fibrinolytic system to identify how changes to proteins involved in fibrinolysis may play a role in the development of AAA.
+   Methods: Caucasian subjects >= 55 years (602 AAA patients and 490 matched controls) were genotyped for four polymorphisms (alpha-2-antiplasmin alpha 2AP Arg6Trp and Arg407Lys, Thrombin-activatable fibrinolysis inhibitor TAFI Thr325Ile and tissue plasminogen activator tPA 7351C -> T). DNA was extracted from blood, and genotype identified using real time PCR. Fibrin clot structure was analysed by permeation and turbidity in a subset of patients and controls.
+   Results: Genotypes across the study population were in Hardy-Weinberg Equilibrium. The two alpha 2AP polymorphisms, Arg6Trp and Arg407Lys were in linkage disequilibrium (P < 0.0001), and possession of a 407Lys allele negatively associated with AAA (odds ratio 0.833, CI95 0.7-0.991, P = 0.040). The TAFI Thr325Ile and the tPA 7351C -> T polymorphisms were not associated with AAA. The alpha 2AP 407Lys allele was not associated with in-vitro fibrinolysis times in plasma from patients with AAA.
+   Conclusion: Possession of the alpha 2AP 407Lys allele was negatively associated with AAA, and thus changes in alpha 2AP may affect aneurysm growth and development. These data indicate that the regulation of plasmin activity (through binding to alpha 2AP), rather than plasmin generation (TAFI, tPA), may play a role in AAA. (C) 2014 Elsevier Ltd. All rights reserved.
+SN 0049-3848
+PD SEP
+PY 2014
+VL 134
+IS 3
+BP 723
+EP 728
+DI 10.1016/j.thromres.2014.06.019
+UT WOS:000341310000035
+PM 25065555
+ER
+
+PT J
+AU Zamorano-Leon, JJ
+   Olivier, C
+   de las Heras, N
+   Mateos-Caceres, PJ
+   Menendez, RB
+   Rodriguez-Sierra, P
+   Palacios, NM
+   Manso, LS
+   Modrego, J
+   Segura, A
+   Macaya, C
+   Lopez-Farre, AJ
+AF Zamorano-Leon, Jose J.
+   Olivier, Carlos
+   de las Heras, Natalia
+   Mateos-Caceres, Petra J.
+   Brime Menendez, Ricardo
+   Rodriguez-Sierra, Pablo
+   Martin Palacios, Naihara
+   San Jose Manso, Luis
+   Modrego, Javier
+   Segura, Antonio
+   Macaya, Carlos
+   Lopez-Farre, Antonio J.
+TI Vardenafil Improves Penile Erection in Type 2 Diabetes Mellitus Patients
+   with Erectile Dysfunction: Role of Tropomyosin
+SO JOURNAL OF SEXUAL MEDICINE
+AB IntroductionEvidences have been suggested that phosphodiesterase type 5 (PDE5) inhibition promotes vasculoprotective benefits in patients with cardiovascular diseases.
+   AimThe aim of this study is to analyze the systemic effect of PDE5 inhibition in type 2 diabetes mellitus patients with erectile dysfunction (ED) determining changes in the expression levels of plasma proteins.
+   MethodsSeventeen patients with controlled type 2 diabetes mellitus and ED were included in the study. Patients received vardenafil hydrochloride 20mg on demand during 12weeks. At the beginning and 12weeks after vardenafil administration, plasma samples were collected and analyzed using proteomics.
+   Main Outcome MeasuresInternational Index of Erectile Function-Erectile Function Domain (IIEF-EFD) and plasma protein expression before and after vardenafil administration. Nitrate/nitrite release, PDE5, and soluble guanylate cyclase (sGC) expression and cyclic guanosine monophosphate (cGMP) content in cultured bovine aortic endothelial cells (BAECs).
+   ResultsThe IIEF-EFD score was markedly improved after 12weeks of vardenafil administration. Plasma levels of alpha 1-antitrypsin isotypes 4 and 6 and -tropomyosin were decreased, whereas apolipoprotein AI isoype 5 was increased 12weeks after vardenafil administration. Only -tropomyosin plasma levels were inversely correlated with IIEF-EFD score. Tropomyosin has been added to cultured BAECs and after 24hours reduced the protein expression level of sGC-(1) subunit and decreased the cGMP content. Tropomyosin did not modify PDE5 expression and nitric oxide release in BAECs as compared with control BAECs. Vardenafil (10g/mL) did not modify sGC-(1) subunit expression in tropomyosin+vardenafil-incubated BAECs; however, vardenafil significantly reversed the reduction of cGMP content induced by tropomyosin.
+   ConclusionVardenafil administration improved erectile functionality in controlled type 2 diabetes mellitus patients with ED, which was associated with reduction of circulating plasma -tropomyosin levels. Tropomyosin affected by itself the cGMP generating system suggesting a possible new mechanism involved in ED. Vardenafil reversed the reduction effect of cGMP content elicited by tropomyosin in BAECs. Zamorano-Leon JJ, Olivier C, de las Heras N, Mateos-Caceres PJ, Brime Menendez R,Rodriguez-Sierra P, Martin Palacios N, Manso LSJ, Modrego J, Segura A, Macaya C, and Lopez-Farre AJ. Vardenafil improves penile erection in type 2 diabetes mellitus patients with erectile dysfunction: Role of tropomyosin. J Sex Med 2013;10:3110-3120.
+SN 1743-6095
+EI 1743-6109
+PD DEC
+PY 2013
+VL 10
+IS 12
+BP 3110
+EP 3120
+DI 10.1111/jsm.12324
+UT WOS:000327583600022
+PM 24112450
+ER
+
+PT J
+AU Gao, G
+   Xuan, C
+   Yang, Q
+   Liu, XC
+   Liu, ZG
+   He, GW
+AF Gao, Ge
+   Xuan, Chao
+   Yang, Qin
+   Liu, Xiao-Cheng
+   Liu, Zhi-Gang
+   He, Guo-Wei
+TI Identification of Altered Plasma Proteins by Proteomic Study in Valvular
+   Heart Diseases and the Potential Clinical Significance
+SO PLOS ONE
+AB Background: Little is known about genetic basis and proteomics in valvular heart disease (VHD) including rheumatic (RVD) and degenerative (DVD) valvular disease. The present proteomic study examined the hypothesis that certain proteins may be associated with the pathological changes in the plasma of VHD patients.
+   Methods and Results: Differential protein analysis in the plasma identified 18 differentially expressed protein spots and 14 corresponding proteins or polypeptides by two-dimensional electrophoresis and mass spectrometry in 120 subjects. Two up-regulated (complement C4A and carbonic anhydrase 1) and three down-regulated proteins (serotransferrin, alpha-1-antichymotrypsin, and vitronectin) were validated by ELISA in enlarging samples. The plasma levels (n = 40 for each) of complement C4A in RVD (715.8 +/- 35.6 vs. 594.7 +/- 28.2 ng/ml, P = 0.009) and carbonic anhydrase 1 (237.70 +/- 15.7 vs. 184.7 +/- 10.8 U/L, P = 0.007) in DVD patients were significantly higher and that of serotransferrin (2.36 +/- 0.20 vs. 2.93 +/- 0.16 mg/ml, P = 0.025) and alpha-1-antichymotrypsin (370.0 +/- 13.7 vs. 413.0 +/- 11.6 mu g/ml, P = 0.019) in RVD patients were significantly lower than those in controls. The plasma vitronectin level in both RVD (281.3 +/- 11.0 vs. 323.2 +/- 10.0 mg/ml, P = 0.006) and DVD (283.6 +/- 11.4 vs. 323.2 +/- 10.0 mu g/ml, P = 0.011) was significantly lower than those in normal controls.
+   Conclusions: We have for the first time identified alterations of 14 differential proteins or polypeptides in the plasma of patients with various VHD. The elevation of plasma complement C4A in RVD and carbonic anhydrase 1 in DVD and the decrease of serotransferrin and alpha-1-antichymotrypsin in RVD patients may be useful biomarkers for these valvular diseases. The decreased plasma level of vitronectin - a protein related to the formation of valvular structure - in both RVD and DVD patients might indicate the possible genetic deficiency in these patients.
+RI Yang, Qin/O-8508-2015
+SN 1932-6203
+PD AUG 27
+PY 2013
+VL 8
+IS 8
+AR e72111
+DI 10.1371/journal.pone.0072111
+UT WOS:000323815200027
+PM 24015209
+ER
+
+PT J
+AU Satoh, K
+   Maniwa, T
+   Oda, T
+   Matsumoto, K
+AF Satoh, Kazumi
+   Maniwa, Tomoko
+   Oda, Teiji
+   Matsumoto, Ken-ichi
+TI Proteomic profiling for the identification of serum diagnostic
+   biomarkers for abdominal and thoracic aortic aneurysms
+SO PROTEOME SCIENCE
+AB Background: Aortic aneurysm is an increasingly common vascular disorder with fatal implication. However, there is no established diagnosis other than that based on aneurysmal size. For this purpose, serum protein biomarkers for aortic aneurysms are valuable. Although most of the studies on serum biomarker discovery have been based on comparison of serum proteins from the patient group with those from the healthy group, we considered that comparison of serial protein profiles such as those in presurgical and postsurgical sera within one patient would facilitate identification of biomarkers since the variability of serial protein profiles within one patient is smaller than that between groups. In this study, we examined serum proteins with differential levels in postsurgery compared with those in presurgery after the removal of aneurysmal tissues in abdominal aortic aneurysm (AAA) and thoracic aortic aneurysm (TAA) patients in order to identify potential serum biomarkers for AAAs and TAAs.
+   Results: A proteomic approach with an isobaric tag for relative and absolute quantitation (iTRAQ) labeling followed by nano liquid chromatography (nanoLC)-matrix-assisted laser desorption ionization (MALDI)-time of flight (TOF/TOF)-tandem mass spectrometry (MS/MS) was used. In the sera of patients with AAAs and TAAs, a total of 63 and 71 proteins with differential levels were further narrowed down to 6 and 8 increased proteins (>= 1.3 fold, postsurgical vs. presurgical) (p < 0.05, patient vs. control) and 12 and 17 decreased proteins (< 0.77 fold, postsurgical vs. presurgical) (p < 0.05, patient vs. control) in postsurgical sera compared with those in presurgical sera, respectively. All of the increased proteins in postsurgical sera of both AAA and TAA patients included several known acute-phase proteins. On the other hand, in the decreased proteins, we found intriguing molecules such as alpha-2-macroglobulin, gelsolin, kallistatin, and so on. Among them, we confirmed that kallistatin in both AAA and TAA patients and alpha-2-macroglobulin in TAA patients showed decrease levels in postsurgical sera similar to those in control sera by Western blot analysis with other sera from AAA and TAA patients.
+   Conclusions: Taken together, our findings suggest that Kallistatin and alpha-2-macroglobulin are potential serum biomarkers for both AAA and TAA and TAA, respectively.
+SN 1477-5956
+PD JUN 27
+PY 2013
+VL 11
+AR 27
+DI 10.1186/1477-5956-11-27
+UT WOS:000321124600001
+PM 23802875
+ER
+
+PT J
+AU Chen, TT
+   Jiandong-Liu
+   Wang, G
+   Jiang, SL
+   Li, LB
+   Gao, CQ
+AF Chen, Ting-ting
+   Jiandong-Liu
+   Wang, Gang
+   Jiang, Sheng-li
+   Li, Li-bing
+   Gao, Chang-qing
+TI Combined Treatment of Ulinastatin and Tranexamic Acid Provides
+   Beneficial Effects by Inhibiting Inflammatory and Fibrinolytic Response
+   in Patients Undergoing Heart Valve Replacement Surgery
+SO HEART SURGERY FORUM
+AB Objective: To investigate the effect of ulinastatin and tranexamic acid administered alone or in combination on inflammatory cytokines and fibrinolytic system in patients undergoing heart valve replacement surgery during cardiopulmonary bypass (CPB).
+   Background: CPB-induced fibrinolytic hyperfunction and systemic inflammatory response syndrome (SIRS) are the leading causes responsible for the occurrence of postsurgical complications such as postsurgical cardiac insufficiency and lung injury, which may lead to an increase in postsurgical bleeding, prolongation of hospital stay, and increased costs.
+   Methods: One hundred twenty patients undergoing heart valve replacement surgery during CPB were randomly assigned into 4 groups of 30 patients each: blank control group (Group C), tranexamic acid group (Group T), ulinastatin group (Group U), and tranexamic acid-ulinastatin combination group (Group D). Physiological saline, tranexamic acid, ulinastatin, and a combination of tranexamic acid and ulinastatin were given to each group, respectively. Arterial blood was collected from the radial artery at 4 time points: after induction of anesthesia (T1), unclamping the ascending aorta (T2), and at 1 hour (T3) and 24 hours (T4) after CPB. The levels of plasma tumor necrosis factor alpha (TNF-alpha), interleukin 6 (IL-6), neutrophil elastase (NE), and the concentrations of tissue plasminogen activator (t-PA) and alpha 2-antiplasmin (alpha 2-AP) were detected. The changes in the volume of pericardial mediastinal drainage after surgery were observed and recorded.
+   Results: The plasma TNF-alpha, IL-6, and NE levels significantly increased in patients from all 4 groups at time points of T2, T3, and T4 in comparison to those before CPB (P < .05), and the plasma TNF-alpha and IL-6 levels in groups U and D were significantly lower than those in the other 2 groups (P < .05). The plasma t-PA, alpha 2-AP, and D-dimer concentrations significantly increased in patients from all 4 groups at T2 and T3 compared with those before CPB (P < .05), and the plasma t-PA and D-dimer concentrations were significantly lower in groups T and D than those in groups U and C (P < .05) at T2 and T3. The plasma alpha 2-AP concentrations in groups T and D were significantly higher than those in Group C at T3 (P < .05). The volumes of pericardial mediastinal drainage per body surface area were significantly lower in groups T and D than those in Group C 6 hours after the surgery (P < .05).
+   Conclusions: Ulinastatin inhibits the release of inflammatory medium and reduces the inflammatory response during CPB. Tranexamic acid can effectively inhibit the fibrinolytic hyperfunction caused by CPB and thus decreases postsurgical bleeding. In addition, it exhibits a minor anti-inflammatory response. As a consequence, a combined treatment of ulinastatin and tranexamic acid reduces postsurgical bleeding and shortens postoperative hospital stay in patients undergoing heart valve replacement surgery.
+SN 1098-3511
+PD FEB
+PY 2013
+VL 16
+IS 1
+BP E38
+EP E47
+DI 10.1532/HSF98.20121072
+UT WOS:000315419300009
+PM 23439357
+ER
+
+PT J
+AU Bellacen, K
+   Kalay, N
+   Ozeri, E
+   Shahaf, G
+   Lewis, EC
+AF Bellacen, Keren
+   Kalay, Noa
+   Ozeri, Eyal
+   Shahaf, Galit
+   Lewis, Eli C.
+TI Revascularization of Pancreatic Islet Allografts Is Enhanced by
+   alpha-1-Antitrypsin Under Anti-Inflammatory Conditions
+SO CELL TRANSPLANTATION
+AB Pancreatic islets are a highly vascularized entity, and their transplantation into diabetic individuals requires optimal revascularization. In addition, beta-cells in islets are extremely sensitive to inflammation. alpha-1-Antitrypsin (AAT), a circulating serine-protease inhibitor that is available for clinical use as an affinity-purified human product, has been shown to protect islets from graft failure in mouse transplantation models and to achieve readily vascularized islet grafts. AAT is known to induce vascular endothelial growth factor (VEGF) expression and release, as well as protect from proteolytic cleavage of VEGF by elastase, promote viability of endothelial cells, and enhance migration of myocytes. Our aim was to examine whether AAT enhances vasculogenesis toward islet grafts. We employed Matrigel-islet plugs as means to introduce islets in an explantable isolated compartment and examined vessel formation, vessel maturation, and inflammatory profile of explants 9 days after implantation. Also, we examined primary epithelial cell grafts that were prepared from lungs of mice that are transgenic for human AAT. In addition, aortic ring sprouting assay was performed, and HUVEC tube formation assays were studied in the presence of AAT. Our findings indicate that islet grafts exhibit mature vessels in the presence of AAT, as demonstrated by morphology, as well as expression of endothelial CD31, smooth muscle actin (SMA), and von Willebrand factor (vWF). Epithelial cells that express human AAT achieved a similar positive outcome. Aortic ring sprouting was enhanced in AAT-treated cultures and also in cultures that contained primary epithelial cells from human AAT transgenic animals in the absence of added AAT. According to the tube formation assay, HUVECs exhibited superior responses in the presence of AAT. We conclude that vasculogenesis toward islet grafts is enhanced in the presence of AAT. Together with the remarkable safety profile of AAT, the study supports its use in the relevant clinical setups.
+SN 0963-6897
+EI 1555-3892
+PY 2013
+VL 22
+IS 11
+BP 2119
+EP 2133
+DI 10.3727/096368912X657701
+UT WOS:000327109200013
+PM 23050776
+ER
+
+PT J
+AU Khalpey, Z
+   Yacoub, MH
+   Smolenski, RT
+AF Khalpey, Z.
+   Yacoub, M. H.
+   Smolenski, R. T.
+TI Nucleotide metabolic mismatches in mammalian hearts: implications for
+   transplantation
+SO ANNALS OF THE ROYAL COLLEGE OF SURGEONS OF ENGLAND
+AB INTRODUCTION Human donor organ shortages have led surgeons and scientists to explore the use of animals as alternative organ sources. Acute thrombovascular rejection (AVR) is the main hurdle in xenotransplantation. Disparities in nucleotide metabolism in the vessels of different species may contribute significantly to the microvascular component of AVR.
+   METHODS We evaluated the extent of nucleotide metabolism mismatch in selected organs and endothelial cells of different mammals with particular focus on the changes in activity of ecto-5'-nucleotidase (E5'N) elicited by exposure of porcine hearts or endothelial cells to human blood (ex vivo) or human plasma (in vitro).
+   RESULTS E5'N activity in the rat heart was significantly higher than in other species. We noted a significant difference (p<0.001) in E5'N activity between human and pig endothelial cell lines. Initial pig aortic endothelial E5'N activity decreased in vitro after a three-hour exposure to human and porcine plasma while remaining constant in controls. Ex vivo perfusion with fresh human blood for four hours resulted in a significant decrease of E5'N activity in both wild type and transgenic pig hearts overexpressing human decay accelerating factor (p<0.001).
+   CONCLUSIONS This study provides evidence that mismatches in basal mammalian metabolic pathways and humoral immunity interact in a xenogeneic environment. Understanding the role of nucleotide metabolism and signalling in xenotransplantation may identify new targets for genetic modifications and may lead to the development of new therapies extending graft survival.
+RI Smolenski, Ryszard/B-9713-2013
+SN 0035-8843
+PD JAN
+PY 2013
+VL 95
+IS 1
+BP 9
+EP 14
+DI 10.1308/003588413X13511609955571
+UT WOS:000313607600003
+PM 23317713
+ER
+
+PT J
+AU Poloskey, SL
+   Kim, ESH
+   Sanghani, R
+   Al-Quthami, AH
+   Arscott, P
+   Moran, R
+   Rigelsky, CM
+   Gornik, HL
+AF Poloskey, Stacey L.
+   Kim, Esther S. H.
+   Sanghani, Ruchi
+   Al-Quthami, Adeeb H.
+   Arscott, Patricia
+   Moran, Rocio
+   Rigelsky, Christina M.
+   Gornik, Heather L.
+TI Low yield of genetic testing for known vascular connective tissue
+   disorders in patients with fibromuscular dysplasia
+SO VASCULAR MEDICINE
+AB Patients with fibromuscular dysplasia (FMD) may have clinical features consistent with Mendelian vascular connective tissue disorders. The yield of genetic testing for these disorders among patients with FMD has not been determined. A total of 216 consecutive patients with FMD were identified. Clinical characteristics were collected and genetic test results reviewed for abnormalities in the following genes: transforming growth factor-beta receptor 1 and 2 (TGF beta R1 and TGF beta R2), collagen 3A1, fibrillin-1, smooth muscle alpha-actin 2, and SMAD3. A total of 63 patients (63/216; 29.2%) were referred for genetic counseling with testing performed in 35 (35/63; 55.6%). The percentage of patients with a history of arterial or aortic dissection, history of aortic aneurysm, systemic features of a connective tissue disorder, and a family history of sudden death was significantly larger in the group that underwent genetic testing (62.9% vs 18.2%, p < 0.001; 8.6% vs 1.7%, p = 0.02; 51.4% vs 17.1%, p < 0.001; and 42.9% vs 22.7%, p = 0.04, respectively). Two patients were found to have distinct variants in the TGF beta R1 gene (c.611 C > T, p.Thr204lle and c.1285 T > C, p.Tyr429His). The yield of genetic testing for vascular connective tissue disorders was low in a high-risk subset of FMD patients. However, two patients with a similar phenotype had novel and distinct variants in the TGF beta R1 gene, a finding which merits further investigation.
+SN 1358-863X
+PD DEC
+PY 2012
+VL 17
+IS 6
+BP 371
+EP 378
+DI 10.1177/1358863X12459650
+UT WOS:000311516300001
+PM 23064905
+ER
+
+PT J
+AU Rohde, M
+   Talay, SR
+   Rasmussen, M
+AF Rohde, Manfred
+   Talay, Susanne R.
+   Rasmussen, Magnus
+TI Molecular mechanisms of Streptococcus dysgalactiae subsp equisimilis
+   enabling intravascular persistence
+SO MICROBES AND INFECTION
+AB Streptococcus dysgalactiae subsp. equisimilis (SDSE) can cause recurrent bacteremic infection. We have characterized novel virulence properties of an SDSE isolate of type stG485.0 that caused severe sepsis three times in a patient despite that he had opsonizing antibodies to the isolate. An infected aortic aneurysm was suspected to be the focus for the persisting bacteria. For the first time we show that this SDSE isolate, as well as other invasive SDSE isolates, aggregate human platelets and efficiently internalize into human endothelial cells. These properties may aid SDSE to persist and could explain the tendency of SDSE to cause recurrent bacteremia. (C) 2011 Institut Pasteur. Published by Elsevier Masson SAS. All rights reserved.
+SN 1286-4579
+PD APR
+PY 2012
+VL 14
+IS 4
+BP 329
+EP 334
+DI 10.1016/j.micinf.2011.10.008
+UT WOS:000302428300005
+PM 22100875
+ER
+
+PT J
+AU Wada, H
+   Ura, S
+   Satoh-Asahara, N
+   Kitaoka, S
+   Mashiba, S
+   Akao, M
+   Abe, M
+   Ono, K
+   Morimoto, T
+   Fujita, M
+   Shimatsu, A
+   Takahashi, Y
+   Hasegawa, K
+AF Wada, Hiromichi
+   Ura, Shuichi
+   Satoh-Asahara, Noriko
+   Kitaoka, Shuji
+   Mashiba, Shinichi
+   Akao, Masaharu
+   Abe, Mitsuru
+   Ono, Koh
+   Morimoto, Tatsuya
+   Fujita, Masatoshi
+   Shimatsu, Akira
+   Takahashi, Yuko
+   Hasegawa, Koji
+TI alpha 1-Antitrypsin Low-Density-Lipoprotein Serves as a Marker of
+   Smoking-Specific Oxidative Stress
+SO JOURNAL OF ATHEROSCLEROSIS AND THROMBOSIS
+AB Aim: While smoking cessation (SC) leads to a reduction of cardiovascular events, atherogenic biomarkers specifically connected with cigarette smoking and SC are unknown. Circulating levels of oxidatively modified low-density-lipoprotein (LDL) are associated with a high risk of cardiovascular diseases. Recently, two novel, oxidatively modified LDL markers, serum amyloid A-LDL (SAA-LDL) and alpha 1-antitrypsin-LDL (AT-LDL), were identified; however, the significance of SAA-LDL and AT-LDL as cardiovascular risk markers is unknown.
+   Methods: We carried out a cross-sectional study involving 243 patients, and determined serum levels of SAA-LDL and AT-LDL.
+   Results: Both serum levels of SAA-LDL and AT-LDL were significantly increased in current compared to non-current smokers. Stepwise regression analysis revealed that the current smoking status and duration of smoking were strong independent determinants of the AT-LDL level. In contrast, high-sensitivity C-reactive protein was the strongest determinant of the SAA-LDL level. In multiple logistic regression analysis, the current smoking status was most closely associated with the AT-LDL level. Successful SC employing a 12-week program significantly increased the body mass index and serum levels of obesity-related markers. Notably, successful SC significantly decreased levels of AT-LDL, but not those of SAA-LDL.
+   Conclusions: The present study provides the first evidence for the distinct characteristics of two novel, oxidatively modified LDL markers, SAA-LDL and AT-LDL. In contrast to SAA-LDL, an inflammatory marker, AT-LDL serves as a marker of smoking-specific oxidative stress. These findings warrant further investigations to clarify if AT-LDL provides a key link between smoking and cardiovascular diseases.
+SN 1340-3478
+EI 1880-3873
+PY 2012
+VL 19
+IS 1
+BP 47
+EP 58
+UT WOS:000300328200005
+PM 22027559
+ER
+
+PT J
+AU Pulinx, B
+   Hellenthal, FAMVI
+   Hamulyak, K
+   van Dieijen-Visser, MP
+   Schurink, GWH
+   Wodzig, WKWH
+AF Pulinx, B.
+   Hellenthal, F. A. M. V. I.
+   Hamulyak, K.
+   van Dieijen-Visser, M. P.
+   Schurink, G. W. H.
+   Wodzig, W. K. W. H.
+TI Differential Protein Expression in Serum of Abdominal Aortic Aneurysm
+   Patients - A Proteomic Approach
+SO EUROPEAN JOURNAL OF VASCULAR AND ENDOVASCULAR SURGERY
+AB Objective: The aim of the study is to investigate the differential expression of proteins in serum of abdominal aortic aneurysm (AAA) patients in relation to aneurysm size (D(max)) and progression.
+   Methods: Two-dimensional differential in-gel electrophoresis (2D-DIGE) together with tandem mass spectrometry (MS/MS) was used to analyse the serum proteome from patients with small (D(max) 30-54 mm) AAA, either stable (increase D(max) <5 mm year(-1); n = 8) or progressive (increase D(max) >= 5 mm year(-1); n = 8), and large (D(max) >= 55 mm; n = 8) AAA. The identified proteins were quantitatively validated in a larger population (n = 80).
+   Results: Several proteins were differentially expressed in serum of small stable, small progressive and large AAA. Three validated proteins (immunoglobulin G (IgG), alpha 1-antitrypsin (alpha 1-AT) and Factor XII activity) showed strong correlation with D(max). Size combined with either Factor XII activity or alpha 1-antitrypsin had minimal effect on the prognostic value in predicting aneurysm progression compared with size alone (area under the curve (AUC), 0.85; 95% confidence interval (CI), 0.73-0.97; p < 0.001 and AUC, 0.85; 95% CI, 0.72-0.98; p < 0.001 vs. AUC, 0.83; 95% CI, 0.71-0.96; p < 0.001, respectively).
+   Conclusion: The present study indicates that both Factor XII and alpha 1-antitrypsin are found in increased amounts in the serum of patients with expanding AAA. However, combination of either Factor XII or alpha 1-antitrypsin with aneurysm diameter had little effect on prediction of aneurysm progression versus diameter alone. (C) 2011 European Society for Vascular Surgery. Published by Elsevier Ltd. All rights reserved.
+SN 1078-5884
+PD NOV
+PY 2011
+VL 42
+IS 5
+BP 563
+EP 570
+DI 10.1016/j.ejvs.2011.07.019
+UT WOS:000297238900003
+PM 21843957
+ER
+
+PT J
+AU Folkesson, M
+   Silveira, A
+   Eriksson, P
+   Swedenborg, J
+AF Folkesson, Maggie
+   Silveira, Angela
+   Eriksson, Per
+   Swedenborg, Jesper
+TI Protease activity in the multi-layered intra-luminal thrombus of
+   abdominal aortic aneurysms
+SO ATHEROSCLEROSIS
+AB Introduction: Rupture of an abdominal aortic aneurysm (AAA) is the cause of death in approximately 2% of men above 65 years. Most AAAs contain an intra-luminal thrombus (ILT), which is a potential source of proteases capable of degrading the underlying aneurysm wall. The AAA wall covered by a thick ILT shows more signs of matrix degradation compared to the wall free from ILT. The purpose of the present study was to evaluate the presence of protease activity in the ILT.
+   Materials and methods: ILT and peripheral blood from 32 patients undergoing elective surgery were collected. The ILT was divided into abluminal, luminal, and a middle layer in between. Collagenases, gelatinases, elastase, and their inhibitors were measured using ELISA in protein extracts from these layers. Immunohistochemistry was used for identification of cells.
+   Results: Neutrophil leukocytes and platelets were mostly detected in the luminal layer of the ILT. MMP-9 and neutrophil elastase were also abundant in this layer but with low activity. High concentrations of TIMP-1 and PAI-1 were detected in the abluminal layer, while alpha 1 antitrypsin was mostly found in the luminal layer of the ILT.
+   Conclusions: In AAA thick ILTs with multiple layers contain substantial amounts of proteases, but their activity is limited to the luminal layer. Proteases in the abluminal layer are mostly inactive, probably due to excess amounts of inhibitors and are consequently unable to directly participate in the pathogenesis of AAA. (C) 2011 Elsevier Ireland Ltd. All rights reserved.
+SN 0021-9150
+PD OCT
+PY 2011
+VL 218
+IS 2
+BP 294
+EP 299
+DI 10.1016/j.atherosclerosis.2011.05.002
+UT WOS:000296147600043
+PM 21632052
+ER
+
+PT J
+AU Gamberi, T
+   Puglia, M
+   Guidi, F
+   Magherini, F
+   Bini, L
+   Marzocchini, R
+   Modesti, A
+   Modesti, PA
+AF Gamberi, Tania
+   Puglia, Michele
+   Guidi, Francesca
+   Magherini, Francesca
+   Bini, Luca
+   Marzocchini, Riccardo
+   Modesti, Alessandra
+   Modesti, Pietro Amedeo
+TI A proteomic approach to identify plasma proteins in patients with
+   abdominal aortic aneurysm
+SO MOLECULAR BIOSYSTEMS
+AB Our aim was to identify the key proteins involved in the pathogenesis of AAAs. To explore the possible pathogenetic mechanisms involved in AAA, we analyzed by proteomics modifications in plasma proteome of patients with AAA. Therefore, the present study analyzed the soluble plasma proteins using two dimensional electrophoresis (2-DE) and mass spectrometry (MS). We identified 33 protein spots, 31 of which show an up-regulation in AAA patients whilst the expression level of 2 protein spots is reduced. We confirm a number of biomarkers associated with AAA that have been previously identified by various authors. We identified a significant increase of a class of proteins such as fibrinogen, alpha 1-antitrypsin and haptoglobin in plasma from AAA patients. The presence of these proteins in human AAA plasma may be related to the inflammatory processes active in these subjects. We have seen a negative correlation between the vitamin D-binding protein (DBP) and hemoglobin subunit beta and AAA presence. DBP levels have been found to increase in AAA wall tissues by others and this discrepancy with our results could be due to the different analysis source. We wanted to analyze the factors measurable in plasma-associated rather than in tissue-associated markers because the application of circulating biomarkers in diagnostic laboratories would be relatively simple. DBP is very important for vascular remodelling and it may have an important role in the protection of vascular walls. In plasma tissue this protein reduces platelet aggregation and extends coagulation time. No one protein identified in this study has the biologic plausibility to be used singularly as a biomarker of aneurysmal disease due to inadequate specificity. The effect of using multiple biomarkers combined with clinical factors requires investigation in carefully designed population-based studies and these studies need to select the criteria of choice to define healthy controls very carefully. Clearer identification of various markers is needed, possibly using other proteomic techniques to screen for new candidates such as gel-free proteomic technology that enables us to handle larger groups of subject compared to gel-based proteomic technology.
+RI magherini, francesca/A-2991-2014; gamberi, tania/A-8269-2014; Modesti,
+   Pietro Amedeo/B-2638-2012; 
+OI magherini, francesca/0000-0001-8388-0952; gamberi,
+   tania/0000-0003-1489-8934; Modesti, Pietro Amedeo/0000-0002-9511-2173;
+   Bini, Luca/0000-0001-8951-2106
+SN 1742-206X
+PY 2011
+VL 7
+IS 10
+BP 2855
+EP 2862
+DI 10.1039/c1mb05107e
+UT WOS:000294557800015
+PM 21805001
+ER
+
+PT J
+AU Duckers, JM
+   Shale, DJ
+   Stockley, RA
+   Gale, NS
+   Evans, BAJ
+   Cockcroft, JR
+   Bolton, CE
+AF Duckers, James M.
+   Shale, Dennis J.
+   Stockley, Robert A.
+   Gale, Nichola S.
+   Evans, Bronwen A. J.
+   Cockcroft, John R.
+   Bolton, Charlotte E.
+TI Cardiovascular and musculskeletal co-morbidities in patients with alpha
+   1 antitrypsin deficiency
+SO RESPIRATORY RESEARCH
+AB Background: Determining the presence and extent of co-morbidities is fundamental in assessing patients with chronic respiratory disease, where increased cardiovascular risk, presence of osteoporosis and low muscle mass have been recognised in several disease states. We hypothesised that the systemic consequences are evident in a further group of subjects with COPD due to Alpha-1 Antitrypsin Deficiency (A1ATD), yet are currently under-recognised.
+   Methods: We studied 19 patients with PiZZ A1ATD COPD and 20 age, sex and smoking matched controls, all subjects free from known cardiovascular disease. They underwent spirometry, haemodynamic measurements including aortic pulse wave velocity (aPWV), an independent predictor or cardiovascular risk, dual energy X-ray absorptiometry to determine body composition and bone mineral density.
+   Results: The aPWV was greater in patients: 9.9(2.1) m/s than controls: 8.5(1.6) m/s, p = 0.03, despite similar mean arterial pressure (MAP). The strongest predictors of aPWV were age, FEV(1)% predicted and MAP (all p < 0.01). Osteoporosis was present in 8/19 patients (2/20 controls) and was previously unsuspected in 7 patients. The fat free mass and bone mineral density were lower in patients than controls (p < 0.001).
+   Conclusions: Patients with A1ATD related COPD have increased aortic stiffness suggesting increased risk of cardiovascular disease and evidence of occult musculoskeletal changes, all likely to contribute hugely to overall morbidity and mortality.
+OI Bolton, Charlotte/0000-0002-9578-2249
+SN 1465-9921
+PD DEC 7
+PY 2010
+VL 11
+AR 173
+DI 10.1186/1465-9921-11-173
+UT WOS:000285461400001
+PM 21138571
+ER
+
+PT J
+AU Lecka, J
+   Bloch-Boguslawska, E
+   Molski, S
+   Komoszynski, M
+AF Lecka, Joanna
+   Bloch-Boguslawska, Elzbieta
+   Molski, Stanislaw
+   Komoszynski, Michal
+TI Extracellular Purine Metabolism in Blood Vessels (Part II): Activity of
+   Ecto-Enzymes in Blood Vessels of Patients With Abdominal Aortic Aneurysm
+SO CLINICAL AND APPLIED THROMBOSIS-HEMOSTASIS
+AB Both platelet aggregation and high blood pressure are associated with development of atherosclerosis. Among other factors that modulate platelet aggregation and blood pressure, extracellular purines (e-purines) influence these processes via purinoceptors P1 and P2 for which they are natural ligands. We hypothesized that ecto-enzymes such as nucleoside triphosphate diphosphohydrolases (NTPDases), adenylate kinase, 5'-nucleotidase, and adenosine deaminase that regulate the level of e-purines may be involved in the development of atherosclerosis. The enzymatic assays were performed either on the fragments of human abdominal aortas obtained after death or on abdominal aneurysm samples collected during surgery. The substrates and products such as adenine nucleosides and nucleotides were analyzed using reverse phase high-performance liquid chromatography (HPLC) method. Here, we estimated and demonstrated the activities of these ecto-enzymes in the patients with atherosclerosis or atherosclerosis-like diseases such as abdominal aneurysm, myocardial infarction, or Leriche syndrome (LS) with worse thrombosis of extremities. In particular, we noticed reduction in activity of NTPDase1(app), NTPDase2(app), ecto-adenylate kinase(app), and ecto-adenosine deaminase(app); however, ecto-5'-nucleotidase(app) that hydrolyzed e-adenosine monophosphate (e-AMP) into e-adenosine did not show any significant changes. This led us to suggest that alteration of the activity of examined ecto-enzymes is responsible for the development of atherosclerosis or atherosclerosis-like diseases.
+RI Bloch-Boguslawska, Elzbieta/H-7937-2014
+SN 1076-0296
+EI 1938-2723
+PD DEC
+PY 2010
+VL 16
+IS 6
+BP 650
+EP 657
+DI 10.1177/1076029609354329
+UT WOS:000284901300007
+PM 20460346
+ER
+
+PT J
+AU Gordon, P
+   O'Donnell, ME
+   Collins, A
+   Gardiner, KR
+   Irwin, T
+AF Gordon, Peter
+   O'Donnell, Mark E.
+   Collins, Anton
+   Gardiner, Keith R.
+   Irwin, Terry
+TI Successful endovascular treatment of multiple mesenteric arterial
+   aneurysms associated with alpha-1-antitrypsin deficiency
+SO JOURNAL OF VASCULAR SURGERY
+AB We present a rare case of a patient who presented with acute abdominal pain with a previous history of alpha-1-antitrypsin deficiency (alpha 1-antitrypsin deficiency). Further clinical deterioration necessitated computed tomography (CT) imaging, which demonstrated a hemoperitoneum. Angiography confirmed the rupture of multiple aneurysms originating from the mesenteric arterial arcade, which were treated successfully with endovascular embolization. The association between mesenteric arterial aneurysm rupture and alpha-1-antitrypsin deficiency is explored. (J Vasc Surg 2010;52:467-70.)
+SN 0741-5214
+PD AUG
+PY 2010
+VL 52
+IS 2
+BP 467
+EP 470
+DI 10.1016/j.jvs.2010.02.291
+UT WOS:000280455900033
+PM 20570466
+ER
+
+PT J
+AU Morris, CA
+   Pani, AM
+   Mervis, CB
+   Rios, CM
+   Kistler, DJ
+   Gregg, RG
+AF Morris, Colleen A.
+   Pani, Ariel M.
+   Mervis, Carolyn B.
+   Rios, Cecilia M.
+   Kistler, Doris J.
+   Gregg, Ronald G.
+TI Alpha 1 Antitrypsin Deficiency Alleles Are Associated With Joint
+   Dislocation and Scoliosis in Williams Syndrome
+SO AMERICAN JOURNAL OF MEDICAL GENETICS PART C-SEMINARS IN MEDICAL GENETICS
+AB Elastin haploinsufficiency is responsible for a significant portion of the Williams syndrome (WS) phenotype including hoarse voice, supravalvar aortic stenosis (SVAS), hernias, diverticuli of bowel and bladder, soft skin, and joint abnormalities. All of the connective tissue signs and symptoms are variable in the WS population, but few factors other than age and gender are known to influence the phenotype. We examined a cohort of 205 individuals with WS for mutations in SERPINA1, the gene that encodes alpha-l-antitrypsin (AAT), the inhibitor of elastase. Individuals with classic WS deletions and SERPINA1 genotypes PiMS or PiMZ were more likely than those with a SERPINA1 PiMM genotype to have joint dislocation or scoliosis. However, carrier status for AAT deficiency was not correlated with presence of inguinal hernia or with presence or severity of SVAS. These findings suggest that genes important in elastin metabolism are candidates for variability in the connective tissue abnormalities in WS. (C) 2010 Wiley-Liss, Inc.
+OI Gregg, Ronald/0000-0001-5805-224X
+SN 1552-4868
+EI 1552-4876
+PD MAY 15
+PY 2010
+VL 154C
+IS 2
+BP 299
+EP 306
+DI 10.1002/ajmg.c.30265
+UT WOS:000277369200009
+PM 20425789
+ER
+
+PT J
+AU Speelman, L
+   Hellenthal, FA
+   Pulinx, B
+   Bosboom, EMH
+   Breeuwer, M
+   van Sambeek, MR
+   de Vosse, FNV
+   Jacobs, MJ
+   Wodzig, WKWH
+   Schurink, GWH
+AF Speelman, L.
+   Hellenthal, F. A.
+   Pulinx, B.
+   Bosboom, E. M. H.
+   Breeuwer, M.
+   van Sambeek, M. R.
+   de Vosse, F. N. van
+   Jacobs, M. J.
+   Wodzig, W. K. W. H.
+   Schurink, G. W. H.
+TI The Influence of Wall Stress on AAA Growth and Biomarkers
+SO EUROPEAN JOURNAL OF VASCULAR AND ENDOVASCULAR SURGERY
+AB Objectives: This study investigated the relation between abdominal aortic aneurysm (AAA) wall stress, AAA growth rate and biomarker concentrations. With increasing wall stress, more damage may be caused to the AAA wall, possibly leading to progression of the aneurysm and reflection in up- or downregulation of specific circulating biomarkers. Levels of matrix metalloproteinase-9, tissue inhibitor of matrix metalloproteinase-1, C-reactive protein and alpha 1-antitrypsin were therefore evaluated.
+   Methods: Thirty-seven patients (maximum AAA diameter 41-55 mm) with two, three or four consecutive computed tomography angiography (CTA) scans were prospectively included. Diameter growth rate in mm/year was determined between each pair of two sequential CTA scans. AAA wall stress was computed by finite element analysis, based on the first of the two sequential CTA scans only (n = 69 pairs). Biomarker information was determined in 46 measurements in 18 patients. The relation between AAA diameter and wall stress was determined and the AAA's were divided into three equally sized groups (relative low, medium and high stress). Growth rate and biomarker concentrations were compared between these groups. Additionally, correlation coefficients were computed between absolute wall stress, AAA growth and biomarker concentrations.
+   Results: A relative low AAA wall stress was associated with a lower aneurysm growth rate. Growth rate was also positively related to MMP-9 plasma concentration (r = 0.32). The average MMP-9 and CRP concentrations increased with increasing degrees of relative wall stress, although the absolute and relative wall stress did not correlate with any of the biomarkers.
+   Conclusion: Although lower relative wall stress was associated to a lower AAA growth rate, no relation was found between biomarker concentrations and wall stress. Future research may focus on more and extensive biomarker measurements in relation to AAA wall stress. (C) 2009 European Society for Vascular Surgery. Published by Elsevier Ltd. All rights reserved.
+RI van de Vosse, Frans/I-4006-2013
+OI van de Vosse, Frans/0000-0002-4084-2064
+SN 1078-5884
+PD APR
+PY 2010
+VL 39
+IS 4
+BP 410
+EP 416
+DI 10.1016/j.ejvs.2009.12.021
+UT WOS:000277816300005
+PM 20060752
+ER
+
+PT J
+AU Yu, HR
+   Kuo, HC
+   Sheen, JM
+   Wang, L
+   Lin, IC
+   Wang, CL
+   Yang, KD
+AF Yu, Hong-Ren
+   Kuo, Ho-Chang
+   Sheen, Jiunn-Ming
+   Wang, Lin
+   Lin, I-Chun
+   Wang, Chih-Lu
+   Yang, Kuender D.
+TI A unique plasma proteomic profiling with imbalanced fibrinogen cascade
+   in patients with Kawasaki disease
+SO PEDIATRIC ALLERGY AND IMMUNOLOGY
+AB Kawasaki disease (KD) is the leading cause of acquired heart disease during childhood in the developed countries. The mechanism and biomarkers of KD remain to be determined. In this study, we sought to elucidate potential plasma proteomic markers in KD patients in comparison to that in febrile controls. Plasma samples from KD patients and febrile controls were subjected to two-dimensional polyacrylamide gel electrophoresis analysis. Differential protein displays between KD patients and febrile controls were determined. Fibrinogen beta and gamma chains, alpha-1-antitrypsin (A1AT), CD5 antigen-like precursor (CD5L), and clusterin were increased in KD patients, whereas immunoglobulin free light chains were decreased, as compared with controls. The differential protein displays were validated with enzyme-linked immunosorbent assay tests. We found higher fibrinogen-related proteins (fibrinogen, A1AT, clusterin, and CD5L), along with a lower level of the immunoglobulin free light chains that involve fibrin degradation in KD. Results from this study showing a unique proteomic profiling with abnormal fibrinogen cascade may afford a good biomarker of KD and a better strategy to prevent cardiovascular complications of KD by correcting abnormal fibrin deposition or degradation.
+OI Kuo, Ho-Chang/0000-0002-3295-2984
+SN 0905-6157
+PD NOV
+PY 2009
+VL 20
+IS 7
+BP 699
+EP 707
+DI 10.1111/j.1399-3038.2008.00844.x
+UT WOS:000270662700014
+PM 19170925
+ER
+
+PT J
+AU Ortiz-Munoz, G
+   Houard, X
+   Martin-Ventura, JL
+   Ishida, BY
+   Loyau, S
+   Rossignol, P
+   Moreno, JA
+   Kane, JP
+   Chalkley, RJ
+   Burlingame, AL
+   Michel, JB
+   Meilhac, O
+AF Ortiz-Munoz, Guadalupe
+   Houard, Xavier
+   Martin-Ventura, Jose-Luis
+   Ishida, Brian Y.
+   Loyau, Stephane
+   Rossignol, Patrick
+   Moreno, Juan-Antonio
+   Kane, John P.
+   Chalkley, Robert J.
+   Burlingame, Alma L.
+   Michel, Jean-Baptiste
+   Meilhac, Olivier
+TI HDL antielastase activity prevents smooth muscle cell anoikis, a
+   potential new antiatherogenic property
+SO FASEB JOURNAL
+AB Various studies using proteomic approaches have shown that HDL can carry many proteins other than its constitutive apolipoprotein A-I (apoA-I). Using mass spectrometry and Western blotting, we showed the presence of alpha(1)-antitrypsin (AAT) (SERPINA1, serpin peptidase inhibitor, clade A, an elastase inhibitor) in HDL, isolated either by ultracentrifugation or by selected-affinity immunosorption using an anti-apoA-I column. Furthermore, we report that HDL possesses potent antielastase activity. We further showed that only HDL but not LDL is able to bind AAT. HDL-associated AAT was able to inhibit extracellular matrix degradation, cell detachment, and apoptosis induced by elastase in human vascular smooth muscle cells (VSMCs) and in mammary artery cultured ex vivo. Degradation of fibronectin by elastase used as a marker of pericellular proteolysis was prevented by addition of HDL. Elastase present in aortic abdominal aneurysm ( AAA) thrombus samples was also able to induce apoptosis of VSMCs in culture. This phenomenon was prevented by addition of HDL but not of LDL. Finally, we report that the proportion of AAT in HDL isolated from patients with an AAA is decreased relative to that from matched control subjects, suggesting a reduced capacity of HDL to inhibit elastase in these patients. In conclusion, our data provide evidence of a new potential antiatherogenic property of HDL attributable to AAT and its antielastase activity.-Ortiz-Munoz, G., Houard, X., Martin-Ventura, J.-L., Ishida, B. Y., Loyau, S., Rossignol, P., Moreno, J.-A., Kane, J. P., Chalkley, R. J., Burlingame, A. L., Michel, J.-B., Meilhac, O. High-density lipoprotein antielastase activity prevents smooth muscle cell anoikis, a potential new antiatherogenic property. FASEB J. 23, 3129-3139 (2009). www.fasebj.org
+SN 0892-6638
+PD SEP
+PY 2009
+VL 23
+IS 9
+BP 3129
+EP 3139
+DI 10.1096/fj.08-127928
+UT WOS:000270241000035
+PM 19417089
+ER
+
+PT J
+AU Houard, X
+   Touat, Z
+   Ollivier, V
+   Louedec, L
+   Philippe, M
+   Sebbag, U
+   Meilhac, O
+   Rossignol, P
+   Michel, JB
+AF Houard, Xavier
+   Touat, Ziad
+   Ollivier, Veronique
+   Louedec, Liliane
+   Philippe, Monique
+   Sebbag, Uriel
+   Meilhac, Olivier
+   Rossignol, Patrick
+   Michel, Jean-Baptiste
+TI Mediators of neutrophil recruitment in human abdominal aortic aneurysms
+SO CARDIOVASCULAR RESEARCH
+AB Neutrophils/platelet interactions are involved in abdominal aortic aneurysm (AAA). The intraluminal thrombus (ILT) is a human model of platelet/neutrophil interactions. The present study focused on mediators involved in neutrophil recruitment in AAA.
+   Conditioned media from luminal, intermediate, and abluminal layers of 29 human ILTs were analysed for neutrophil markers [elastase/alpha(1)-antitrypsin and MMP9/NGAL complexes, myeloperoxidase (MPO), and alpha-defensin peptides], RANTES, platelet factor 4 (PF4), and interleukin-8 (IL-8). Their time-dependent release into serum from clots generated in vitro and their plasma concentrations in AAA patients and controls were determined. Immunohistochemistry for neutrophils, platelets, IL-8, PF4, and RANTES on AAA sections was performed; and molecules involved in ILT neutrophil chemotactic function were analysed in vitro. Neutrophils and platelets colocalized in the luminal layer of the thrombus. Consistently, neutrophil markers and platelet-derived RANTES and PF4 were released predominantly by the luminal thrombus pole, where their concentrations were significantly correlated. The luminal ILT layer was also the main source of IL-8, whose immunostaining colocalized with neutrophils. All were also released time dependently from clots and were increased in plasma of AAA patients. Luminal ILT layers displayed potent neutrophil chemotactic activity in vitro, which was inhibited by RANTES- and IL-8-blocking antibodies as well as by reparixin, an antagonist of the IL-8 receptors CXCR1 and CXCR2.
+   Taken together, these results suggest that platelet-derived RANTES and neutrophil-derived IL-8 are involved in attracting neutrophils to the luminal layer of AAA ILT.
+SN 0008-6363
+PD JUN 1
+PY 2009
+VL 82
+IS 3
+BP 532
+EP 541
+DI 10.1093/cvr/cvp048
+UT WOS:000266109900020
+PM 19201759
+ER
+
+PT J
+AU Houard, X
+   Ollivier, V
+   Louedec, L
+   Michel, JB
+   Back, M
+AF Houard, Xavier
+   Ollivier, Veronique
+   Louedec, Liliane
+   Michel, Jean-Baptiste
+   Back, Magnus
+TI Differential inflammatory activity across human abdominal aortic
+   aneurysms reveals neutrophil-derived leukotriene B-4 as a major
+   chemotactic factor released from the intraluminal thrombus
+SO FASEB JOURNAL
+AB Development and progression of acquired abdominal aortic aneurysms (AAAs) have been associated with different inflammatory mediators. The aim of the present study was to elucidate the topology and the potential mechanisms linking the leukotriene pathway to human AAAs. Human aneurysmal lesions were obtained from 24 patients undergoing surgery, and the intraluminal thrombus was separated from the vascular wall. Histological examination revealed major expression of the leukotriene-producing enzymes 5-lipoxygenase and LTA(4) hydrolase, as well as the two receptors for leukotriene B-4 (BLT1R and BLT2R), corresponding to neutrophils in the luminal part of the thrombus. In contrast, in the vascular wall, the leukotriene pathway mainly localized in macrophage-rich adventitial areas. Furthermore, conditioned media of the intraluminal thrombus contained significantly higher concentrations of leukotriene B-4 than that derived from the vascular wall, which were significantly correlated to other neutrophil-derived mediators, such as elastase/alpha(1)-antitrypsin complexes, myeloperoxidase, and MMP9/NGAL complexes. Finally, the neutrophil-chemotactic activity of the conditioned media from the intraluminal thrombus exhibited major inhibition by antagonists of the leukotriene B-4 receptors. Taken together, these results indicate neutrophil-derived leukotriene B-4 as a major neutrophil chemotactic factor released from the intraluminal thrombus of human AAAs and suggest that targeting BLT receptors may represent a potential medical therapeutic strategy in the prevention of AAA progression in humans.-Houard, X., Ollivier, V., Louedec, L., Michel, J.-B., Back, M. Differential inflammatory activity across human abdominal aortic aneurysms reveals neutrophil-derived leukotriene B-4 as a major chemotactic factor released from the intraluminal thrombus. FASEB J. 23, 1376-1383 (2009)
+RI Back, Magnus/E-4879-2011
+OI Back, Magnus/0000-0003-0853-5141
+SN 0892-6638
+PD MAY
+PY 2009
+VL 23
+IS 5
+BP 1376
+EP 1383
+DI 10.1096/fj.08-116202
+UT WOS:000266651700014
+PM 19136615
+ER
+
+PT J
+AU de Ceniga, MV
+   Esteban, M
+   Quintana, JM
+   Barba, A
+   Estallo, L
+   de la Fuente, N
+   Viviens, B
+   Martin-Ventura, JL
+AF de Ceniga, M. Vega
+   Esteban, M.
+   Quintana, J. M.
+   Barba, A.
+   Estallo, L.
+   de la Fuente, N.
+   Viviens, B.
+   Martin-Ventura, J. L.
+TI Search for Serum Biomarkers Associated with Abdominal Aortic Aneurysm
+   Growth - A Pilot Study
+SO EUROPEAN JOURNAL OF VASCULAR AND ENDOVASCULAR SURGERY
+AB Introduction: Serological biomarkers could reflect asymptomatic infrarenal aortic: aneurysm (AAA) activity and guide patient management.
+   Report: Serum concentrations of C-reactive protein (CRP), alpha 1-antitrypsin and lipoprotein(a) were measured in blood samples from 35 AAA patients and 35 controls and correlated with the aortic diameter and AAA growth in the previous 12 months.
+   We found a positive correlation between CRP and AAA diameter (r = 0.46; p = 0.007) and alpha 1-antitrypsin and AAA growth (r = 0.55; p = 0.004).
+   Conclusions: Alpha 1-antitrypsin may be a promising biomarker of AAA growth. (C) 2008 European Society for Vascular Surgery. Published by Elsevier Ltd. All rights reserved.
+OI Quintana, Jose M./0000-0003-2170-7876
+SN 1078-5884
+PD MAR
+PY 2009
+VL 37
+IS 3
+BP 297
+EP 299
+DI 10.1016/j.ejvs.2008.11.014
+UT WOS:000265011400006
+ER
+
+PT J
+AU Herati, RS
+   Ma, XC
+   Tittiger, M
+   Ohlemiller, KK
+   Kovacs, A
+   Ponder, KP
+AF Herati, Ramin Sedaghat
+   Ma, Xiucui
+   Tittiger, Mindy
+   Ohlemiller, Kevin K.
+   Kovacs, Attila
+   Ponder, Katherine P.
+TI Improved retroviral vector design results in sustained expression after
+   adult gene therapy in mucopolysaccharidosis I mice
+SO JOURNAL OF GENE MEDICINE
+AB Background Mucopolysaccharidosis I (MPS 1) is a lysosomal storage disease due to alpha-L-iduronidase (IDUA) deficiency that results in the accumulation of glycosaminoglycans (GAG). Gene therapy can reduce most clinical manifestations, but mice that receive transfer as adults lose expression unless they receive immunosuppression. Increasing liver specificity of transgene expression has reduced immune responses to other. genes.
+   Methods A gamma retroviral vector was generated with a liver-specific human alpha 1-antitrypsin promoter and the canine IDUA cDNA inverted relative to the retroviral long-terminal repeat. Adult MPS I mice received the vector intravenously at 6 weeks of age and were assessed for expression via serial serum IDUA assays. Functional testing and organ analysis were performed at 8 months.
+   Results This vector resulted in high specificity of expression in liver, and serum IDUA activity was stable in 90% of animals. Although the average serum IDUA activity was relatively low at 12.6 +/- 8.1 units/ml in mice with stable expression, a relatively high percentage of enzyme contained the mannose 6-phosphorylation necessary for uptake by other cells. At 6.5 months after transduction, most organs had high IDUA activity and normalized GAG levels. There was complete correction of hearing and vision abnormalities and significant improvements in bone, although the aorta was refractory to treatment.
+   Conclusions Stable expression of IDUA in adult MPS I mice can be achieved without immunosuppression by modifying the vector to reduce expression in the spleen. This approach may be effective in patients with MPS I or other lysosomal storage diseases. Copyright (C) 2008 John Wiley & Sons, Ltd.
+RI Herati, Ramin/B-2012-2013; 
+OI Herati, Ramin/0000-0003-2613-4050; Sedaghat Herati,
+   Ramin/0000-0001-7713-2587
+SN 1099-498X
+PD SEP
+PY 2008
+VL 10
+IS 9
+BP 972
+EP 982
+DI 10.1002/jgm.1229
+UT WOS:000260361600003
+PM 18613275
+ER
+
+PT J
+AU Fujita, M
+   Asakura, M
+   Sanada, S
+   Funaya, H
+   Tsukamoto, O
+   Komamura, K
+   Asanuma, H
+   Taketani, S
+   Isomura, T
+   Nakamaru, K
+   Furukawa, H
+   Sawa, Y
+   Hori, M
+   Kitakaze, M
+AF Fujita, Masashi
+   Asakura, Masanori
+   Sanada, Shoji
+   Funaya, Hiroharu
+   Tsukamoto, Osamu
+   Komamura, Kazuo
+   Asanuma, Hiroshi
+   Taketani, Satoshi
+   Isomura, Tadashi
+   Nakamaru, Kenji
+   Furukawa, Hidehiko
+   Sawa, Yoshiki
+   Hori, Masatsugu
+   Kitakaze, Masafumi
+TI Activation of ecto-5 '-nucleotidase in the blood and hearts of patients
+   with chronic heart failure
+SO JOURNAL OF CARDIAC FAILURE
+AB Background: Because plasma levels of adenosine are increased in patients with chronic heart failure (CHF), we examined adenosine concentrations in the plasma and heart and assessed the activity of ecto-5'-nucleotidase in the plasma and ventricular myocardium in patients with CHF.
+   Methods and Results: We studied 36 patients with CHF (New York Heart Association Class I/II/II/IV, 9/8/12/7). Twenty-five subjects without CHF were used as controls. Both plasma adenosine levels and ecto-5'-nucleotidase activity were significantly higher in patients with CHF (219 +/- 28 nmol/L and 0.72 +/- 0.03 nmoL/mg protein/min, respectively) than in control subjects (71 +/- 8 nmol/L and 0.54 +/- 0.02 nmoL/mg protein/min, respectively). Plasma adenosine levels sampled from the coronary sinus were significantly higher than from the aorta in patients with CHF, but these differences were not observed in control subjects. Ecto-5'-nucleotidase protein levels were markedly increased in the ventricular myocardium in patients with CHF.
+   Conclusions: These increases in ecto-5'-nucleotidase in the plasma and myocardium may contribute to increased plasma and cardiac adenosine levels. The increased ecto-5'-nucleotidase activity and adenosine levels in blood may become an index of the presence or severity of CHF.
+SN 1071-9164
+PD JUN
+PY 2008
+VL 14
+IS 5
+BP 426
+EP 430
+DI 10.1016/j.cardfail.2008.01.011
+UT WOS:000256737000011
+PM 18514936
+ER
+
+PT J
+AU Buyukates, M
+   Acikgoz, S
+   Kandemir, O
+   Aktunc, E
+   Ceylan, E
+   Can, M
+AF Buyukates, M.
+   Acikgoz, S.
+   Kandemir, O.
+   Aktunc, E.
+   Ceylan, E.
+   Can, M.
+TI Use of warm priming solution in open heart surgery: its effects on
+   hemodynamics and acute inflammation
+SO PERFUSION-UK
+AB Cardiac surgery causes an acute inflammatory response and organ damage. In this study, for the first time in the literature, we compared the effects of priming solutions at 20 degrees C and 36 degrees C on acute inflammatory markers and hemo-dynamic parameters. Forty patients were recruited and randomized into two groups, each consisting of 20 participants who underwent elective coronary artery bypass grafting operation. Groups were primed with the same solution at different temperatures. Hemodynamic parameters were recorded. Blood samples were drawn pre-operatively and at the 15(th) and 60(th) minutes of aortic cross-clamping and the 24(th) hour following surgery. Serum pre-albumin, alpha-1 antitrypsin, and tumor necrosis factor-alpha levels were determined. The groups were compared statistically. Both of the groups were comparable for mean aortic cross-clamping time and mean time for cardiopulmonary bypass. Mean blood pressure value was significantly lower and the mean amount of ephedrine hydrochloride used was significantly higher in the cold priming group. Spontaneous beating of the heart after removal of aortic cross-clamp significantly was more frequent in the warm priming group. A significant rise was observed in systemic inflammatory markers in the cold priming group. In our study, the lesser amount of ephedrine hydrochloride used and the higher frequency of spontneous beating of the heart in the warm priming group may be considered as improvements in hemodynamic status. Use of warm priming solution also induced a significant improvement in the acute inflammatory markers. We recommend the use of warm priming solution in open heart surgery.
+SN 0267-6591
+PD MAR
+PY 2008
+VL 23
+IS 2
+BP 89
+EP 94
+DI 10.1177/0267659108094798
+UT WOS:000259620100003
+PM 18840576
+ER
+
+PT J
+AU Houard, X
+   Rouzet, F
+   Touat, Z
+   Philippe, M
+   Dominguez, M
+   Fontaine, V
+   Sarda-Mantel, L
+   Meulemans, A
+   Le Guludec, D
+   Meilhac, O
+   Michel, JB
+AF Houard, X.
+   Rouzet, F.
+   Touat, Z.
+   Philippe, M.
+   Dominguez, M.
+   Fontaine, V.
+   Sarda-Mantel, L.
+   Meulemans, A.
+   Le Guludec, D.
+   Meilhac, O.
+   Michel, J-B
+TI Topology of the fibrinolytic system within the mural thrombus of human
+   abdominal aortic aneurysms
+SO JOURNAL OF PATHOLOGY
+AB Development and progression of acquired abdominal aortic aneurysms (AAAs) involve proteolytic activity. In the present study, we investigate the distribution of fibrinolytic system components within mural thrombi of human AAAs. 20 mural thrombi and the remaining AAA walls were dissected. The luminal, intermediate and abluminal thrombus layers, and media and adventitia were separately incubated in cell culture medium. Conditioned media were then analysed for plasminogen activators (PAs), plasminogen activator inhibitor-1 (PAI-1), free-plasmin, plasmin alpha(2)-antiplasmin complexes (PAPs) and D-dimers release. In parallel, PA and PAI-1 mRNA expression analysis was performed by RT-PCR. The study was completed by immunohistochemical localization of these components in AAA, ex vivo functional imaging using Tc-99m-aprotinin as a ligand and measurement of PAP and D-dimer plasma levels. All fibrinolytic system components were present in each aneurysmal layer. However, the mural thrombus was the main source of active serine-protease release. Interestingly, the luminal layer of the thrombus released greater amounts of PAPs and D-dimers. This paralleled the preferential immunolocalization of plasminogen and PAs, and the Tc-99m-aprotinin scintigraphic signal observed in the luminal pole of the thrombus. In contrast, mRNA expression analysis showed an exclusive synthesis of tPA and PAI-1 within the wall, whereas uPA mRNA was also expressed within the thrombus. Taken together, these results suggest that the increased plasma concentrations of PAPs and D-dimers found in AAA patients are related to mural thrombus proteolytic activity, thus explaining their known link with AAA progression. Components of the fibrinolytic system could also represent a target for functional imaging of thrombus activities in AAA. Copyright (c) 2007 Pathological Society of Great Britain and Ireland. Published by John Wiley & Sons, Ltd.
+SN 0022-3417
+PD MAY
+PY 2007
+VL 212
+IS 1
+BP 20
+EP 28
+DI 10.1002/path.2148
+UT WOS:000246415200003
+PM 17352452
+ER
+
+PT J
+AU Wakabayashi, I
+   Masuda, H
+AF Wakabayashi, Ichiro
+   Masuda, Hiroshi
+TI Association of pulse pressure with fibrinolysis in patients with type 2
+   diabetes
+SO THROMBOSIS RESEARCH
+AB Introduction: Pulse pressure is a potent risk factor for atherosclerotic disease. The purpose of this cross-sectional study was to determine whether pulse pressure is associated with blood coagulation and fibrinolysis in patients with diabetes.
+   Materials and methods: The relationships between pulse pressure and atherosclerotic risk factors, including blood coagulation and fibrinolysis markers, were investigated in subjects with type 2 diabetes.
+   Results: Pulse pressure was found to be significantly correlated with blood fibrinolysis markers, such as plasmin-alpha 2-antiplasmin complex (PAP) and D-dimer, but not with platelets and blood coagulation markers, such as fibrinogen and thrombin-antithrombin III complex (TAT). The mean pulse pressure levels in the highest tertiles of PAP and D-dimer were significantly higher than those in the lowest tertiles, while the differences in the mean pulse pressure levels among tertile groups of platelets, fibrinogen and TAT were not significant. These relationships of pulse pressure with PAP and D-dimer were not altered by adjustment for age, sex and history of therapy with anti hypertensive and/or antithrombotic drugs. On the other hand, neither systolic nor diastolic blood pressure showed significant correlations with PAP, D-dimer, platelets, fibrinogen and TAT. Pulse pressure was also significantly correlated with age, aortic pulse wave velocity, intima-media thickness of the common carotid arteries and serum sialic acid.
+   Conclusions: Pulse pressure is associated with blood fibrinolysis as well as atherosclerotic progression in patients with type 2 diabetes. The results of this study suggest that pulse pressure affects atherosclerotic progression through altering hemostatic functions in patients with diabetes. (c) 2007 Elsevier Ltd. All rights reserved.
+SN 0049-3848
+PY 2007
+VL 121
+IS 1
+BP 95
+EP 102
+DI 10.1016/j.thromres.2007.02.014
+UT WOS:000251473300014
+PM 17439823
+ER
+
+PT J
+AU Leijdekkers, VJ
+   Vahl, AC
+   Mackaay, AJC
+   Huijgens, PC
+   Rauwerda, JA
+AF Leijdekkers, VJ
+   Vahl, AC
+   Mackaay, AJC
+   Huijgens, PC
+   Rauwerda, JA
+TI Aprotinin does not diminish blood loss in elective operations for
+   infrarenal abdominal aneurysms: A randomized double-blind controlled
+   trial
+SO ANNALS OF VASCULAR SURGERY
+CT 17th Annual Meeting of the European-Society-of-Vascular-Surgery
+CY SEP 05-07, 2003
+CL DUBLIN, IRELAND
+SP European Soc Vasc Surg
+AB Surgery for abdominal aneurysm is associated with substantial blood loss. In cardiac surgery, aprotinin, a fibrinolysis inhibitor, has shown to reduce blood loss significantly. Our aim was to assess the effect of aprotinin, when administered during elective surgery of infrarenal abdominal aneurysm, on coagulation, blood loss, and morbidity. A double-blind randomized trial was performed on 35 consecutive patients. They were randomized to either an aprotinin or a placebo group. The aprotinin group received 2,000,000 kallikrein inhibiting units (KIU) of aprotinin (500,000 KIU in 50 mL NaCl 0.9%) as a starting dose, followed by 500,000 KIU per hour during the operation. The placebo group received equal amounts of only NaCl 0.9%. During the operation and 24 hr thereafter, blood samples were taken to assess coagulation factors. Blood loss was measured in suction devices and swabs. All patients were followed until their discharge from the hospital. Statistical analysis was performed by independent t-test or Mann-Whitney U-test and chi-squared test. There was no significant difference in the amount of blood loss or the amount of blood products administered between the two groups. Morbidity and mortality were also comparable. In both groups, consumption of clotting factors could be detected, indicating activation of the coagulation cascade. However, in the aprotinin group, the alpha(2)-antiplasmin level was raised during surgery, indicating inhibition of fibrinolysis. Administration of aprotinin during elective operations for infrarenal aortic aneurysm induces inhibition of fibrinolysis. However, it does not significantly reduce blood loss or the need for blood products.
+SN 0890-5096
+PD MAY
+PY 2006
+VL 20
+IS 3
+BP 322
+EP 329
+DI 10.1007/s10016-006-9043-x
+UT WOS:000238322300006
+PM 16779513
+ER
+
+PT J
+AU Carrell, TWG
+   Burnand, KG
+   Booth, NA
+   Humphries, J
+   Smith, A
+AF Carrell, Tom W. G.
+   Burnand, Kevin G.
+   Booth, Nuala A.
+   Humphries, Julia
+   Smith, Alberto
+TI Intraluminal thrombus enhances proteolysis in abdominal aortic aneurysms
+SO VASCULAR
+AB This study examined whether intraluminal thrombus in abdominal aortic aneurysms (AAAs) is a source of fibrinolytic activity and proteolysis that could weaken the aneurysm wall. Plasmin, tissue plasminogen activator (tPA), and urokinase plasminogen activator (uPA) activity plasminogen activator inhibitor 1 (PAI-1), and alpha(2)-antiplasmin (alpha 2AP) antigen were measured in the AAA wall and juxtamural and luminal aspects of intraluminal thrombus in 18 patients. The aneurysm wall contained 100-fold higher tPA activity (1.06 +/- 0.34 [standard error of measurement] U/mg soluble protein) compared with juxtamural thrombus (JMT) (0.011 +/- 0.001) and luminal thrombus (LT) (0.01 0.001) (p <.00001) and over 6-fold higher uPA activity (29.3 +/- 3.4 IU/mg) compared with the JMT (4.3 +/- 2.4, p =.00024) and LT (7.9 +/- 1.76, p =.0005). The LT had significantly lower levels of PAI-1 (1.26 +/- 0.34 ng/mg) than the AAA wall (2.08 +/- 0.51, p =.04) and the JMT (3.94 +/- 0.85, p =.007). The levels of alpha 2AP in the wall (19.4 +/- 3.1 ng/mg) were lower than in the JMT or LT (43.0 +/- 7.9 ng/mg, p =.013, and 47.6 +/- 6.0 ng/mg, p =.002, respectively). There was no significant difference, however, in plasmin activity among the AAA wall, JMT, and LT. There were significant amounts of latent gelatinase B (matrix metalloproteinase [MMP]-9) in the AAA, JMT, and LT. Mean levels of activated MMP-9 activity were similar in the AAA, JMT, and LT. Plasmin activation of MMPs at the interface between intraluminal thrombus and the aneurysm wall may enhance proteolysis and accelerate aneurysm expansion.
+SN 1708-5381
+PD JAN-FEB
+PY 2006
+VL 14
+IS 1
+BP 9
+EP 16
+DI 10.2310/6670.2006.00008
+UT WOS:000251658800002
+PM 16849017
+ER
+
+PT J
+AU Gerasimidis, T
+   Sfyroeras, G
+   Trellopoulos, G
+   Skoura, L
+   Papazoglou, K
+   Konstantinidis, K
+   Karamanos, D
+   Filaktou, A
+   Parapanisiou, E
+AF Gerasimidis, T
+   Sfyroeras, G
+   Trellopoulos, G
+   Skoura, L
+   Papazoglou, K
+   Konstantinidis, K
+   Karamanos, D
+   Filaktou, A
+   Parapanisiou, E
+TI Impact of endograft material on the inflammatory response after elective
+   endovascular abdominal aortic aneurysm repair
+SO ANGIOLOGY
+AB The purpose of this paper is to examine the impact of endograft material on the inflammatory response after elective endovascular abdominal aortic aneurysm repair. Consecutive patients (n = 22, all men, 53 to 82 years old) were divided into 2 groups according to the graft material used: In group A (n = 12) the endovascular device was made of polyester and in group B (n = 10) the device was made of expanded polytetrafluoroethylene (ePTFE). All patients received antiinflammatory drugs in the perioperative period. Fever, white blood cells and platelet count, serum concentrations of cytokines (interleukin 6 [IL-6], tumor necrosis factor alpha [TNF-alpha], interleukin 8 [IL-8], acute-phase proteins high-sensitivity C-reactive protein [hsCRP] and alpha 1-antitrypsin [alpha 1-antitrypsin]), and complement protein (C3a) were measured preoperatively and 1, 3, 6, 24, 48, and 72 hours after aneurysm exclusion. One patient in each group had a systemic inflammatory response syndrome with 2 of the systemic inflammatory response syndrome (SIRS) criteria. No other complication associated with inflammation were present in any patient. Fever was more frequent in group A patients. Increases of white blood cells and serum concentrations of IL-6, TNF-alpha, hsCRP, a 1-antitrypsin, and C3a and decrease of platelet count were recorded in both groups, but no statistically significant difference between them was recorded. However, serum concentrations of IL-8 were significantly higher in group A patients 24 hours postoperatively (p=0.01). No significant difference was apparent in the biological response between patients receiving a polyester or an ePTFE stent graft, except for fever and serum concentrations of IL-8.
+SN 0003-3197
+PD NOV-DEC
+PY 2005
+VL 56
+IS 6
+BP 743
+EP 753
+DI 10.1177/000331970505600612
+UT WOS:000233986100012
+PM 16327951
+ER
+
+PT J
+AU Gacko, M
+   Ostapowicz, R
+   Chrostek, L
+   Worowska, A
+   Kordecki, K
+AF Gacko, M
+   Ostapowicz, R
+   Chrostek, L
+   Worowska, A
+   Kordecki, K
+TI Activity of enzymes with different subcellular localization in the blood
+   plasma of patients with aortic aneurysm
+SO MEDICAL SCIENCE MONITOR
+AB Background: The wall of an abdominal aorta aneurysm shows increased activity of metalloproteinases, aspartyl cathepsins and cystein cathepsins, and decreased activity of inhibitors of these enzymes, as compared to the wall of a normal aorta. Parietal thrombi of the anerrysm also show marked proteolytic activity. The aim of our study was to determine the activity of secretory enzymes, membrane enzymes, cytosol enzymes, mitochondrial enzymes and lysosomal enzymes in the blood plasma of patients with abdominal aortic aneurysm.
+   Material/Methods: Blood for examinations was collected from 15 patients with abdominal aorta aneurysm without coexisting diseases, and front the same number of healthy subjects, to determine the activity of lactic acid dehydrogenase (LDH), 5' nucleotidase (5'NT), gamma-glutamyltranspeptidase (GGTP) and cholinesterase (ChE), alanine aminotransferase (ALT), aspartic aminotransferase (AST), cathepsin B (CB), cathepsin D (CD), and cathepsin L (CL).
+   Results: The plasma activity of ALT, AST and GGTP in the blood of patients with aortic aneurysm is lower than in the plasma of healthy subjects. The activity of LDH, 5'NT and ChE, CB and CL does not significantly differ in the plasma of patients with aortic aneurym compared to the plasma of healthy subjects. The activity of CD is increased in the plasma of patients with aortic aneurysm.
+   Conclusions: Determination of cathepsin D activity may be helpftul in the diagnosis of aortic aneurysm.
+SN 1234-1010
+PD APR
+PY 2005
+VL 11
+IS 4
+BP CR211
+EP CR213
+UT WOS:000228590100018
+PM 15795703
+ER
+
+PT J
+AU Konrad, C
+   Langer, C
+   Muller, GA
+   Berger, K
+   Dziewas, R
+   Stogbauer, F
+   Nabavi, DG
+   Junker, R
+   Ringelstein, EB
+   Kuhlenbaumer, G
+AF Konrad, C
+   Langer, C
+   Muller, GA
+   Berger, K
+   Dziewas, R
+   Stogbauer, F
+   Nabavi, DG
+   Junker, R
+   Ringelstein, EB
+   Kuhlenbaumer, G
+TI Protease inhibitors in spontaneous cervical artery dissections
+SO STROKE
+AB Background and Purpose-Observations in patients with arterial aneurysms, fibromuscular dysplasia, and spontaneous cervical artery dissection (sCAD) indicate that protease inhibitor deficiency might boost the enzymatic destruction of arterial tissue and increase the risk of these arterial wall diseases. Here we present the first large investigation of the protease inhibitor hypothesis in patients with sCAD.
+   Methods-Eighty patients with sCAD were compared with 80 age- and sex-matched healthy individuals. alpha(1)-antitrypsin (alpha(1)-AT) and alpha(2)-macroglobulin (alpha(2)-MG) levels, and alpha(1)-AT genotypes were assessed and compared between groups.
+   Results-alpha(1)-AT and alpha(2)-MG levels as well as alpha(1)-AT genotypes did not differ significantly between patients and controls. The frequency of Z alleles in the patient group was higher than in the control group and than in other cohorts from Europe; however, the difference remained nonsignificant. All patients with Z alleles had internal carotid artery dissections.
+   Conclusions-Overall, this data does not support the hypothesis that protease inhibitor levels or alpha(1)-AT genotypes play an important role in the etiology of sCAD. The present data does not exclude that the Pi-Z allele might have an influence on subgroups of sCAD, such as internal carotid artery dissections.
+RI Kuhlenbaumer, Gregor/A-5110-2009; Junker, Ralf/M-2358-2013
+SN 0039-2499
+PD JAN
+PY 2005
+VL 36
+IS 1
+BP 9
+EP 13
+DI 10.1161/01.STR.0000149631.52985.27
+UT WOS:000225944800008
+PM 15550682
+ER
+
+PT J
+AU Hatton, MWC
+   Southward, SMR
+   Legault, KJ
+   Ross, BL
+   Clarke, BJ
+   Bajzar, L
+   Blajchman, MA
+   Singh, G
+   Richardson, M
+AF Hatton, MWC
+   Southward, SMR
+   Legault, KJ
+   Ross, BL
+   Clarke, BJ
+   Bajzar, L
+   Blajchman, MA
+   Singh, G
+   Richardson, M
+TI Fibrinogen catabolism within the procoagulant VX-2 tumor of rabbit lung
+   in vivo: Effluxing fibrin(ogen) fragments contain antiangiogenic
+   activity
+SO JOURNAL OF LABORATORY AND CLINICAL MEDICINE
+AB Many types of solid tumors are known to be procoagulant environments. This is partly because a hyperpermeable vascular system within the tumor allows plasma hemostatic factors to accumulate in relatively high concentrations in the stroma, and many solid-tumor cells express tissue factor or a procoagulant factor. These circumstances appear to exist in the VX-2 lung tumor of the New Zealand White (NZW) rabbit, and they sustain a measurable turnover of stromal deposits of fibrin(ogen). We have measured the turnover of fibrinogen within tumors of the VX-2 tumor-burdened rabbit and analysed the catabolic products of fibrin(ogen) and the status of fibrinolysis in tumor-derived interpleural effusate. Using intravenously injected (125)l -labeled rabbit fibrinogen as a marker, we found that fibrinogen (approximate blood concentration 1740 mug/mL) passed from blood to VX-2 tumor stroma, saturating the tumor at a concentration of approximately 348 mug fibrinogen/g in approximately 12 hours. We measured fibrin(ogen) fragments, at a concentration of approximately 292 mug/mL, in interpleural effusates that we recovered from 13% of the VX-2-burdened rabbits. Unreduced fibrin(ogen) fragments consisted of 4 major components with a relative molecular mass of approximately 250,000 (assumed to be fragment X; approximately 9% of total fragments from densitometry of immunoblots), 200,000 ((D)-dimer; 41%), 110,000 (fragment D; 49%), and 50,000 to 55,000 (fragment E; 1%-2%) kD. Total fibrin(ogen) fragments immunopurified from effusates exhibited an antiangiogenic effect when subjected to a chick embryo chorioallantoic membrane procedure. Interpleural effusates were devoid of plasmin activity or active plasminogen activator inhibitor-1 but contained plasmin complexes and active urokinase-like plasminogen activator (uPA), alpha(2)- antiplasmin, and thrombin-activatable fibrinolysis inhibitor. We speculate that VX-2 cells release uPA to activate fibrinolysis within the tumor stroma. Catabolic products of hemostasis (eg, fibrinolytic fragments, angiostatin) flux from the stroma into the interpleural space, thereby providing a not antiangiogenic property to the effusate and ultimately to the lymphatic and circulatory systems.
+RI Singh, Gurmit/C-6744-2014
+SN 0022-2143
+PD APR
+PY 2004
+VL 143
+IS 4
+BP 241
+EP 254
+DI 10.1016/j.lab.2004.01.006
+UT WOS:000221113800007
+PM 15085083
+ER
+
+PT J
+AU Lindholt, JS
+   Jorgensen, B
+   Klitgaard, NA
+   Henneberg, EW
+AF Lindholt, JS
+   Jorgensen, B
+   Klitgaard, NA
+   Henneberg, EW
+TI Systemic levels of cotinine and elastase, but not pulmonary function,
+   are associated with the progression of small abdominal aortic aneurysms
+SO EUROPEAN JOURNAL OF VASCULAR AND ENDOVASCULAR SURGERY
+CT 56th Annual Meeting of the Society-for-Vascular-Surgery
+CY JUN 09-12, 2002
+CL BOSTON, MASSACHUSETTS
+SP Soc Vasc Surg
+AB Objective: to study whether smoking and impaired pulmonary function are associated with the expansion of abdominal aortic aneurysms (AAA).
+   Methods and material: seventy-nine men with small (3-5 cm), screen-detected AAA underwent a simple 5-step smoking history, measurement of the forced first second expiratory volume (FEV1), venepuncture and annual ultrasound scan for mean follow-up period of 3.5 years.
+   Results: all but one patient had a significantly reduced FEV1 (p < 0.05, Mann-Whitney). The FEV1/expected FEV1 ratio (rFEV1) was not related to AAA expansion but was negatively correlated with P-elastase-alpha(1)-antitrypsin-complexes (P-Elastase). P-Elastase was positively correlated with smoking and S-cotinine. Smoking, S-cotinine, and P-elastase were positively correlated with the mean annual AAA expansion rate but not rFEV1.
+   Conclusion: in general, patients with AAA have impaired pulmonary function. A simple five step smoking classification is as predictive of AAA-expansion as S-cotinine. Smoking may cause elastase secretion leading to pulmonary and aortic elastin degradation but the lack of association between AAA-expansion and rFEV1 suggest that other mechanisms are important.
+SN 1078-5884
+PD OCT
+PY 2003
+VL 26
+IS 4
+BP 418
+EP 422
+DI 10.1016/S1078-5884(03)00177-1
+UT WOS:000185993100014
+PM 14512006
+ER
+
+PT J
+AU Guillon, B
+   Bousser, MG
+AF Guillon, B
+   Bousser, MG
+TI Epidemiology and pathophysiology of spontaneous cervical artery
+   dissection
+SO JOURNAL OF NEURORADIOLOGY
+AB Spontaneous cervical artery dissections are produced by the penetration of circulating blood into the vessel wall of one or more cervical arteries, without a preceding major trauma. Dissection is one of the most frequent etiologies of ischemic stroke in young patients. Its annual incidence is about 3 per 100 000. Pathophysiology of cervical artery dissection remains misunderstood. Triggering factors such as minor trauma and infection have been identified. However, they are too trivial to explain alone the occurrence of a mural hematoma. Several abnormalities suggesting an underlying arteriopathy related to an extracellular matrix defect which could predispose to dissection have been reported: arterial redundancies, intracranial aneurysms, aortic root dilatation, common carotid artery distensibility increase, fibromuscular dysplasia, inherited connective tissue disorders, ultrastructural dermal connective tissue abnormalities. Other factors associated with dissection, such as migraine, hyperhomocysteinemia and alpha-1 antitrypsin deficiency, suggest arterial wall fragility secondary to hyperactivity of some proteases. If an underlying arteriopathy is likely, its nature remains unidentified to date and does not seem to be unique.
+SN 0150-9861
+PD DEC
+PY 2002
+VL 29
+IS 4
+BP 241
+EP 249
+UT WOS:000180300100004
+PM 12538941
+ER
+
+PT J
+AU Eue, I
+   Konig, S
+   Pior, J
+   Sorg, C
+AF Eue, I
+   Konig, S
+   Pior, J
+   Sorg, C
+TI S100A8, S100A9 and the S100A8/A9 heterodimer complex specifically bind
+   to human endothelial cells: identification and characterization of
+   ligands for the myeloid-related proteins S100A9 and S100A8/A9 on human
+   dermal microvascular endothelial cell line-1 cells
+SO INTERNATIONAL IMMUNOLOGY
+AB The natural ligands of the S100 EF hand proteins S100A8 and A9 [myeloid-related proteins 8 and 14] have long been searched for in order to further the understanding of the role of the S100A8/A9-expressing monocyte subpopulation in progressing inflammatory processes. We demonstrate that S100A8, S100A9 and the S100A8/A9 heterodimeric complex bind to human dermal microvascular endothelial cell line (HMEC)-1 with an increasing binding capacity progressing from S100A8 less than or equal to S100A9 less than or equal to S100A8/A9. Similar results were obtained in the apolipoprotein E knockout mouse model, where preferably recombinant S100A9 but no S100A8 bound to the endothelium of the aorta ascendens. The binding of the S100A8/A9 heterodimer complex to activated HMEC-1 is specific as demonstrated by a dose-responding and satiable binding curve and the competition of FITC-labeled versus unlabeled protein. The protein character of the binding site was proven by treatment with trypsin. S100A8/A9 binding to HMEC-1 is inducible by lipopolysaccharide and tumor necrosis factor-a, and in the presence of calcium. A 163-kDa protein was isolated from a cell lysate of activated HMEC-1 cells using an affinity-chromatography protocol. The endothelial cell-associated ligand proteins isolated by the use of the S100A9 monomer and the S100A8/A9 dimer were subjected to mass spectrometry for protein identification. Clearly, alpha(2)-macroglobulin was identified as a binding partner for the S100A9 monomer, whereas no protein could be identified from the database for the ligand of the S100A8/A9 dimer.
+RI Konig, Simone/B-6504-2008
+OI Konig, Simone/0000-0003-0672-7246
+SN 0953-8178
+PD MAR
+PY 2002
+VL 14
+IS 3
+BP 287
+EP 297
+DI 10.1093/intimm/14.3.287
+UT WOS:000174364300006
+PM 11867565
+ER
+
+PT J
+AU Watermann, DF
+   Kiesewetter, F
+   Frosch, PJ
+AF Watermann, DF
+   Kiesewetter, F
+   Frosch, PJ
+TI Skin manifestations of Erdheim-Chester disease
+SO HAUTARZT
+AB A 46 year old woman suffering from Erdheim-Chester disease is reported for the first time in the German dermatologic literature. She showed periorbital xanthelasmas and indurated erythemas on both flanks. Histologically the skill manifestations were also a sign of the basic disease which had spread to various organs. Small granulomas with foam cells, macrophages and few giant cells were found in the cerium. Immunhistochemistry demonstrated positive reactions to protein 5-100 and alpha -1-Antichymotrypsin, while CD 1 a-antigen and PNA were negative. Further localizations of Erdheim-Chester disease were found in the femurs, tibiae and mandibula as well as in the right breast, retroorbital region and abdominal aorta. Infiltration of the retroperitoneal cavity led to urinary retention and nephrectomy. With systemic corticosteroid therapy, the skin lesions on the Ranks regressed but recurred after discontinuance of The drug. Erdheim-Chester disease is now classified as part of the histiocytoses which is confirmed by our immunohistochemical findings. The histiocytes are probably not identical with Langerhans cells. The diagnosis is usually made by the radiologist on the basis of typical osteosclerotic symmetrical lesions of the long bones, histologically representing lipoid granulomas. Common non-osseous manifestations of the disease are in the retroperitoneal region, orbita and intracranially (partially associated with diabetes insipidus) which are often fatal. On the skin, xanthelasma and xanthoma are present in 1/6 of the cases; in some patients yellow-brown papular and widespread infiltrated lesions have been described. As regards to therapy corticosteroids chemotherapy, radiation and immunomodulating agents as well as surgery have been used with limited success.
+SN 0017-8470
+PD JUN
+PY 2001
+VL 52
+IS 6
+BP 510
+EP 517
+DI 10.1007/s001050000080
+UT WOS:000169048500007
+PM 11428080
+ER
+
+PT J
+AU Wilson, KA
+   Lindholt, JS
+   Hoskins, PR
+   Heickendorff, L
+   Vammen, S
+   Bradbury, AW
+AF Wilson, KA
+   Lindholt, JS
+   Hoskins, PR
+   Heickendorff, L
+   Vammen, S
+   Bradbury, AW
+TI The relationship between abdominal aortic aneurysm distensibility and
+   serum markers of elastin and collagen metabolism
+SO EUROPEAN JOURNAL OF VASCULAR AND ENDOVASCULAR SURGERY
+AB Background: abdominal aortic aneurysm (AAA) distensibility may be an independent predictor of growth and rupture, possibly because it reflects changes in aortic wall structure and composition.
+   Aim: to determine whether AAA distensibility is related to circulating markers of elastin and collagen metabolism.
+   Methods: sixty-two male patients of median age (IQR) 68 (65-72) years with asymptomatic AAA of median (IQR) diameter 42 (37-45) mm were prospectively studied. Pressure-strain elastic modulus (Epi and stiffness (beta) were measured using an ultrasonic echo-tracker (Diamove). Serum elastin peptides (SEP), plasma elastin-alpha (1)-antitrypsin complex (E-AT), procollagen III-N-terminal propeptide (PIIINP) were measured by enzyme-linked immunoassay.
+   Results: age and smoking adjusted Ep and beta were significantly inversely related to SEP (r = -0.33 and r = -0.31 respectively, both p < 0.02) and E-AT (r = -0.27 and r = -0.27 respectively, both p<0.05) both of which indicate elastolysis. By contrast, there was a significant positive correlation between PIIINP, indicative of increased collagen turnover, and both Ep and beta (both r = 0.45, p<0.01 unadjusted correlations).
+   Conclusion: increased elastolysis is associated with increased AAA wall distensibility; whereas increased collagen turnover is associated with reduced distensibility.
+SN 1078-5884
+PD FEB
+PY 2001
+VL 21
+IS 2
+BP 175
+EP 178
+DI 10.1053/ejvs.2001.1303
+UT WOS:000167775200014
+PM 11237793
+ER
+
+PT J
+AU Belhomme, D
+   Peynet, J
+   Florens, E
+   Tibourtine, O
+   Kitakaze, M
+   Menasche, P
+AF Belhomme, D
+   Peynet, J
+   Florens, E
+   Tibourtine, O
+   Kitakaze, M
+   Menasche, P
+TI Is adenosine preconditioning truly cardioprotective in coronary artery
+   bypass surgery?
+SO ANNALS OF THORACIC SURGERY
+AB Background. The large number of experimental studies showing that adenosine "turns on" the protein kinase C (PKC)-mediated pathway that accounts for the cardioprotection conferred by ischemic preconditioning contrasts with the scarcity of clinical data documenting the preconditioning-like protective effect of adenosine during cardiac operations on humans.
+   Methods. Forty-Eve patients undergoing coronary artery bypass were randomized to receive, after the onset of cardiopulmonary bypass, a 5-minute infusion of adenosine (140 mu g . kg(-1) . min(-1)) followed by 10 minutes of washout before cardioplegic arrest (n = 23) or an equivalent period (15 minutes) of prearrest drug-free bypass (controls, n = 22). Outcome measurements included troponin I release over the first 48 postoperative hours and activity of ecto-5'-nucleotidase, an admitted reporter of PKC activation, as assessed on right atrial biopsies taken before bypass and at the end of the preconditioning protocol (or after 15 minutes of bypass in control patients).
+   Results. Aortic cross-clamping times were not different between the two groups. Likewise, prebypass values of ecto-5'-nucleotidase (nanomoles/mg protein per minute) were similar in control (3.14 +/- 1.02) and adenosine-treated (2.66 +/- 1.08) patients. They subsequently remained unchanged in control patients (3.87 +/- 1.65) whereas they significantly increased after adenosine preconditioning (4.47 +/- 1.96, p < 0.001 versus base line values). However, peak postoperative values of troponin I (mu g/L) were not significantly different between control (4.8 +/- 2.8) and adenosine-preconditioned patients (5.9 +/- 6.6) nor were the areas under the curve. There were no adverse effects related to adenosine.
+   Conclusions. Adenosine, given at a clinically safe dose, can turn on the PKC-mediated signaling pathway involved in preconditioning but this biochemical event does not translate into reduced cell necrosis after coronary artery surgery, suggesting that a preconditioning-like protocol may not be the best suited for exploiting the otherwise well-documented cardioprotective effetcs of adenosine. (C) 2000 by The Society of Thoracic Surgeons.
+SN 0003-4975
+PD AUG
+PY 2000
+VL 70
+IS 2
+BP 590
+EP 594
+DI 10.1016/S0003-4975(00)01502-2
+UT WOS:000088886300052
+PM 10969685
 ER
 
 EF

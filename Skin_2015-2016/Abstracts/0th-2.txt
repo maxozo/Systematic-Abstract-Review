@@ -1,0 +1,938 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Kurita, N
+   Kawaguchi, M
+   Kakimoto, M
+   Yamamoto, Y
+   Inoue, S
+   Nakamura, M
+   Konishi, N
+   Patel, PM
+   Furuya, H
+AF Kurita, Naoko
+   Kawaguchi, Masahiko
+   Kakimoto, Meiko
+   Yamamoto, Yuri
+   Inoue, Satoki
+   Nakamura, Mitsutoshi
+   Konishi, Noboru
+   Patel, Piyush M.
+   Furuya, Hitoshi
+TI Reevaluation of gray and white matter injury after spinal cord ischemia
+   in rabbits
+SO ANESTHESIOLOGY
+AB Background: Although gray matter injury has been well characterized, the available data on white matter injury after spinal cord ischemia (SCI) in rabbits, are limited. The current study was conducted to investigate the evolution of ischemia induced injury to gray and white matter and to correlate this damage to hind-limb motor function in rabbits subjected to SCI.
+   Methods: Thirty-eight rabbits were randomly assigned to 24-h, 4-day, or 14-day reperfusion groups or a sham group (n = 9 or 10 per group). SCI was induced by occlusion of the infra-renal aorta for 16 min. Hind-limb motor function was assessed using the Tarlov scale (0 = paraplegia, 4 = normal). The gray matter damage was assessed on the basis of the number of normal neurons in the anterior spinal cord. White matter damage was assessed on the basis of the extent of vacuolation and accumulation of amyloid precursor protein immunoreactivity.
+   Results: Tarlov scores gradually decreased and reached a nadir 14 days after reperfusion. There were no significant differences in the number of normal neurons among the 24-h, 4-day, and 14-day groups. The extent of vacuolation, expressed as a percent of total white matter area, was significantly greater in the 4-day and 14-day groups in comparison with the sham group. By contrast, there was no difference in vacuolation between the sham and 24-h groups. Amyloid precursor protein immunoreactivity was greater in the 4-day and 14-day groups.
+   Conclusion: The results in the current study show that SCI induced white matter injury as well as gray matter injury in a rabbit model of SCI. The time course for 14 days after reperfusion may differ among the gray and white matter damages and hind-limb motor function in rabbits subjected to SCI.
+SN 0003-3022
+PD AUG
+PY 2006
+VL 105
+IS 2
+BP 305
+EP 312
+DI 10.1097/00000542-200608000-00013
+UT WOS:000239411600012
+PM 16871064
+ER
+
+PT J
+AU Malik, V
+   Kale, SC
+   Chowdhury, UK
+   Ramakrishnan, L
+   Chauhan, S
+   Kiran, U
+AF Malik, Vishwas
+   Kale, Shailaja C.
+   Chowdhury, Ujjwal K.
+   Ramakrishnan, Lakshmy
+   Chauhan, Sandeep
+   Kiran, Usha
+TI Myocardial injury in coronary artery bypass grafting - On-pump versus
+   off-pump comparison by measuring heart-type fatty-acid-binding protein
+   release
+SO TEXAS HEART INSTITUTE JOURNAL
+AB This prospective study uses heart-type fatty-acid-binding protein (hFABP) and creatine kinase-MB (CK-MB) release to compare myocardial injury in on-pump versus off-pump coronary artery bypass grafting (CABG).
+   Fifty patients were randomly assigned to on-pump or off-pump CABG. The hFABP and CK-MB concentrations were measured in serial venous blood samples drawn before heparinization in both groups and after aortic unclamping at 1, 2, 4, B, 24, 48, and 72 hours in the on-pump group. In the off-pump group, samples were taken after the last distal anastomosis at the same time intervals as in the on-pump group.
+   The total amount of hFABP and CK-MB released was significantly higher in the on-pump than in the off-pump group (hFABP 100.43 +/- 7763 vs 3.94 +/- 0.36 ng/mL, P < 0.0001; CK-MB = 33.33 +/- 3.81 vs 28.65 +/- 3.91 log units, P < 0.001). In all patients, hFABP levels peaked as early as I hour after declamping (on-pump group) or 2 hours after the last distal anastomosis (off-pump group), whereas CK-MB peaked only at 4 hours after declamping (on-pump group) or 24 hours after the last distal anastomosis (off-pump group).
+   The lower release of hFABP and CK-MB in the off-pump CABG group indicates that on-pump CABG with cardioplegic arrest causes more myocardial damage than does off-pump CABG. Heart-type fatty-acid-binding protein is a more rapid marker of perioverative myocardial damage, peaks earlier than CK-MB, and may predict the requirement for intensive monitoring for postoperative myocardial infarction.
+SN 0730-2347
+PY 2006
+VL 33
+IS 3
+BP 321
+EP 327
+UT WOS:000240700500009
+PM 17041689
+ER
+
+PT J
+AU Hazui, H
+   Negoro, N
+   Nishimoto, M
+   Muraoka, H
+   Murai, M
+   Takeshita, H
+   Ohishi, Y
+   Fukumoto, H
+   Morita, H
+   Hanafusa, T
+AF Hazui, H
+   Negoro, N
+   Nishimoto, M
+   Muraoka, H
+   Murai, M
+   Takeshita, H
+   Ohishi, Y
+   Fukumoto, H
+   Morita, H
+   Hanafusa, T
+TI Serum heart-type fatty acid-binding protein concentration positively
+   correlates with the length of aortic dissection
+SO CIRCULATION JOURNAL
+AB Background Patients with aortic dissection (AD) often demonstrate positive heart-type fatty acid-binding protein (H-FABP), but its significance is unclear.
+   Methods and Results In 63 of 64 consecutive AD patients, the serum H-FABP concentration was measured and the H-FABP positive rate calculated (cutoff value: 6.2 ng/ml) for each of following factors: (1) with or without dissection of the ascending aorta; and (2) a thrombosed false lumen; (3) length score; (4) presence of shock; (5) malperfusion of limbs; (6) ST elevation and/or depression on electrocardiogram; and (7) renal dysfunction. In total 36 AD patients had a positive H-FABP test. Statistically significant differences in the H-FABP positive rate were observed between those with and without ascending AD (76.7% vs 39.4%, p=0.003), and in the length score (p < 0.001). Multivariate logistic regression test demonstrated that the most significant factor was the length score (odds ratio: 2.239 (95% confidence interval: 1.119-4.481), p=0.023). Moreover, a significant correlation was observed between length score and absolute H-FABP value (r=0.420, p=0.001).
+   Conclusions In patients with AD, an increased serum H-FABP concentration is caused by the protein being released not only from the cardiac muscle but also from skeletal muscle, or possibly the aortic wall. Physicians using H-FABP for detection of myocardial injury need to be aware that patients with a long or ascending AD will show an elevation of H-FABP.
+SN 1346-9843
+PD AUG
+PY 2005
+VL 69
+IS 8
+BP 958
+EP 961
+DI 10.1253/circj.69.958
+UT WOS:000230851200014
+PM 16041166
+ER
+
+PT J
+AU Khalpey, Z
+   Yuen, AH
+   Kalsi, KK
+   Kochan, Z
+   Karbowska, J
+   Slominska, EM
+   Forni, M
+   Macherini, M
+   Bacci, ML
+   Batten, P
+   Lavitrano, M
+   Yacoub, MH
+   Smolenski, RT
+AF Khalpey, Z
+   Yuen, AH
+   Kalsi, KK
+   Kochan, Z
+   Karbowska, J
+   Slominska, EM
+   Forni, M
+   Macherini, M
+   Bacci, ML
+   Batten, P
+   Lavitrano, M
+   Yacoub, MH
+   Smolenski, RT
+TI Loss of ecto-5 ' nucleotidase from porcine endothelial cells after
+   exposure to human blood: Implications for xenotransplantation
+SO BIOCHIMICA ET BIOPHYSICA ACTA-MOLECULAR BASIS OF DISEASE
+AB The endothelial cell Surface expression of ecto-5-nucleotidase (E5'N, CD73) is thought to be essential for the extracellular formation of cytoprotective, anti-thrombotic and immunosuppressive adenosine. Decreased E5'N activity may play a role in xenograft acute vascular rejection, preventing accommodation and tolerance mechanisms. We investigated the extent of changes in E5'N activity and other enzymes of purine metabolism in porcine hearts or endothelial cells when exposed to human blood or plasma and studied the role of humoral immunity in this context.
+   Pig hearts, wild type (WT, n = 6) and transgenic (T, n = 5) for human decay accelerating factor (hDAF), were perfused ex vivo with fresh human blood for 4 h. Pig aortic endothelial cells (PAEC) were exposed for 3 h to autologous porcine plasma (PP), normal (NHP) or heat inactivated human plasma (HHP), with and without C1-inhibitor. Enzyme activities were measured in heart or endothelial cell homogenates with an HPLC based procedure.
+   The baseline activity of E5'N in WT and T porcine hearts were 6.60 +/- 0.33 nmol/min/mg protein and 8.54 +/- 2.10 nmol/min/mg protein respectively (P < 0.01). Ex vivo perfusion of pig hearts with fresh human blood for 4 h resulted in a decrease in E5'N activity to 4.01 +/- 0.32 and 4.52 +/- 0.52 nmol/min/mg protein (P < 0.001) in WT and T hearts respectively, despite attenuation of hyperacute rejection in transgenic pigs. The initial PAEC activity of E5'N was 9.10 +/- 1.40 nmol/min/mg protein. Activity decreased to 6.76 +/- 0.57 and 4.58 +/- 0.47 mmol/min/mg protein (P < 0.01) after 3 It exposure of HHP and NHP respectively (P < 0.05), whereas it remained unchanged at 9.62 +/- 0.88 nmol/min/mg protein when incubated with PP controls. Cl-inhibitor partially preserved UN activity, similar to the effect of HHP. Adenosine deaminase, adenosine kinase and AMP deaminase (other enzymes of purine metabolism) showed a downward trend in activity, but none were statistically significant.
+   We demonstrate a specific decrease in E5'N activity in pig hearts following exposure to human blood which impairs adenosine production resulting in a loss of a cytoprotective phenotype, contributing to xenograft rejection. This effect is triggered by human humoral immune responses, and complement contributes but does not fully mediate E5'N depletion. (c) 2005 Elsevier B.V. All rights reserved.
+RI Kochan, Zdzislaw/D-8572-2011; Karbowska, Joanna/D-8571-2011; Lavitrano,
+   Marialuisa/H-3417-2012; Bacci, Maria Laura/B-8494-2013; Smolenski,
+   Ryszard/B-9713-2013
+SN 0925-4439
+PD JUN 30
+PY 2005
+VL 1741
+IS 1-2
+BP 191
+EP 198
+DI 10.1016/j.bbadis.2005.03.008
+UT WOS:000230255600023
+PM 15955461
+ER
+
+PT J
+AU Paris, D
+   Quadros, A
+   Patel, N
+   DelleDonne, A
+   Humphrey, J
+   Mullan, M
+AF Paris, D
+   Quadros, A
+   Patel, N
+   DelleDonne, A
+   Humphrey, J
+   Mullan, M
+TI Inhibition of angiogenesis and tumor growth by beta and gamma-secretase
+   inhibitors
+SO EUROPEAN JOURNAL OF PHARMACOLOGY
+AB The involvement of beta-secretase and gamma-secretase in producing the p-amyloid component of senile plaques found in the brain of Alzheimer's patients has fueled a major research effort to design selective inhibitors of these proteases. Interestingly, gamma-secretase cleaves several proteins including Notch, E-cadherin, CD44 and ErbB-4 (erythroblastic leukemia viral oncogene homolog 4), which are important modulators of angiogenesis. The beta-amyloid precursor protein, which is cleaved by beta-secretase and gamma-secretase to produce beta-amyloid, is highly expressed in the endothelium of neoforming vessels suggesting that it might play a role during angiogenesis. These data prompted us to explore the effects of beta and gamma-secretase inhibitors of different structures on angiogenesis and tumor growth. Both the gamma and beta-secretase inhibitors tested reduce endothelial cell proliferation without inducing cellular toxicity, suppress the formation of capillary structures in vitro and oppose the sprouting of microvessel outgrowths in the rat aortic ring model of angiogenesis. Moreover, they potently inhibit the growth and vascularization of human glioblastoma and human lung adenocarcinoma tumors xenotransplanted into nude mice. Altogether these data suggest that the gamma and beta-secretases play an essential role during angiogenesis and that inhibitors of the p and gamma-secretases may constitute new classes of anti-angiogenic and anti-tumoral compounds. (c) 2005 Elsevier B.V. All rights reserved.
+OI Patel, Nikunj/0000-0002-2797-8311; Mullan, Michael/0000-0002-1473-7527
+SN 0014-2999
+PD MAY 2
+PY 2005
+VL 514
+IS 1
+BP 1
+EP 15
+DI 10.1016/j.ejphar.2005.02.050
+UT WOS:000229496700001
+PM 15878319
+ER
+
+PT J
+AU Hasegawa, T
+   Yamaguchi, M
+   Yoshimura, N
+   Okita, Y
+AF Hasegawa, T
+   Yamaguchi, M
+   Yoshimura, N
+   Okita, Y
+TI The dependence of myocardial damage on age and ischemic time in
+   pediatric cardiac surgery
+SO JOURNAL OF THORACIC AND CARDIOVASCULAR SURGERY
+AB Objective: Heart fatty acid-binding protein is a rapid indicator for assessment of myocardial damage in cardiac surgery. The purpose of this study was to investigate the effects of age and ischemic time on the biochemical evidence and clinical outcomes of myocardial damage in pediatric cardiac surgery.
+   Methods: A prospective observational cohort study conducted over 2.5 years was performed in 98 consecutive patients (51 infants and 47 children) undergoing cardiac surgery for ventricular septal defects. Serial measurements of serum levels of heart fatty acid-binding protein and the respective areas under the curve were obtained, with particular reference to age and aortic crossclamp time. Assessment of clinical outcomes included inotropic support, ventilatory support, and intensive care unit stay.
+   Results: There was a linear dependence of the logarithm of age and the logarithm of heart fatty acid-binding protein release(r = 0.737, P < .0001). This logarithm-logarithm plot showed a power function of age for heart fatty acid-binding protein release. The exponent and amplitude parameter of the power function was the aortic crossclamp time. Compared with children, infants had significantly more myocardial damage and worse clinical outcomes, and these factors were related to the aortic crossclamp time.
+   Conclusions: The younger the age of patients, the more vulnerable are their myocardia to injury caused by ischemia during definitive repair of congenital heart disease. Therefore, perioperative management for pediatric patients after cardiac surgery should be performed, taking into consideration the dependence of the myocardial damage on age and ischemic time.
+SN 0022-5223
+PD JAN
+PY 2005
+VL 129
+IS 1
+BP 192
+EP 198
+DI 10.1016/j.jtcvs.2004.05.005
+UT WOS:000226216600026
+PM 15632842
+ER
+
+PT J
+AU Khalpey, Z
+   Kalsi, K
+   Yuen, A
+   Karbowska, J
+   Kochan, Z
+   Slominska, EM
+   Forni, M
+   Bacci, M
+   Macherini, M
+   Batten, P
+   Lavitrano, M
+   Yacoub, MH
+   Smolenski, RT
+AF Khalpey, Z
+   Kalsi, K
+   Yuen, A
+   Karbowska, J
+   Kochan, Z
+   Slominska, EM
+   Forni, M
+   Bacci, M
+   Macherini, M
+   Batten, P
+   Lavitrano, M
+   Yacoub, MH
+   Smolenski, RT
+TI Exposure to human blood inactivates swine endothelial ecto-5
+   '-nucleotidase
+SO NUCLEOSIDES NUCLEOTIDES & NUCLEIC ACIDS
+AB Ecto-5'-nucleotidase (E5'N) is an extracellular enzyme forming anti-inflammatory and immunosuppressive adenosine. We evaluated whether confrontation of pig heart and endothelial cells with human blood changes the activity of E5'N. Pig hearts were perfused ex vivo with fresh human blood for 4 h. Pig aortic endothelial cells (PAEC) were incubated in vitro with human plasma for 3 h. Ex vivo perfusion of pig heart with fresh human blood resulted in a decrease in E5'N activity to 62% and 61% of initial in wild-type and transgenic pig hearts, respectively. PAEC activity of E5'N decreased to 71% and 50% of initial after 3 h exposure to heat-inactivated and active complement human plasma, respectively, while it remained constant in controls. Pig heart activity of E5'N decreased following exposure to human blood, which may affect adenosine production and exacerbate hyperacute and vascular rejection.
+RI Karbowska, Joanna/D-8571-2011; Kochan, Zdzislaw/D-8572-2011; Lavitrano,
+   Marialuisa/H-3417-2012; Bacci, Maria Laura/B-8494-2013; Smolenski,
+   Ryszard/B-9713-2013
+SN 1525-7770
+PY 2005
+VL 24
+IS 4
+BP 271
+EP 274
+DI 10.1081/NCN-200059707
+UT WOS:000230392700007
+PM 16021914
+ER
+
+PT J
+AU Cacabelos, R
+   Fernandez-Novoa, L
+   Corzo, L
+   Pichel, V
+   Lombardi, V
+   Kubota, Y
+AF Cacabelos, R
+   Fernandez-Novoa, L
+   Corzo, L
+   Pichel, V
+   Lombardi, V
+   Kubota, Y
+TI Genomics and phenotypic profiles in dementia: Implications for
+   pharmacological treatment
+SO METHODS AND FINDINGS IN EXPERIMENTAL AND CLINICAL PHARMACOLOGY
+AB Constitutive genomics are probably determinant for the onset of dementia in conjunction with cerebrovascular and environmental factors. Furthermore, pharmacogenomic studies predict that the therapeutic response in Alzheimer's disease (AD) is genotype-specific, and that the expression of genes involved in the regulation of drug metabolism can influence efficacy and safety issues in pharmacotherapy. AD and dementia with a vascular component (DVC = VD + MXD) are the most prevalent forms of dementia. These clinical entities share many similarities, but they differ in major phenotypic and genotypic profiles, as revealed ky structural and functional genomics studies. Comparative phenotypic studies have identified significant differences in 25% of more than 100 parametric variables, including anthropometry, cardiovascular function, aortic atherosclerosis, brain atrophy, blood pressure, blood biochemistry, hematology, thyroid function, folic acid and vitamin 13,2 levels, brain hemodynamics and lymphocyte markers. The phenotypic profile of patients with DVC differs from that of AD patients in the following: (a) anthropometric values, (b) cardiovascular function, (c) blood pressure, (d) lipid metabolism, (e) uric acid levels, (J) peripheral calcium levels, (g) liver function (GOT, GPT GGT), (h) alkaline phosphatase, (i) lactate dehydrogenase, (j) red and white blood cells, (k) regional brain atrophy (left temporal region, inter-hippocampal distance) and (/) brain blood flow velocity. Functional genomics studies incorporating APOE-related changes in biological markers extended the difference between AD and DVC lip to 57%. Structural genomics studies with AD-related genes, including APP, MAPT APOE, PS1, PS2, A2M, ACE, AGT cFOS and PRNP genes, demonstrate different genetic profiles in AD and DVC, with an absolute genetic variation rate ranging from 30 to 80%, depending upon genes and genetic clusters. Single gene analysis identifies relative genetic variations ranging from 0 to 5%. The relative polymorphic variation in genetic clusters integrated by 2, 3 or 4 genes associated with AD ranges from 1 to 3%. The main phenotypic differences between AD and DVC are genotype-dependent, especially in AD, probably indicating that different genomic factors are essential for the expression of dementia symptoms that might be accelerated or induced by environmental and/or cerebro vascular factors. (C) 2004 Prous Science. All rights reserved.
+SN 0379-0355
+PD JUL-AUG
+PY 2004
+VL 26
+IS 6
+BP 421
+EP 444
+UT WOS:000223330900005
+PM 15349138
+ER
+
+PT J
+AU Cacabelos, R
+   Fernandez-Novoa, L
+   Corzo, L
+   Amado, L
+   Pichel, V
+   Lombardi, V
+   Kubota, Y
+AF Cacabelos, R
+   Fernandez-Novoa, L
+   Corzo, L
+   Amado, L
+   Pichel, V
+   Lombardi, V
+   Kubota, Y
+TI Phenotypic profiles and functional genomics in Alzheimer's disease and
+   in dementia with a vascular component
+SO NEUROLOGICAL RESEARCH
+AB Alzheimer's disease (AD) and dementia with vascular component (DVC) are the most prevalent forms of dementia. Both clinical entities share many similarities, but they differ in major phenotypic and genotypic profiles as revealed by structural and functional genomics studies. Comparative phenotypic studies have identified significant differences in 25% of more than 100 parametric variables, including anthropometry, cardiovascular function, aortic atherosclerosis, brain atrophy, blood pressure, blood biochemistry, hematology, thyroid function, folate and vitamin B, levels, brain hemodynamics and lymphocyte markers. The phenotypic profile of patients with DVC differs from that of AD patients in the following: anthropometric values (weight, height); cardiovascular function (ECG, heart rate); blood pressure; lipid metabolism (HDL-CHO, TGs); uric acid metabolism; peripheral calcium homeostasis; liver function (GOT, GPT, GGT); alkaline phosphatase; lactate dehydrogenase; red and white blood cells; regional brain atrophy (left temporal region, inter-hippocampal distance); and left anterior blood flow velocity. Functional genomics studies incorporating APOE-related changes in biological markers extended the difference between AD and DVC up to 57%. Brain perfusion studies show a severe brain hypoperfusion in dementia associated with enlarged age-dependent arterial perfusion times. Structural genomics studies with AD-related genes, including APP, MAPT, APOE, PSI, PS2, A2M, ACE, AGT, cFOS and PRNP genes, demonstrate different genetic profiles in AD and DVC, with an absolute genetic variation rate ranging from 30% to 80%, depending upon genes and genetic clusters. Single gene analysis identifies relative genetic variations ranging from 0% to 5%. The relative polymorphic variation in genetic clusters integrated by two, three or fourgenes associated with AD ranges from 1% to 3%. The main phenotypic differences between AD and DVC are genotype-dependent, especially in AD, probably indicating that different genomic factors are determinant for the expression of dementia symptoms which might be accelerated or induced by environmental and/or cerebrovascular factors.
+SN 0161-6412
+PD JUL
+PY 2004
+VL 26
+IS 5
+BP 459
+EP 480
+DI 10.1179/016164104225017677
+UT WOS:000222545100003
+PM 15265264
+ER
+
+PT J
+AU Hasegawa, T
+   Yoshimura, N
+   Oka, S
+   Ootaki, Y
+   Toyoda, Y
+   Yamaguchi, M
+AF Hasegawa, T
+   Yoshimura, N
+   Oka, S
+   Ootaki, Y
+   Toyoda, Y
+   Yamaguchi, M
+TI Evaluation of heart fatty acid-binding protein as a rapid indicator for
+   assessment of myocardial damage in pediatric cardiac surgery
+SO JOURNAL OF THORACIC AND CARDIOVASCULAR SURGERY
+AB Objectives: Perioperative myocardial damage is a major determinant of postoperative cardiac dysfunction for congenital heart disease. Heart fatty acid-binding protein is reported to be a rapid marker of perioperative myocardial damage that peaks earlier than creatine kinase isoenzyme MB or cardiac troponin T in adults. The objective of this study was to assess the suitability of using serum concentrations of heart fatty acid-binding protein for evaluation of perioperative myocardial damage in pediatric cardiac surgery.
+   Methods: After institutional review board approval and informed consent, 100 children undergoing open procedures for congenital heart disease were prospectively enrolled in the study. Mean age at operation was 4.9 +/- 0.4 years. Serum concentrations of heart fatty acid-binding protein, creatine kinase isoenzyme MB, and cardiac troponin T were measured serially before operation and at 0, 1, 2, 3, and 6 hours after aortic declamping. Relationships between serum peak level of heart fatty acid-binding protein and intraoperative and postoperative clinical variables were evaluated.
+   Results: Serum heart fatty acid-binding protein reached its peak level at I hour after declamping in 95 patients (95%), which was significantly earlier (P < .01) than serum creatine kinase isoenzyme MB or cardiac troponin T. In addition, serum heart fatty acid-binding protein level immediately after declamping correlated strongly with serum peak heart fatty acid-binding protein level (r = 0.91, P < .01). The serum peak level of heart fatty acid-binding protein correlated with those of creatine kinase isoenzyme MB (r = 0.77, P < .01) and cardiac troponin T (r = 0.80, P < .01). In the forward stepwise multiple regression analysis, age (P < .0001), aortic crossclamp time (P < .0001), the presence of a ventriculotomy (P < .001), and the lowest hematocrit level during cardiopulmonary bypass (P < .05) were significant intraoperative variables that influenced the release of heart fatty acid-binding protein. There were significant relationships between serum peak heart fatty acid-binding protein level and postoperative inotropic support, duration of intubation, and intensive care unit stay (P < .01 for each).
+   Conclusions: Heart fatty acid-binding protein is a rapid marker for assessment of myocardial damage and clinical outcome in pediatric cardiac surgery. In particular, serum heart fatty acid-binding protein level immediately after aortic declamping may be a potentially useful prognostic indicator of myocardial damage as well as clinical outcome in pediatric cardiac surgery.
+SN 0022-5223
+PD JUN
+PY 2004
+VL 127
+IS 6
+BP 1697
+EP 1702
+DI 10.1016/j.jtcvs.2004.02.006
+UT WOS:000221895700022
+PM 15173726
+ER
+
+PT J
+AU Paris, D
+   Quadros, A
+   Humphrey, J
+   Patel, N
+   Crescentini, R
+   Crawford, F
+   Mullan, M
+AF Paris, D
+   Quadros, A
+   Humphrey, J
+   Patel, N
+   Crescentini, R
+   Crawford, F
+   Mullan, M
+TI Nilvadipine antagonizes both A beta vasoactivity in isolated arteries,
+   and the reduced cerebral blood flow in APPsw transgenic mice
+SO BRAIN RESEARCH
+AB The development of Alzheimer's disease (AD) is generally thought to correlate with cerebral accumulation of A. It has previously been shown that A peptides enhance vasoconstriction in isolated arteries and oppose certain vasorelaxants. Moreover, exogenous application of Abeta peptides causes cerebral vasoconstriction in rodents and in transgenic mouse models of AD that overexpress Abeta there is reduced cerebral blood flow. In the present study, we investigated the effect of nilvadipine, a dihydropyridine-type calcium channel blocker, on A induced vasoconstriction in isolated arteries and in vivo on cerebral blood flow (CBF) of an AD transgenic mouse model overexpressing Abeta (Tg APPsw line 2576). Nilvadipine completely inhibited the vasoactivity elicited by Abeta in rat aortae and in human middle cerebral arteries. The effect of a short treatment duration (2 weeks) with nilvadipine on regional CBF was investigated in 13-month-old Tg APPsw mice and control littermates using a laser Doppler imager. Additionally, CBF was also measured in 20-month-old Tg APPsw mice and control littermates that were chronically treated with nilvadipine for 7 months. Untreated Tg APPsw mice showed a reduction of regional CBF compared to their untreated control littermates. Nilvadipine restored cortical perfusion levels in Tg APPsw to values similar to those observed in control littermates without notably affecting the CBF of control mice. All together, these data suggest that nilvadipine might be useful for the treatment of oligemia associated with AD. (C) 2003 Elsevier B.V. All rights reserved.
+OI Patel, Nikunj/0000-0002-2797-8311; Mullan, Michael/0000-0002-1473-7527
+SN 0006-8993
+PD FEB 27
+PY 2004
+VL 999
+IS 1
+BP 53
+EP 61
+DI 10.1016/j.brainres.2003.11.061
+UT WOS:000189091200006
+PM 14746921
+ER
+
+PT J
+AU Zhou, HM
+   Weskamp, G
+   Chesneau, V
+   Sahin, U
+   Vortkamp, A
+   Horiuchi, K
+   Chiusaroli, R
+   Hahn, R
+   Wilkes, D
+   Fisher, P
+   Baron, R
+   Manova, K
+   Basson, CT
+   Hempstead, B
+   Blobel, CP
+AF Zhou, HM
+   Weskamp, G
+   Chesneau, V
+   Sahin, U
+   Vortkamp, A
+   Horiuchi, K
+   Chiusaroli, R
+   Hahn, R
+   Wilkes, D
+   Fisher, P
+   Baron, R
+   Manova, K
+   Basson, CT
+   Hempstead, B
+   Blobel, CP
+TI Essential role for ADAM19 in cardiovascular morphogenesis
+SO MOLECULAR AND CELLULAR BIOLOGY
+AB Congenital heart disease is the most common form of human birth defects, yet much remains to be learned about its underlying causes. Here we report that mice lacking functional ADAM19 (mnemonic for a disintegrin and metalloprotease 19) exhibit severe defects in cardiac morphogenesis, including a ventricular septal defect (VSD), abnormal formation of the aortic and pulmonic valves, leading to valvular stenosis, and abnormalities of the cardiac vasculature. During mouse development, ADAM19 is highly expressed in the conotruncus and the endocardial cushion, structures that give rise to the affected heart valves and the membranous ventricular septum. ADAM19 is also highly expressed in osteoblast-like cells in the bone, yet it does not appear to be essential for bone growth and skeletal development. Most adam19(-/-) animals die perinatally, likely as a result of their cardiac defects. These findings raise the possibility that mutations in ADAM19 may contribute to human congenital heart valve and septal defects.
+RI Horiuchi, Keisuke/L-2277-2013
+OI Horiuchi, Keisuke/0000-0001-7063-9609
+SN 0270-7306
+PD JAN
+PY 2004
+VL 24
+IS 1
+BP 96
+EP 104
+DI 10.1128/MCB.24.1.96-104.2004
+UT WOS:000187531200009
+PM 14673146
+ER
+
+PT J
+AU Kotamraju, S
+   Tampo, Y
+   Keszler, A
+   Chitambar, CR
+   Joseph, J
+   Haas, AL
+   Kalyanaraman, B
+AF Kotamraju, S
+   Tampo, Y
+   Keszler, A
+   Chitambar, CR
+   Joseph, J
+   Haas, AL
+   Kalyanaraman, B
+TI Nitric oxide inhibits H2O2-induced transferrin receptor-dependent
+   apoptosis in endothelial cells: Role of ubiquitin-proteasome pathway
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+AB We investigated here the mechanism of cytoprotection of nitric oxide ((NO)-N-.) in bovine aortic endothelial cells treated with H2O2.NONOates were used as (NO)-N-. donors that released (NO)-N-. slowly at a well defined rate in the extracellular and intracellular milieus. H2O2-mediated intracellular dichlorofluorescein fluorescence and apoptosis were enhanced by the transferrin receptor (TfR)-mediated iron uptake. (NO)-N-. inhibited the TfR-mediated iron uptake, dichlorofluorescein fluorescence, and apoptosis in H2O2-treated cells. (NO)-N-. increased the proteasomal activity and degradation of nitrated TfR via ubiquitination. N-omega-nitro-L-arginine methyl ester, a nonspecific inhibitor of endogenous (NO)-N-. biosynthesis, decreased the trypsin-like activity of 26S proteasome. (NO)-N-., by activating proteolysis, mitigates TfR-dependent iron uptake, dichlorodihydrofluorescein oxidation, and apoptosis in H2O2-treated bovine aortic endothelial cells. The relevance of biological nitration on redox signaling is discussed.
+SN 0027-8424
+PD SEP 16
+PY 2003
+VL 100
+IS 19
+BP 10653
+EP 10658
+DI 10.1073/pnas.1933581100
+UT WOS:000185415300017
+PM 12958216
+ER
+
+PT J
+AU Toyoda, Y
+   Yamaguchi, M
+   Yoshimura, N
+   Oka, S
+   Okita, Y
+AF Toyoda, Y
+   Yamaguchi, M
+   Yoshimura, N
+   Oka, S
+   Okita, Y
+TI Cardioprotective effects and the mechanisms of terminal warm blood
+   cardioplegia in pediatric cardiac surgery
+SO JOURNAL OF THORACIC AND CARDIOVASCULAR SURGERY
+CT 82nd Annual Meeting of the American-Association-for-Thoracic-Surgery
+CY MAY 05-09, 2002
+CL WASHINGTON, D.C.
+SP Amer Assoc Thorac Surg
+AB Objectives: Terminal warm blood cardioplegia has been shown to enhance myocardial protection in adult patients. However, the cardioprotective effects and the mechanisms of terminal warm blood cardioplegia in pediatric heart surgery were still unknown.
+   Methods: One hundred three consecutive patients were prospectively randomized to one of two groups. In the control group (n = 52), myocardial protection was achieved with intermittent hyperkalemic cold blood cardioplegia and topical cardiac cooling. In the terminal warm blood cardioplegia group (n = 5 1), this was supplemented with terminal warm blood cardioplegia before the aorta was declamped. Arterial and coronary sinus blood samples were analyzed to determine myocardial energy metabolism and tissue injury.
+   Results: There were no significant differences between the two groups in age (5.5 +/- 0.6 years in the control group vs 5.6 +/- 0.5 years in the terminal warm blood cardioplegia group), body weight (17.2 +/- 1.4 kg in the control group vs 19.8 +/- 1.7 kg in the terminal warm blood cardioplegia group), percentage of cyanotic heart diseases (50% in the control group vs 51% in the terminal warm blood cardioplegia group), number of patients who required right ventriculotomy (33% in the control group vs 39% in the terminal warm blood cardioplegia group), cardiopulmonary bypass time (194 +/- 12.1 minutes in the control group vs 177 +/- 8.6 minutes in the terminal warm blood cardioplegia group), aortic crossclamp time (83.3 +/- 5.9 minutes in the control group vs 82.3 +/- 5 minutes in the terminal warm blood cardioplegia group), lowest rectal temperature (27.4 +/- 0.3degreesC in the control group vs 28.1 +/- 0.3degreesC in the terminal warm blood cardioplegia group), and myocardial temperature (9.6 +/- 0.6degreesC in the control group vs 9.6 +/- 0.7degreesC in the terminal warm blood cardioplegia group). Spontaneous defibrillation occurred after reperfusion in 80% in the terminal warm blood cardioplegia group, which was significantly (P <.05) higher than the control group (62%). The lactate extraction rate at 60 minutes of reperfusion was significantly (P <.05) higher in the terminal warm blood cardioplegia group (9.0 +/- 2.8%) than the control group (-3.3 +/- 2.4%). The postreperfusion values of cardiac troponin T (7.4 +/- 0.6 ng/mL vs 11.2 +/- 1.0 ng/mL at 6 hours; 4.6 +/- 0.6 ng/mL vs 9.3 +/- 1.6 ng/mL at 18 hours) and heart-type fatty acid binding protein (137 +/- 28 ng/mL vs 240 +/- 30 ng/mL at 2 hours; 88 19 ng/mL vs 162 +/- 26 ng/mL at 3 hours) were significantly (P <.05 vs the control group) lower in the terminal warm blood cardioplegia group.
+   Conclusion: Terminal warm blood cardioplegia enhances myocardial protection in pediatric cardiac surgery by an improvement in aerobic energy metabolism and a reduction of myocardial injury or necrosis.
+SN 0022-5223
+PD JUN
+PY 2003
+VL 125
+IS 6
+BP 1242
+EP 1251
+DI 10.1016/S0022-5223(02)73240-6
+UT WOS:000183864700008
+PM 12830040
+ER
+
+PT J
+AU Auerbach, ID
+   Sunga, SH
+   Wanga, ZZ
+   Vinters, HV
+AF Auerbach, ID
+   Sunga, SH
+   Wanga, ZZ
+   Vinters, HV
+TI Smooth muscle cells and the pathogenesis of cerebral microvascular
+   disease ("angiomyopathies")
+SO EXPERIMENTAL AND MOLECULAR PATHOLOGY
+AB Many forms of human cerebral microvascular disease result from abnormal proliferation and/or degeneration of smooth muscle cells (SMC) in the vessel wall of arteries and arterioles. Human cerebral microvessel-derived smooth muscle cells (MV-SMC) in culture can be used to study the pathogenesis of microvascular disease. Primary cultures were established from nonneoplastic human brain specimens surgically resected and characterized as to their growth properties and phenotype. The cultures have been used to study various factors that may be relevant in the pathogenesis of microangiopathies, in particular cerebral amyloid angiopathy (CAA), to help determine mechanisms of SMC degeneration in these disorders. Factors investigated have included cellular growth rate, response to hypoxia and amyloidogenic peptides, and telomerase activity. MV-SMC appear to behave differently than aortic SMC with regard to proliferation and telomerase activity. These differences may play a role in the responses to MV-SMC in the evolution of CAA and other microangiopathies (cerebral arteriosclerosis/lipohyalinosis) and provide insight into mechanisms of degeneration of these cells within vessel walls. (C) 2003 Elsevier Science (USA). All rights reserved.
+SN 0014-4800
+PD APR
+PY 2003
+VL 74
+IS 2
+BP 148
+EP 159
+DI 10.1016/S0014-4800(03)00013-3
+UT WOS:000182695100009
+PM 12710946
+ER
+
+PT J
+AU Gonos, ES
+   Agrafiotis, D
+   Dontas, AS
+   Efthimiopoulos, S
+   Galaris, D
+   Karamanos, NK
+   Kletsas, D
+   Kolettas, E
+   Panayotou, G
+   Pratsinis, H
+   Sekeri-Pataryas, KE
+   Simoes, D
+   Sourlingas, TG
+   Stathakos, D
+   Stratigos, AJ
+   Tavernarakis, N
+   Trougakos, IP
+   Tsiganos, CP
+   Vynios, DH
+AF Gonos, ES
+   Agrafiotis, D
+   Dontas, AS
+   Efthimiopoulos, S
+   Galaris, D
+   Karamanos, NK
+   Kletsas, D
+   Kolettas, E
+   Panayotou, G
+   Pratsinis, H
+   Sekeri-Pataryas, KE
+   Simoes, D
+   Sourlingas, TG
+   Stathakos, D
+   Stratigos, AJ
+   Tavernarakis, N
+   Trougakos, IP
+   Tsiganos, CP
+   Vynios, DH
+TI Ageing research in Greece
+SO EXPERIMENTAL GERONTOLOGY
+AB Ageing research in Greece is well established. Research groups located in universities, research institutes or public hospitals are studying various and complementary aspects of ageing. These research activities include (a) functional analysis of Clusterin/Apolipoprotein J, studies in healthy centenarians and work on protein degradation and the role of proteasome during senescence at the National Hellenic Research Foundation; (b) regulation of cell proliferation and tissue formation, a nationwide study of determinants and markers of successful ageing in Greek centenarians and studies of histone gene expression and acetylation at the National Center for Scientific Research, 'Demokritos'; (c) work on amyloid precursor protein and Presenilin I at the University of Athens; (d) oxidative stress-induced DNA damage and the role of oncogenes in senescence at the University of Ioannina; (c) studies in the connective tissue at the University of Patras; (f) protcomic studies at the Biomedical Sciences Research Center 'Alexander Fleming'; (g) work on Caenorhabditis clegans at the Foundation for Research and Technolog;(h) the role of ultraviolet radiation in skin ageing at 'Andreas Sygros' Hospital; (i) follow-up studies in healthy elderly at the Athens Home for the Aged; and (j) socio-cultural aspects of ageing at the National School of Public Health. These research activities are well recognized by the international scientific community as it is evident by the group's very good publication records as well as by their direct funding from both European Union and USA. This article summarizes these research activities and discuss future directions and efforts towards the further development of the ageing field in Greece. (C) 2002 Elsevier Science Inc. All rights reserved.
+RI Kletsas, Dimitris/F-6953-2010; Tavernarakis, Nektarios/B-9684-2013;
+   Pratsinis, Harris/G-9861-2013; Efthimiopoulos, Spiros/H-3956-2013;
+   Karamanos, Nikos/A-3616-2008
+OI Tavernarakis, Nektarios/0000-0002-5253-1466; Pratsinis,
+   Harris/0000-0001-7550-1975; Efthimiopoulos, Spiros/0000-0001-9244-4570;
+   Karamanos, Nikos/0000-0003-3618-0288
+SN 0531-5565
+EI 1873-6815
+PD JUN
+PY 2002
+VL 37
+IS 6
+BP 735
+EP 747
+AR PII S0531-5565(02)00017-7
+DI 10.1016/S0531-5565(02)00017-7
+UT WOS:000176428800001
+PM 12175474
+ER
+
+PT J
+AU Wang, ZZ
+   Wu, DF
+   Vinters, HV
+AF Wang, ZZ
+   Wu, DF
+   Vinters, HV
+TI Hypoxia and reoxygenation of brain microvascular smooth muscle cells in
+   vitro: cellular responses and expression of cerebral amyloid
+   angiopathy-associated proteins
+SO APMIS
+AB Hypoxia is known to cause complex cascades of physiological, biochemical, and morphological changes in the brain. Cerebral microvascular smooth muscle cell (MV-SMC) damage may occur following hypoxic conditions and lead to SMC dysfunction. However, little is known about the exact cellular and molecular responses of these cells to hypoxia. To partly address these questions, MV-SMC were isolated from human brain, cultured and placed in conditions of ambient hypoxia (H) and hypoxia followed by reoxygenation (H/R). Cell morphology, proliferation, and the expression of amyloid precursor protein (APP) and cystatin C peptide were investigated and compared (after induction of hypoxia) between cerebral MV- and human aortic SMC. Our results show that MV-SMC proliferation was inhibited after 48 h of hypoxia and H/R, whereas aortic SMC proliferation was stimulated after 48 h of hypoxia and H/R. Hypoxia and H/R induced an increase of intracellular APP and cystatin C expression in both types of SMC, though the effect of H and H/R on APP upregulation was quantitatively more robust in MV-SMC than aortic SMC. Patterns of hypoxia-induced APP upregulation in SMC differed significantly from those found in cultured neuronal cells (PC12, NT2). These results suggest that hypoxia and H/R-induced APP and cystatin C upregulation appear to occur independently of the inhibition of cerebral MV-SMC proliferation. Overexpression of APP and cystatin C in response to hypoxia may thus represent an initiating event in the pathogenesis of amyloid angiopathy, or mediate progression of this microvascular lesion.
+SN 0903-4641
+PD MAY
+PY 2002
+VL 110
+IS 5
+BP 423
+EP 434
+DI 10.1034/j.1600-0463.2002.100509.x
+UT WOS:000176555400009
+PM 12076261
+ER
+
+PT J
+AU Masuda, H
+   Ishii, Y
+   Aoki, N
+   Nakayama, H
+   Sato, F
+   Karube, H
+   Suzuki, S
+   Kondo, T
+AF Masuda, H
+   Ishii, Y
+   Aoki, N
+   Nakayama, H
+   Sato, F
+   Karube, H
+   Suzuki, S
+   Kondo, T
+TI Ulcerative colitis associated with Takayasu's disease in two patients
+   who received proctocolectomy
+SO JOURNAL OF GASTROENTEROLOGY
+AB Ulcerative colitis (UC) associated with Takayasu's disease (TD) is not common in Japan. Here, we report two patients with both diseases who received a total proctocolectomy. Patient 1, a 41-year-old woman with chronic continuous type UC, was first diagnosed with TD at the age of 10 years. Subsequently, she was diagnosed with UC and rectal cancer. HLA typing showed A2, A31(19), B52(5), and DR2(DRB1*1502). Coronary angiography showed 90% narrowing of the right coronary artery (RCA). After alleviating the RCA narrowing by percutaneous transluminal coronary angioplasty (PTCA), we performed a total proctocolectomy and ileostomy. Patient 2, a 20-year-old woman, was first diagnosed with TD at the age of 13 years. Severe symptoms, indicating fulminant UC, started 1 month prior to hospitalization. She was judged as needing surgery because the symptoms were not alleviated even with high doses of prednisolone. HLA typing showed A2, A31(19), B52, B61(40), DR2(DRB1*1502), and DR4 (DRB1*0405). Aortography showed a narrowing of the right renal artery; however, her renal function was normal. Based on these findings, we performed a three-stage operation for total proctocolectomy. Previously, we have reported that the DRB1*1502 and DRw11 genes were closely related to the intractability of UC. To date, we have not determined whether or how the DRB1*1502 gene might be related to TD. As the number of cases of UC associated with TD increases, it will be necessary to examine their DR2 subtypes.
+SN 0944-1174
+PD APR
+PY 2002
+VL 37
+IS 4
+BP 297
+EP 302
+DI 10.1007/s005350200039
+UT WOS:000175187100010
+PM 11993515
+ER
+
+PT J
+AU Holmes, JH
+   Lieberman, JM
+   Probert, CB
+   Marks, WH
+   Hill, ME
+   Paull, DL
+   Guyton, SW
+   Sacchettini, J
+   Hall, RA
+AF Holmes, JH
+   Lieberman, JM
+   Probert, CB
+   Marks, WH
+   Hill, ME
+   Paull, DL
+   Guyton, SW
+   Sacchettini, J
+   Hall, RA
+TI Elevated intestinal fatty acid binding protein and gastrointestinal
+   complications following cardiopulmonary bypass: A preliminary analysis
+SO JOURNAL OF SURGICAL RESEARCH
+AB Background. Cardiopulmonary bypass (CPB) is associated with poorly understood alterations in gastrointestinal (GI) perfusion. Intestinal fatty acid binding protein (IFABP), a cytosolic protein uniquely located in mature small-intestinal enterocytes, has been shown to be a sensitive biochemical marker of early intestinal ischemia when assayed in urine. We hypothesized that if significant small-intestinal ischemia occurs with CPB, then urine IFABP levels should be concomitantly elevated.
+   Methods. Twenty-nine patients (15 low risk and 14 high risk) undergoing cardiac surgery with CPB were studied prospectively. Serial urine IFABP levels were measured and results were correlated with clinical outcomes.
+   Results. None of the low-risk patients had IFABP elevations or experienced GI complications. Five of the high-risk patients had IFABP elevations, and three of the five developed GI complications. Within the high-risk cohort, the only significant difference between patients with or without IFABP elevations was the GI complication rate (P = 0.03). Overall, patients with IFABP elevations had a significantly higher mean ASA class and significant increases in mean CPB and aortic cross-clamp times, mean time to oral intake, median ICU and postoperative lengths of stay, and GI complications.
+   Conclusions. In low-risk bypass patients, small-bowel mucosal perfusion appeared to be maintained, while in the high-risk population, 21% of the patients sustained clinically significant mucosal compromise. In this pilot study, urine IFABP was 100% sensitive and 92% specific with respect to GI complications. Since elevated urine IFABP concentrations appeared to correlate with clinical GI complications, urine IFABP may be a useful marker to identify the patient at risk for postbypass GI complications. (C) 2001 Academic Press.
+SN 0022-4804
+PD OCT
+PY 2001
+VL 100
+IS 2
+BP 192
+EP 196
+DI 10.1006/jsre.2001.6237
+UT WOS:000171803300010
+PM 11592792
+ER
+
+PT J
+AU Hayashi, Y
+   Sawa, Y
+   Ohtake, S
+   Nishimura, M
+   Ichikawa, H
+   Matsuda, H
+AF Hayashi, Y
+   Sawa, Y
+   Ohtake, S
+   Nishimura, M
+   Ichikawa, H
+   Matsuda, H
+TI Controlled nicorandil administration for myocardial protection during
+   coronary artery bypass grafting under cardiopulmonary bypass
+SO JOURNAL OF CARDIOVASCULAR PHARMACOLOGY
+AB Nicorandil is a hybrid potassium channel opener, and recent experimental studies have demonstrated its efficacy in myocardial protection against ischemia-reperfusion. This clinical study was designed to examine the myocardial protective effect of nicorandil administered during cardiopulmonary bypass. Seventy adult patients, 53 men and 17 women, undergoing elective coronary artery bypass grafting were randomly assigned to two groups, one receiving nicorandil during cardiopulmonary bypass (group N, n = 35) and the other receiving no nicorandil for control (group C, n = 35). Nicorandil was administered at each dose of 0.1 mg/kg into the cardiopulmonary bypass circuit according to the following schedule: (1) bolus injection at the initiation of cardiopulmonary bypass, (2) continuous infusion for 5 min before aortic cross-clamping, (3) bolus administration at 5 min before reperfusion, and (4) continuous infusion for 5 min before reperfusion. The time required for achieving cardiac arrest after the initial cardioplegia was significantly reduced in group N in comparison with that in group C. After aortic unclamping, the number of patients showing a significant ST segment change on the electrocardiogram was significantly fewer in group N, whereas the number of patients showing spontaneous recovery of heart beat was significantly greater. As for the myocardial protective effect, group N showed lower plasma levels of malondialdehyde, human-heart fatty acid-binding protein, and peak creatine kinase-MB, and required lower doses of catecholamine. Our results suggest that nicorandil administration during cardiopulmonary bypass provides enhanced myocardial protective effects against ischemia-reperfusion in patients undergoing coronary artery bypass grafting.
+SN 0160-2446
+PD JUL
+PY 2001
+VL 38
+IS 1
+BP 21
+EP 28
+DI 10.1097/00005344-200107000-00003
+UT WOS:000169444400003
+PM 11444499
+ER
+
+PT J
+AU Lawn, RM
+   Wade, DP
+   Couse, TL
+   Wilcox, JN
+AF Lawn, RM
+   Wade, DP
+   Couse, TL
+   Wilcox, JN
+TI Localization of human ATP-binding cassette transporter 1 (ABC1) in
+   normal and atherosclerotic tissues
+SO ARTERIOSCLEROSIS THROMBOSIS AND VASCULAR BIOLOGY
+AB The present study examines the expression of ATP-binding cassette transporter 1 (ABC1) mRNA in normal and atherosclerotic tissues by using in situ hybridization in an effort to better understand the function of this cholesterol transport protein. Samples of normal, baboon tissues as well as human normal and atherosclerotic aortas were hybridized with S-35-labeled ABC1 sense and antisense riboprobes. Widespread expression of ABC1 was observed generally in tissues containing inflammatory cells and lymphocytes. Other noninflammatory cells that were also sites of ABC1 synthesis included the ductal cells of the kidney medulla, Leydig cells in the testis, and glial cells in the baboon cerebellum. Although normal veins and arteries did not express ABC1 mRNA, it was found to be upregulated in the setting of atherosclerosis, where widespread expression was found in macrophages within atherosclerotic lesions. These results are consistent with the proposed role of ABC1 in cholesterol transport in inflammatory cells. The specific upregulation of ABC1 mRNA in the setting of atherosclerosis probably reflects the response of leukocytes to cholesterol loading. However, the presence of ABC1 in ductal cells of the kidney medulla and in the small intestine suggest a more general role for this protein in cholesterol transport in other cell types.
+SN 1079-5642
+PD MAR
+PY 2001
+VL 21
+IS 3
+BP 378
+EP 385
+UT WOS:000167563400014
+PM 11231917
+ER
+
+PT J
+AU Sdringola, S
+   Assali, A
+   Ghani, M
+   Yepes, A
+   Rosales, O
+   Schroth, GW
+   Fujise, K
+   Anderson, HV
+   Smalling, RW
+AF Sdringola, S
+   Assali, A
+   Ghani, M
+   Yepes, A
+   Rosales, O
+   Schroth, GW
+   Fujise, K
+   Anderson, HV
+   Smalling, RW
+TI Adenosine use during aortocoronary vein graft interventions reverses but
+   does not prevent the slow-no reflow phenomenon
+SO CATHETERIZATION AND CARDIOVASCULAR INTERVENTIONS
+AB Slow or no reflow (SNR) complicates 10-15% of cases of percutaneous intervention (PI) in saphenous vein bypass graft (SVG). To date there have been limited options for the prevention and treatment of this common and potentially serious complication. We evaluated the procedural outcome of 143 consecutive SVG interventions. We compared patients who received pre-intervention intra-graft adenosine boluses with those who did not. In addition we examined the efficacy of adenosine boluses to reverse slow-no reflow events. Angiograms were reviewed and flow graded (TIMI grade) by film readers blinded to the use of any intraprocedural drug or clinical history. Seventy patients received intragraft adenosine boluses before percutaneous intervention (APPI), 73 received no preintervention adenosine (NoAPPI). There were no significant angiographic differences between the two groups at baseline. A total of 20 patients experienced SNR. The incidence of SNR was similar in the two groups (APPI = 14.2% vs. NoAPPI = 13.6%, P = 0.9). SNR was treated with repeated, rapid boluses (24 mug each) of intra-graft adenosine. Reversal of SNR was observed in 10 of 11 patients (91%) who received high doses of adenosine (greater than or equal to5 boluses, mean 7.7 +/- 2.6) and in 3 of 9 (33%) of those who received low doses (<5 boluses, mean 1.5 +/- 1.2). Final TIMI flow was significantly better in the high dose than in the low dose group (final TIMI 2.7 +/- 0.6 vs. 2 +/- 0.8, P = 0.04). No significant untoward complications were observed during adenosine infusion. These findings suggest that SNR after PI in SVG is not prevented by pre-intervention adenosine, but it can be safely and effectively reversed by delivery of multiple, rapid and repeated boluses of 24 <mu>g of intra-graft adenosine. Cathet Cardiovasc. Intervent. 51:394-399, 2000. (C) 200 Wiley-Liss, Inc.
+SN 1522-1946
+PD DEC
+PY 2000
+VL 51
+IS 4
+BP 394
+EP 399
+DI 10.1002/1522-726X(200012)51:4<394::AID-CCD4>3.0.CO;2-G
+UT WOS:000165614900003
+PM 11108667
+ER
+
+PT J
+AU Belhomme, D
+   Peynet, J
+   Florens, E
+   Tibourtine, O
+   Kitakaze, M
+   Menasche, P
+AF Belhomme, D
+   Peynet, J
+   Florens, E
+   Tibourtine, O
+   Kitakaze, M
+   Menasche, P
+TI Is adenosine preconditioning truly cardioprotective in coronary artery
+   bypass surgery?
+SO ANNALS OF THORACIC SURGERY
+AB Background. The large number of experimental studies showing that adenosine "turns on" the protein kinase C (PKC)-mediated pathway that accounts for the cardioprotection conferred by ischemic preconditioning contrasts with the scarcity of clinical data documenting the preconditioning-like protective effect of adenosine during cardiac operations on humans.
+   Methods. Forty-Eve patients undergoing coronary artery bypass were randomized to receive, after the onset of cardiopulmonary bypass, a 5-minute infusion of adenosine (140 mu g . kg(-1) . min(-1)) followed by 10 minutes of washout before cardioplegic arrest (n = 23) or an equivalent period (15 minutes) of prearrest drug-free bypass (controls, n = 22). Outcome measurements included troponin I release over the first 48 postoperative hours and activity of ecto-5'-nucleotidase, an admitted reporter of PKC activation, as assessed on right atrial biopsies taken before bypass and at the end of the preconditioning protocol (or after 15 minutes of bypass in control patients).
+   Results. Aortic cross-clamping times were not different between the two groups. Likewise, prebypass values of ecto-5'-nucleotidase (nanomoles/mg protein per minute) were similar in control (3.14 +/- 1.02) and adenosine-treated (2.66 +/- 1.08) patients. They subsequently remained unchanged in control patients (3.87 +/- 1.65) whereas they significantly increased after adenosine preconditioning (4.47 +/- 1.96, p < 0.001 versus base line values). However, peak postoperative values of troponin I (mu g/L) were not significantly different between control (4.8 +/- 2.8) and adenosine-preconditioned patients (5.9 +/- 6.6) nor were the areas under the curve. There were no adverse effects related to adenosine.
+   Conclusions. Adenosine, given at a clinically safe dose, can turn on the PKC-mediated signaling pathway involved in preconditioning but this biochemical event does not translate into reduced cell necrosis after coronary artery surgery, suggesting that a preconditioning-like protocol may not be the best suited for exploiting the otherwise well-documented cardioprotective effetcs of adenosine. (C) 2000 by The Society of Thoracic Surgeons.
+SN 0003-4975
+PD AUG
+PY 2000
+VL 70
+IS 2
+BP 590
+EP 594
+DI 10.1016/S0003-4975(00)01502-2
+UT WOS:000088886300052
+PM 10969685
+ER
+
+PT J
+AU Hayashi, Y
+   Sawa, Y
+   Nishimura, M
+   Ichikawa, H
+   Kagisaki, K
+   Ohtake, S
+   Matsuda, H
+AF Hayashi, Y
+   Sawa, Y
+   Nishimura, M
+   Ichikawa, H
+   Kagisaki, K
+   Ohtake, S
+   Matsuda, H
+TI Clinical evaluation of leukocyte-depleted blood cardioplegia for
+   pediatric open heart operation
+SO ANNALS OF THORACIC SURGERY
+AB Background. Blood cardioplegia (BCP) is widely used for myocardial protection during open heart operation. However, BCP may have a chance to induce neutrophil-mediated myocardial injury during aortic crossclamping. We clinically evaluated the myocardial protective effect of leukocyte-depleted blood cardioplegia (LDBCP) for initial and intermittent BCP administration in pediatric patients.
+   Methods. Fifty patients undergoing open heart operation for congenital heart disease between January 1997 and March 1999 were reviewed. Twenty-five were administered LDBCP for myocardial protection during ischemic periods (LDBCP group), and the remaining 25 were given BCP without leukocyte depletion (BCP group).
+   Results. The difference in plasma concentrations of malondialdehyde between coronary sinus effluent blood and arterial blood just after reperfusion in the LDBCP group (1.68 +/- 0.56 mu mol/L) was significantly lower than that in the BCP group (2.35 +/- 0.62 mu mol/L; p < 0.01). The LDBCP group showed significantly lower plasma concentrations of human heart fatty acid-binding protein at 50 minutes after reperfusion (LDBCP group, 103.5 +/- 38.7 IU/L; BCP group, 144.8 +/- 48.8 IU/L; p < 0.01) and the peak value of creatine kinase-MB during the first 24 postoperative hours (LDBCP group, 17.0 +/- 8.5 IU/L; BCP group, 26.0 +/- 11.6 IU/L; p < 0.01) than did the BCP group. The maximum dose of catecholamine was significantly smaller in the LDBCP group (LDBCP group, 3.20 +/- 2.18 mu g . kg(-1) . min(-1); BCP group, 5.60 +/- 2.83 mu g . kg(-1.) min(-1); p < 0.01).
+   Conclusions. These results suggest the usefulness of LDBCP for protection from the myocardial injury that can be induced by BCP administration during aortic cross-clamping. (C) 2000 by The Society of Thoracic Surgeons.
+SN 0003-4975
+PD JUN
+PY 2000
+VL 69
+IS 6
+BP 1914
+EP 1919
+DI 10.1016/S0003-4975(00)01298-4
+UT WOS:000087985400065
+PM 10892946
+ER
+
+PT J
+AU Wang, ZZ
+   Natte, R
+   Berliner, JA
+   van Duinen, SG
+   Vinters, HV
+AF Wang, ZZ
+   Natte, R
+   Berliner, JA
+   van Duinen, SG
+   Vinters, HV
+TI Toxicity of Dutch (E22Q) and Flemish (A21G) mutant amyloid beta proteins
+   to human cerebral microvessel and aortic smooth muscle cells
+SO STROKE
+AB Background and Purpose-Cerebral amyloid angiopathy (CAA) is characterized by the deposition of amyloid beta protein (A beta) in cortical and leptomeningeal vessels of patients with Alzheimer's disease and hereditary cerebral hemorrhage with amyloidosis, Dutch type. Smooth muscle cells (SMC) from cerebral microvessels (MV) are of particular interest as a site of AP-related injury because CAA is much more pronounced in the tunica media of cortical arterioles than meningeal arteries. Patients carrying point mutations at residues 22 (E22Q) and 21 (E21Q) of A beta show severe CAA with various degrees of brain parenchymal A beta deposition. The purpose of this study was to investigate the effects of 2 mutant E22Q- and A21G-A beta peptides on MV and aortic SMC.
+   Methods-SMC were isolated from human cerebral MV and aorta, Cell morphology, viability, and proliferation as parameters of A beta toxicity were investigated after 3 days of peptide treatment by trypan blue exclusion and [H-3]thymidine incorporation.
+   Results-E22Q-A beta induced significant decreased cellular proliferation and viability, as well as obvious degeneration of both MV and aortic SMC, A21G-A beta and wild-type A beta did not cause significant toxicity, as judged by cell morphology, viability, or cell proliferation, on either type of SMC.
+   Conclusions-E22Q-A beta induced greater toxicity in all parameters than A21G-A beta and wild-type A beta with respect to both MV and aortic SMC, A21G-A beta did not show a significant toxic effect on MV and aortic SMC, This differential effect may be linked to cell type-specific processing and metabolism of mutant forms of AP, Mutations in amyloid precursor protein may lead to CAA by different pathogenetic mechanisms or share an unknown property that distinguishes them from wild-type A beta.
+SN 0039-2499
+PD FEB
+PY 2000
+VL 31
+IS 2
+BP 534
+EP 538
+UT WOS:000085039900034
+PM 10657433
+ER
+
+PT J
+AU Beuk, RJ
+   Heineman, E
+   Tangelder, GJ
+   Quaedackers, JSLT
+   Marks, WH
+   Lieberman, JM
+   Egbrink, MGAO
+AF Beuk, RJ
+   Heineman, E
+   Tangelder, GJ
+   Quaedackers, JSLT
+   Marks, WH
+   Lieberman, JM
+   Egbrink, MGAO
+TI Total warm ischemia and reperfusion impairs flow in all rat gut layers
+   but increases leukocyte-vessel wall interactions in the submucosa only
+SO ANNALS OF SURGERY
+AB Objective
+   To study the effect of warm ischemia and reperfusion (I/R) on local perfusion and leukocyte-vessel wall interactions in vivo in all small bowel layers, and to quantify small bowel tissue injury histologically and by measuring intestinal fatty acid binding protein (I-FABP) release from the enterocytes.
+   Summary Background Data
+   Gut injury as a result of I/R plays a pivotal role in a variety of clinical conditions, such as small bowel transplantation, heart or aortic surgery, and (septic) shock. The precise mechanism behind I/R injury and the role of microvascular changes remain unclear. The influence of warm I/R of the gut on microvascular parameters in the different gut layers has not been studied before.
+   Methods
+   Anesthetized Lewis rats were either subjected to 30 minutes of ischemia and 1 hour of reperfusion or sham-treated as controls, After ligating the inferior mesenteric artery, total warm ischemia was induced by clamping the superior mesenteric artery. Intravital video microscopic measurements were obtained at intervals. Tissue injury of the small bowel and other organs was histologically evaluated afterward. In addition, plasma levels of I-FABP were determined to measure enterocyte damage.
+   Results
+   After ischemia, mean red blood cell velocity decreased significantly in all layers of the small bowel, but no diameter changes were observed. Leukocyte-vessel wall interactions increased in the submucosa but not in the muscle layers. Plasma levels of I-FABP significantly increased from 30 minutes of reperfusion onward. The intestinal mucosa was severely injured; no histologic damage was detected in other tissues.
+   Conclusions
+   This is the first in vivo study showing that total warm ischemia of the rat gut impairs perfusion in the whole small bower, whereas leukocyte-vessel wall interactions increase in the submucosal layer only. Therefore, the early inflammatory response to I/R seems to be limited to the submucosa. Both microvascular effects may have contributed to the severe morphologic and functional mucosal injury observed after I/R.
+SN 0003-4932
+PD JAN
+PY 2000
+VL 231
+IS 1
+BP 96
+EP 104
+DI 10.1097/00000658-200001000-00014
+UT WOS:000084647600014
+PM 10636108
+ER
+
+PT J
+AU Hayashida, N
+   Chihara, S
+   Akasu, K
+   Oda, T
+   Tayama, E
+   Kai, E
+   Kawara, T
+   Aoyagi, S
+AF Hayashida, N
+   Chihara, S
+   Akasu, K
+   Oda, T
+   Tayama, E
+   Kai, E
+   Kawara, T
+   Aoyagi, S
+TI Plasma and urinary levels of heart fatty acid-binding protein in
+   patients undergoing cardiac surgery
+SO JAPANESE CIRCULATION JOURNAL-ENGLISH EDITION
+AB To evaluate the clinical significance of the plasma and urinary levels of heart fatty acid-binding protein (H-FABP) in patients undergoing cardiac surgery, a prospective study was conducted. Ten patients undergoing coronary artery bypass grafting were enrolled. Blood samples for determination of plasma H-FABP (pH-FABP), the MB isoenzyme of creatine kinase (CK-MB) and troponin-T (TnT), and urine samples for determination of urinary H-FABP (uH-FABP) were collected serially. None of the patients had perioperative myocardial infarction. The time to reach the peak level after aortic declamping was significantly (p<0.05) shorter for pH-FABP (1.4 +/- 0.5 h) than for CK-MB (2.5 +/- 0.5 h), TnT (6.6 +/- 1.3 h) or uH- FABP (3.0 +/- 0.6 h). Peak levels of pH-FABP correlated with those of CK-MB (r=0.51, p=0.04), TnT (r=0.60, p=0.03) and uH-FABP (r=0.61, p=0.03), and peak levels of uH-FABP correlated with CK-MB (r=0.57, p=0.04). Postoperative uH-FABP levels correlated inversely with the left ventricular stroke work index (r=-0.63, p=0.04). This study demonstrated that H-FABP appears rapidly in plasma after reperfusion and reaches its peak earlier than other available biochemical markers; it appears also in urine and the levels correlated with cardiac function. Plasma and urinary H-FABP may be an early and sensitive biochemical marker for the diagnosis of myocardial injury in patients undergoing cardiac surgery.
+SN 0047-1828
+PD JAN
+PY 2000
+VL 64
+IS 1
+BP 18
+EP 22
+DI 10.1253/jcj.64.18
+UT WOS:000084456600003
+PM 10651201
+ER
+
+EF
